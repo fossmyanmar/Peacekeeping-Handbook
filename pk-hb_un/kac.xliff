@@ -2,9 +2,6 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="peacekeeping-handbook_un_dec2003_KKY.odt" source-language="en" datatype="plaintext" target-language="kac">
     <body>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[69]/text:span[0]"><source>CHAPTER VII: POLICE, JUDICIARY</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2255]/text:span[1]"><source>An asylum-seeker is a person whose request or application for asylum has not been decided on by the prospective country of asylum.</source>
         <target/>
       </trans-unit>
