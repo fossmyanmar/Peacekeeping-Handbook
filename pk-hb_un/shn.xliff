@@ -2,1033 +2,517 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="peacekeeping-handbook_un_dec2003_KKY.odt" source-language="en" datatype="plaintext" target-language="shn">
     <body>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[0]"><source>C</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]"><source><g id="0">I</g>:</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[2]/text:p[0]"><source>35</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[1]/text:p[0]"><source>Mine Action Assistance</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[0]/text:p[0]"><source><g id="8">IX</g>:</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[2]/text:p[0]"><source>135</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[1]/text:p[0]"><source>Refugees and Internally Displaced Persons</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:span[0]"><source>Foreword</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]"><source>ACRONYMS</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]"><source>CAP<g id="23"/>consolidated appeals process</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]"><source>CPIA<g id="34"/>country policy and institutional assessment</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]"><source>DPI<g id="42"/>Department of Public Information</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"><source>EOD<g id="51"/>explosive ordnance disposal</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]"><source>IFC<g id="75"/>International Finance Corporation</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]"><source>JLOC<g id="86"/>joint logistics operations centre</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[154]"><source>MSF<g id="97"/>Médecins Sans Frontières</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[162]"><source>OED<g id="105"/>Operations Evaluation Department</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[170]"><source>PRSP<g id="115"/>poverty reduction strategy paper</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[176]"><source>SMT<g id="121"/>security management team</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[184]"><source>UN<g id="129"/>United Nations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[192]"><source>UNMEE<g id="149"/>United Nations Mission in Ethiopia and Eritrea UNMIBH<g id="150"/>United Nations Mission in Bosnia and<g id="151"> </g>Herzegovina</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[200]"><source>UNV<g id="173"/>United Nations Volunteers</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:span[0]"><source>The Need for Peacekeeping</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Monitor a ceasefire or cessation of hostilities to allow space for political negotiations and a peaceful settlement of disputes;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>functions that are normally the responsibility of a government.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[2]"><source>former combatants;</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[1]"><source>towards </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[244]"><source>There is no set sequence of events leading to the establishment of a peacekeeping operation, but in most cases, some combination of the following events occurs:</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[0]"><source>Contribution of troops and other resources</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[1]"><source>. </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[1]"><source>with </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[0]"><source>Using the authority of the Secretary-General to commit needed funds before </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:span[0]"><source>The Brahimi Report</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[1]"><source>in </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[0]"><source>The Security Council, particularly its five permanent members, must agree on </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]/text:span[2]"><source>essential.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:span[0]"><source>Introduction</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[318]/text:span[0]"><source>1</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[330]"><source>Headquarters has delegated significant responsibility to the field but has retained oversight and guidance functions. These responsibilities, which are described in <g id="203">Standard Directives for SRSGs </g>(an internal document issued directly to a new SRSG once he or she has arrived at the mission), require managing a dynamic and complex situation on the ground as well as a sizeable operation. The SRSG is on the frontline of emerging developments and his or her autonomy and ability to make decisions expeditiously is of paramount importance. Thus, Headquarters relies on the SRSG’s judgement and counts on his or her being resourceful. In doing so, the SRSG must ensure that she or he always</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]/text:span[0]"><source>UN agencies, funds and programmes;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[349]"><source>Member States may establish informal groups to support the Security Council mandate, such as a “Group of Friends of the Secretary-General” or “Core/Contact Group.” These groups are often replicated on the ground in the mission area. The main function of these groups, at the Headquarters and field levels, is to ensure an integrated and focused political strategy and extend additional support to the mission.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[362]/text:span[3]"><source>Report of the Secretary-General on Command and Control of Peacekeeping Operations</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[0]/text:p[0]/text:span[0]"><source>Head of Mission; and</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[383]"><source>promoting mechanisms can include civil administration, economic development, <g id="208">public </g>information and donor assistance.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[398]"><source>In many conflicts, regional or sub-regional actors have a powerful influence over the parties to the conflict or may be involved in a wider conflict in the region. Therefore, a unified regional or sub-regional approach to a conflict is often a critical part of an international strategy to achieve stability in the mission area and the region. The SRSG therefore works closely with special envoys or Special Representatives of the Secretary- General or other UN representations in the region as well as with regional organizations and entities. In some cases, regional organizations may even be integrated into the structure of the mission.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[411]"><source>To support the members of the UN country team, which is the combined presence of all UN agencies, funds and programmes within a particular country, the SRSG should be informed of their priorities, identify complementarities, draw upon their expertise and work that knowledge into the overall political strategy. The SRSG can support the agencies by facilitating access to the parties, supporting fund-raising efforts, conveying concerns to the appropriate entity, and offering security and political leverage. The UN agencies, in turn, can provide the SRSG with in-depth knowledge of the local situation and their vast networks of local contacts and may implement important elements of the mandate, such as humanitarian and developmental assistance, that are not covered in the mission's budget. To this end, the SRSG convenes regular meetings of all UN entities in the mission area and maintains continuous contact to ensure that the activities of the UN system in the mission area are mutually supportive and coordinated. In some cases, it has proven useful to appoint the resident coordinator/humanitarian coordinator as Deputy Special Representative of the Secretary-General (DSRSG) to ensure greater strategic coherence and an effective transition from emergency relief to recovery and reconstruction.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[426]"><source>The SRSG must be able to delegate responsibilities as far down the chain of command as possible. This is not always easy because of the tendency to keep a tight rein on key activities and rely on a small number of close staff. Decentralizing operational decisions can strengthen the mission's management and increase its output, and a strong team of Deputies and senior staff will ensure clear lines of responsibility and accountability.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[8]"><source>(ST/SGB/1998/19) for standards applicable to civilian staff.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[441]"><source><g id="222">Interim or transitional administrator. </g>In a few exceptional cases, the UN has governed an area under an interim or transitional administration mandate, as in Cambodia, Eastern Slavonia (Croatia), Kosovo (Serbia and Montenegro) and Timor-Leste (formerly East Timor). In addition to the functions fulfilled by other multidimensional peacekeeping operations, a UN interim or transitional administration has authority over the legislative, executive and judicial structures in the territory or country. Such a mandate adds an additional layer of complexity to the SRSG role; the SRSG must ensure that the exercise of administrative authority does not adversely influence any political agreements reached with the parties.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[455]"><source>Managing this transition is crucial and the international community needs to ensure the long-term viability of the new structures, including accountability to the public. This often requires time beyond the mandate of the mission. The SRSG may employ different mechanisms to reinforce these changes, such as political agreements with the successor</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[468]"><source>Regardless of the size or scope of the operation, political affairs officers must never lose sight of the larger national and international political context. Dissecting whose interests are served by the perpetuation of the conflict and, within the confines of the mandate, devising innovative solutions for changing the underlying dynamics are the great challenges of political affairs officers. The job typically includes the following tasks, under the overall direction of the Head of Mission:</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[45]/text:list-item[0]/text:p[0]/text:span[2]"><source>military colleagues and humanitarian and development organizations;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[48]/text:list-item[0]/text:p[0]/text:span[1]"><source>peace- </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:span[0]"><source>Functions</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[500]"><source>In addition to the parties to the conflict, the political affairs component interacts closely with other partners in the peace process, including the wider United Nations (UN) community, diplomats, international and regional organizations and civil society groups and leaders. Since the mission represents the collective will of the international community, contacts with embassy personnel of Members States at all levels should be frequent and transparent to ensure that capitals are well informed of the mission’s work and priorities. The political affairs component is also responsible for the primary liaison with the host government, including the office of the president or prime minister, the cabinet, parliament and the relevant local authorities.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[55]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assessing preconditions and</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Facilitating communication and information exchange, including level of confidentiality;</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[525]"><source>Transparency and comprehensiveness in the exchange of information between the mission and DPKO Headquarters is crucial to the success of any operation because Headquarters has a broader perspective on the priorities and concerns of the international community. At the same time, Headquarters can only represent the views and requirements of a mission effectively if it has access, at all times, to precise information from the people on the ground. Political affairs has the primary responsibility for drafting reports from the mission to DPKO, thus providing the essential link between the global vision at Headquarters and developments on the ground.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[538]"><source>Formal reporting falls into four broad categories:</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[550]"><source>While these reporting tasks may sometimes seem mundane, they are a crucial means of keeping Headquarters apprised of developments and enable Member States to make informed decisions on the nature of UN involvement in a conflict situation. The Secretary-General’s reports to the Security Council provide, by their tone and approach, important contributions to the international debate about the issues in question. Their impact in shaping the international community’s perceptions of a given conflict should not be underestimated, although the decisions and actions of Member States are naturally influenced by a variety of factors.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[564]"><source>An important element of this task is the identification of the main political players in the peace process, which may include, in addition to the parties to the conflict, influential elders, religious leaders, civil society groups and external players. This enables the political affairs officers to target the mission’s strategy for the peace process to the objectives and constituencies of these key players, either in preparing for negotiations or in implementing an agreement.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[578]"><source>At times, tensions arise between the mediation efforts of political affairs officers and the activities of other components. For example, the activities of public information or the activist nature of human rights work may be seen by political affairs as disruptive to the</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[591]"><source>United Nations Mission of Support in East Timor (UNMISET), the task of nation- building has required a particularly intense focus on external partnerships.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[600]"><source>Political affairs can have many interpretations, and the function can carry great responsibilities and expectations, and even give rise to suspicion amongst those outside</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[615]"><source>In interim administration missions beginning in the late 1990s, such as the United Nations Interim Administration Mission in Kosovo (UNMIK) and the United Nations Transitional Administration in East Timor (UNTAET), the United Nations (UN) performed ever more specialized governmental functions at all administrative levels in the mission area. In these cases, civil affairs became a civil administration responsible <g id="239">for </g>directly managing all aspects of civilian life while simultaneously working to devolve its responsibilities to local authorities. It should be strongly emphasized, however, that governance mandates are the exception rather than the norm in peacekeeping.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[628]"><source>The civil affairs component is typically based on a field structure with a core presence at mission headquarters and civil affairs officers deployed throughout the mission area, depending on the nature and size of the mission. In missions without governance functions, civil affairs officers at mission headquarters liaise with other units, organizations and local institutions at the central level, contribute to the mission’s overall strategy development and oversee the network of civil affairs regional and sub-regional offices to ensure coordinated and consistent fieldwork. The head of this component is expected to maintain extensive high-level contacts with local and international counterparts.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[62]/text:list-item[0]/text:p[0]/text:span[0]"><source>Provide “good offices” or policy and operational advice and assistance to </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[649]"><source>In the immediate aftermath of a conflict, building confidence between the parties in conflict and instilling trust in the mission is a key role of civil affairs. This is accomplished through contacts with political, military and police authorities and also through consistent outreach to grass-roots and other groups within the area. Contacts <g id="244">with </g>local community-based groups can help identify avenues for immediate action. Possible counterparts include community leaders, religious institutions, local committees, women’s groups and groups working on children’s issues. This might include liaison in support of the mission’s priority to demobilize, disarm and reintegrate former combatants.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:span[0]"><source>Provide “Good Offices”</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[673]/draw:custom-shape[0]/text:p[5]/text:span[0]"><source>In some cases, the rebels had established strongholds, had lived in the area for many years and had no place to return to, because the memory of atrocities they had committed was too fresh in people’s minds. The rightful owners had often languished for years in squalid refugee camps or as IDPs and were desperate to return to their homes and former lives.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:span[0]"><source>Reporting</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[695]"><source>Civil affairs officers also re-establish public services and build local capacity through training. As functions are progressively assumed by local structures, the role of civil affairs, depending on the mandate, may be redefined to cover reserved executive responsibilities, core peacekeeping functions, security coordination, political oversight and reporting, financial auditing, minority integration or protection and coordination of refugee and displaced person return initiatives.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]/text:span[0]"><source>CHAPTER IV: PUBLIC INFORMATION</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[704]/draw:custom-shape[0]/text:p[4]/text:span[2]"><source>1999</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[717]"><source>History repeatedly demonstrates the lethal power of misinformation and media manipulation by parties to conflicts. In 1994, the infamous radio station, <g id="255">Radio Mille Collines</g>, played a crucial role in launching, inciting and directing the Rwandan genocide, which resulted in an estimated 800,000 deaths and led to conflict throughout the Great Lakes region of Africa. During the conflict in the former Yugoslavia in the early 1990s, radio and other media played a key role in the ethnic cleansing of villages, towns and even entire regions.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[727]/draw:custom-shape[0]/text:p[1]/text:span[1]"><source>: Bringing Reliable News to the Congo</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[727]/draw:custom-shape[0]/text:p[7]/text:span[0]"><source>Listeners throughout the DRC were delighted with the service and reliability of </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[730]"><source>Another priority for the public information component is to establish itself as a credible, non-partisan source of information about the peace process and the role of the UN and to make information widely available to those involved in and affected by the process.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Promote all aspects of the work of the peacekeeping operation to the national and international</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[2]"><source>process.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[748]/text:span[1]"><source>Radio UNTAC </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[756]"><source><g id="257">Chief of information. </g>The chief of public information formulates the mission’s public information strategy in close consultation with the Head of Mission and other senior mission officials and supervises the work of the component. This includes the development, production and dissemination of all public information material and the mission web site. The chief supervises monitoring of local and international media and advises mission officials and UN Headquarters in New York of trends and <g id="258">developments, </g>and potential crises or challenges. The chief ensures that information products reach the target audiences, both local and international, as well as relevant offices of the UN, including the Office of the Spokesman for the Secretary-General, the Department of Peacekeeping Operations (DPKO) and the Department of Public Information (DPI) at UN Headquarters in New York.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[771]"><source>The public information component sometimes trains local journalists and broadcasters by offering seminars on professional ethics and practices or international assistance to develop local media capacity, including infrastructure and media training, as appropriate.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[65]/text:list-item[0]/text:p[0]/text:span[0]"><source>Identify and develop key messages that support mission priorities; and</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[787]"><source>The spokesperson, in particular, must work closely with senior mission officials and have access to mission information to speak authoritatively on policies and activities. The spokesperson and head of the public information component also advise senior officials on media relations. Senior mission officials and component heads should cooperate closely with the public information component to provide background information and clarification so that public information officers can be prepared to respond appropriately to questions from journalists and, more importantly, to present information in a clear and credible way on sensitive and important issues. Mission components should also keep the public information component informed of developments in areas of interest to the press and public.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[800]"><source>as sources of information for the local population. International staff have a particular responsibility to be sensitive to the potential impact of their comments and actions on public perceptions. While all mission personnel must remain non-partisan and objective in their behaviour, public information personnel, in particular, must be conscious of maintaining impartiality in their conversation and private statements. Sympathy to a cause or a party must not be permitted to undermine the mission’s credibility and affect the public information output or the behaviour of its personnel.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[812]"><source>Military capability can also be used to provide the space and opportunity for peacemaking and political negotiations to take place by preventing further violence. In places where a ceasefire agreement or agreements for other military arrangements are in place, the military component oversees their implementation, provides monitoring and liaison expertise and serves as an interlocutor with local armed forces.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[826]/text:span[0]"><source>There are important differences between UN-commanded operations and military interventions by coalitions of allied States. “Blue helmets” are under the operational command of the UN and report to the UN Secretary-General. Their mandate will typically be set out in a resolution of the Security Council. Coalitions of the willing, on the other hand, remain under the command of a lead State or alliance/regional organization and report to their national or allied chain of command. Their intervention is approved in a decision of the Security Council, which will authorize them to take all measures necessary to achieve a specified</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[840]"><source>self-defence. The circumstances under which the operation may use armed force will then be spelt out in the relevant resolution of the Council. The rules of engagement for the peacekeeping operation will clarify the different levels of force that can be used in various circumstances, how each level of force should be used and any authorizations <g id="276">that </g>may need to be obtained from commanders.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[854]"><source>Those that breach the Code must be duly disciplined by their national authorities, including the imposition of legal sanctions, when appropriate.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[863]/text:span[0]"><source>3</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[868]"><source>Being unarmed and not part of a formed military unit, military observers do not have any coercive authority and depend entirely on the cooperation of the conflicting parties for their security and effectiveness. Since they represent the moral authority of the international community, they exercise a degree of moral suasion and can be an effective deterrent to violations of peace agreements. In peacekeeping operations where a military force is also present, the military observers work in conjunction with the force but under a separate chain of command. Since military observers can be drawn from any country, they can enhance the international character of a peacekeeping mission.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[877]/text:span[2]"><source>The deployments in Cyprus (since 1964), Namibia (1989), Cambodia (1992-1993) and Angola under the United Nations Angola Verification Mission (UNAVEM) III mandate (1995-1997) are all examples of the use of lightly armed formed military units in UN peacekeeping.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[891]/text:span[0]"><source>7</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[905]/text:span[0]"><source>In two cases, the armistice arrangements included the establishment of demilitarized zones and UNTSO observers were responsible for monitoring the full implementation of those provisions. In addition, UNTSO continued to be responsible for the supervision of the ceasefire. UNTSO's role became increasingly important because disagreements between the parties often led to deadlock over sensitive issues and the military representatives of the parties found it difficult to cooperate. Following the wars of 1956, 1967 and 1973, the functions of the observers changed along with the circumstances, but they remained in the area, acting as go-betweens for the hostile parties and as the means by which isolated incidents could be contained and prevented from escalating into major conflicts.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[916]/text:span[1]"><source>ad hoc </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[928]/text:span[1]"><source>The military component may be asked to provide advice on security sector reform and related issues.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[941]"><source>Identifying and assembling military capability for deployment in a peacekeeping operation is called force generation. Since the UN does not maintain military capability of its own, it is dependent on contributions from Member States. The peacekeeping costs of the UN are shared among the entire membership of the Organization according to a pre-agreed scale of assessments; the five permanent members of the Security Council <g id="319">pay </g>a slightly higher proportion because of their special responsibility for the maintenance of international peace and security. Contributing States are reimbursed by the UN for the personnel and equipment they provide for peacekeeping service.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[67]/text:list-item[0]/text:p[0]/text:span[2]"><source>Forces;</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[71]/text:list-item[0]/text:p[0]/text:span[0]"><source>A platoon or troop generally consists of three to four sections or squads, totalling 30 to 40 personnel, and is commanded by an officer, normally a</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[51]/text:span[0]"><source>Rapid Deployment</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[973]/text:span[0]"><source>In November 2000, SHIRBRIG had its first deployment; SHIRBRIG units from Canada, Denmark and the Netherlands deployed to the Horn of Africa for the newly established United Nations Mission in Ethiopia and Eritrea (UNMEE). SHIRBRIG forces remained on the ground for six months and were instrumental in the successful establishment of the mission. In 2003, SHIRBRIG provided headquarters staff support to the interim force headquarters of the United Nations Mission in Liberia (UNMIL) and assisted the Economic Community of West African States (ECOWAS) plan their UN-authorized operation in Côte d’Ivoire.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[989]"><source>Support units, such as engineer squadrons or companies, transport units, hospitals and evacuation units, aircraft loading and movement control teams, supply units, maintenance units and others are expected to integrate their work with UN personnel and private contractors to make the best use of resources available to support all components of the mission. The management and control of these joint resources is the responsibility of the chief integrated support services or the chief technical services, as appropriate, who reports directly to the mission’s chief administrative officer but is responsible for delivery of support to the mission as a whole.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[54]/text:span[0]"><source>Relations with Other Mission Components</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[76]/text:list-item[0]/text:p[0]/text:span[0]"><source>An integrated support services section under the authority of the mission’s </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[55]/text:span[0]"><source>Conclusion</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[58]/text:span[0]"><source>Humanitarian Mine Action Objectives</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1035]/text:span[3]"><source>The Development of Indigenous Mine Action Capacities</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Victim</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[81]/text:list-item[0]/text:p[0]/text:span[0]"><source>United Nations Interim Force in Lebanon (UNIFIL);</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1048]"><source>Security Council Resolution 1291 (2000) on the situation in the Democratic Republic of the Congo (DRC) mandated MONUC to undertake mine action activities to contend with the UXO problem. As a result, a MACC was established in Kinshasa. The primary tasks of the MACC are to provide mine action expertise, including to act as the focal point and coordinator for mine action, develop a mine/UXO information system, implement emergency surveys and implement emergency mine action activities. The MACC also works with the United Nations Children’s Fund (UNICEF) to develop risk prevention campaigns and with national authorities to develop medium- and long-term mine action plans.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1060]"><source>people not to enter mined areas and is carried out in combination with mine risk education so that local populations understand the meaning and importance of the signs.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[85]/text:list-item[0]/text:p[0]/text:span[2]"><source>used in combination with manual deminers.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1074]"><source><g id="331">Victim assistance. </g>As both a core component of mine action and an obligation of States Parties under the Antipersonnel Mine Ban Treaty (APMBT), victim assistance refers to all aid, relief, comfort and support provided to victims of mines to reduce the immediate and long-term medical and psychological trauma.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1085]/draw:custom-shape[0]/text:p[3]/text:span[0]"><source>E-MINE is a public and freely accessible website found at </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1093]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Emergency Situations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1101]/text:span[0]"><source>Office of the United Nations High Commissioner for Refugees (UNHCR). </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1110]/text:span[1]"><source>FAO works in the recovery of the agricultural sector in countries affected by complex emergencies.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1119]/text:span[2]"><source>Landmine Monitor Report</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1123]/text:span[4]"><source>European Union (EU) </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1135]"><source><g id="349">Inter-ministerial working group. </g>An inter-ministerial working group is often established to review and adopt strategies, policies and plans proposed by the national mine action authority. It generally oversees the activities of the central authority and ensures the integration of mine action within the overall government rehabilitation and development policy.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1146]/draw:custom-shape[0]/text:p[3]/text:span[0]"><source>As part of the UN peacekeeping mission in Eritrea and Ethiopia, in 2000, UNMAS established the UNMEE MACC to support the peacekeeping and humanitarian relief efforts in the temporary security zone. MACC also assists the Eritrean authorities with collecting, analysing and disseminating mine/UXO information.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[87]/text:list-item[0]/text:p[0]/text:span[1]"><source>by </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:p[3]/text:span[0]"><source>VTF is managed by UNMAS and is primarily used to finance:</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>programmes.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[69]/text:span[0]"><source>CHAPTER VII: POLICE, JUDICIARY</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1183]"><source>Judicial affairs and corrections officers have also been deployed in peacekeeping operations in recent years to provide the necessary expertise to rebuild and support these</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Principles of Democratic Policing Representative policing </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:p[5]/text:span[0]"><source>Responsive policing </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[0]"><source>Police actions are responsive to public opinion and</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:p[16]/text:span[0]"><source>OHCHR </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1200]/text:span[4]"><source>and </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[73]/text:span[0]"><source>Advising and Reporting</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1219]"><source>Another task for civilian police has been to reform, restructure and train national police services to help ensure that they become respected, sustainable, well-structured law enforcement institutions. Examples of these mandates include the missions in Haiti, Bosnia and Herzegovina and Eastern Slavonia in Croatia. Missions mandated to support local police reform initially did so by providing training and mentoring. The primary goal of training local police has been to strengthen police services so that their conduct and services are professional, effective and comply with international standards for democratic policing.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1232]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Non-Compliance Reporting and De-Certification in UNMIBH</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1241]"><source>Community-based policing is an increasingly important element of policing in post- conflict environments and is closely linked to public education. The community policing approach enhances the confidence of the local community in the police and fosters cooperative relationships. It provides reassurances to vulnerable groups, returning refugees and internally displaced persons (IDPs), owing to the visible presence of police officers working with local populations in and among the community. Addressing common community and policing concerns through, and with, the community can help to ensure that improvements in law and order are better understood and accepted by the population. As such, community policing is a key approach for civilian police in peacekeeping missions. Many host countries of peacekeeping operations have certain entrenched local policing practices. These can be adapted to include modern community policing practices. The local communities must be encouraged to address their own social problems. Civilian police can act as a catalyst for the participation of the local communities in finding solutions to their security and justice problems.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[79]/text:span[0]"><source>Building New Police Institutions</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[96]/text:list-item[0]/text:p[0]/text:span[0]"><source>Investigation of crime and criminality;</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1274]"><source>profile is important to make clear the civilian nature of policing, which helps to maintain the moral authority and public trust needed for effective policing. The ability to maintain separate profiles while establishing strong functional relationships between civilian police officers and military peacekeepers is a difficult balance but is critical to the success of policing in peacekeeping operations.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[83]/text:span[0]"><source>The Judiciary</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1301]"><source>UN peacekeeping operations have only recently become directly involved in judicial assistance and support efforts. The peacekeeping operations in Kosovo, Timor-Leste and Afghanistan—all established since 1999—have been mandated to provide such assistance. In Kosovo, the Department of Justice remains under international control through UNMIK with minimal involvement of local actors.<g id="375"><g id="376">2</g></g><g id="377"> </g>In Timor-Leste, the office of judicial affairs of the United Nations Transitional Administration in East Timor (UNTAET) was established to assist in building a national judiciary and justice framework. International advisers continued to assist the East Timorese in the justice sector even after independence in May 2002. In Afghanistan, the mandate of the United Nations Assistance Mission in Afghanistan (UNAMA) is of an advisory nature: to support the new Afghan Government’s efforts to establish a credible governance capacity, including for the rule of law and administration of justice. UNAMA provides advisory support to the Government and its bilateral partners in the justice sector.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1313]"><source>In providing assistance to the judiciary, a peacekeeping mission may be called on <g id="378">to </g>perform the following roles:</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[104]/text:list-item[0]/text:p[0]/text:span[0]"><source>Develop ongoing training programmes (both on- and off-the-job training);</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1330]"><source>In some post-conflict environments there may not be agreement between the parties on the applicable legal code, whether substantive or procedural. The question of which law to apply is essentially a political issue that cannot be resolved by a peacekeeping mission. Agreement among the parties as to the applicable law is an important first step in judicial and rule of law reform.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1341]"><source>In some instances, peacekeeping missions have been mandated to train local authorities in corrections issues, including the treatment of prisoners, as was the case in Cambodia, Haiti, Bosnia and Herzegovina and Rwanda. More recently, peacekeeping operations have been mandated to provide direct assistance and support for corrections systems, particularly when the UN civilian police component has had powers of arrest or detention. The missions in Kosovo and Timor-Leste were tasked with the establishment and operation of complete correctional systems, which included not only the management and administration of correction facilities, but also the development of human, institutional and legislative capacity. UNAMA has had a high-level advisory role in relation to corrections, providing advice and support to the Afghan authorities. It should be noted that the corrections system may include not only prisons and other penitentiary institutions, such as furlough and halfway houses and detention centres, but also correctional measures other than incarceration, including parole and probation programmes, work and educational release and community service.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[113]/text:list-item[0]/text:p[0]/text:span[0]"><source>Developing reporting procedures to address abuses;</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[116]/text:list-item[2]/text:p[0]/text:span[1]"><source>society </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[120]/text:list-item[0]/text:p[0]/text:span[0]"><source>Due process in disciplinary matters;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[125]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Pre-trial detention shall be the exception rather than the</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[129]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Detainees shall have the right to be informed of the reason for detention and charges against</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1378]/text:span[0]"><source>OHCHR </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[134]/text:list-item[0]/text:p[0]/text:span[0]"><source>Investigating and verifying past human rights violations;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[138]/text:list-item[0]/text:p[0]/text:span[0]"><source>Collaborating with UN and international development and emergency </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[141]/text:list-item[0]/text:p[0]/text:span[1]"><source>most </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1402]"><source>Although the human rights component has the lead role on human rights issues in a peacekeeping operation, human rights work is everyone’s responsibility. Consistent with the Secretary-General's directive in his 1997 UN reform proposals, human rights should be central to every activity undertaken by the UN.<g id="390"><g id="391">1</g></g></source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:span[3]"><source>, 14 July 1997, A/51/950, available at </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[143]/text:list-item[0]/text:p[0]/text:span[0]"><source>International Covenant on Civil and Political Rights (ICCPR) and its </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[146]/text:list-item[0]/text:p[0]/text:span[1]"><source>Treatment </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[2]"><source>and Members of Their</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1435]"><source>One of the primary tasks of most human rights components is to monitor the human rights situation, which means actively gathering information from a variety of sources. Human rights officers must have excellent skills in interviewing witnesses, victims, government officials and others who may have knowledge about specific cases. In addition, human rights officers should monitor all local media, including reading all available publications, listening to radio and watching television. Language skills are an important tool and a human rights officer who speaks the local language has an <g id="393">enormous </g>advantage in collecting information.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1441]/draw:custom-shape[0]/text:p[5]/text:span[2]"><source>which should be used by all field missions (www.ohchr.org). In addition, The Norwegian Institute of Human Rights has produced an excellent generic manual for fieldwork entitled </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1450]"><source>Human rights components may include medical and mental health specialists who can provide assistance until local practitioners can take over. In some missions, such as the United Nations Mission in Sierra Leone (UNAMSIL) and the United Nations Organization Mission in the Democratic Republic of the Congo (MONUC), child protection advisers may also be deployed and work closely with the human rights component.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1462]"><source>Reporting is a crucial and sometimes controversial part of human rights work. Most <g id="394">terms </g>of reference for human rights components include reporting on the human rights situation and the component will usually submit daily, weekly, monthly and other periodic reporting to the SRSG. These are internal reports and generally should not include the names of victims, witnesses or suspected perpetrators, but rather describe the overall human rights situation and emphasize recent developments or serious incidents. A human rights component will also contribute a few paragraphs summarizing the human rights situation in the general weekly and monthly reports that a peacekeeping mission sends to UN Headquarters in New York. The human rights component will also send its reports to OHCHR in Geneva, in accordance with the provisions of the MoU between DPKO and OHCHR. Human rights components have also produced reports on specific themes such as torture, pre-trial detention, fair trials, prison conditions and conflict-related sexual and gender-based violence.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1475]"><source>Assistance in institution building is key to ensuring sustainable peace and development. Increasingly, human rights components of peacekeeping operations are involved in providing technical and substantive assistance in building national institutions, such as national human rights commissions, ombudsman’s offices and truth and reconciliation commissions. For example, through an OHCHR-sponsored technical cooperation <g id="396">project, </g>the UNAMSIL Human Rights Section has provided legislative, substantive and technical advice in the establishment of the Sierra Leone Truth and Reconciliation Commission and the Sierra Leone Human Rights Commission.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1487]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Human Rights Activities in Sierra Leone</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1487]/draw:custom-shape[0]/text:p[5]/text:span[5]"><source>).</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1494]"><source>Human rights components also need to forge close partnerships with the UN military, civilian police, the political component, the civil affairs component, UN funds, programmes and agencies and other international partners. Information sharing, policies on protecting vulnerable groups, enhancing the capacity of the local judiciary and police and training local counterparts all require joint efforts. In Kosovo, the Joint Task Force on Minorities includes representatives from the Kosovo Force, the UN civilian police, <g id="399">the </g>Organization for Security and Co-operation in Europe’s (OSCE) human rights office, UNICEF, the Office of the United Nations High Commissioner for Refugees (UNHCR) and the SRSG's Human Rights Adviser. The task force identifies groups at risk and develops strategies to protect them while simultaneously working to address the root causes of the violence.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1508]"><source>Humanitarian agencies are particularly concerned with losing access to vulnerable populations if it becomes known they are sharing information about human rights violations. Despite this challenge, humanitarian agencies have found creative ways to share critical human rights information with peacekeeping operations.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1520]"><source>The indicators chosen should be simple, measure small representative samples and balance process or “output,” such as getting reports out on time, with “outcome,” such as determining whether reports helped raise awareness of human rights issues and led to improved behaviour of the local military or a change in policy by the international community toward the host state. Evaluating the work of a human rights component should not be a singular event in the life of a peacekeeping mission but should become part of the component’s daily work.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1533]"><source>Where a national human rights agenda reflecting international standards already exists, the UN should support its further development and promote local capacity. The best exit strategy for a human rights component is to leave behind strong institutions with well- trained personnel who will continue to protect and promote human rights.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1544]/text:span[1]"><source>Equitable representation of women and men in all areas. Promoting gender balance requires explicit support of women’s participation, particularly in decision- making.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1554]"><source>status and entitlements and economic recognition in the domestic/unpaid sector. Women and men both may face <g id="402">de facto </g>discrimination if they venture outside of their socially accepted gender roles; men may not be treated seriously or may face ridicule if they seek jobs in nursing or childcare, while women are not likely to be hired for traditionally “masculine” jobs, such as construction, mining, police and correctional services, and may even be legally barred from them.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1559]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]"><source>1997)</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1566]/text:span[0]"><source>1</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1579]/text:span[0]"><source>2</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[150]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>peace</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[153]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Provide training guidelines and materials to Member States on the protection, </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[155]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>abuse;</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1597]"><source>The international presence of a peacekeeping operation has the potential to positively affect gender relations and inequalities within a society. For example, initiatives supporting elections can facilitate women’s participation as voters and political representatives. Civilian police in a peacekeeping operation may assist in the training, monitoring or restructuring of local law enforcement agencies and emphasize addressing crimes that affect women, including rape, sexual assault, domestic violence and other gender-based crimes, such as trafficking in women and girls. Professional women serving in peacekeeping missions, particularly in leadership roles, may act as role models for local women, especially in societies where women have traditionally played a secondary role.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Gender Mainstreaming in Technical Assistance</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[2]"><source>consultation process;</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[159]/text:list-item[1]/text:p[0]/text:span[0]"><source>Protecting and delivering humanitarian assistance;</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1625]"><source>Women and girls may be combatants in armed conflicts. Therefore, DDR programmes for ex-combatants conducted by peacekeeping operations must identify and address the needs and priorities of both men and women ex-combatants. Demobilization programmes conducted by the UN in the early 1990s in Mozambique and El Salvador, among others, did not initially plan for the particular needs of female ex-combatants, including health and security issues. Planners did not anticipate that ex-combatants would arrive at demobilization sites and assembly areas accompanied by large numbers of dependants who had to be housed and fed. Some women and children may have been abducted by <g id="412">the </g>fighting factions and forced to serve as sexual slaves, porters and messengers. Again, mainstreaming a gender perspective ensures that these vulnerable women and children are not excluded from rehabilitation and reintegration programmes.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1664]"><source>Successful mainstreaming of a gender perspective will affect all stages of a peacekeeping operation, from planning through deployment and final liquidation of the mission. In developing gender perspectives, peacekeeping operations can benefit from collaboration with local women’s organizations, which often provide local expertise on education and both reproductive and general health issues. Women’s organizations can be important partners in the service delivery including creating political structures and holding elections, as was demonstrated in Timor-Leste. This partnership can be facilitated by working with existing contacts with women’s groups made by UN funds, programmes and agencies, such as the United Nations Children’s Fund (UNICEF), United Nations Development Programme (UNDP), United Nations Development Fund for Women (UNIFEM), World Food Programme (WFP) and international non-governmental organizations (NGOs).</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1677]"><source>Where the mission’s mandate extends to building or strengthening rule of law institutions, the gender units and offices can advocate for gender equality and for special measures to increase women’s participation in all areas. Within the peacekeeping operation, gender units and offices can develop strategies and programmes to build capacity for gender mainstreaming within the mission and enable each component to develop mandate-specific goals and benchmarks for gender mainstreaming. They can also help monitor and evaluate progress in meeting those benchmarks.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[168]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1699]"><source>United Nations (UN) peacekeeping operations have evolved to encompass a wide range of mandated tasks, all of which require a support structure. The support component of a peacekeeping operation provides the administrative and logistic support services that enable the mission to carry out its core functions in an effective, coordinated and timely manner consistent with the regulations and procedures prescribed by the Organization.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[172]/text:list-item[0]/text:p[0]/text:span[2]"><source>providing bulk supplies of water, fuel products and foodstuffs;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[179]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1718]"><source>In a complex mission involving assigned aircraft and formed military and civilian police units, there is a greater need for harmonizing the support effort with the operational activities of the mission. This requires larger, more integrated components of civilian and uniformed specialists organized into discrete administrative and technical sub-levels supervised by senior managers who report to the CAO or director of administration.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:p[3]/text:span[0]"><source>Personnel sources include:</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>staff;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1735]"><source>Peacekeeping missions operate on a 12-month budgetary cycle from 1 July to 30 June. Given that the budget represents a projection of future mission requirements, accurate forecasting by all mission components of their realistic support needs is crucial. The senior management team of the mission, which oversees the development of all strategic planning, is responsible for ensuring that resource requests are aligned with the overall mission plan.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[182]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assignment of transportation resources, fleet management and major </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[186]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1752]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Joint planning: Planning common use of airports, seaports and access routes can be facilitated through the JLOC as well as implementation of support requests for quick impact projects, infrastructure improvements,</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1759]/text:span[0]"><source>Rapid Mission Deployment</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[189]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>days.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[1]/text:p[13]/text:span[2]"><source>days</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[1]/text:p[22]/text:span[0]"><source>For technical survey mission and planning in New York</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[1]/text:p[26]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>and other</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[2]/text:p[4]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Prepare strategic deployment </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[2]/text:p[6]/draw:custom-shape[0]/text:list[0]/text:list-item[1]/text:p[0]/text:span[0]"><source>Prepare an initial</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[2]/text:p[8]/text:span[0]"><source>D +30 days</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1782]"><source>An aviation safety unit in OMS is entrusted with overseeing the development and compliance of aviation safety standards in missions. The Division also oversees the operations of the United Nations Logistics Base in Brindisi, Italy, which manages reserve equipment stocks and strategic deployment stocks that assist in rapid establishment of new missions.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1795]"><source>The Under-Secretary-General for Peacekeeping Operations is responsible for the security and safety of all peacekeeping personnel deployed in the field. On his/her behalf, the Department of Peacekeeping Operations (DPKO), in close cooperation with the Office of the United Nations Security Coordinator (UNSECOORD), works to minimize the risks faced by mission personnel through security and safety management procedures.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1806]"><source>The Convention covers two aspects:</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[115]/text:span[0]"><source>Peacekeeping Security Management</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1829]"><source>While the full integration of peacekeeping missions into the UN security management system may not be possible, DPKO and UNSECOORD work very closely together at Headquarters and in the field. Such cooperation is vital for security of personnel and for technical and political reasons; the UN system must speak with one voice on security matters, especially when it comes to assessing and managing threats to its personnel or property.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[197]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Managing hostage incidents;</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[202]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Providing support for stress management.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1853]"><source>In addition to overseeing the preparation of the security plan, the chief security officer’s responsibilities include:</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[206]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>provided for that purpose.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1870]"><source>It is critical that all staff members strictly follow the instructions of the chief security officer. Observance of curfew and other security measures can be burdensome for staff, especially when they remain in force for an extended period of time, but compliance is mandatory. Maintaining disciplined adherence to the measures requires leadership by the Head of Mission.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1884]"><source>Civilian police components play a special role in staff security in missions where UN police have executive authority, which is usually in the context of an interim or transitional administration mandate, as in the case of the United Nations Interim Administration Mission in Kosovo (UNMIK). Where UN police are in charge of law enforcement, mission personnel will be able to count on the kind of protection against internal threats that democratic police forces normally provide to citizens. As with the military component, the police commissioner should work closely with the chief security officer to ensure that the best possible security arrangements are put in place for mission personnel.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[208]/text:list-item[0]/text:list[0]/text:list-item[2]/text:p[0]/text:span[0]"><source>Ensuring compliance with standards through effective oversight and management.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[213]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Workplace safety; and</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1916]"><source><g id="445">Environmental safety. </g>The medical support unit establishes policies and advises on health and medical issues in field missions.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[216]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>human, </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[221]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>and sobriety checks by security personnel at the exits of UN facilities;</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1942]"><source>A mission aviation safety council consists of selected UN staff members, civil and military aircrew members and experts from air transport, air traffic control, flight following, medical, crash rescue/fire fighting, communications and other areas as required. The council should be chaired by the director of administration or the chief administrative officer or, in his/her absence, by the chief of integrated support services. The council should meet whenever necessary (but not less than once a month). The mission aviation safety officer acts as the secretary of the council and reports to the safety aviation unit at Headquarters.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1955]"><source>UN electoral assistance has historically included advancing the principle of self- determination through the development of self-government and decolonization. More recently, it has entailed establishing and advancing democratic principles and political rights. Today the UN system is engaged in a wide range of development assistance activities that support the efforts of governments around the world to promote democratic election processes. As one of the most credible and experienced global organizations in the implementation of electoral projects and operations, the UN receives more requests for electoral assistance than it can address. Since 1989, the UN has received over 290 requests for electoral assistance from Member States and has responded to more than 200.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1963]"><source>perceived as an impartial actor that can ensure that elections are carried out in a free and fair manner.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[224]/text:list-item[0]/text:p[0]/text:span[0]"><source>The widespread acceptance of the concept of self-determination set out in the UN Charter (Articles 1(2), 73(b) and 76(b), particularly in the context of decolonization and trusteeship;</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[226]/text:list-item[0]/text:p[0]/text:span[0]"><source>The growing emphasis on the need for countries to adopt democratic mechanisms </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[132]/text:span[0]"><source>UN Electoral Planning</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2006]"><source>EAD closely monitors the planning and implementation of electoral activities by a mission component to ensure compliance with UN electoral standards. The appointed</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2019]"><source><g id="469">Component inter-operability. </g>Circumstances usually dictate a strong interdependence with other mission components and UN agencies.<g id="470"><g id="471">4</g></g><g id="472"> While central forums for inter- component liaison should be a constant feature of peacekeeping operations, certain phases of an electoral operation may require extra facilitation at the working level.</g></source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2031]"><source>A typical election can be broken down into five overlapping phases.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2045]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>The Rice Bowl Analogy</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[227]/text:list-item[0]/text:p[0]/text:span[0]"><source>Eligibility criteria are determined;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2062]/text:span[0]"><source>5</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2064]/text:span[2]"><source>A civil registry or national index is a larger set of records from which a list of voters is extracted. For example, a civil registry may include persons too young to vote. A continuous methodology of maintaining civil registries is an ongoing service, whereas a periodic methodology is normally associated with a stand- alone electoral registration exercise.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2074]"><source>Transforming violent groups into non-violent political parties may require additional external assistance. In both Timor-Leste (2001-2002) and Sierra Leone (2001-2002), projects for facilitating non-violent political party development were successful on the ground. The political neutrality and impartiality of the peacekeeping operation is fundamental, so projects like these are usually implemented through a third party (such <g id="491">as </g>UNDP) not directly engaged in the conduct or the organization of the election.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2088]"><source>usually agreed on between electoral, UN military and civilian police components <g id="494">based </g>on the electoral procedures in place.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2097]/text:span[3]"><source>Electoral Assistance</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2099]"><source><g id="496">Organization and conduct of elections. </g>In this case, the UN is called on to run an <g id="497">election, </g>fulfilling the function and responsibility of a national electoral administration, such as in Cambodia (1992), or hold a referendum or ballot, as in Timor-Leste (1999). When organizing an election, the UN must recruit, train, deploy and pay all polling staff, <g id="498">provide </g>voting stations with all required equipment and provide the necessary logistical support <g id="499">for</g>the process. The UN is also frequently responsible for providing security for the process.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2104]/text:span[3]"><source>Support by the United Nations System of the Efforts of Governments To Promote and Consolidate New or Restored Democracies, </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2116]"><source>Electoral assistance in a multidimensional peacekeeping mission is extremely challenging and the strict operational timelines and political complexity of elections test mission staff’s abilities and resources. Electoral assistance can play a critical role in helping a fledgling, popularly elected democracy get off to a strong start and significantly improve a country’s prospects for peace and prosperity. Not surprisingly, many UN personnel have cited elections as one of their most satisfying field experiences.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2129]"><source>Humanitarian assistance is emergency, life-saving assistance provided to victims of war and natural disasters. It is intended to protect lives and safeguard the health of those in need, regardless of nationality, race, gender, class or religious or political beliefs. It</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[235]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>To make no discrimination on the basis of nationality, race, gender, class or religious or political beliefs; to relieve the suffering of individuals guided solely by their needs; and to give priority to the most urgent cases of distress; and</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2144]"><source>Governments also often have their own departments or agencies devoted to emergency and development assistance.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2157]"><source>When a peacekeeping operation is deployed, the UN may be operating under several mandates: the Security Council mandate of the peacekeeping operation, which may include language on the provision of humanitarian assistance, along with the mandates of</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2162]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2172]"><source>The coordination of humanitarian assistance varies depending on the situation. At one end of the spectrum, a national government or administration established through a peace agreement is able to provide strong coordination and relatively few humanitarian organizations would be involved. At the other end of the spectrum, there is a state of anarchy with no national government or authority to assist in a crisis. In this situation, many humanitarian organizations would be involved and an ERC would be needed, working with the IASC and through the HC, to provide coordination services.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2177]"><source><g id="532">Strategic planning and monitoring</g>, including contingency planning, organizing strategic planning sessions, establishing close working relations with local government authorities and monitoring strategies of cooperation in the field.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2185]"><source><g id="536">Communications, information and data management</g>, including setting up communications systems and services such as mailboxes, radio networks, etc.; compiling and disseminating databases; managing the humanitarian information centres; and collecting, analysing and disseminating relevant information such as situation reports, maps/geographic information systems, ReliefWeb and the Integrated Regional Information Network.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2200]/text:span[0]"><source>By December 1999, however, both of the ethnic groups distrusted the humanitarian community and accused aid organizations of choosing sides. In January the Hema community accused MSF Holland of only treating the Lendu, which led to an attack on a MSF team at a roadblock. Ultimately MSF removed its staff from the area.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2217]"><source>The shape this relationship takes will depend on the mandated aims of the peacekeeping operation and the humanitarian environment in the country or region. In all cases, however, close cooperation between DPKO and the other UN entities on the ground is crucial to the ultimate success of the UN’s efforts in the host State.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2231]"><source>Post-conflict transition strategies are by nature complex; they need to incorporate and integrate many more dimensions and a wider range of players than is the case in humanitarian planning and include recovery, peacebuilding and reconstruction elements. Joint planning, both at Headquarters and in the field, may help ensure an integrated humanitarian and development approach that will facilitate a more rapid stabilization and recovery.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2242]/draw:custom-shape[0]/text:p[3]/text:span[0]"><source>For more information about humanitarian responses to unfolding emergencies around the world, visit </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[237]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>A well-founded fear of being persecuted for reasons of race, religion, nationality, membership in a particular social group or political opinion;</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2255]/text:span[1]"><source>An asylum-seeker is a person whose request or application for asylum has not been decided on by the prospective country of asylum.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2268]/text:span[0]"><source>1</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2279]/text:span[0]"><source>Violations of the principle of </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[240]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>their </source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2292]/text:span[6]"><source>) a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion.”</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2299]/text:span[4]"><source>Protocol.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2305]/text:span[0]"><source>Guiding Principles on Internal Displacement. </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2312]/text:a[0]/text:span[0]"><source>www.ohchr.org</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2314]/text:a[0]/text:span[0]"><source>www.unhcr.ch</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2316]"><source>In general, most of the rights considered crucial for the protection of refugees, IDPs and returnees are also fundamental human rights:</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[248]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Freedom from arbitrary interference in privacy, home or family;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2336]/text:span[2]"><source>UN Security Council Resolution 1377 (November 13, 2001) declared that acts of international terrorism are contrary to the purposes and principles of the UN Charter.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2348]"><source>Capacity-building activities may include the following:</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[255]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Material and financial support to build institutions and structures; and</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[152]/text:span[0]"><source>Providing Assistance</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2377]"><source>As soon as possible, emergency programmes need to be responsive to the different personal and social needs of refugee and displaced women, men, girls and boys.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2384]/text:span[5]"><source>resource for persons working with refugees and IDPs, is available on the UNHCR web site at </source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[258]/text:list-item[0]/text:list[0]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>plans;</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[262]/text:list-item[0]/text:list[0]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>of programmes and chooses representatives through a democratic process;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2408]"><source>The pursuit of durable solutions is an essential component of protecting refugees and displaced persons. Durable solutions aim at putting a definitive end to the situations of internal and external displacement by facilitating voluntary repatriation, integration into <g id="569">a </g>country of asylum or resettlement elsewhere. Voluntary repatriation, in most cases, means displaced persons can return safely to their former homes and enjoy the full protection of the authorities of their own country. Integration into their country of asylum means the acquisition of permanent residency rights and eventual citizenship.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2422]"><source><g id="572">Ensure national protection and assistance structures are in place. </g>Ideally, a formal agreement, a law or another form of an official binding document will provide the legal framework defining the conditions, guarantees and procedures for the return of refugees and IDPs. This is the case, in particular, if the return of displaced persons is part of a peace agreement or a negotiated settlement. With or without a formal text, the long-term sustainability of returns requires that the local and national authorities take the lead role in the process of return and reintegration as early as possible.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2437]"><source><g id="579">Rule of law issues. </g>The challenges faced by countries experiencing returns are enormous, especially in post-conflict situations. In some situations, the return of refugees has not been a priority for the authorities of the country of origin, whereas in others it has become the main vehicle to achieve reconciliation or reverse ethnic separation. The main challenge in facilitating reintegration is to restore effective national protection, which is difficult in the best of times, but particularly so when tensions arise between returnees and those who stayed<g id="580"> </g>behind.<g id="581"><g id="582">11</g></g></source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2446]/text:span[3]"><source>, which can be found at </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2459]/text:span[0]"><source>12</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2481]/text:span[2]"><source>Protection of Internally Displaced Persons</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[264]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Community-driven development;</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2497]/text:a[0]/text:span[0]"><source>www.worldbank.org/oed</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2504]"><source>The Bank has recently developed several new practice areas to better respond to the challenges of conflict prevention and reconstruction. These include the disarmament, demobilization and reintegration of ex-combatants; community-driven development funds to facilitate the social and economic reintegration of displaced persons; a global anti-corruption initiative and legal reform programmes to address governance issues. The Bank’s post-conflict work seeks to break the cycle of conflict and help countries resume development by supporting efforts at establishing security, good governance, economic recovery and social stability.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2505]/draw:g[0]/draw:custom-shape[6]/text:p[1]/text:span[0]"><source>Priority social sector assistance</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[277]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Provided direct and substantial financing through emergency recovery instruments that quickly and flexibly disbursed funding;</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2514]/text:span[2]"><source>Leone</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[283]/text:list-item[0]/text:list[0]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Strengthened government leadership of DDR by building the capacity of local institutions;</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2525]"><source><g id="597">Coordinating reconstruction priorities. </g>The World Bank places a premium on cooperation with national counterparts and development and multilateral organizations in its work to support transitions from conflict to peace. Drawing upon both international and national technical expertise, joint assessment missions (JAM) among the Bank and its UN, government and international financial institution partners have recently become the norm in post-conflict operations.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2541]"><source>convened annually to ensure continued financial support for reconstruction and provide regular progress updates. The Bank also frequently helps organize additional local or international donor coordination structures or processes to leverage funds, report on the state of the country’s economy, track donor funding activities, monitor progress on targets or action plans and avoid duplication of activities. One effective mechanism to coordinate aid-financed programmes has been the use of trust funds for reconstruction.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2555]"><source>Finally, the Bank has recently improved its allocation system for post-conflict countries to receive IDA resources, which are grants and interest-free credits reserved for the world’s poorest countries. Generally, the Bank’s IDA resources are dispersed based on policy performance evaluated by the country policy and institutional assessment (CPIA) indicators. A country gets more resources the better its implementation of economic and social policies that promote growth and poverty reduction. This often works against post- conflict countries, however, since they typically have performed poorly on this front at the very time they most need financial resources. The Bank, therefore, devised a new set of indicators better tailored for post-conflict countries, such as human security and progress towards peace and governance. A country is typically expected to return to IDA’s regular (CPIA-based) allocation process within three years.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[289]/text:list-item[0]/text:list[0]/text:list-item[1]/text:p[0]/text:span[0]"><source>Multilateral Investment Guarantee Agency (MIGA); and</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2577]"><source>The Bank’s matrix structure ensures that both a country focus and a sector focus are given equal weight and responsibility in every country programme. Within this framework, the country director and country manager manage the budget and are responsible for formulating country programmes that are driven by the country assistance strategy (CAS) or transitional support strategy (TSS). Sector managers and task team leaders are responsible for delivering timely products that are technically excellent, serve the client’s business context and are informed by global best practices. The Bank’s decentralized management approach permits considerable decision-making at the regional and country level.</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2579]/draw:g[0]/draw:custom-shape[7]/text:p[0]/text:span[0]"><source>Task team leader</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[295]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Deepening the development consultation and participation process of civil society, including non-governmental organizations (NGOs), the private </source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[298]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Leading the sectoral and technical teams associated with country management issues and managing the budget and work programme in collaboration with a sector manager and respective sector units; and</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[301]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>appraisal, negotiation, launch and supervision missions;</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[305]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Monitoring and evaluating programme quality, including the preparation of project implementation plans and reports and comparing projected and </source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2608]"><source>The PCF supports innovative activities in uncertain and fragile conflict-affected societies that are critical for securing peace and economic development. It makes grants to a wide range of partners—UN agencies, transitional authorities, governments, institutions, NGOs and other civil society institutions—to restore the lives and livelihoods of war- affected populations, enhance partnerships with donors and executing agencies and leverage resources through a variety of funding arrangements. Priority themes for PCF grant eligibility include:</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2620]/text:span[0]"><source>Following World Bank participation in a 1997 UN mission to Afghanistan as part of efforts to improve coordination among aid agencies, the Bank assumed a proactive status, referred to as a watching brief, in line with the Bank’s policies for countries in conflict.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2631]"><source>The World Bank’s project cycle is the same for post-conflict environments as it is for all other countries, although the process can be expedited for emergency recovery assistance. The project cycle, represented in the diagram below, involves four phases:</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2635]/draw:g[0]/draw:custom-shape[3]/text:p[0]/text:span[0]"><source>Country Assistance Strategies</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2635]/draw:g[0]/draw:custom-shape[11]/text:p[0]/text:span[0]"><source>Negotiations &amp; Board</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2646]"><source><g id="615">Effectiveness. </g>The loan or credit agreement is then submitted for final processing, which can take several months, as required by the borrowing government. For example, agreements often have to be ratified by a country’s legislature. Upon successful completion, the loan or credit is declared effective, or ready for disbursement, and is then registered with the UN and made available to the public.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]"><source>CAS</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]"><source>Poverty reduction strategy paper</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]"><source>Description</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[2]/text:p[0]"><source>Initiative launched in 1996 by the World Bank and IMF to respond to the poor country debt crisis. It brings all creditors, bilateral, multilateral and commercial lenders, into a coordinated framework and places debt relief within an overall context of</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[0]/text:p[0]"><source>PCF</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[1]/table:table-cell[1]/text:p[0]"><source>Letter of development policy</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[4]/table:table-cell[0]/text:p[0]"><source>MOP</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[6]/table:table-cell[2]/text:p[0]"><source>Country-based analytical and advisory services commonly used in lending operations to inform policy dialogue, develop and implement country strategies, respond to country requests and needs and provide analysis for the development community.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[316]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Provide for the peaceful settlement of potentially violent disputes; and</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[166]/text:span[0]"><source>Peacekeeping and Peacebuilding</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[320]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>their reintegration into civilian life;</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2686]"><source>Peacekeeping operations, being of a limited duration, can only begin the process of building peace through reforming and restructuring national institutions; they cannot build long-term national capacity. Peacekeeping operations that have a mandate to act as a UN transitional administration, such as the United Nations Interim Administration Mission in Kosovo (UNMIK) and the United Nations Transitional Administration in East Timor (UNTAET), have broad responsibilities for governance and administration but are only able to support the building of national institutions and capacity for the duration of their mandate. These types of peacekeeping missions may enable significant short-term progress in a host country but may not always be conducive to longer term national capacity-building, and the flow of international personnel and resources may diminish considerably once the operation ends.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[168]/text:span[0]"><source>Role of Resident Coordinators in Peace Processes</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2712]"><source>Once the peacekeeping operation has ended, continuing international support and technical assistance for reform of rule of law institutions will fall to the RC. Therefore, the RC’s input should be sought during the planning and conceptualization stages, which will ensure that fundraising and development assistance frameworks reflect similar priorities, easing the transition from peacekeeping to peacebuilding.</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2725]"><source>Another recent example is the UN’s Peacebuilding and Recovery Strategy for Sierra Leone, which integrates humanitarian and development assistance into a comprehensive strategy for building lasting peace and provides the basis for both the transitional appeal for 2003 as well as the UNDAF for 2004-2007. The Consultative Group meeting on Sierra Leone in Paris in November 2002 was co-chaired by the World Bank and UNDP and dealt with the Sierra Leone’s peace and security, humanitarian, and development needs in an integrated way.</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2738]"><source>UN country teams, led by the RC, provide a ready successor to many peacekeeping operations for activities that build sustainable peace in post-conflict situations. If properly planned, coordinated and managed, the exit strategy of a peacekeeping operation could very well constitute handing over key activities and programmes to the RC and UN country team for continued implementation. RCs can work to deepen and strengthen the short-term economic recovery that may have been established during a peacekeeping operation. With appropriate funding and political support, RCs can undertake and facilitate the long-term initiatives necessary to stabilize fragile political systems according to the principles of participation, accountability, good governance and rule of law.</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[16]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[24]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[32]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[40]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[48]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[56]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[64]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[72]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[80]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[88]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[96]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[104]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[112]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[120]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[128]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[136]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[144]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[152]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[160]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[168]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[176]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[184]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[192]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target/>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[200]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target/>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[208]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
