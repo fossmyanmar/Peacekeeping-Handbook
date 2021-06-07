@@ -234,7 +234,7 @@
         <target>ICBL မြေမြှုပ်မိုင်းများတားဆီးရန်အပြည်ပြည်ဆိုင်ရာကမ်ပိန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]"><source>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</source>
-        <target state="needs-translation">ICCPR နိုင်ငံသားနှင့်နိုင်ငံရေးအခွင့်အရေးဆိုင်ရာအပြည်ပြည်ဆိုင်ရာပဋိညာဉ်</target>
+        <target state="needs-translation">ICCPR <g id="66"/>နိုင်ငံသားနှင့်နိုင်ငံရေးအခွင့်အရေးဆိုင်ရာအပြည်ပြည်ဆိုင်ရာပဋိညာဉ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]"><source>ICRC<g id="70"/>International Committee of the Red Cross</source>
         <target>ICRC နိုင်ငံတကာကြက်ခြေနီကော်မတီ</target>
