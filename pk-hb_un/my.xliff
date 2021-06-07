@@ -186,7 +186,7 @@
         <target>CERD<g id="30"/>လူမျိုးရေးခွဲခြားဆက်ဆံမှုများအားလုံးပပျောက်ရေးဆိုင်ရာအပြည်ပြည်ဆိုင်ရာသဘောတူစာချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]"><source>CMIC<g id="33"/>civil-military coordination cell</source>
-        <target>CMIC<g id="33"/>အရပ်ဘက် - စစ်ရေးညှိနှိုင်းဆဲလ်</target>
+        <target state="needs-translation">CMIC<g id="33"/>အရပ်ဘက် - စစ်ရေးညှိနှိုင်းဆဲလ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
         <target>CPR<g id="35"/>conflict prevention and reconstruction</target>
@@ -210,22 +210,22 @@
         <target>ECOSOC<g id="47"/>စီးပွားရေးနှင့်လူမှုရေးကောင်စီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]"><source>ECPS<g id="48"/>Executive Committee on Peace and Security</source>
-        <target>ECPS<g id="48"/>Executive Committee on Peace and Security</target>
+        <target>ECPS<g id="48"/>ငြိမ်းချမ်းရေးနှင့်လုံခြုံရေးဆိုင်ရာအလုပ်အမှုဆောင်ကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]"><source>ECHA<g id="49"/>Executive Committee on Humanitarian Affairs</source>
-        <target>ECHA<g id="49"/>Executive Committee on Humanitarian Affairs</target>
+        <target>ECHA<g id="49"/>လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာအလုပ်အမှုဆောင်ကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"><source>EOD<g id="51"/>explosive ordnance disposal</source>
-        <target>EOD<g id="51"/>explosive ordnance disposal</target>
+        <target>EOD<g id="51"/>ပေါက်ကွဲလက်နက်များစွန့်ပစ်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]"><source>EU<g id="53"/>European Union</source>
-        <target>EU<g id="53"/>European Union</target>
+        <target>EU<g id="53"/>ဥရောပသမဂ္ဂ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]"><source>FRY<g id="55"/>Federal Republic of Yugoslavia</source>
-        <target>FRY<g id="55"/>Federal Republic of Yugoslavia</target>
+        <target>FRY<g id="55"/>ယူဂိုဆလားဗီးယားဖက်ဒရယ်သမ္မတနိုင်ငံ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]"><source>HIPC<g id="60"/>highly indebted poor country</source>
-        <target>HIPC<g id="60"/>highly indebted poor country</target>
+        <target>HIPC<g id="60"/>အလွန်အမင်းအကြွေးနှစ်၍ဆင်းရဲသောတိုင်းပြည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
         <target>IBRD<g id="64"/>International Bank for Reconstruction and Development</target>
@@ -654,7 +654,7 @@
         <target>CAS<g id="24"/>တိုင်းပြည်အကူအညီနည်းဗျူဟာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]"><source>CCA<g id="27"/>common country assessment</source>
-        <target>CCA<g id="27"/>ဘုံတိုင်းပြည်အကဲဖြတ်</target>
+        <target state="needs-translation">CCA<g id="27"/>ဘုံတိုင်းပြည်အကဲဖြတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
         <target>CEDAW<g id="28"/>အမျိုးသမီးများအားခွဲခြားဆက်ဆံမှုပုံစံအားလုံးပပျောက်ရေးသဘောတူစာချုပ်</target>
@@ -681,16 +681,16 @@
         <target>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]"><source>EMB<g id="50"/>electoral management body</source>
-        <target>EMB<g id="50"/>electoral management body</target>
+        <target>EMB<g id="50"/>ရွေးကောက်ပွဲစီမံခန့်ခွဲမှုအဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]"><source>ERC<g id="52"/>Emergency Relief Coordinator</source>
-        <target>ERC<g id="52"/>Emergency Relief Coordinator</target>
+        <target>ERC<g id="52"/>အရေးပေါ်ကယ်ဆယ်ရေးညှိနှိုင်းရေးမှူး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]"><source>FAO<g id="54"/>Food and Agricultural Organization</source>
-        <target>FAO<g id="54"/>Food and Agricultural Organization</target>
+        <target>FAO<g id="54"/>စားနပ်ရိက္ခာနှင့်စိုက်ပျိုးရေးအဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]"><source>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</source>
-        <target>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</target>
+        <target>GICHD<g id="56"/>ဂျီနီဗာလူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာအပြည်ပြည်ဆိုင်ရာစင်တာလူသားချင်းစာနာမှုဆိုင်ရာညှိနှိုင်းရေးမှူး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]"><source>HI<g id="59"/>Handicap International</source>
         <target>HI<g id="59"/>Handicap International</target>
