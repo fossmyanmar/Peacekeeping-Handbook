@@ -234,43 +234,43 @@
         <target>ICBL မြေမြှုပ်မိုင်းများတားဆီးရန်အပြည်ပြည်ဆိုင်ရာကမ်ပိန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]"><source>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</source>
-        <target>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</target>
+        <target state="needs-translation">ICCPR နိုင်ငံသားနှင့်နိုင်ငံရေးအခွင့်အရေးဆိုင်ရာအပြည်ပြည်ဆိုင်ရာပဋိညာဉ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]"><source>ICRC<g id="70"/>International Committee of the Red Cross</source>
-        <target>ICRC<g id="70"/>ကြက်ခြေနီ၏နိုင်ငံတကာကော်မတီ</target>
+        <target>ICRC နိုင်ငံတကာကြက်ခြေနီကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[233]/text:list-item[0]/text:p[0]/text:span[2]"><source>polling day.</source>
         <target>polling day.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[137]"><source>IDP<g id="74"/>internally displaced person</source>
-        <target>IDP<g id="74"/>ပြည်တွင်းရွှေ့ပြောင်းဒုက္ခသည်</target>
+        <target>IDP ပြည်တွင်းရွှေ့ပြောင်းဒုက္ခသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]"><source>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</source>
-        <target>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</target>
+        <target>IFRC အပြည်ပြည်ဆိုင်ရာကြက်ခြေနီနှင့်လခြမ်းနီအဖွဲ့များ IMAS အပြည်ပြည်ဆိုင်ရာအဖွဲ့ချုပ်၏ နိုင်ငံတကာမိုင်းရှင်းလင်းရေးစံနှုန်းမျာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]"><source>IMF<g id="78"/>International Monetary Fund</source>
-        <target>IMF<g id="78"/>အပြည်ပြည်ဆိုင်ရာငွေကြေးရန်ပုံငွေအဖွဲ့</target>
+        <target>IMF အပြည်ပြည်ဆိုင်ရာငွေကြေးရန်ပုံငွေအဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]"><source>IOM<g id="82"/>International Organization for Migration</source>
-        <target>IOM<g id="82"/>International Organization for Migration</target>
+        <target>IOM ရွှေ့ပြောင်းနေထိုင်မှုဆိုင်ရာ နိုင်ငံတကာအဖွဲ့အစည်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]"><source>JAM<g id="84"/>joint assessment mission</source>
-        <target>JAM<g id="84"/>joint assessment mission</target>
+        <target state="needs-translation">JAM ပူးတွဲအကဲဖြတ်မစ်ရှင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]"><source>JLOC<g id="86"/>joint logistics operations centre</source>
-        <target>JLOC<g id="86"/>joint logistics operations centre</target>
+        <target>JLOC ပူးတွဲထောက်ပံ့ပို့ဆောင်ရေး စစ်ဆင်ရေးစင်တာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]"><source>LIS<g id="89"/>landmine impact survey</source>
-        <target>LIS<g id="89"/>landmine impact survey</target>
+        <target>LIS မြေမြှုပ်မိုင်းအကျိုးသက်ရောက်မှုစစ်တမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[150]"><source>MACC<g id="90"/>mine action coordination centre</source>
-        <target>MACC<g id="90"/>mine action coordination centre</target>
+        <target>MACC မိုင်းအရေးယူညှိနှိုင်းရေးစင်တာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[151]"><source>MAG<g id="91"/>Mines Advisory Group</source>
-        <target>MAG<g id="91"/>Mines Advisory Group</target>
+        <target>MAG မိုင်းအကြံပေးအဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[152]"><source>MIGA<g id="92"/>Multilateral Investment Guarantee Agency</source>
-        <target>MIGA<g id="92"/>Multilateral Investment Guarantee Agency</target>
+        <target>MIGA ဘက်ပေါင်းစုံရင်းနှီးမြှုပ်နှံမှုအာမခံအေဂျင်စီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[154]"><source>MSF<g id="97"/>Médecins Sans Frontières</source>
         <target>MSF<g id="97"/>Médecins Sans Frontières</target>
@@ -696,31 +696,31 @@
         <target state="translated">HI <g id="59"/> နိုင်ငံတကာ မသန်စွမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
-        <target state="needs-translation">IACG-MA မိုင်းအပေါ်အေဂျင်စီများညှိနှိုင်းဆောင်ရွက်ရေးအဖွဲ့၊ အေဂျင်စီအချင်းချင်းအမြဲတမ်းကော်မတီ</target>
+        <target state="translated">IACG-MA မိုင်းအပေါ်အေဂျင်စီများညှိနှိုင်းဆောင်ရွက်ရေးအဖွဲ့၊ IASC အေဂျင်စီအချင်းချင်းအမြဲတမ်းကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]"><source>ICESCR<g id="67"/>International Covenant on Economic, Social and Cultural <g id="68">Rights </g>ICR<g id="69"/>implementation completion report</source>
-        <target>ICESCR  စီးပွားရေး၊ လူမှုရေးနှင့်ယဉ်ကျေးမှုဆိုင်ရာအခွင့်အရေးဆိုင်ရာအကောင်အထည်ဖော်မှုပြီးစီးသည့်အစီရင်ခံစာ</target>
+        <target>ICESCR စီးပွားရေး၊ လူမှုရေးနှင့်ယဉ်ကျေးမှုဆိုင်ရာ အခွင့်အရေးဆိုင်ရာ အကောင်အထည်ဖော်မှုပြီးစီးသည့် အစီရင်ခံစာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]"><source>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</source>
-        <target>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</target>
+        <target>ICSID ရင်းနှီးမြှုပ်နှံမှု အငြင်းပွားမှုများဖြေရှင်းရေးအတွက် နိုင်ငံတကာစင်တာ IDA နိုင်ငံတကာဖွံ့ဖြိုးရေးအသင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]"><source>IFC<g id="75"/>International Finance Corporation</source>
-        <target>IFC<g id="75"/>International Finance Corporation</target>
+        <target>IFC နိုင်ငံတကာဘဏ္ဏာရေးကော်ပိုရေးရှင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]"><source>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</source>
-        <target>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</target>
+        <target>IMSMA မိုင်းရှင်းလင်းရေးအတွက်သတင်းအချက်အလက်စီမံခန့်ခွဲမှုစနစ် IMTF ဘက်ပေါင်းစုံမစ်ရှင်လုပ်ငန်းတာဝန်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]"><source>IPTF<g id="83"/>International Police Task Force</source>
-        <target>IPTF<g id="83"/>International Police Task Force</target>
+        <target>IPTF နိုင်ငံတကာရဲတပ်ဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]"><source>JMAC<g id="85"/>joint mission analysis cell</source>
-        <target>JMAC<g id="85"/>joint mission analysis cell</target>
+        <target state="needs-translation">JMAC ပူးတွဲမစ်ရှင်ခွဲခြမ်းစိတ်ဖြာဆဲလ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]"><source>JOC<g id="87"/>joint operations centre</source>
-        <target>JOC<g id="87"/>joint operations centre</target>
+        <target>JOC ပူးတွဲစစ်ဆင်ရေးစင်တာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]"><source>KFOR<g id="88"/>Kosovo Force</source>
-        <target>KFOR<g id="88"/>Kosovo Force</target>
+        <target>KFOR ကိုဆိုဗိုအင်အားစု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[153]"><source>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</source>
         <target>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</target>
