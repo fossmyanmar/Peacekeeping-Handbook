@@ -6,7 +6,7 @@
         <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံးအလေ့အကျင့် သတ်မှတ်ရေးအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target>ကုလသမဂ္ဂဘက်ပေါင်းစုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုစစ်ဆင်ရေးဆိုင်ရာလက်စွဲစာအုပ်</target>
+        <target>ကုလသမဂ္ဂ ဘက်ပေါင်းစုံ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု လုပ်ငန်းစဉ်များဆိုင်ရာ လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -18,7 +18,7 @@
         <target>Cooperation and Coordination with Key Partners</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[1]"><source>Operations </source>
-        <target>စစ်ဆင်ရေးဌာန </target>
+        <target>လုပ်ငန်းစဉ်များဌာန </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]"><source>Copyright © United Nations 2003</source>
         <target>မူပိုင်ခွင့် © ကုလသမဂ္ဂ ၂၀၀၃</target>
@@ -504,7 +504,7 @@
         <target>equality;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]"><source>As peacekeeping has evolved, particularly since the late 1980s, a growing number of United Nations peacekeeping operations have become multidimensional in nature, composed of a range of components, including military, civilian police, political <g id="16">affairs, </g>rule of law, human rights, humanitarian, reconstruction, public information and gender. There are also a number of areas, such as mission support and security and safety of personnel, that remain essential to peacekeeping regardless of a particular mission’s mandate.</source>
-        <target>As peacekeeping has evolved, particularly since the late 1980s, a growing number of United Nations peacekeeping operations have become multidimensional in nature, composed of a range of components, including military, civilian police, political <g id="16">affairs, </g>rule of law, human rights, humanitarian, reconstruction, public information and gender. There are also a number of areas, such as mission support and security and safety of personnel, that remain essential to peacekeeping regardless of a particular mission’s mandate.</target>
+        <target>အထူးသဖြင့် ၁၉၈၀ နှောင်းပိုင်းမှစ၍ တိုးပွားလာသော ကုလသမဂ္ဂ၏ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများသည် စစ်တပ်၊ အရပ်သားရဲ၊ နိုင်ငံရေးရာ၊ တရားဥပဒေစိုးမိုးရေး၊ လူ့အခွင့်အရေး၊ လူသားချင်းစာနာမှု၊ ပြန်လည်ထူထောင်ရေး၊ အများပြည်သူသတင်းအချက်အလက်နှင့်ကျားမအရေး စသည့် များစွာသော ရှုထောင့်များမှ ဖြစ်လာသည်။ မစ်ရှင်အထောက်အပံ့နှင့် လုံခြုံရေး၀န်ထမ်းများ၏လုံခြုံရေး စသည့် နယ်ပယ်အတော်များများသည်လည်း ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုအတွက် မရှိမဖြစ်လိုအပ်သည့် မစ်ရှင်တစ်ခု၏တာ၀န် ၀တ္တရား ဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[118]/text:list-item[0]/text:p[0]/text:span[2]"><source>punishment, not for punishment;</source>
         <target>punishment, not for punishment;</target>
