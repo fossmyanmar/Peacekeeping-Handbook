@@ -27,10 +27,10 @@
         <target>to </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[2]"><source>United Nations</source>
-        <target>ကုလသမဂ္ဂ</target>
+        <target>United Nations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]"><source>December</source>
-        <target>ဒီဇင်ဘာ</target>
+        <target>December</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
         <target>အင်္ဂလန်နှင့်ဂျာမနီနိုင်ငံ အစိုးရများ၏ ရက်ရက်ရောရော ထောက်ပံ့မှုဖြင့် ဤစာအုပ်ကို ထုတ်ဝေခဲ့ပါသည်။</target>
@@ -57,10 +57,10 @@
         <target>DPKO-Handbook@un.org</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[1]"><source>ONTENTS</source>
-        <target>မာတိကာ</target>
+        <target>ONTENTS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]"><source>Foreword</source>
-        <target>အမှာစကား</target>
+        <target>Foreword</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]"><source>vii</source>
         <target>vii</target>
@@ -117,7 +117,7 @@
         <target><g id="6">VII</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[1]/text:p[0]"><source>Police, Judiciary and Corrections Aspects of Rule of Law</source>
-        <target>ရဲတပ်ဖွဲ့၊ တရားစီရင်ရေးနှင့်တရားဥပဒေစိုးမိုးရေးရှုထောင့်များ</target>
+        <target>Police, Judiciary and Corrections Aspects of Rule of Law</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[1]/text:p[0]"><source>Human Rights</source>
         <target>လူ့အခွင့်အရေး</target>
@@ -168,34 +168,34 @@
         <target>နိုဝင်ဘာ ၂၀၀၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]"><source>ACRONYMS</source>
-        <target>အတိုကောက်</target>
+        <target>ACRONYMS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]"><source>Bank</source>
         <target>ဘဏ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target>APM ပုဂ္ဂိုလ်ရေးဆန့်ကျင်မြေမြှုပ်မိုင်း</target>
+        <target>APM<g id="19"/>anti-personnel landmines</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
-        <target>ATM တင့်ကားဖျက်မိုင်း</target>
+        <target>ATM<g id="21"/>anti-tank mine</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
-        <target>CAT နှိပ်စက်ညှင်းပန်းခြင်းနှင့်အခြားရက်စက်ကြမ်းကြုတ်သော လူမဆန်သည့်အဆင့် သတ်မှတ်ချက်များ၊</target>
+        <target>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
-        <target>CERD လူမျိုးရေး ခွဲခြားဆက်ဆံမှုများအားလုံး ပပျောက်ရေးဆိုင်ရာ အပြည်ပြည်ဆိုင်ရာသဘောတူစာချုပ်</target>
+        <target>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]"><source>CMIC<g id="33"/>civil-military coordination cell</source>
-        <target state="needs-translation">CMIC <g id="33"/>အရပ်ဘက် - စစ်ရေးညှိနှိုင်းဆဲလ်</target>
+        <target state="translated">CMIC<g id="33"/>civil-military coordination cell</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
-        <target>CPR ပဋိပက္ခကာကွယ်တားဆီးရေးနှင့် ပြန်လည်ထူထောင်ရေး</target>
+        <target>CPR<g id="35"/>conflict prevention and reconstruction</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]"><source>CRC<g id="36"/>Convention on the Rights of the Child</source>
         <target>CRC ကလေးသူငယ်အခွင့်အရေးဆိုင်ရာသဘောတူညီချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]"><source>DDA<g id="37"/>Department for Disarmament Affairs</source>
-        <target>DDA လက်နက်ဖျက်သိမ်းရေးဌာန</target>
+        <target>DDA<g id="37"/>Department for Disarmament Affairs</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]"><source>DDR<g id="38"/>disarmament, demobilization and reintegration</source>
         <target>DDR လက်နက်ဖျက်သိမ်းခြင်း၊တပ်ဖျက်သိမ်းခြင်းနှင့်ပြန်လည်ပေါင်းစည်းခြင်း</target>
@@ -210,13 +210,13 @@
         <target>ECOSOC စီးပွားရေးနှင့်လူမှုရေးကောင်စီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]"><source>ECPS<g id="48"/>Executive Committee on Peace and Security</source>
-        <target>ECPS ငြိမ်းချမ်းရေးနှင့်လုံခြုံရေးဆိုင်ရာအလုပ်အမှုဆောင်ကော်မတီ</target>
+        <target>ECPS<g id="48"/>Executive Committee on Peace and Security</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]"><source>ECHA<g id="49"/>Executive Committee on Humanitarian Affairs</source>
         <target>ECHA လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာအလုပ်အမှုဆောင်ကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"><source>EOD<g id="51"/>explosive ordnance disposal</source>
-        <target>EOD ပေါက်ကွဲလက်နက်များစွန့်ပစ်ခြင်း</target>
+        <target>EOD<g id="51"/>explosive ordnance disposal</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]"><source>EU<g id="53"/>European Union</source>
         <target>EU ဥရောပသမဂ္ဂ</target>
@@ -246,19 +246,19 @@
         <target>IDP ပြည်တွင်းရွှေ့ပြောင်းဒုက္ခသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]"><source>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</source>
-        <target>IFRC အပြည်ပြည်ဆိုင်ရာကြက်ခြေနီနှင့်လခြမ်းနီအဖွဲ့များ IMAS အပြည်ပြည်ဆိုင်ရာအဖွဲ့ချုပ်၏ နိုင်ငံတကာမိုင်းရှင်းလင်းရေးစံနှုန်းမျာ</target>
+        <target>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]"><source>IMF<g id="78"/>International Monetary Fund</source>
         <target>IMF အပြည်ပြည်ဆိုင်ရာငွေကြေးရန်ပုံငွေအဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]"><source>IOM<g id="82"/>International Organization for Migration</source>
-        <target>IOM ရွှေ့ပြောင်းနေထိုင်မှုဆိုင်ရာ နိုင်ငံတကာအဖွဲ့အစည်း</target>
+        <target>IOM<g id="82"/>International Organization for Migration</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]"><source>JAM<g id="84"/>joint assessment mission</source>
-        <target state="needs-translation">JAM ပူးတွဲအကဲဖြတ်မစ်ရှင်</target>
+        <target state="translated">JAM<g id="84"/>joint assessment mission</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]"><source>JLOC<g id="86"/>joint logistics operations centre</source>
-        <target>JLOC ပူးတွဲထောက်ပံ့ပို့ဆောင်ရေး စစ်ဆင်ရေးစင်တာ</target>
+        <target>JLOC<g id="86"/>joint logistics operations centre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]"><source>LIS<g id="89"/>landmine impact survey</source>
         <target>LIS မြေမြှုပ်မိုင်းအကျိုးသက်ရောက်မှုစစ်တမ်း</target>
