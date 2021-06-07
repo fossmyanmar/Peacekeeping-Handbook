@@ -159,7 +159,7 @@
         <target>အမှာစကား</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]"><source>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</source>
-        <target>ငြိမ်းချမ်းရေးလုပ်ငန်းစဉ် ဦးစီးဌာနမှကျွန်ုပ်တို့အားလုံးသည်သင်၏တာ၀ န်ထမ်းဆောင်မှုအသစ်ကိုနယ်ပယ်၌စတင်လုပ်ကိုင်စဉ်သင့်အားအကောင်းဆုံးလုပ်နိုင်မယ်လို့ မျှော်လင့်ပါသည်။</target>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်များဌာနမှ ကျွန်ုပ်တို့အားလုံးသည် ဤ နယ်ပယ်၌ သင်၏တာ၀န်အသစ်ကို အကောင်းဆုံးလုပ်နိုင်မည်ဟု မျှော်လင့်ပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]"><source>Jean-Marie Guéhenno</source>
         <target>Jean-Marie Guéhenno</target>
@@ -174,10 +174,10 @@
         <target>ဘဏ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target>APM<g id="19"/>ပုဂ္ဂိုလ်ရေးဆန့်ကျင်မြေမြှုပ်မိုင်း</target>
+        <target>APM ပုဂ္ဂိုလ်ရေးဆန့်ကျင်မြေမြှုပ်မိုင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
-        <target>ATM<g id="21"/>တင့်တိုက်ဖျက်ရေးသတ္တုတွင်း</target>
+        <target>ATM တင့်ဖျက်မိုင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
         <target>CAT<g id="25"/>နှိပ်စက်ညှင်းပန်းခြင်းနှင့်အခြားရက်စက်ကြမ်းကြုတ်သောလူမဆန်သည့်အဆင့်သတ်မှတ်ချက်များ၊</target>
@@ -633,22 +633,22 @@
         <target>ကျွန်ုပ်တို့သည် လက်စွဲစာအုပ်၏ အီလက်ထရောနစ်မူကွဲကို အခါအားလျော်စွာ အဆင့်မြှင့်ရန်နှင့် သင်၏ထင်မြင်ချက်များနှင့်မေးခွန်းများကို လက်ခံရန် မျှော်လင့်ပါသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]"><source>Under-Secretary-General for Peacekeeping Operations</source>
-        <target>အတွင်းရေးမှူးချုပ်လက်အောက်တွင်ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများ</target>
+        <target>အတွင်းရေးမှူးချုပ် လက်အောက်တွင် ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]"><source>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</source>
-        <target>ACABQ<g id="17"/>အုပ်ချုပ်ရေးနှင့်ဘတ်ဂျက်ဆိုင်ရာကိစ္စရပ်များအတွက်အကြံပေးကော်မတီ</target>
+        <target>ACABQ အုပ်ချုပ်ရေးနှင့်ဘတ်ဂျက်ဆိုင်ရာကိစ္စရပ်များအတွက် အကြံပေးကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]"><source>ADB<g id="18"/>Asian Development</source>
-        <target>ADB<g id="18"/>အာရှဖွံ့ဖြိုးတိုးတက်မှု</target>
+        <target>ADB အာရှဖွံ့ဖြိုးတိုးတက်မှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
-        <target>APMBT<g id="20"/>ပုဂ္ဂိုလ်ရေးဆန့်ကျင်မိုင်းတားမြစ်စာချုပ်</target>
+        <target>APMBT ပုဂ္ဂိုလ်ရေးဆန့်ကျင်မိုင်းတားမြစ်စာချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]"><source>CAO<g id="22"/>chief administrative officer</source>
-        <target>CAO<g id="22"/>ကာကွယ်ရေးဦးစီးချုပ်အုပ်ချုပ်ရေးအရာရှိ</target>
+        <target>CAO အုပ်ချုပ်ရေးအရာရှိချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]"><source>CAP<g id="23"/>consolidated appeals process</source>
-        <target>CAP<g id="23"/>ပေါင်းစုအယူခံလုပ်ငန်းစဉ်</target>
+        <target>CAP ပေါင်းစုအယူခံလုပ်ငန်းစဉ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"><source>CAS<g id="24"/>country assistance strategy</source>
         <target>CAS<g id="24"/>တိုင်းပြည်အကူအညီနည်းဗျူဟာ</target>
