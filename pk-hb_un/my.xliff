@@ -54,7 +54,7 @@
         <target>အီးမေး  : </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:a[0]/text:span[0]"><source>DPKO-Handbook@un.org</source>
-        <target>DPKO-လက်စွဲစာအုပ်@un.org</target>
+        <target>DPKO-Handbook@un.org</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[1]"><source>ONTENTS</source>
         <target>မာတိကာ</target>
@@ -630,7 +630,7 @@
         <target>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]"><source>We hope to update the electronic version of the Handbook periodically and look forward to receiving your comments and questions.</source>
-        <target>ကျွန်ုပ်တို့သည်လက်စွဲစာအုပ်၏အီလက်ထရောနစ်မူကွဲကိုအခါအားလျော်စွာ အဆင့်မြင့်ရန်နှင့်သင်၏ထင်မြင်ချက်များနှင့်မေးခွန်းများကိုလက်ခံရန်မျှော်လင့်ပါသည်</target>
+        <target>ကျွန်ုပ်တို့သည် လက်စွဲစာအုပ်၏ အီလက်ထရောနစ်မူကွဲကို အခါအားလျော်စွာ အဆင့်မြှင့်ရန်နှင့် သင်၏ထင်မြင်ချက်များနှင့်မေးခွန်းများကို လက်ခံရန် မျှော်လင့်ပါသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]"><source>Under-Secretary-General for Peacekeeping Operations</source>
         <target>အတွင်းရေးမှူးချုပ်လက်အောက်တွင်ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများ</target>
