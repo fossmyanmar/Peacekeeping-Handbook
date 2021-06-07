@@ -3,7 +3,7 @@
   <file original="peacekeeping-handbook_un_dec2003_KKY.odt" source-language="en" datatype="plaintext" target-language="my">
     <body>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
-        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံးအလေ့အကျင့် သတ်မှတ်ရေးအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု </target>
+        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံးအလေ့အကျင့် သတ်မှတ်ရေးအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
         <target>ကုလသမဂ္ဂ ဘက်ပေါင်းစုံ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု လုပ်ငန်းစဉ်များဆိုင်ရာ လက်စွဲစာအုပ်</target>
@@ -186,7 +186,7 @@
         <target>CERD လူမျိုးရေး ခွဲခြားဆက်ဆံမှုများအားလုံး ပပျောက်ရေးဆိုင်ရာ အပြည်ပြည်ဆိုင်ရာသဘောတူစာချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]"><source>CMIC<g id="33"/>civil-military coordination cell</source>
-        <target state="needs-translation">CMIC အရပ်ဘက် - စစ်ရေးညှိနှိုင်းဆဲလ်</target>
+        <target state="needs-translation">CMIC <g id="33"/>အရပ်ဘက် - စစ်ရေးညှိနှိုင်းဆဲလ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
         <target>CPR ပဋိပက္ခကာကွယ်တားဆီးရေးနှင့် ပြန်လည်ထူထောင်ရေး</target>
@@ -654,7 +654,7 @@
         <target>CAS တိုင်းပြည်အကူအညီနည်းဗျူဟာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]"><source>CCA<g id="27"/>common country assessment</source>
-        <target state="needs-translation">CCA ဘုံတိုင်းပြည်အကဲဖြတ်</target>
+        <target state="translated">CCA <g id="27"/>ဘုံတိုင်းပြည်အကဲဖြတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
         <target>CEDAW အမျိုးသမီးများအား ခွဲခြားဆက်ဆံမှုပုံစံအားလုံး ပပျောက်ရေးသဘောတူစာချုပ်</target>
@@ -693,7 +693,7 @@
         <target>GICHD ဂျီနီဗာလူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာ အပြည်ပြည်ဆိုင်ရာစင်တာ လူသားချင်းစာနာမှုဆိုင်ရာညှိနှိုင်းရေးမှူး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]"><source>HI<g id="59"/>Handicap International</source>
-        <target state="needs-translation">HI နိုင်ငံတကာ မသန်စွမ်း</target>
+        <target state="translated">HI <g id="59"/> နိုင်ငံတကာ မသန်စွမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
         <target state="needs-translation">IACG-MA မိုင်းအပေါ်အေဂျင်စီများညှိနှိုင်းဆောင်ရွက်ရေးအဖွဲ့၊ အေဂျင်စီအချင်းချင်းအမြဲတမ်းကော်မတီ</target>
