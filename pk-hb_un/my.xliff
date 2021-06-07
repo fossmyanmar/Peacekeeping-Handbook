@@ -228,10 +228,10 @@
         <target state="translated">HIPC အလွန်အမင်းအကြွေးနစ်၍ ဆင်းရဲသောတိုင်းပြည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
-        <target>IBRD<g id="64"/>ပြန်လည်တည်ဆောက်ရေးနှင့်ဖွံ့ဖြိုးရေးအတွက်အပြည်ပြည်ဆိုင်ရာဘဏ်</target>
+        <target>IBRD ပြန်လည်တည်ဆောက်ရေးနှင့်ဖွံ့ဖြိုးရေးအတွက်အပြည်ပြည်ဆိုင်ရာဘဏ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]"><source>ICBL<g id="65"/>International Campaign to Ban Landmines</source>
-        <target>ICBL<g id="65"/>မြေမြှုပ်မိုင်းများတားဆီးရန်အပြည်ပြည်ဆိုင်ရာကင်ပိန်း</target>
+        <target>ICBL မြေမြှုပ်မိုင်းများတားဆီးရန်အပြည်ပြည်ဆိုင်ရာကမ်ပိန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]"><source>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</source>
         <target>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</target>
