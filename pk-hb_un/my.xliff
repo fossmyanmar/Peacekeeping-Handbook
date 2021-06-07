@@ -51,7 +51,7 @@
         <target>ဤထုတ်ဝေမှုနှင့် ပတ်သက်သောမှတ်ချက်များ သို့မဟုတ် မေးခွန်းများအား ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံးအလေ့အကျင့် သတ်မှတ်ရေးအဖွဲ့သို့ ပေးပို့နိုင်ပါသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]"><source>E-mail: </source>
-        <target>E-mail: </target>
+        <target>အီးမေး : </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:a[0]/text:span[0]"><source>DPKO-Handbook@un.org</source>
         <target>DPKO-Handbook@un.org</target>
@@ -96,7 +96,7 @@
         <target>ပြည်သူ့သတင်းအချက်အလက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[0]/text:p[0]"><source><g id="4">V</g>:</source>
-        <target><g id="4">V</g>:</target>
+        <target><g id="4">၅</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[1]/text:p[0]"><source>Military</source>
         <target>စစ်ရေး</target>
@@ -153,25 +153,25 @@
         <target><g id="13">XIV</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[0]/text:p[0]"><source><g id="15">XVI</g>:</source>
-        <target><g id="15">XVI</g>:</target>
+        <target><g id="15">၁၆</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:span[0]"><source>Foreword</source>
         <target>နိဒါန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]"><source>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</source>
-        <target>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</target>
+        <target>ငြိမ်းချမ်းရေးလုပ်ငန်းစဉ် ဦးစီးဌာနမှကျွန်ုပ်တို့အားလုံးသည်သင်၏တာ၀ န်ထမ်းဆောင်မှုအသစ်ကိုနယ်ပယ်၌စတင်လုပ်ကိုင်စဉ်သင့်အားအကောင်းဆုံးလုပ်နိုင်မယ်လို့ မျှော်လင့်ပါတယ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]"><source>Jean-Marie Guéhenno</source>
         <target>Jean-Marie Guéhenno</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]"><source>November 2003</source>
-        <target>November 2003</target>
+        <target>နိုဝင်ဘာ ၂၀၀၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]"><source>ACRONYMS</source>
         <target>ACRONYMS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]"><source>Bank</source>
-        <target>Bank</target>
+        <target>ဘဏ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]"><source>APM<g id="19"/>anti-personnel landmines</source>
         <target>APM<g id="19"/>anti-personnel landmines</target>
@@ -453,7 +453,7 @@
         <target><g id="8">IX</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[1]/text:p[0]"><source>Gender Mainstreaming</source>
-        <target>Gender Mainstreaming</target>
+        <target state="needs-translation">လိင်စိတ် တန်းတူညီမျှမှု ရှုထောင့်ကိုပေါင်းစပ်ခြင်းနည်းဗျူဟာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[0]/text:p[0]"><source><g id="9">X</g>:</source>
         <target><g id="9">X</g>:</target>
@@ -474,22 +474,22 @@
         <target>ဒုက္ခသည်များနှင့်ပြည်တွင်းရွှေ့ပြောင်းဒုက္ခသည်များ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[2]/text:p[0]"><source>169</source>
-        <target>169</target>
+        <target>၁၆၉</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[0]/text:p[0]"><source><g id="14">XV</g>:</source>
-        <target><g id="14">XV</g>:</target>
+        <target><g id="14">၁၅</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[1]/text:p[0]"><source>The World Bank in Post-Conflict Reconstruction</source>
         <target>ကမ္ဘ့ဘဏ်၏ပဋိပက္ခအလွန် ပြန်လည်ထူထောင်ရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[2]/text:p[0]"><source>183</source>
-        <target>183</target>
+        <target>၁၈၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[1]/text:p[0]"><source>Recovery, Development and Sustainable Peace</source>
         <target>ပြန်လည်ထူထောင်ရေး၊ ဖွံ့ဖြိုးရေးနှင့် ရေရှည်တည်တံ့သောငြိမ်းချမ်းရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[2]/text:p[0]"><source>199</source>
-        <target>199</target>
+        <target>၁၉၉</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[69]/text:list-item[0]/text:p[0]/text:span[0]"><source>Logistic and service support forces, including communications, medical support, air, land and maritime lift and transportation</source>
         <target>Logistic and service support forces, including communications, medical support, air, land and maritime lift and transportation</target>
@@ -630,7 +630,7 @@
         <target>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]"><source>We hope to update the electronic version of the Handbook periodically and look forward to receiving your comments and questions.</source>
-        <target>We hope to update the electronic version of the Handbook periodically and look forward to receiving your comments and questions.</target>
+        <target>ကျွန်ုပ်တို့သည်လက်စွဲစာအုပ်၏အီလက်ထရောနစ်မူကွဲကိုအခါအားလျော်စွာ အဆင့်မြင့်ရန်နှင့်သင်၏ထင်မြင်ချက်များနှင့်မေးခွန်းများကိုလက်ခံရန်မျှော်လင့်ပါသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]"><source>Under-Secretary-General for Peacekeeping Operations</source>
         <target>Under-Secretary-General for Peacekeeping Operations</target>
@@ -639,7 +639,7 @@
         <target>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]"><source>ADB<g id="18"/>Asian Development</source>
-        <target>ADB<g id="18"/>Asian Development</target>
+        <target>ADB<g id="18"/>အာရှဖွံ့ဖြိုးတိုးတက်မှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
         <target>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</target>
@@ -1404,7 +1404,7 @@
         <target>The SRSG is responsible and accountable for the maintenance of good order and discipline in the mission area and can take appropriate measures to ensure compliance with the standards of conduct expected of personnel associated with the UN.<g id="218">4</g><g id="219"> The SRSG may appoint a personnel conduct officer to assist in the monitoring of personnel behaviour, to raise awareness of the standards of conduct among mission personnel and to act as a point of notifications for allegations of misconduct.</g></target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[63]/text:span[0]"><source>International Entities</source>
-        <target>International Entities</target>
+        <target>နိုင်ငံတကာအဖွဲ့အစည်းများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[750]/text:span[0]"><source>The information strategy educated the public on both the technical aspects of the electoral process as well as the fundamental concepts of a democratic process. An issue of particular concern to Cambodian voters was the secrecy of the vote. Political threats and intimidation were a common feature of Cambodian political life and had undermined confidence in the electoral process. The public needed reassurance that UNTAC could guarantee the secrecy of the vote. Free and fair elections and secrecy of the vote became key messages in the informational material developed by the mission and were also emphasized in the soap operas and other programmes developed by UNTAC.</source>
         <target>The information strategy educated the public on both the technical aspects of the electoral process as well as the fundamental concepts of a democratic process. An issue of particular concern to Cambodian voters was the secrecy of the vote. Political threats and intimidation were a common feature of Cambodian political life and had undermined confidence in the electoral process. The public needed reassurance that UNTAC could guarantee the secrecy of the vote. Free and fair elections and secrecy of the vote became key messages in the informational material developed by the mission and were also emphasized in the soap operas and other programmes developed by UNTAC.</target>
@@ -1422,7 +1422,7 @@
         <target>The spokesperson must work very closely with the Head of Mission to accurately reflect mission priorities and objectives and advise him or her on public relations and dealing with the media. The mission spokesperson may be assisted by individuals with specialized expertise from a particular component of the mission, such as a military spokesperson for military issues and a civilian police spokesperson for matters pertaining to police and law enforcement.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1117]/text:span[0]"><source>International Committee of the Red Cross (ICRC). </source>
-        <target>International Committee of the Red Cross (ICRC). </target>
+        <target>နိုင်ငံတကာကြက်ခြေနီကော်မတီ (ICRC) ။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[762]"><source><g id="260">Radio and television. </g>The radio and television sections of the public information component produce live or taped programmes in local languages, such as news and topical programmes, educational and cultural shows, including drama, song and dance, and audience-participation programmes. Popular music shows and soap opera-style serials and dramas incorporating developments in the peace process into the story line have been particularly successful. Collaboration with local peacebuilding efforts, such as shows on police crime solving, have also been popular. It is important that the mission</source>
         <target><g id="260">Radio and television. </g>The radio and television sections of the public information component produce live or taped programmes in local languages, such as news and topical programmes, educational and cultural shows, including drama, song and dance, and audience-participation programmes. Popular music shows and soap opera-style serials and dramas incorporating developments in the peace process into the story line have been particularly successful. Collaboration with local peacebuilding efforts, such as shows on police crime solving, have also been popular. It is important that the mission</target>
@@ -1668,7 +1668,7 @@
         <target>For example, UNAMSIL and the United Nations Mission in the Democratic Republic of the Congo (MONUC) were both mandated to afford protection to civilians under imminent threat of physical violence within their capabilities and areas of deployment.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1117]/text:span[1]"><source>The ICRC develops mine risk education activities, collects data on mine victims and provides medical assistance and advice to clearance teams.</source>
-        <target>The ICRC develops mine risk education activities, collects data on mine victims and provides medical assistance and advice to clearance teams.</target>
+        <target>အပြည်ပြည်ဆိုင်ရာကြက်ခြေနီကော်မတီသည်မိုင်းအန္တရာယ်ပညာပေးလုပ်ငန်းများကိုဖွံ့ဖြိုးတိုးတက်လုပ်ဆောင်စေပြီးမိုင်းဒဏ်သင့်သူများနှင့်ဆေးဝါး အကူအညီနှင့် အကြံဉာဏ်များအတွက်အချက်အလက်များကိုစုဆောင်းသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[946]"><source>establishes informal contacts with potential troop and personnel-contributing States. Based on a proposed concept of operations, DPKO identifies the type and capability of military elements needed. DPKO must also consider a number of political issues when selecting contributions for a specific situation, including the stated preferences of the parties to the conflict, the need for broad geographic representation and the historical or cultural ties a potential contributor may have with the region or State in question.</source>
         <target>establishes informal contacts with potential troop and personnel-contributing States. Based on a proposed concept of operations, DPKO identifies the type and capability of military elements needed. DPKO must also consider a number of political issues when selecting contributions for a specific situation, including the stated preferences of the parties to the conflict, the need for broad geographic representation and the historical or cultural ties a potential contributor may have with the region or State in question.</target>
@@ -1725,7 +1725,7 @@
         <target>After security, logistics is the area of activity where the military component makes its greatest contribution to peacekeeping operations. Troop-contributing countries are one of several sources of logistic support to peacekeeping operations. The UN also secures logistical support for its peacekeeping operations from stocks of UN-owned equipment, commercial contracts for logistics or an arrangement by which a third country provides direct or bilateral support to specific national contingents that may lack certain logistic assets.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1119]/text:span[0]"><source>International Campaign to Ban Landmines (ICBL). </source>
-        <target>International Campaign to Ban Landmines (ICBL). </target>
+        <target>မြေမြှုပ်မိုင်းများတားဆီးရန်အပြည်ပြည်ဆိုင်ရာလှုပ်ရှားမှု (ICBL) </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[987]"><source>Since the early 1990s, logistic planning for peacekeeping operations where formed military units are part of the operation’s structure has envisaged an integrated support services system involving the military component, the civilian administration and support component and an external contractor element. Integration and consolidation of support resources is vital to the success of peacekeeping missions, which often operate in areas where the infrastructure is severely damaged or destroyed and the UN must rely on its own resources for basic necessities and support.</source>
         <target>Since the early 1990s, logistic planning for peacekeeping operations where formed military units are part of the operation’s structure has envisaged an integrated support services system involving the military component, the civilian administration and support component and an external contractor element. Integration and consolidation of support resources is vital to the success of peacekeeping missions, which often operate in areas where the infrastructure is severely damaged or destroyed and the UN must rely on its own resources for basic necessities and support.</target>
@@ -1839,7 +1839,7 @@
         <target><g id="346">Donors. </g>Without regular financial and in-kind donor support, most mine action activities would not be possible. Resource mobilization is therefore crucial for the success of UN mine action work. There are different types of donors, including governments, international organizations, charities, foundations and private companies. Donors often have specific areas of interest, which may be geographic, programme-specific or a combination of both.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[64]/text:span[0]"><source>Host Countries</source>
-        <target>Host Countries</target>
+        <target>အိမ်ရှင်နိုင်ငံများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1131]"><source><g id="347">Government of the affected country. </g>The primary responsibility for taking action on landmines lies with the concerned State. When required, UNDP, in consultation with all stakeholders, including UNMAS, relevant local partners, NGOs, donors and other UN entities, will assist in creating sustainable national capacities and in preparing and implementing an overall programme plan.</source>
         <target><g id="347">Government of the affected country. </g>The primary responsibility for taking action on landmines lies with the concerned State. When required, UNDP, in consultation with all stakeholders, including UNMAS, relevant local partners, NGOs, donors and other UN entities, will assist in creating sustainable national capacities and in preparing and implementing an overall programme plan.</target>
@@ -2187,7 +2187,7 @@
         <target>Properly used, multiple information channels–in the field, in capitals and in New York– help maintain open communication and bring different perspectives together.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1119]/text:span[1]"><source>The ICBL is a network of 1,400 NGOs in 90 countries that actively advocates for a total ban on APMs. ICBL also prepares the annual </source>
-        <target>The ICBL is a network of 1,400 NGOs in 90 countries that actively advocates for a total ban on APMs. ICBL also prepares the annual </target>
+        <target>ICBL သည်နိုင်ငံပေါင်း ၉၀ ရှိ NGO ပေါင်း ၁၄၀၀ ၏ကွန်ယက်တစ်ခုဖြစ်ပြီး APM များအားလုံး ၀ ပိတ်ပင်ရန်တက်ကြွစွာထောက်ခံခဲ့သည်။ ICBL သည်လည်းနှစ်စဉ် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1303]"><source>Supporting the national judiciary can be complex and extremely sensitive and interventions will vary depending on mandate, country and need. The interventions can range from providing technical advice, institutional restructuring and drafting or revising laws to rehabilitating infrastructure, training and improving public access to justice.</source>
         <target>Supporting the national judiciary can be complex and extremely sensitive and interventions will vary depending on mandate, country and need. The interventions can range from providing technical advice, institutional restructuring and drafting or revising laws to rehabilitating infrastructure, training and improving public access to justice.</target>
@@ -2229,7 +2229,7 @@
         <target>Applicable Law</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1119]/text:span[2]"><source>Landmine Monitor Report</source>
-        <target>Landmine Monitor Report</target>
+        <target>မြေမြှုပ်မိုင်းစစ်ဆေးရေးအစီရင်ခံစာ နှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1330]"><source>In some post-conflict environments there may not be agreement between the parties on the applicable legal code, whether substantive or procedural. The question of which law to apply is essentially a political issue that cannot be resolved by a peacekeeping mission. Agreement among the parties as to the applicable law is an important first step in judicial and rule of law reform.</source>
         <target>In some post-conflict environments there may not be agreement between the parties on the applicable legal code, whether substantive or procedural. The question of which law to apply is essentially a political issue that cannot be resolved by a peacekeeping mission. Agreement among the parties as to the applicable law is an important first step in judicial and rule of law reform.</target>
@@ -2751,7 +2751,7 @@
         <target>used in combination with manual deminers.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1119]/text:span[3]"><source>, an initiative monitoring governments' implementation of and compliance with the APBMT.</source>
-        <target>, an initiative monitoring governments' implementation of and compliance with the APBMT.</target>
+        <target>အစိုးရ၏ APBMT ၏လိုက်နာမှုနှင့်လိုက်နာမှုကိုစောင့်ကြည့်လေ့လာသည့်ပဏာမခြေလှမ်း ပြင်ဆင်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[158]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Include, in Secretary-General reports to the Security Council, progress on gender mainstreaming in peacekeeping missions and all other fronts relating to women</source>
         <target>Include, in Secretary-General reports to the Security Council, progress on gender mainstreaming in peacekeeping missions and all other fronts relating to women</target>
@@ -2805,7 +2805,7 @@
         <target>Gender Perspectives in Peacekeeping Activities</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1121]/text:span[0]"><source>Geneva International Centre for Humanitarian Demining (GICHD). </source>
-        <target>Geneva International Centre for Humanitarian Demining (GICHD). </target>
+        <target>ဂျီနီဗာအပြည်ပြည်ဆိုင်ရာလူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာရှာဖွေလေ့လာရေးဌာန (GICHD) ။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1614]"><source>Depending on its mandate, a peacekeeping operation might be responsible for conducting a wide range of activities, including:</source>
         <target>Depending on its mandate, a peacekeeping operation might be responsible for conducting a wide range of activities, including:</target>
@@ -2838,7 +2838,7 @@
         <target>Public information and media campaigns run by peacekeeping missions should be targeted at both men and women in the host population, which may require tailoring the message and medium for different audiences. Successfully reaching targeted audiences requires an understanding of the roles and responsibilities of women and men, as well as gender-specific norms and customs within the host society.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1121]/text:span[1]"><source>The Centre promotes cooperation in mine action in three main areas: research studies, operational assistance and support of the Mine Ban Treaty.</source>
-        <target>The Centre promotes cooperation in mine action in three main areas: research studies, operational assistance and support of the Mine Ban Treaty.</target>
+        <target>သုတေသနဌာန၊ သတ္တုတွင်းတားဆီးရေးစာချုပ်အားအထောက်အကူပြုခြင်းနှင့်သုတေသနပြုခြင်း၊ သတ္တုတွင်းလုပ်ငန်းကိုအဓိကကဏ္ဍ (၃) ခုဖြင့်ပူးပေါင်းဆောင်ရွက်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1629]/text:span[0]"><source>Conducting a Gender Analysis or Assessment</source>
         <target>Conducting a Gender Analysis or Assessment</target>
@@ -2946,7 +2946,7 @@
         <target>The division of responsibilities and command relationships between the SRSG, force commander and/or police commissioner, in cases when the military and police components are under the UN, have been carefully delineated in the respective official directives and their effective implementation is critical to the success of the <g id="220">peacekeeping </g>operation. The SRSG exercises operational authority over the military component, and the force commander has primary responsibility for its operational organization and efficient functioning. The same applies to the police commissioner.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1123]/text:span[0]"><source>North Atlantic Treaty Organization (NATO), </source>
-        <target>North Atlantic Treaty Organization (NATO), </target>
+        <target>မြောက်အတ္တလန္တိတ်စာချုပ်အဖွဲ့ (နေတိုး), </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1720]"><source><g id="415">Human resources. </g>The civilian personnel section is responsible for the overall management and delivery of human resources services in the mission. The section manages various aspects of human resources management, including extension of staff contracts, recruitment of local personnel, coordination of civilian training, management of reporting on staff performance and staff conduct and behaviour, career development and the issuance of mission ID cards.<g id="416"><g id="417">2</g></g></source>
         <target><g id="415">Human resources. </g>The civilian personnel section is responsible for the overall management and delivery of human resources services in the mission. The section manages various aspects of human resources management, including extension of staff contracts, recruitment of local personnel, coordination of civilian training, management of reporting on staff performance and staff conduct and behaviour, career development and the issuance of mission ID cards.<g id="416"><g id="417">2</g></g></target>
@@ -3120,7 +3120,7 @@
         <target><x id="426" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1776]/text:bookmark[0]"/><g id="427">Administrative support. </g>The Administrative Support Division of OMS oversees the interpretation and application of policies relating to finance, budget and human resources management in the field. The Division comprises two main elements: personnel management and financial management. The personnel element is responsible for all personnel-related issues, including recruitment, administration, travel, career development and separation of international civilian staff in the field, including issues such as staff performance, promotions, disciplinary matters and career development. It advertises vacancies, identifies qualified candidates and provides screened candidates for a particular vacant post to the missions for selection. It is also responsible for the planning and delivery of training for all civilian field staff and developing training policies and programmes.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1123]/text:span[2]"><source>Organization of American States (OAS) </source>
-        <target>Organization of American States (OAS) </target>
+        <target>အမေရိကန်ပြည်ထောင်စု၏အဖွဲ့အစည်း (OAS) </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1778]"><source>The financial management element provides support to field missions on UN financial policies and procedures relating to the preparation and implementation of budgets, ensuring proper budget control and monitoring budget performance, processing claims for reimbursement and maintaining accurate information on expenditure. It coordinates the preparation of mission budgets for submission to the Office of the Controller and assists the Controller in presenting these resource requests to the legislative bodies of the UN. It also negotiates the financial aspects of memoranda of understanding signed with contributing nations and verifies and certifies all claims relating to contingent-owned equipment to facilitate reimbursement to those countries.</source>
         <target>The financial management element provides support to field missions on UN financial policies and procedures relating to the preparation and implementation of budgets, ensuring proper budget control and monitoring budget performance, processing claims for reimbursement and maintaining accurate information on expenditure. It coordinates the preparation of mission budgets for submission to the Office of the Controller and assists the Controller in presenting these resource requests to the legislative bodies of the UN. It also negotiates the financial aspects of memoranda of understanding signed with contributing nations and verifies and certifies all claims relating to contingent-owned equipment to facilitate reimbursement to those countries.</target>
@@ -3192,7 +3192,7 @@
         <target>justice through prosecution or extradition.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1123]/text:span[4]"><source>European Union (EU) </source>
-        <target>European Union (EU) </target>
+        <target>ဥရောပသမဂ္ဂ (အီးယူ) </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1810]"><source>The scope of the Convention extends to “persons engaged or deployed by the Secretary- General of the United Nations as members of the military, police or civilian components of a United Nations operation; and other officials and experts on mission of the United Nations or its specialized agencies . . . who are present in an official capacity in the area where a United Nations operation is being conducted.”</source>
         <target>The scope of the Convention extends to “persons engaged or deployed by the Secretary- General of the United Nations as members of the military, police or civilian components of a United Nations operation; and other officials and experts on mission of the United Nations or its specialized agencies . . . who are present in an official capacity in the area where a United Nations operation is being conducted.”</target>
@@ -3207,7 +3207,7 @@
         <target>When it came to peacekeeping operations, however, the general perception was that peacekeepers were mostly military personnel and therefore expected to be equipped with the means to defend themselves. This perception changed during the 1990s with the rise of multidimensional peacekeeping operations with large numbers of civilians and unarmed civilian police personnel deployed alongside the military component but given separate operational tasks.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1123]/text:span[5]"><source>are also actively involved in mine action activities.</source>
-        <target>are also actively involved in mine action activities.</target>
+        <target>မိုင်းရှင်းလင်းရေးလုပ်ငန်းများတွင်လည်းတက်ကြွစွာပါ ၀င်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1821]"><source>With the start of efforts to provide adequate protection for all peacekeeping personnel came the realization that peacekeeping missions could not be easily incorporated into the UN security management system. The UN Legal Counsel stated in 1993 that “the arrangements provided for in the <g id="434">Field Security Handbook</g>, which is oriented towards</source>
         <target>With the start of efforts to provide adequate protection for all peacekeeping personnel came the realization that peacekeeping missions could not be easily incorporated into the UN security management system. The UN Legal Counsel stated in 1993 that “the arrangements provided for in the <g id="434">Field Security Handbook</g>, which is oriented towards</target>
@@ -3402,7 +3402,7 @@
         <target>Publishing mission road safety standard operating procedures;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1125]"><source><g id="344">Non-governmental organizations (NGOs). </g>Humanitarian NGOs play a key role in mine action activities. Examples include Handicap International (HI), Halo Trust, Mines Advisory Group (MAG), Norwegian Peoples Aid (NPA) and Survey Action Centre (SAC).</source>
-        <target><g id="344">Non-governmental organizations (NGOs). </g>Humanitarian NGOs play a key role in mine action activities. Examples include Handicap International (HI), Halo Trust, Mines Advisory Group (MAG), Norwegian Peoples Aid (NPA) and Survey Action Centre (SAC).</target>
+        <target><g id="344">အစိုးရမဟုတ်သောအဖွဲ့အစည်းများ (NGO) ။ </g> လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာအန်ဂျီအိုများသည်မိုင်းရှင်းလင်းရေးလုပ်ငန်းများတွင်အဓိကအခန်းကဏ္ဍ မှပါ ၀ င်သည်။ ဥပမာများအရ Handicap International (HI)၊ Halo Trust၊ သတ္တုတွင်းအကြံပေးအဖွဲ့ (MAG)၊ နော်ဝေပြည်သူများအတွက်အကူအညီ (NPA) နှင့် Survey Action Center (SAC) တို့ဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[220]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Conducting detailed analyses of the causes and frequency of traffic incidents </source>
         <target>Conducting detailed analyses of the causes and frequency of traffic incidents </target>
@@ -6126,7 +6126,7 @@
         <target><g id="350">National NGOs with operational responsibilities. </g>National NGOs can carry out mine action operations such as survey, minefield marking, clearance, mine risk education and explosive ordnance disposal (EOD). They will usually operate under the coordination of the central national mine action regulatory body.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[65]/text:span[0]"><source>UN Peacekeeping Operations</source>
-        <target>UN Peacekeeping Operations</target>
+        <target>UN ငြိမ်းချမ်းရေးလုပ်ငန်းစဉ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1140]"><source>Mine action coordination in a peacekeeping operation requires the involvement and support of a number of elements:</source>
         <target>Mine action coordination in a peacekeeping operation requires the involvement and support of a number of elements:</target>
