@@ -3,7 +3,7 @@
   <file original="peacekeeping-handbook_un_dec2003_KKY.odt" source-language="en" datatype="plaintext" target-language="my">
     <body>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
-        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံးအလေ့အကျင့် သတ်မှတ်ရေးအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု </target>
+        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံးအလေ့အကျင့် သတ်မှတ်ရေးအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
         <target>ကုလသမဂ္ဂ ဘက်ပေါင်းစုံ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု လုပ်ငန်းစဉ်များဆိုင်ရာ လက်စွဲစာအုပ်</target>
@@ -177,7 +177,7 @@
         <target>APM ပုဂ္ဂိုလ်ရေးဆန့်ကျင်မြေမြှုပ်မိုင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
-        <target>ATM တင့်ဖျက်မိုင်း</target>
+        <target>ATM တင့်ကားဖျက်မိုင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
         <target>CAT<g id="25"/>နှိပ်စက်ညှင်းပန်းခြင်းနှင့်အခြားရက်စက်ကြမ်းကြုတ်သောလူမဆန်သည့်အဆင့်သတ်မှတ်ချက်များ၊</target>
@@ -225,7 +225,7 @@
         <target>FRY<g id="55"/>ယူဂိုဆလားဗီးယားဖက်ဒရယ်သမ္မတနိုင်ငံ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]"><source>HIPC<g id="60"/>highly indebted poor country</source>
-        <target>HIPC<g id="60"/>အလွန်အမင်းအကြွေးနှစ်၍ဆင်းရဲသောတိုင်းပြည်</target>
+        <target state="needs-translation">HIPC<g id="60"/>အလွန်အမင်းအကြွေးနစ်၍ဆင်းရဲသောတိုင်းပြည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
         <target>IBRD<g id="64"/>International Bank for Reconstruction and Development</target>
@@ -8256,22 +8256,22 @@
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[208]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ၏ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများအတွက်လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[209]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ၏ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများအတွက်လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[210]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ၏ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများအတွက်လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[211]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ၏ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများအတွက်လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[212]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ၏ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများအတွက်လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[213]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ၏ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများအတွက်လက်စွဲစာအုပ်</target>
       </trans-unit>
     </body>
   </file>
