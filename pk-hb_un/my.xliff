@@ -696,7 +696,7 @@
         <target state="translated">HI<g id="59"/>Handicap International</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
-        <target state="translated">IACG-MA<g id="61"/>မိုင်းဆိုင်ရာ အေဂျင်စီများညှိနှိုင်းဆောင်ရွက်ရေးအဖွဲ့ <g id="62">ဆောင်ရွက်ချက်</g>IASC<g id="63"/>အေဂျင်စီအချင်းချင်း အမြဲတမ်းကော်မတီ</target>
+        <target state="translated">IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]"><source>ICESCR<g id="67"/>International Covenant on Economic, Social and Cultural <g id="68">Rights </g>ICR<g id="69"/>implementation completion report</source>
         <target>ICESCR<g id="67"/>စီးပွားရေး၊ လူမှုရေးနှင့်ယဉ်ကျေးမှုဆိုင်ရာ<g id="68">အခွင့်အရေးဆိုင်ရာ </g><g id="69"/>အကောင်အထည်ဖော်မှု ပြီးစီးသည့်အစီရင်ခံစာ</target>
@@ -723,7 +723,7 @@
         <target>KFOR<g id="88"/>ကိုဆိုဗိုအင်အားစု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[153]"><source>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</source>
-        <target>MINURSO<g id="93"/>အနောက်ဆာဟာရတွင် ဆန္ဒခံယူပွဲအတွက် ကုလသမဂ္ဂမစ်ရှင်<g id="94"/>ကွန်ဂိုဒီမိုကရက်တစ်သမ္မတနိုင်ငံရှိ ကုလသမဂ္ဂမစ်ရှင်<g id="95"/><g id="96"/>နားလည်မှုစာချွန်လွှာ</target>
+        <target>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[155]"><source>NAM<g id="98"/>needs assessment mission</source>
         <target>NAM<g id="98"/>အကဲဖြတ်မစ်ရှင် လိုအပ်သည်</target>
@@ -786,7 +786,7 @@
         <target>Respect for basic rights;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[190]"><source>UNHCR<g id="141"/>United Nations High Commissioner for <g id="142">Refugees </g>UNICEF<g id="143"/>United Nations Children’s Fund</source>
-        <target><g id="141"/>ကုလသမဂ္ဂ ဒုက္ခသည်များဆိုင်ရာ မဟာမင်းကြီးရုံး<g id="142"/><g id="143"/>ကုလသမဂ္ဂ ကလေးများရန်ပုံငွေအဖွဲ့</target>
+        <target>UNHCR<g id="141"/>United Nations High Commissioner for <g id="142">Refugees </g>UNICEF<g id="143"/>United Nations Children’s Fund</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[191]"><source>UNIFEM<g id="144"/>United Nations Development Fund for Women UNIFIL<g id="145"/>United Nations Interim Force in Lebanon UNIKOM<g id="146"/>United Nations Iraq-Kuwait Observation <g id="147">Mission </g>UNMAS<g id="148"/>United Nations Mine Action Service</source>
         <target>UNIFEM<g id="144"/>United Nations Development Fund for Women UNIFIL<g id="145"/>United Nations Interim Force in Lebanon UNIKOM<g id="146"/>United Nations Iraq-Kuwait Observation <g id="147">Mission </g>UNMAS<g id="148"/>United Nations Mine Action Service</target>
@@ -999,7 +999,7 @@
         <target><g id="194">Deployment</g><g id="195">. </g>Deployment proceeds as quickly as possible, taking into account the security and political conditions on the ground, often starting with an advance team to establish mission headquarters and leading to a gradual build-up to encompass all components and regions, as required by the mandate.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[0]"><source>Reporting by the Secretary-General</source>
-        <target>အထွေထွေအတွင်းရေးမှူးချုပ်မှ အစီရင်ခံခြင်း</target>
+        <target>Reporting by the Secretary-General</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[1]"><source>. </source>
         <target>. </target>
@@ -1014,7 +1014,7 @@
         <target>ယနေ့အချိန်အထိ ရာနှင့်ချီသော ၀န်ထမ်းများ၊ အများစု စစ်သည်များသည် ကုလသမဂ္ဂငြိမ်းချမ်းရေး ထိန်းသိမ်းမှုစစ်ဆင်ရေး ၅၆ ခုတွင် အမှူထမ်းဆောင်ခဲ့ကြသည်။ ငြိမ်းချမ်းရေးနှင့်ထိန်းသိမ်းရေးစစ်ဆင်ရေးများတွင်စစ်ဘက်နှင့်အရပ်ဘက်ရဲတပ်ဖွဲ့ ၀င်များသည် ၎င်းတို့၏ သက်ဆိုင်ရာ နိုင်ငံ့အဖွဲ့အစည်းများ၏ အဖွဲ့ဝင်များဖြစ်နေဆဲဖြစ်သော်လည်း ကုလသမဂ္ဂ၏လုပ်ငန်းလည်ပတ်မှုထိန်းချုပ်မှုအောက်တွ င်အမှုထမ်းဆောင်ရပြီး ၎င်းတို့သည်တာဝန်များကို နိုင်ငံတကာစံနှုန်းများနှင့်အညီ လုပ်ဆောင်ရသည်။ သူတို့သည်သူတို့၏အမျိုးသားဝတ်စုံများကိုဝတ်ဆင်ကြသော်လည်း ဘယ်ရီကက်ဦးထုပ်သို့မဟုတ် ဦးထုပ်နှင့် ကုလသမဂ္ဂအထိမ်းအမှတ်တံဆိပ်များကိုလည်း ဝတ်ဆင်ကြသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[268]"><source>Civilian staff serving in peacekeeping operations include personnel drawn from within the UN system (including the United Nations Volunteers), loaned by Member States, or recruited internationally or locally to fill specific jobs.</source>
-        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများ၌ ပါ၀င်သည့်အရပ်ဖက် ၀န်ထမ်းများမှာ ကုလသမဂ္ဂ၏စေတနာ့ ၀န်ထမ်းများအပါအဝင် အဖွဲ့ဝင်နိုင်ငံများမှ ပံ့ပိုးထားသော သို့မဟုတ် လိုအပ်ချက်အရ နိုင်ငံတကာ (သို့) ဒေသတွင်း ခန့်အပ်ထားသော ဝန်ထမ်းများဖြစ်သည်။</target>
+        <target>Civilian staff serving in peacekeeping operations include personnel drawn from within the UN system (including the United Nations Volunteers), loaned by Member States, or recruited internationally or locally to fill specific jobs.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Destruction of stockpiled APMs;</source>
         <target>Destruction of stockpiled APMs;</target>
@@ -1170,7 +1170,7 @@
         <target>field, must perform their functions with professionalism, competence and integrity. Great attention must therefore be given to selecting the most qualified staff, from the mission leadership to staff working on the front lines.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:span[0]"><source>Conclusion</source>
-        <target>နိဂုံး</target>
+        <target>Conclusion</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[0]"><source>Counter propaganda, false information and hate messages that are harmful to the objectives of the UN and the peace</source>
         <target>Counter propaganda, false information and hate messages that are harmful to the objectives of the UN and the peace</target>
