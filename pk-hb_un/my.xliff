@@ -753,7 +753,7 @@
         <target>SAC<g id="118"/>Survey Action Centre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[174]"><source>SDS<g id="119"/>strategic deployment stocks</source>
-        <target state="needs-translation">SDS<g id="119"/>နည်းဗျူဟာကျ လက်တွေ့အသုံးချ စတော့ထုတ်ကုန်</target>
+        <target state="translated">SDS<g id="119"/>strategic deployment stocks</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[0]"><source>SHIRBRIG<g id="120"/></source>
         <target>SHIRBRIG<g id="120"/></target>
