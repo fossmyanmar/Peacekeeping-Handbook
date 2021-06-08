@@ -1089,7 +1089,7 @@
         <target>The <g id="198">Brahimi Report </g>contained 57 explicit recommendations to the Secretary-General, the Security Council, the General Assembly and Member States in general. The report focused attention on strategic, political and basic operational matters. Many peacekeeping reforms have been instituted as a result of the dialogue that ensued following the report’s issuance and continued implementation of its recommendations remains a very high priority for DPKO and the Secretariat in general.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[290]"><source>The main recommendations of the report can be summarized as follows:</source>
-        <target state="needs-translation">အစီရင်ခံစာပါအဓိကအချက်အလက်များ၏ အကျဉ်းချုပ်ဖော်ပြချက်မှာ အောက်ပါအတိုင်းဖြစ်သည်။</target>
+        <target state="translated">The main recommendations of the report can be summarized as follows:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>staff;</source>
         <target>staff;</target>
