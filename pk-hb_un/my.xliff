@@ -426,7 +426,7 @@
         <target>The Special Representative of the Secretary-General</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]"><source>Political Affairs</source>
-        <target state="needs-translation">နိုင်ငံရေးစွတ်ဖက်မှု</target>
+        <target state="translated">နိုင်ငံရေးစွက်ဖက်မှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]"><source><g id="2">III</g>:</source>
         <target><g id="2">III</g>:</target>
