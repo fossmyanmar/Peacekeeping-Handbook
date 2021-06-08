@@ -528,7 +528,7 @@
         <target>Reviews by the Security Council</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:span[0]"><source>Deployment</source>
-        <target state="needs-translation">လက်တွေ့အသုံးချ</target>
+        <target state="translated">Deployment</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[2]"><source>assistance;</source>
         <target>assistance;</target>
