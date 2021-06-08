@@ -558,10 +558,10 @@
         <target>Using the authority of the Secretary-General to commit needed funds before </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[2]"><source>peacekeeping operation has actually been authorized.</source>
-        <target>peacekeeping operation has actually been authorized.</target>
+        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ဆောင်ခြင်းသည် အမှန်တကယ်လုပ်ပိုင်ခွင့်ရရှိခဲ့ပြီးဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:span[0]"><source>Financing Peacekeeping Operations</source>
-        <target>Financing Peacekeeping Operations</target>
+        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ဆောင်ခြင်းအတွက် ငွေကြေးထောက်ပံ့မှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[110]/text:span[0]"><source>Mission Support in Field Missions</source>
         <target>Mission Support in Field Missions</target>
