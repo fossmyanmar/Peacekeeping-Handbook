@@ -534,7 +534,7 @@
         <target>assistance;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[34]/text:span[0]"><source>Transferring Responsibilities</source>
-        <target>တာဝန်များကို လွှဲပြောင်းခြင်း</target>
+        <target>Transferring Responsibilities</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Promote all aspects of the work of the peacekeeping operation to the national and international</source>
         <target>Promote all aspects of the work of the peacekeeping operation to the national and international</target>
@@ -609,7 +609,7 @@
         <target>objective of an operation and provide it with a clear mandate.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[1]/text:p[0]/text:span[2]"><source>equipped troops.</source>
-        <target state="needs-translation">ပစ္စည်းအပြည့်အစုံပြင်ဆင်ပြီးသောတပ်ဖွဲ့</target>
+        <target state="translated">equipped troops.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[239]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>where </source>
         <target>where </target>
@@ -639,10 +639,10 @@
         <target>ACABQ<g id="17"/>အုပ်ချုပ်ရေးနှင့်ဘတ်ဂျက်ဆိုင်ရာကိစ္စရပ်များအတွက် အကြံပေးကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]"><source>ADB<g id="18"/>Asian Development</source>
-        <target state="translated">ADB<g id="18"/> အာစီယံဖွံ့ဖြိုးမှု</target>
+        <target state="translated">ADB<g id="18"/>Asian Development</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
-        <target state="needs-translation">APMBT<g id="20"/>လူလုပ်မြေမြှုပ်မိုင်းတားဆီးရေးစာချုပ်</target>
+        <target state="translated">APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]"><source>CAO<g id="22"/>chief administrative officer</source>
         <target>CAO<g id="22"/>အုပ်ချုပ်ရေးအရာရှိချုပ်</target>
@@ -651,7 +651,7 @@
         <target state="needs-translation">CAP<g id="23"/>ပေါင်းစုအယူခံလုပ်ငန်းစဉ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"><source>CAS<g id="24"/>country assistance strategy</source>
-        <target state="needs-translation">CAS<g id="24"/>ကျေးလက်ဒေသအထောက်အပံ့နည်းဗျူဟာ</target>
+        <target state="translated">CAS<g id="24"/>country assistance strategy</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]"><source>CCA<g id="27"/>common country assessment</source>
         <target state="translated">CCA<g id="27"/>common country assessment</target>
@@ -684,16 +684,16 @@
         <target>EMB<g id="50"/>ရွေးကောက်ပွဲစီမံခန့်ခွဲမှုအဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]"><source>ERC<g id="52"/>Emergency Relief Coordinator</source>
-        <target>ERC<g id="52"/>အရေးပေါ်ကယ်ဆယ်ရေးညှိနှိုင်းရေးမှူး</target>
+        <target>ERC<g id="52"/>Emergency Relief Coordinator</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]"><source>FAO<g id="54"/>Food and Agricultural Organization</source>
-        <target>FAO<g id="54"/>စားနပ်ရိက္ခာနှင့်စိုက်ပျိုးရေးအဖွဲ့</target>
+        <target>FAO<g id="54"/>Food and Agricultural Organization</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]"><source>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</source>
         <target>GICHD<g id="56"/>ဂျီနီဗာ လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာ အပြည်ပြည်ဆိုင်ရာစင်တာ <g id="57"/><g id="58"/>လူသားချင်းစာနာမှုဆိုင်ရာညှိနှိုင်းရေးမှူး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]"><source>HI<g id="59"/>Handicap International</source>
-        <target state="translated">HI<g id="59"/>နိုင်ငံတကာ မသန်စွမ်း အဖွဲ့</target>
+        <target state="translated">HI<g id="59"/>Handicap International</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
         <target state="translated">IACG-MA<g id="61"/>မိုင်းဆိုင်ရာ အေဂျင်စီများညှိနှိုင်းဆောင်ရွက်ရေးအဖွဲ့ <g id="62">ဆောင်ရွက်ချက်</g>IASC<g id="63"/>အေဂျင်စီအချင်းချင်း အမြဲတမ်းကော်မတီ</target>
@@ -702,16 +702,16 @@
         <target>ICESCR<g id="67"/>စီးပွားရေး၊ လူမှုရေးနှင့်ယဉ်ကျေးမှုဆိုင်ရာ<g id="68">အခွင့်အရေးဆိုင်ရာ </g><g id="69"/>အကောင်အထည်ဖော်မှု ပြီးစီးသည့်အစီရင်ခံစာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]"><source>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</source>
-        <target>ICSID<g id="71"/>ရင်းနှီးမြှုပ်နှံမှု အငြင်းပွားမှုများဖြေရှင်းရေးအတွက် အပြည်ပြည်ဆိုင်ရာစင်တာ<g id="72"/><g id="73"/>နိုင်ငံတကာဖွံ့ဖြိုးရေးအသင်း</target>
+        <target>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]"><source>IFC<g id="75"/>International Finance Corporation</source>
-        <target>IFC<g id="75"/> နိုင်ငံတကာဘဏ္ဏာရေးကော်ပိုရေးရှင်း</target>
+        <target>IFC<g id="75"/>International Finance Corporation</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]"><source>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</source>
         <target>IMSMA<g id="79"/>မိုင်းရှင်းလင်းရေးအတွက် သတင်းအချက်အလက်စီမံခန့်ခွဲမှုစနစ်<g id="80">ဆောင်ရွက်ချက်</g>IMTF<g id="81"/>ပေါင်းစည်းမစ်ရှင်အဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]"><source>IPTF<g id="83"/>International Police Task Force</source>
-        <target>IPTF<g id="83"/>နိုင်ငံတကာရဲတပ်ဖွဲ့</target>
+        <target>IPTF<g id="83"/>International Police Task Force</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]"><source>JMAC<g id="85"/>joint mission analysis cell</source>
         <target state="needs-translation">JMAC<g id="85"/>ချိတ်ဆက်ဆောင်ရွက်မှုလုပ်ငန်းတာဝန် စူးစမ်းလေ့လာမှုအထူးအဖွဲ့အစည်း</target>
