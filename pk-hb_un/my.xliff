@@ -174,7 +174,7 @@
         <target>Bank</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target>APM<g id="19"/>anti-personnel landmines</target>
+        <target state="needs-translation">APM<g id="19"/>လူအတွက်ထောင်သည့်မြေမြုပ်မိုင်းများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
         <target>ATM<g id="21"/>anti-tank mine</target>
