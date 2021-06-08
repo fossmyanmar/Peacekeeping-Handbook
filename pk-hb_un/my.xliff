@@ -11,7 +11,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[2]"><source>2003</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[2]" approved="yes"><source>2003</source>
         <target>၂၀၀၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]/text:span[0]"><source>Cooperation and Coordination with Key Partners</source>
@@ -21,7 +21,7 @@
         <target state="translated">လုပ်ငန်းစဥ် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]"><source>Copyright © United Nations 2003</source>
-        <target>Copyright © United Nations 2003</target>
+        <target state="needs-translation">Copyright © United Nations 2003</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[1]"><source>to </source>
         <target>to </target>
@@ -32,14 +32,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]"><source>December</source>
         <target>ဒီဇင်ဘာ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
-        <target>ယူနိုက်တစ်ကင်းဒမ်း နှင့် ဂျာမနီ အစိုးကတို့၏ အကူအညီဖြင့် ဤထုတ်ဝေမှုကိုဆောင်ရွက်နိုင်ခဲ့သည်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]" approved="yes"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
+        <target>ဗြိတိန် နှင့် ဂျာမနီ အစိုးကတို့၏ အကူအညီဖြင့် ဤထုတ်ဝေမှုကိုဆောင်ရွက်နိုင်ခဲ့သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[68]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
-        <target>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</target>
+        <target state="needs-translation">The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[2]"><source>wishes.</source>
         <target>wishes.</target>
@@ -375,7 +375,7 @@
         <target>on </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
-        <target>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</target>
+        <target state="needs-translation">This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[180]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
         <target>and </target>
