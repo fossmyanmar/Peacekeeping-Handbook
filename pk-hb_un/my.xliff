@@ -669,7 +669,7 @@
         <target>DM<g id="39"/>Department of Management</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]"><source>DOA<g id="40"/>director of administration</source>
-        <target>DOA<g id="40"/>director of administration</target>
+        <target state="needs-translation">DOA<g id="40"/>စီမံခန့်ခွဲမှု ဒါရိုက်တာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]"><source>DPA<g id="41"/>Department of Political Affairs</source>
         <target>DPA<g id="41"/>Department of Political Affairs</target>
