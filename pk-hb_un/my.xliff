@@ -639,7 +639,7 @@
         <target>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]"><source>ADB<g id="18"/>Asian Development</source>
-        <target>ADB<g id="18"/>Asian Development</target>
+        <target state="needs-translation">ADB<g id="18"/> အာစီယံဖွံ့ဖြိုးမှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
         <target>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</target>
