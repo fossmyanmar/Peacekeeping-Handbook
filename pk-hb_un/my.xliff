@@ -5715,7 +5715,7 @@
         <target>department</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[704]/draw:custom-shape[0]/text:p[4]/text:span[0]"><source>28 April</source>
-        <target>၂၈ ဧပြီ</target>
+        <target>28 April</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[704]/draw:custom-shape[0]/text:p[4]/text:span[2]"><source>1999</source>
         <target>၁၉၉၉</target>
