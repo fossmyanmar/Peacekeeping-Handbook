@@ -528,7 +528,7 @@
         <target>Reviews by the Security Council</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:span[0]"><source>Deployment</source>
-        <target state="needs-translation">ထိထိရောက်ရောက် အသုံးချခြင်း တပ်ဖြန့်ခြင်း</target>
+        <target state="needs-translation">လက်တွေ့အသုံးချ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[2]"><source>assistance;</source>
         <target>assistance;</target>
@@ -714,7 +714,7 @@
         <target>IPTF<g id="83"/>နိုင်ငံတကာရဲတပ်ဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]"><source>JMAC<g id="85"/>joint mission analysis cell</source>
-        <target state="needs-translation">JMAC<g id="85"/>ပူးတွဲမစ်ရှင်ခွဲခြမ်းစိတ်ဖြာဆဲလ်</target>
+        <target state="needs-translation">JMAC<g id="85"/>ချိတ်ဆက်ဆောင်ရွက်မှုလုပ်ငန်းတာဝန် စူးစမ်းလေ့လာမှုအထူးအဖွဲ့အစည်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]"><source>JOC<g id="87"/>joint operations centre</source>
         <target>JOC<g id="87"/>ပူးတွဲစစ်ဆင်ရေးစင်တာ</target>
@@ -753,7 +753,7 @@
         <target>SAC<g id="118"/>စစ်တမ်းလှုပ်ရှားမှုစင်တာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[174]"><source>SDS<g id="119"/>strategic deployment stocks</source>
-        <target state="needs-translation">SDS<g id="119"/>မဟာဗျူဟာဖြန့်ကျက်စတော့</target>
+        <target state="needs-translation">SDS<g id="119"/>နည်းဗျူဟာကျ လက်တွေ့အသုံးချ စတော့ထုတ်ကုန်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[0]"><source>SHIRBRIG<g id="120"/></source>
         <target>SHIRBRIG<g id="120"/></target>
@@ -1089,7 +1089,7 @@
         <target>The <g id="198">Brahimi Report </g>contained 57 explicit recommendations to the Secretary-General, the Security Council, the General Assembly and Member States in general. The report focused attention on strategic, political and basic operational matters. Many peacekeeping reforms have been instituted as a result of the dialogue that ensued following the report’s issuance and continued implementation of its recommendations remains a very high priority for DPKO and the Secretariat in general.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[290]"><source>The main recommendations of the report can be summarized as follows:</source>
-        <target state="needs-translation">မှတ်တမ်း၏ အဓိကထောက်ခံချက်များကို အောက်ပါအတိုင်း အကျဉ်းချုပ်နိုင်သည်။</target>
+        <target state="needs-translation">အစီရင်ခံစာပါအဓိကအချက်အလက်များ၏ အကျဉ်းချုပ်ဖော်ပြချက်မှာ အောက်ပါအတိုင်းဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>staff;</source>
         <target>staff;</target>
