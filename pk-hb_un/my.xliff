@@ -174,7 +174,7 @@
         <target>Bank</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target state="needs-translation">APM<g id="19"/>လူလုပ်မြေမြှုပ်မိုင်းတားဆီးရေး</target>
+        <target state="translated">APM<g id="19"/>anti-personnel landmines</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
         <target>ATM<g id="21"/>anti-tank mine</target>
@@ -228,7 +228,7 @@
         <target state="translated">HIPC<g id="60"/>highly indebted poor country</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
-        <target>IBRD<g id="64"/>ပြန်လည်တည်ဆောက်ရေးနှင့်ဖွံ့ဖြိုးရေးအတွက် အပြည်ပြည်ဆိုင်ရာဘဏ်</target>
+        <target>IBRD<g id="64"/>International Bank for Reconstruction and Development</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]"><source>ICBL<g id="65"/>International Campaign to Ban Landmines</source>
         <target state="translated">ICBL<g id="65"/>International Campaign to Ban Landmines</target>
@@ -237,40 +237,40 @@
         <target state="translated">ICCPR<g id="66"/>International Covenant on Civil and Political Rights</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]"><source>ICRC<g id="70"/>International Committee of the Red Cross</source>
-        <target>ICRC<g id="70"/>နိုင်ငံတကာကြက်ခြေနီကော်မတီ</target>
+        <target>ICRC<g id="70"/>International Committee of the Red Cross</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[233]/text:list-item[0]/text:p[0]/text:span[2]"><source>polling day.</source>
         <target>polling day.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[137]"><source>IDP<g id="74"/>internally displaced person</source>
-        <target>IDP<g id="74"/>ပြည်တွင်းရွှေ့ပြောင်းဒုက္ခသည်</target>
+        <target>IDP<g id="74"/>internally displaced person</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]"><source>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</source>
         <target>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]"><source>IMF<g id="78"/>International Monetary Fund</source>
-        <target>IMF<g id="78"/>နိုင်ငံတကာ ငွေကြေးရန်ပုံငွေအဖွဲ့</target>
+        <target>IMF<g id="78"/>International Monetary Fund</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]"><source>IOM<g id="82"/>International Organization for Migration</source>
         <target>IOM<g id="82"/>International Organization for Migration</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]"><source>JAM<g id="84"/>joint assessment mission</source>
-        <target state="translated">JAM<g id="84"/>ပူးတွဲအကဲဖြတ်မစ်ရှင်</target>
+        <target state="translated">JAM<g id="84"/>joint assessment mission</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]"><source>JLOC<g id="86"/>joint logistics operations centre</source>
         <target>JLOC<g id="86"/>joint logistics operations centre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]"><source>LIS<g id="89"/>landmine impact survey</source>
-        <target>LIS<g id="89"/>မြေမြှုပ်မိုင်းအကျိုးသက်ရောက်မှုစစ်တမ်း</target>
+        <target>LIS<g id="89"/>landmine impact survey</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[150]"><source>MACC<g id="90"/>mine action coordination centre</source>
         <target>MACC<g id="90"/>mine action coordination centre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[151]"><source>MAG<g id="91"/>Mines Advisory Group</source>
-        <target>MAG<g id="91"/>မိုင်းအကြံပေးအဖွဲ့</target>
+        <target>MAG<g id="91"/>Mines Advisory Group</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[152]"><source>MIGA<g id="92"/>Multilateral Investment Guarantee Agency</source>
-        <target>MIGA<g id="92"/>ဘက်ပေါင်းစုံရင်းနှီးမြှုပ်နှံမှုအာမခံအေဂျင်စီ</target>
+        <target>MIGA<g id="92"/>Multilateral Investment Guarantee Agency</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[154]"><source>MSF<g id="97"/>Médecins Sans Frontières</source>
         <target>MSF<g id="97"/>Médecins Sans Frontières</target>
@@ -282,52 +282,52 @@
         <target>NPA<g id="101"/>Norwegian Peoples Aid</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[162]"><source>OED<g id="105"/>Operations Evaluation Department</source>
-        <target>OED<g id="105"/>စစ်ဆင်ရေးအကဲဖြတ်ဌာန</target>
+        <target>OED<g id="105"/>Operations Evaluation Department</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[164]"><source>OLA<g id="109"/>Office of Legal Affairs</source>
-        <target>OLA<g id="109"/>ဥပဒေရေးရာရုံး</target>
+        <target>OLA<g id="109"/>Office of Legal Affairs</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[165]"><source>OMS<g id="110"/>Office of Mission Support</source>
-        <target>OMS<g id="110"/>မစ်ရှင်အထောက်အပံ့ရုံး</target>
+        <target>OMS<g id="110"/>Office of Mission Support</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[166]"><source>ONUC<g id="111"/>United Nations Operations in the Congo</source>
-        <target>ONUC<g id="111"/>ကွန်ဂိုရှိ ကုလသမဂ္ဂ စစ်ဆင်ရေး</target>
+        <target>ONUC<g id="111"/>United Nations Operations in the Congo</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[167]"><source>OSCE<g id="112"/>Organization for Security and Co-operation in Europe</source>
-        <target>OSCE<g id="112"/>ဥရောပ၌ လုံခြုံရေးနှင့်ပူးပေါင်းဆောင်ရွက်မှုများအတွက် အဖွဲ့အစည်း</target>
+        <target>OSCE<g id="112"/>Organization for Security and Co-operation in Europe</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[168]"><source>PAD<g id="113"/>project appraisal document</source>
-        <target>PAD<g id="113"/>စီမံကိန်းအကဲဖြတ်စာရွက်စာတမ်း</target>
+        <target>PAD<g id="113"/>project appraisal document</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[170]"><source>PRSP<g id="115"/>poverty reduction strategy paper</source>
-        <target>PRSP<g id="115"/>ဆင်းရဲနွမ်းပါးမှုလျှော့ချရေး မဟာဗျူဟာစာတမ်း</target>
+        <target>PRSP<g id="115"/>poverty reduction strategy paper</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[171]"><source>RC<g id="116"/>resident coordinator</source>
         <target>RC<g id="116"/>resident coordinator</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[1]"><source>Stand-by High Readiness</source>
-        <target>မြင့်မားသောအဆင့်ဖြင့် အဆင်သင့်ပြုသည်</target>
+        <target>Stand-by High Readiness</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[3]"><source>Brigade</source>
-        <target>တပ်မဟာ</target>
+        <target>Brigade</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[177]"><source>SOFA<g id="122"/>status-of-forces agreement</source>
-        <target><g id="122"/>တပ်ဖွဲ့များအခြေအနေ သဘောတူချက်</target>
+        <target>SOFA<g id="122"/>status-of-forces agreement</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[180]"><source>SFOR<g id="125"/>Stabilization Force</source>
-        <target><g id="125"/>တည်ငြိမ်မှုအင်အားစု</target>
+        <target>SFOR<g id="125"/>Stabilization Force</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[181]"><source>TCC<g id="126"/>troop-contributing country</source>
-        <target><g id="126"/>တပ်များပံ့ပိုးသည့်နိုင်ငံ</target>
+        <target>TCC<g id="126"/>troop-contributing country</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[187]"><source>UNDP<g id="136"/>United Nations Development Programme</source>
-        <target><g id="136"/>ကုလသမဂ္ဂဖွံ့ဖြိုးမှုအစီအစဉ်</target>
+        <target>UNDP<g id="136"/>United Nations Development Programme</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[188]"><source>UNEF<g id="137"/>United Nations Emergency Force</source>
-        <target><g id="137"/>ကုလသမဂ္ဂအရေးပေါ်တပ်ဖွဲ့</target>
+        <target>UNEF<g id="137"/>United Nations Emergency Force</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[189]"><source>UNESCO<g id="138"/>United Nations Educational, Scientific and Cultural <g id="139">Organization </g>UNFICYP<g id="140"/>United Nations Peacekeeping Force in Cyprus</source>
-        <target><g id="138"/>ကုလသမဂ္ဂပညာရေး၊ သိပ္ပံနှင့်ယဉ်ကျေးမှုအဖွဲ့<g id="139"/><g id="140"/>ဆိုက်ပရပ်စ်အတွက် ကုလသမဂ္ဂငြိမ်းချမ်းမှုထိန်းသိမ်းရေးတပ်ဖွဲ့</target>
+        <target>UNESCO<g id="138"/>United Nations Educational, Scientific and Cultural <g id="139">Organization </g>UNFICYP<g id="140"/>United Nations Peacekeeping Force in Cyprus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[192]"><source>UNMEE<g id="149"/>United Nations Mission in Ethiopia and Eritrea UNMIBH<g id="150"/>United Nations Mission in Bosnia and<g id="151"> </g>Herzegovina</source>
         <target>UNMEE<g id="149"/>United Nations Mission in Ethiopia and Eritrea UNMIBH<g id="150"/>United Nations Mission in Bosnia and<g id="151"> </g>Herzegovina</target>
@@ -543,7 +543,7 @@
         <target>with </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[2]"><source>Member States;</source>
-        <target>အဖွဲ့ဝင်နိုင်ငံများ၊</target>
+        <target>Member States;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[2]"><source>Brindisi, Italy;</source>
         <target>Brindisi, Italy;</target>
@@ -699,7 +699,7 @@
         <target state="translated">IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]"><source>ICESCR<g id="67"/>International Covenant on Economic, Social and Cultural <g id="68">Rights </g>ICR<g id="69"/>implementation completion report</source>
-        <target>ICESCR<g id="67"/>စီးပွားရေး၊ လူမှုရေးနှင့်ယဉ်ကျေးမှုဆိုင်ရာ<g id="68">အခွင့်အရေးဆိုင်ရာ </g><g id="69"/>အကောင်အထည်ဖော်မှု ပြီးစီးသည့်အစီရင်ခံစာ</target>
+        <target>ICESCR<g id="67"/>International Covenant on Economic, Social and Cultural <g id="68">Rights </g>ICR<g id="69"/>implementation completion report</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]"><source>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</source>
         <target>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</target>
@@ -717,40 +717,40 @@
         <target state="needs-translation">JMAC<g id="85"/>ချိတ်ဆက်ဆောင်ရွက်မှုလုပ်ငန်းတာဝန် စူးစမ်းလေ့လာမှုအထူးအဖွဲ့အစည်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]"><source>JOC<g id="87"/>joint operations centre</source>
-        <target>JOC<g id="87"/>ပူးတွဲစစ်ဆင်ရေးစင်တာ</target>
+        <target>JOC<g id="87"/>joint operations centre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]"><source>KFOR<g id="88"/>Kosovo Force</source>
-        <target>KFOR<g id="88"/>ကိုဆိုဗိုအင်အားစု</target>
+        <target>KFOR<g id="88"/>Kosovo Force</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[153]"><source>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</source>
         <target>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[155]"><source>NAM<g id="98"/>needs assessment mission</source>
-        <target>NAM<g id="98"/>အကဲဖြတ်မစ်ရှင် လိုအပ်သည်</target>
+        <target>NAM<g id="98"/>needs assessment mission</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[156]"><source>NATO<g id="99"/>North Atlantic Treaty Organization</source>
-        <target>NATO<g id="99"/>မြောက်အတ္တလန္တိတ်စာချုပ်အဖွဲ့</target>
+        <target>NATO<g id="99"/>North Atlantic Treaty Organization</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[159]"><source>NSGT<g id="102"/>non-self-governing territory</source>
-        <target>NSGT<g id="102"/>ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ မဟုတ်</target>
+        <target>NSGT<g id="102"/>non-self-governing territory</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[160]"><source>OAS<g id="103"/>Organization of American States</source>
-        <target>OAS<g id="103"/>အမေရိကန်ပြည်ထောင်စု၏အဖွဲ့အစည်း</target>
+        <target>OAS<g id="103"/>Organization of American States</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[161]"><source>OCHA<g id="104"/>Office for the Coordination of Humanitarian Affairs</source>
-        <target>OCHA<g id="104"/>လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာညှိနှိုင်းရေးရုံး</target>
+        <target>OCHA<g id="104"/>Office for the Coordination of Humanitarian Affairs</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[163]"><source>OHCHR<g id="106"/>Office of the High Commissioner for Human <g id="107">Rights </g>OIOS<g id="108"/>Office of Internal Oversight Services</source>
-        <target>OHCHR<g id="106"/>လူ့အခွင့်အရေးဆိုင်ရာမဟာမင်းကြီးရုံး<g id="107"/><g id="108"/>ပြည်တွင်းဝန်ဆောင်မှုကြီးကြပ်ရေးရုံး</target>
+        <target>OHCHR<g id="106"/>Office of the High Commissioner for Human <g id="107">Rights </g>OIOS<g id="108"/>Office of Internal Oversight Services</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[169]"><source>PCF<g id="114"/>post-conflict fund</source>
-        <target>PCF<g id="114"/>ပဋိပက္ခအလွန် ရန်ပုံငွေ</target>
+        <target>PCF<g id="114"/>post-conflict fund</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[172]"><source>ROE<g id="117"/>rules of engagement</source>
-        <target>ROE<g id="117"/>ထိတွေ့ဆက်ဆံမှု စည်းမျဉ်းများ</target>
+        <target>ROE<g id="117"/>rules of engagement</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[173]"><source>SAC<g id="118"/>Survey Action Centre</source>
-        <target>SAC<g id="118"/>စစ်တမ်းလှုပ်ရှားမှုစင်တာ</target>
+        <target>SAC<g id="118"/>Survey Action Centre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[174]"><source>SDS<g id="119"/>strategic deployment stocks</source>
         <target state="needs-translation">SDS<g id="119"/>နည်းဗျူဟာကျ လက်တွေ့အသုံးချ စတော့ထုတ်ကုန်</target>
@@ -759,28 +759,28 @@
         <target>SHIRBRIG<g id="120"/></target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[176]"><source>SMT<g id="121"/>security management team</source>
-        <target><g id="121"/>လုံခြုံရေးစီမံခန့်ခွဲမှုအဖွဲ့</target>
+        <target>SMT<g id="121"/>security management team</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[178]"><source>SOMA<g id="123"/>status-of-mission agreement</source>
-        <target><g id="123"/>မစ်ရှင်ခြေနေ သဘောတူချက်</target>
+        <target>SOMA<g id="123"/>status-of-mission agreement</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[179]"><source>SRSG<g id="124"/>Special Representative of the Secretary-General</source>
-        <target><g id="124"/>အတွင်းရေးမှူးချုပ်၏အထူးကိုယ်စားလှယ်</target>
+        <target>SRSG<g id="124"/>Special Representative of the Secretary-General</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[182]"><source>TFET<g id="127"/>Trust Fund for East Timor</source>
         <target>TFET<g id="127"/>Trust Fund for East Timor</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[183]"><source>TSS<g id="128"/>transitional support strategy</source>
-        <target><g id="128"/>အသွင်ကူးပြောင်းမှုဆိုင်ရာပံ့ပိုးမှုနည်းဗျူဟာ</target>
+        <target>TSS<g id="128"/>transitional support strategy</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[184]"><source>UN<g id="129"/>United Nations</source>
-        <target><g id="129"/>ကုလသမဂ္ဂ</target>
+        <target>UN<g id="129"/>United Nations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[185]"><source>UNAMA<g id="130"/>United Nations Assistance Mission in Afghanistan UNAMET<g id="131"/>United Nations Mission in East Timor</source>
-        <target><g id="130"/>အာဖဂန်နစ္စတန်ရှိ ကုလသမဂ္ဂအကူအညီပေးရေးအဖွဲ့<g id="131"/>အရှေ့တီမောရှိ ကုလသမဂ္ဂမစ်ရှင်</target>
+        <target>UNAMA<g id="130"/>United Nations Assistance Mission in Afghanistan UNAMET<g id="131"/>United Nations Mission in East Timor</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[186]"><source>UNAMSIL<g id="132"/>United Nations Mission in Sierra Leone UNAVEM<g id="133"/>United Nations Angola Verification <g id="134">Mission </g>UNDAF<g id="135"/>United Nations Development Framework</source>
-        <target><g id="132"/>Sierra Leone ရှိ ကုလသမဂ္ဂမစ်ရှင်<g id="133"/>ကုလသမဂ္ဂ၏ အန်ဂိုလာစစ်ဆေးရေးမစ်ရှင်<g id="134"/><g id="135"/>ကုလသမဂ္ဂဖွံ့ဖြိုးမှု မူဘောင်</target>
+        <target>UNAMSIL<g id="132"/>United Nations Mission in Sierra Leone UNAVEM<g id="133"/>United Nations Angola Verification <g id="134">Mission </g>UNDAF<g id="135"/>United Nations Development Framework</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[119]/text:list-item[0]/text:p[0]/text:span[0]"><source>Respect for basic rights;</source>
         <target>Respect for basic rights;</target>
@@ -1011,7 +1011,7 @@
         <target>Victim</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[267]"><source>To date, hundreds of thousands of personnel, the vast majority of them soldiers, have served in 56 UN peacekeeping operations. Military and civilian police personnel in peacekeeping operations remain members of their own national establishments but serve under the operational control of the UN and are expected to conduct themselves exclusively in accordance with the international character of their mission. They wear their national uniforms, but also wear blue berets or helmets and the UN insignia.</source>
-        <target>ယနေ့အချိန်အထိ ရာနှင့်ချီသော ၀န်ထမ်းများ၊ အများစု စစ်သည်များသည် ကုလသမဂ္ဂငြိမ်းချမ်းရေး ထိန်းသိမ်းမှုစစ်ဆင်ရေး ၅၆ ခုတွင် အမှူထမ်းဆောင်ခဲ့ကြသည်။ ငြိမ်းချမ်းရေးနှင့်ထိန်းသိမ်းရေးစစ်ဆင်ရေးများတွင်စစ်ဘက်နှင့်အရပ်ဘက်ရဲတပ်ဖွဲ့ ၀င်များသည် ၎င်းတို့၏ သက်ဆိုင်ရာ နိုင်ငံ့အဖွဲ့အစည်းများ၏ အဖွဲ့ဝင်များဖြစ်နေဆဲဖြစ်သော်လည်း ကုလသမဂ္ဂ၏လုပ်ငန်းလည်ပတ်မှုထိန်းချုပ်မှုအောက်တွ င်အမှုထမ်းဆောင်ရပြီး ၎င်းတို့သည်တာဝန်များကို နိုင်ငံတကာစံနှုန်းများနှင့်အညီ လုပ်ဆောင်ရသည်။ သူတို့သည်သူတို့၏အမျိုးသားဝတ်စုံများကိုဝတ်ဆင်ကြသော်လည်း ဘယ်ရီကက်ဦးထုပ်သို့မဟုတ် ဦးထုပ်နှင့် ကုလသမဂ္ဂအထိမ်းအမှတ်တံဆိပ်များကိုလည်း ဝတ်ဆင်ကြသည်။</target>
+        <target>To date, hundreds of thousands of personnel, the vast majority of them soldiers, have served in 56 UN peacekeeping operations. Military and civilian police personnel in peacekeeping operations remain members of their own national establishments but serve under the operational control of the UN and are expected to conduct themselves exclusively in accordance with the international character of their mission. They wear their national uniforms, but also wear blue berets or helmets and the UN insignia.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[268]"><source>Civilian staff serving in peacekeeping operations include personnel drawn from within the UN system (including the United Nations Volunteers), loaned by Member States, or recruited internationally or locally to fill specific jobs.</source>
         <target>Civilian staff serving in peacekeeping operations include personnel drawn from within the UN system (including the United Nations Volunteers), loaned by Member States, or recruited internationally or locally to fill specific jobs.</target>
@@ -1041,10 +1041,10 @@
         <target>understood;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[270]"><source>International civilian personnel with specialized areas of expertise are indispensable to the successful implementation of peacekeeping mandates. At the same time, the UN places great priority on the development of local capacities. The “light footprint” approach—a term that was coined during the planning of UNAMA—advocates that UN activities should be limited to those that are appropriate to the local needs and context, and that international staff should be limited to the minimum required, with an effort to ensure local capacity-building, so that nationals can take over from the UN as soon as possible.</source>
-        <target>သက်ဆိုင်ရာ နယ်ပယ်များတွင် ကျွမ်းကျင်သော နိုင်ငံတကာ အရပ်ဖက် ဝန်ထမ်းများသည် ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှူဆိုင်ရာ လုပ်ငန်းများ အောင်မြင်စွာ အကောင်အထည်ဖော်ဆောင်ရွက်ရေးတွင် မရှိမဖြစ်လိုအပ်သူများဖြစ်ပါသည်။ တစ်ချိန်တည်းမှာပင် ကုလသမဂ္ဂသည် ဒေသတွင်း စွမ်းရည်ဖွံ့ဖြိုး တိုးတက်ရေးအတွက်လည်း ဦးစားပေးဆောင်ရွက်ပါသည်။ “Light footprint” နည်းလမ်း ( UNAMA စီမံကိန်းရေးစွဲစဉ်က စပြီး တီထွင်အသုံးပြုခဲ့သောစကားလုံး ) တွင် ကုလသမ္မဂ၏ လုပ်ဆောင်ချက်များသည် ဒေသတွင်းလိုအပ်အပ်ချက်များ၊ အခြေအနေများနှင့်ကိုက်ညီအောင် သတ်မှတ်သင့်ကြောင်းနှင့် နိုင်ငံတကာ ဝန်ထမ်းများကိုလည်း လိုအပ်ချက်အနည်းဆုံးသို့ ကန့်သတ်ပြီး ဒေသတွင်း စွမ်းရည်မြှင့်တင်ရန် ပိုပိုအားထုတ်သင့်ကြောင်း ဖော်ပြထားသည်။ သို့မှသာလျှင် နိုင်ငံသားများအနေနှင့် ကုလသမဂ္ဂထံမှ အမြန်ဆုံး လွှဲပြောင်းယူနိုင်မည်ဖြစ်သည်။</target>
+        <target>International civilian personnel with specialized areas of expertise are indispensable to the successful implementation of peacekeeping mandates. At the same time, the UN places great priority on the development of local capacities. The “light footprint” approach—a term that was coined during the planning of UNAMA—advocates that UN activities should be limited to those that are appropriate to the local needs and context, and that international staff should be limited to the minimum required, with an effort to ensure local capacity-building, so that nationals can take over from the UN as soon as possible.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[272]"><source>The lead time required to deploy a mission varies and depends on a number of factors, particularly the will of Member States to contribute troops to a particular operation and the timely availability of financial and other resources. In 1973, for example, elements of the second United Nations Emergency Force (UNEF II) were deployed in the Middle East within 24 hours. For missions with highly complex mandates or difficult logistics, however, or where peacekeepers face significant security risks, it may take several weeks to assemble and deploy the necessary elements. DPKO is using a number of mechanisms to build its capacity to deploy missions rapidly by:</source>
-        <target>မစ်ရှင်တစ်ခုစတင်ရန် လိုအပ်သော အချိန်သည်ကွဲပြားခြားနားပြီး အချက်များများစွာပေါ်တွင်မူတည်သည်။ အထူးသဖြင့် အဖွဲ့ဝင်နိုင်ငံများ၏ စစ်ဆင်ရေးတစ်ခုတွင်တပ်ဖွဲ့များအားပံ့ပိုးနိုင်ရေး ငွေကြေးနှင့်အခြားအရင်းအမြစ်များကိုအချိန်မီရရှိနိုင်မှုအပေါ် မူတည်သည်။ ဥပမာအားဖြင့် ၁၉၇၃ ခုနှစ်တွင် ဒုတိယကုလသမဂ္ဂအရေးပေါ်တပ်ဖွဲ့ (UNEF II) ၏အစိတ်အပိုင်းများကို ၂၄ နာရီအတွင်းအရှေ့အလယ်ပိုင်းတွင်တပ်ဖြန့်ချထားခဲ့သည်။ အလွန်ခက်ခဲရှုပ်ထွေးသော လုပ်ငန်းစဉ်များ သို့မဟုတ် ခက်ခဲသော ထောက်ပံ့ပို့ဆောင်ရေးရှိသည့်မစ်ရှင်များ၊ သို့မဟုတ် peacekeepers သည် လုံခြုံရေးအန္တရာယ်များနှင့်ရင်ဆိုင်ရသည့်အခါ လိုအပ်သော လုပ်ငန်းစဉ်များကို စတင်ဆောင်ရွက်ရန် ရက်သတ္တပတ်များစွာကြာနိုင်သည်။ DPKO သည် မစ်ရှင်များအားလျင်မြန်စွာဖြန့်ကျက်ရန်အတွက် သူ၏ စွမ်းဆောင်ရည် မြှင့်တင်မည့် ယန္တရားများစွာကို အသုံးပြုလျှက်ရှိသည်</target>
+        <target>The lead time required to deploy a mission varies and depends on a number of factors, particularly the will of Member States to contribute troops to a particular operation and the timely availability of financial and other resources. In 1973, for example, elements of the second United Nations Emergency Force (UNEF II) were deployed in the Middle East within 24 hours. For missions with highly complex mandates or difficult logistics, however, or where peacekeepers face significant security risks, it may take several weeks to assemble and deploy the necessary elements. DPKO is using a number of mechanisms to build its capacity to deploy missions rapidly by:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[0]"><source>Establishing United Nations Stand-by Arrangements System (UNSAS) </source>
         <target>Establishing United Nations Stand-by Arrangements System (UNSAS) </target>
@@ -2439,7 +2439,7 @@
         <target>Monitoring and Investigating</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[928]/text:span[1]"><source>The military component may be asked to provide advice on security sector reform and related issues.</source>
-        <target>လုံခြုံရေးကဏ္ဍ ပြန်လည်ဖွဲ့စည်းခြင်းနှင့် ၎င်းနှင့်ဆက်စပ်သည့်ကိစ္စရပ်များအတွက် စစ်ဖက်ဆိုင်ရာအပိုင်းကို အကြံပေးရန်တောင်းဆိုနိုင်သည်။</target>
+        <target>The military component may be asked to provide advice on security sector reform and related issues.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1435]"><source>One of the primary tasks of most human rights components is to monitor the human rights situation, which means actively gathering information from a variety of sources. Human rights officers must have excellent skills in interviewing witnesses, victims, government officials and others who may have knowledge about specific cases. In addition, human rights officers should monitor all local media, including reading all available publications, listening to radio and watching television. Language skills are an important tool and a human rights officer who speaks the local language has an <g id="393">enormous </g>advantage in collecting information.</source>
         <target>One of the primary tasks of most human rights components is to monitor the human rights situation, which means actively gathering information from a variety of sources. Human rights officers must have excellent skills in interviewing witnesses, victims, government officials and others who may have knowledge about specific cases. In addition, human rights officers should monitor all local media, including reading all available publications, listening to radio and watching television. Language skills are an important tool and a human rights officer who speaks the local language has an <g id="393">enormous </g>advantage in collecting information.</target>
