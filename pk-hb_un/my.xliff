@@ -177,7 +177,7 @@
         <target state="needs-translation">APM<g id="19"/>လူအတွက်ထောင်သည့်မြေမြုပ်မိုင်းများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
-        <target>ATM<g id="21"/>anti-tank mine</target>
+        <target>ATM<g id="21"/>တင့်ကားဖျက်မိုင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
         <target>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</target>
@@ -192,7 +192,7 @@
         <target>CPR<g id="35"/>conflict prevention and reconstruction</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]"><source>CRC<g id="36"/>Convention on the Rights of the Child</source>
-        <target>CRC<g id="36"/>Convention on the Rights of the Child</target>
+        <target state="needs-translation">CRC<g id="36"/>ကလေးသူငယ်များဆိုင်ရာအခွင့်အရေးဦးတည်ချက်ညီလာခံ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]"><source>DDA<g id="37"/>Department for Disarmament Affairs</source>
         <target>DDA<g id="37"/>Department for Disarmament Affairs</target>
@@ -201,7 +201,7 @@
         <target>DDR<g id="38"/>disarmament, demobilization and reintegration</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]"><source>DPI<g id="42"/>Department of Public Information</source>
-        <target>DPI<g id="42"/>Department of Public Information</target>
+        <target state="needs-translation">DPI<g id="42"/>လူထုဆိုင်ရာ သတင်းအချက်အလက်ဌာန</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]"><source>DRC<g id="44"/>Democratic Republic of the Congo</source>
         <target>DRC<g id="44"/>Democratic Republic of the Congo</target>
@@ -675,7 +675,7 @@
         <target>DPA<g id="41"/>Department of Political Affairs</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]"><source>DPKO<g id="43"/>Department of Peacekeeping Operations</source>
-        <target>DPKO<g id="43"/>Department of Peacekeeping Operations</target>
+        <target state="needs-translation">DPKO<g id="43"/>ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ဆောင်မှုဌာန</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]"><source>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</source>
         <target>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</target>
