@@ -99,7 +99,7 @@
         <target><g id="4">V</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[1]/text:p[0]"><source>Military</source>
-        <target state="needs-translation">စစ်တပ်</target>
+        <target state="translated">စစ်တပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[2]/text:p[0]"><source>55</source>
         <target>55</target>
@@ -108,7 +108,7 @@
         <target><g id="5">VI</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[1]/text:p[0]"><source>Mine Action Assistance</source>
-        <target state="needs-translation">မိုင်းလုပ်ဆောင်မှုအတွက် အထောက်အပံ့</target>
+        <target state="translated">မိုင်းလုပ်ဆောင်မှုအတွက် အထောက်အပံ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[2]/text:p[0]"><source>71</source>
         <target>71</target>
@@ -120,7 +120,7 @@
         <target>Police, Judiciary and Corrections Aspects of Rule of Law</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[1]/text:p[0]"><source>Human Rights</source>
-        <target state="needs-translation">လူသားချင်းစာနာထောက်ထားမှု</target>
+        <target state="translated">လူ့အခွင့်အရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[2]/text:p[0]"><source>113</source>
         <target>113</target>
@@ -144,7 +144,7 @@
         <target><g id="12">XIII</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[1]/text:p[0]"><source>Humanitarian Assistance</source>
-        <target state="needs-translation">လူသားချင်းစာနာထောက်ထားမှု အကူအညီ</target>
+        <target state="translated">လူသားချင်းစာနာထောက်ထားမှု အကူအညီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[2]/text:p[0]"><source>159</source>
         <target>159</target>
@@ -168,7 +168,7 @@
         <target>November 2003</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]"><source>ACRONYMS</source>
-        <target state="needs-translation">အတိုကောက်စကားလုံးများ</target>
+        <target state="translated">အတိုကောက်စကားလုံးများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]"><source>Bank</source>
         <target>Bank</target>
@@ -453,13 +453,13 @@
         <target><g id="8">IX</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[1]/text:p[0]"><source>Gender Mainstreaming</source>
-        <target state="needs-translation">လိင်တိုင်းကို အခွန့်အရေးတန်းတူထားရှိခြင်း</target>
+        <target state="translated">လိင်ကွဲပြားမှု အခြေပြု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[0]/text:p[0]"><source><g id="9">X</g>:</source>
         <target><g id="9">X</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[1]/text:p[0]"><source>Administration and Support</source>
-        <target state="needs-translation">စီမံရေးနှင့်ထောက်ပံ့ရေး</target>
+        <target state="translated">အုပ်ချုပ်မှုနှင့် အကူအညီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[0]/text:p[0]"><source><g id="10">XI</g>:</source>
         <target><g id="10">XI</g>:</target>
@@ -630,7 +630,7 @@
         <target>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]"><source>We hope to update the electronic version of the Handbook periodically and look forward to receiving your comments and questions.</source>
-        <target state="needs-translation">ကျွန်ုပ်တို့အနေနှင့် ဤလက်ကိုင်စာအုပ်ရဲ့ ဗားရှင်းကို ပုံမှန်ဖြည့်စွက်သွားဖို့ ရှိပြီး၊ သင့်ထံမှမေးခွန်းနှင့်မှတ်ချက်များရရှိဖို့ကိုလည်းမျှော်လင့်မိပါသည်။</target>
+        <target state="translated">ကျွန်ုပ်တို့သည် ယခုအီလက်ထရောနစ်ဗားရှင်း လက်စွဲစာအုပ်ကို အချိန်နှင့်တပြေးညီအသစ်ပြုလုပ်ရန် မျှော်မှန်းထားပြီး သင့်ထင်မြင်ချက်နှင့် မေးခွန်းများကိုလည်း မျှော်လင့်မိပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]"><source>Under-Secretary-General for Peacekeeping Operations</source>
         <target>Under-Secretary-General for Peacekeeping Operations</target>
@@ -669,7 +669,7 @@
         <target>DM<g id="39"/>Department of Management</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]"><source>DOA<g id="40"/>director of administration</source>
-        <target state="needs-translation">DOA<g id="40"/>စီမံခန့်ခွဲမှု ဒါရိုက်တာ</target>
+        <target state="translated">DOA<g id="40"/>စီမံခန့်ခွဲမှု ဒါရိုက်တာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]"><source>DPA<g id="41"/>Department of Political Affairs</source>
         <target>DPA<g id="41"/>Department of Political Affairs</target>
