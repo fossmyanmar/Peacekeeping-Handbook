@@ -48,7 +48,7 @@
         <target>Accountable policing </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/text:span[0]"><source>Any comments or questions concerning this publication may be addressed to: Peacekeeping Best Practices Unit</source>
-        <target state="needs-translation">ဤစာအုပ်ထုတ်၀ေမှုအတွက် မေးခွန်းနှင့်မှတ်ချက်များကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါတယ်။</target>
+        <target state="translated">ဤစာအုပ်ထုတ်၀ေမှုအတွက် မေးခွန်းနှင့်မှတ်ချက်များကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါတယ်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]"><source>E-mail: </source>
         <target>E-mail: </target>
@@ -225,7 +225,7 @@
         <target>FRY<g id="55"/>Federal Republic of Yugoslavia</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]"><source>HIPC<g id="60"/>highly indebted poor country</source>
-        <target state="needs-translation">HIPC<g id="60"/>ေကြွးမြီအမြောက်အမြားတင်နေသော ဆင်းရဲသည့်နိုင်ငံ</target>
+        <target state="translated">HIPC<g id="60"/>ေကြွးမြီအမြောက်အမြားတင်နေသော ဆင်းရဲသည့်နိုင်ငံ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
         <target>IBRD<g id="64"/>International Bank for Reconstruction and Development</target>
@@ -639,7 +639,7 @@
         <target>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]"><source>ADB<g id="18"/>Asian Development</source>
-        <target state="needs-translation">ADB<g id="18"/> အာစီယံဖွံ့ဖြိုးမှု</target>
+        <target state="translated">ADB<g id="18"/> အာစီယံဖွံ့ဖြိုးမှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
         <target>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</target>
