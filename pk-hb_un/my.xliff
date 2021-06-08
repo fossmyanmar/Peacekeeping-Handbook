@@ -714,7 +714,7 @@
         <target>IPTF<g id="83"/>International Police Task Force</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]"><source>JMAC<g id="85"/>joint mission analysis cell</source>
-        <target state="needs-translation">JMAC<g id="85"/>ချိတ်ဆက်ဆောင်ရွက်မှုလုပ်ငန်းတာဝန် စူးစမ်းလေ့လာမှုအထူးအဖွဲ့အစည်း</target>
+        <target state="translated">JMAC<g id="85"/>joint mission analysis cell</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]"><source>JOC<g id="87"/>joint operations centre</source>
         <target>JOC<g id="87"/>joint operations centre</target>
