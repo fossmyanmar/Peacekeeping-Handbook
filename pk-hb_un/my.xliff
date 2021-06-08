@@ -231,7 +231,7 @@
         <target>IBRD<g id="64"/>International Bank for Reconstruction and Development</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]"><source>ICBL<g id="65"/>International Campaign to Ban Landmines</source>
-        <target>ICBL<g id="65"/>International Campaign to Ban Landmines</target>
+        <target state="needs-translation">ICBL<g id="65"/>မြေမြုပ်မိုင်းတားဆီးရေးဆိုင်ရာနိုင်ငံတကာလှုပ်ရှားမှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]"><source>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</source>
         <target state="translated">ICCPR<g id="66"/>International Covenant on Civil and Political Rights</target>
@@ -693,7 +693,7 @@
         <target>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]"><source>HI<g id="59"/>Handicap International</source>
-        <target state="translated">HI<g id="59"/>Handicap International</target>
+        <target state="needs-translation">HI<g id="59"/>Handicap International အဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
         <target state="translated">IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</target>
