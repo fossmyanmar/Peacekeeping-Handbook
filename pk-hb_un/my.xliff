@@ -579,7 +579,7 @@
         <target>APMs.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:span[0]"><source>The Brahimi Report</source>
-        <target>The Brahimi Report</target>
+        <target state="needs-translation">UN၏ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုအချက်အလက်ပြမှတ်တမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
@@ -597,19 +597,19 @@
         <target>in </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[2]"><source>helping them resolve their conflict.</source>
-        <target>helping them resolve their conflict.</target>
+        <target state="needs-translation">သူတို့ကို ကူညီခြင်းဖြင့် သူတို့၏ပြဿနာကို အဖြေရှာခြင်းဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[1]"><source>involve </source>
-        <target>involve </target>
+        <target state="needs-translation">ပါ၀င်ပတ်သက်မှု </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:span[1]"><source>conflict </source>
-        <target>conflict </target>
+        <target state="needs-translation">ပြဿနာ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[2]"><source>objective of an operation and provide it with a clear mandate.</source>
         <target>objective of an operation and provide it with a clear mandate.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[1]/text:p[0]/text:span[2]"><source>equipped troops.</source>
-        <target>equipped troops.</target>
+        <target state="needs-translation">ပစ္စည်းအပြည့်အစုံပြင်ဆင်ပြီးသောတပ်ဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[239]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>where </source>
         <target>where </target>
@@ -1089,7 +1089,7 @@
         <target>The <g id="198">Brahimi Report </g>contained 57 explicit recommendations to the Secretary-General, the Security Council, the General Assembly and Member States in general. The report focused attention on strategic, political and basic operational matters. Many peacekeeping reforms have been instituted as a result of the dialogue that ensued following the report’s issuance and continued implementation of its recommendations remains a very high priority for DPKO and the Secretariat in general.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[290]"><source>The main recommendations of the report can be summarized as follows:</source>
-        <target>The main recommendations of the report can be summarized as follows:</target>
+        <target state="needs-translation">မှတ်တမ်း၏ အဓိကထောက်ခံချက်များကို အောက်ပါအတိုင်း အကျဉ်းချုပ်နိုင်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>staff;</source>
         <target>staff;</target>
@@ -1110,7 +1110,7 @@
         <target>occur when:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[0]"><source>All key parties to a conflict must agree to the UN’s involvement and its role </source>
-        <target>All key parties to a conflict must agree to the UN’s involvement and its role </target>
+        <target state="needs-translation">ပြဿနာတွင်ပါ၀င်နေသောအဓိကအဖွဲ့စည်းများအားလုံးသည် UN၏ပါ၀င်မှုနှင့်၄င်းရဲ့တာ၀န်ကို သဘောတူကြရမည်။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[0]"><source>United Nations Volunteers</source>
         <target>United Nations Volunteers</target>
@@ -1152,7 +1152,7 @@
         <target>The credibility and ability of a mission to implement its mandate is often determined at the outset, so the rapid deployment of personnel and material </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]/text:span[2]"><source>essential.</source>
-        <target>essential.</target>
+        <target state="needs-translation">လိုအပ်ချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]/text:span[0]"><source>Member States must be prepared to work together and commit to peacekeeping and peacebuilding efforts long enough to secure the conditions for their consolidation in a country recovering from war. Peace is not made overnight, particularly in countries or societies that have experienced conflict and suffering for long periods.</source>
         <target>Member States must be prepared to work together and commit to peacekeeping and peacebuilding efforts long enough to secure the conditions for their consolidation in a country recovering from war. Peace is not made overnight, particularly in countries or societies that have experienced conflict and suffering for long periods.</target>
@@ -1170,7 +1170,7 @@
         <target>field, must perform their functions with professionalism, competence and integrity. Great attention must therefore be given to selecting the most qualified staff, from the mission leadership to staff working on the front lines.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:span[0]"><source>Conclusion</source>
-        <target>Conclusion</target>
+        <target>နိဂုံး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[0]"><source>Counter propaganda, false information and hate messages that are harmful to the objectives of the UN and the peace</source>
         <target>Counter propaganda, false information and hate messages that are harmful to the objectives of the UN and the peace</target>
@@ -2058,7 +2058,7 @@
         <target>Educating the Public</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:span[0]"><source>Relations with United Nations (UN) Headquarters</source>
-        <target>Relations with United Nations (UN) Headquarters</target>
+        <target state="needs-translation">UNဌာနချုပ်နှင့်စပ်ဆက်မှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[316]"><source>The SRSG's relationship with Headquarters can determine success or failure. To gain and maintain the necessary influence on the ground, the SRSG must have a clear reporting line to the highest-level decision makers in the Secretariat, including the Secretary- General. The parties to the conflict and Member States will be aware of the SRSG’s</source>
         <target>The SRSG's relationship with Headquarters can determine success or failure. To gain and maintain the necessary influence on the ground, the SRSG must have a clear reporting line to the highest-level decision makers in the Secretariat, including the Secretary- General. The parties to the conflict and Member States will be aware of the SRSG’s</target>
