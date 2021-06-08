@@ -6,7 +6,7 @@
         <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး အလေ့အကျင့်ယူနစ်၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုဌာန </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target>UN ရှု့ဒေါင့်စုံ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေး လုပ်ငန်းစဥ်များအတွက် လက်စွဲစာအုပ်</target>
+        <target>ကုလသမဂ္ဂ ရှု့ဒေါင့်ပေါင်းစုံ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေး လုပ်ငန်းစဥ်များအတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -693,7 +693,7 @@
         <target>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]"><source>HI<g id="59"/>Handicap International</source>
-        <target state="needs-translation">HI<g id="59"/>Handicap International အဖွဲ့</target>
+        <target state="translated">HI<g id="59"/>နိုင်ငံတကာ မသန်စွမ်း အဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
         <target state="translated">IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</target>
