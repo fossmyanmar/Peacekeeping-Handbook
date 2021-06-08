@@ -708,7 +708,7 @@
         <target>IFC<g id="75"/>International Finance Corporation</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]"><source>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</source>
-        <target>IMSMA<g id="79"/>မိုင်းရှင်းလင်းရေးအတွက် သတင်းအချက်အလက်စီမံခန့်ခွဲမှုစနစ်<g id="80">ဆောင်ရွက်ချက်</g>IMTF<g id="81"/>ပေါင်းစည်းမစ်ရှင်အဖွဲ့</target>
+        <target>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]"><source>IPTF<g id="83"/>International Police Task Force</source>
         <target>IPTF<g id="83"/>International Police Task Force</target>
