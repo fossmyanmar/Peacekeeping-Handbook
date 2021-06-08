@@ -47,50 +47,50 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:p[11]/text:span[0]"><source>Accountable policing </source>
         <target>Accountable policing </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/text:span[0]"><source>Any comments or questions concerning this publication may be addressed to: Peacekeeping Best Practices Unit</source>
-        <target state="translated">ဤစာအုပ်ထုတ်၀ေမှုအတွက် မေးခွန်းနှင့်မှတ်ချက်များကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါတယ်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/text:span[0]" approved="yes"><source>Any comments or questions concerning this publication may be addressed to: Peacekeeping Best Practices Unit</source>
+        <target state="final">ဤစာအုပ်ထုတ်၀ေမှုအတွက် မေးခွန်းနှင့်မှတ်ချက်များကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါတယ်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]"><source>E-mail: </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]" approved="yes"><source>E-mail: </source>
         <target>E-mail: </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:a[0]/text:span[0]"><source>DPKO-Handbook@un.org</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:a[0]/text:span[0]" approved="yes"><source>DPKO-Handbook@un.org</source>
         <target>DPKO-Handbook@un.org</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[1]"><source>ONTENTS</source>
-        <target>ONTENTS</target>
+        <target state="needs-translation">ONTENTS</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]"><source>Foreword</source>
-        <target>Foreword</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]" approved="yes"><source>Foreword</source>
+        <target>နိဒါန်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]"><source>vii</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]" approved="yes"><source>vii</source>
         <target>vii</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]"><source>Acronyms</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]" approved="yes"><source>Acronyms</source>
         <target>အတိုကောက်စကားလုံး</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]"><source>ix</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]" approved="yes"><source>ix</source>
         <target>ix</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]"><source>1</source>
-        <target>1</target>
+        <target>၁</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]"><source><g id="0">I</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="0">I</g>:</source>
         <target><g id="0">I</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[2]/text:p[0]"><source>9</source>
-        <target>9</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[2]/text:p[0]" approved="yes"><source>9</source>
+        <target>၉</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]"><source><g id="1">II</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="1">II</g>:</source>
         <target><g id="1">II</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[2]/text:p[0]"><source>23</source>
-        <target>23</target>
+        <target>၂၃</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]"><source>Civil Affairs</source>
-        <target>Civil Affairs</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]" approved="yes"><source>Civil Affairs</source>
+        <target>ပြည်တွင်းအရေးများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[2]/text:p[0]"><source>35</source>
-        <target>35</target>
+        <target>၃၅</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[1]/text:p[0]"><source>Public Information</source>
         <target>Public Information</target>
@@ -381,7 +381,7 @@
         <target>and </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/text:span[0]"><source>Department of Peacekeeping Operations Rm. S-3640, United Nations</source>
-        <target>Department of Peacekeeping Operations Rm. S-3640, United Nations</target>
+        <target state="needs-translation">Department of Peacekeeping Operations Rm. S-3640, United Nations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[1]"><source>the </source>
         <target>the </target>
@@ -389,14 +389,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>functions that are normally the responsibility of a government.</source>
         <target>functions that are normally the responsibility of a government.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]" approved="yes"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
         <target>New York, NY 10017 USA Fax: 1-917-367-5365</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[0]"><source>C</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[0]" approved="yes"><source>C</source>
         <target>C</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]"><source>Introduction</source>
-        <target>မိတ်ဆက်ခြင်း</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]" approved="yes"><source>Introduction</source>
+        <target>မိတ်ဆက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[1]"><source>of </source>
         <target>of </target>
@@ -422,13 +422,13 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[233]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
         <target>on </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]"><source>The Special Representative of the Secretary-General</source>
-        <target>The Special Representative of the Secretary-General</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]" approved="yes"><source>The Special Representative of the Secretary-General</source>
+        <target>အထွေထွေအတွင်းရေးမှူးချုပ်၏အထူးကိုယ်စားလှယ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]"><source>Political Affairs</source>
-        <target state="translated">နိုင်ငံရေးစွက်ဖက်မှု</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]" approved="yes"><source>Political Affairs</source>
+        <target state="final">နိုင်ငံရေးကိစ္စရပ်များ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]"><source><g id="2">III</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="2">III</g>:</source>
         <target><g id="2">III</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[0]/text:p[0]"><source><g id="3">IV</g>:</source>
