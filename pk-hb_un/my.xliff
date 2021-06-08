@@ -174,7 +174,7 @@
         <target>ဘဏ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target state="needs-translation">APM<g id="19"/>လူအတွက်ထောင်သည့်မြေမြှုပ်မိုင်းများ</target>
+        <target state="needs-translation">APM<g id="19"/>လူလုပ်မြေမြှုပ်မိုင်းတားဆီးရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
         <target>ATM<g id="21"/>တင့်ကားဖျက်မိုင်း</target>
@@ -186,7 +186,7 @@
         <target>CERD<g id="30"/>လူမျိုးရေး ခွဲခြားဆက်ဆံမှုများအားလုံး ပပျောက်ရေးဆိုင်ရာ နိုင်ငံတကာသဘောတူစာချုပ်<g id="31"/></target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]"><source>CMIC<g id="33"/>civil-military coordination cell</source>
-        <target state="needs-translation">CMIC<g id="33"/>အရပ်ဘက် - စစ်ရေးညှိနှိုင်းဆဲလ်</target>
+        <target state="needs-translation">CMIC<g id="33"/>ပြည်သူနှင့်စစ်တပ်ကြားညှိနှိုင်းရေးအထူးအဖွဲ့အစည်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
         <target>CPR<g id="35"/>ပဋိပက္ခကာကွယ်တားဆီးရေးနှင့်ပြန်လည်တည်ဆောက်ရေး</target>
@@ -642,7 +642,7 @@
         <target state="translated">ADB<g id="18"/> အာစီယံဖွံ့ဖြိုးမှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
-        <target state="needs-translation">APMBT<g id="20"/>လူအတွက်ထောင်သည့် မိုင်းတားမြစ်စာချုပ်</target>
+        <target state="needs-translation">APMBT<g id="20"/>လူလုပ်မြေမြှုပ်မိုင်းတားဆီးရေးစာချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]"><source>CAO<g id="22"/>chief administrative officer</source>
         <target>CAO<g id="22"/>အုပ်ချုပ်ရေးအရာရှိချုပ်</target>
@@ -651,7 +651,7 @@
         <target state="needs-translation">CAP<g id="23"/>ပေါင်းစုအယူခံလုပ်ငန်းစဉ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"><source>CAS<g id="24"/>country assistance strategy</source>
-        <target state="needs-translation">CAS<g id="24"/>တိုင်းပြည်အကူအညီနည်းဗျူဟာ</target>
+        <target state="needs-translation">CAS<g id="24"/>ကျေးလက်ဒေသအထောက်အပံ့နည်းဗျူဟာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]"><source>CCA<g id="27"/>common country assessment</source>
         <target state="translated">CCA<g id="27"/>common country assessment</target>
