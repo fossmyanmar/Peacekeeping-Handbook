@@ -21,7 +21,7 @@
         <target state="translated">လုပ်ငန်းစဥ် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]"><source>Copyright © United Nations 2003</source>
-        <target state="needs-translation">Copyright © United Nations 2003</target>
+        <target state="translated">Copyright © United Nations 2003</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[1]"><source>to </source>
         <target>to </target>
@@ -39,7 +39,7 @@
         <target>and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
-        <target state="needs-translation">The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</target>
+        <target state="translated">လိုအပ်သော ထောက်ကူပစ္စည်းများနှင့် လက်စွဲစာအုပ် အခန်းခွဲများကို စီစစ်ပေးခြင်းတို့ကို လုပ်ဆောင်ပေးသော ကုလသမ္မဂ မိသားစုဝင်အဖွဲ့အားလုံးကို ငြိမ်းချမ်းရေးထိန်းသိမ်းရေး လုပ်ငန်းစဉ်များ ဌာနမှ ကျေးဇူးအထူးတင်ရှိပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[2]"><source>wishes.</source>
         <target>wishes.</target>
@@ -375,7 +375,7 @@
         <target>on </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
-        <target state="needs-translation">This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</target>
+        <target state="translated">ဤစာအုပ်သည် Universal မူပိုင်ခွင့်ဆိုင်ရာသဘောတူစာချုပ်၏ ပရိုတိုကော (၂) အရ မူပိုင်ခွင့်ရှိသည်။ မည်သို့ပင်ဆိုစေကာမူ၊ အသင်း ၀င်နိုင်ငံများ၏ အစိုးရအာဏာပိုင်များသည်  ဤစာစောင်၏ မည်သည့်အစိတ်အပိုင်းကိုမဆို ၎င်းတို့၏သင်တန်းကျောင်းများအတွင်း သီးသန့်အသုံးပြုရန်အတွက်ကူးယူနိုင်သည်။ သို့ရာတွင်၊ ဤပုံနှိပ်ထုတ်ဝေမှု၏မည်သည့်အပိုင်းကိုမျှ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေး လုပ်ငန်းစဉ်များ ဌာန၏ ခွင့်ပြုချက်မရပဲရောင်းချခြင်းသို့မဟုတ်အစုလိုက်အပြုံလိုက်ထုတ်ဝေခြင်းများမပြုလုပ်ရပါ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[180]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
         <target>and </target>
