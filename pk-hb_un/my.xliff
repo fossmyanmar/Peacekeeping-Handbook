@@ -3936,7 +3936,7 @@
         <target state="needs-translation"><g id="536">ဆက်သွယ်ရေးများ၊ ဒေတာစီမံခန့်ခွဲမှု နှင့် ဒေတာစီမံခန့်ခွဲမှု</g>, ဆက်သွယ်ရေးစနစ်များတည်ဆောက်ခြင်းအပါအ၀င် စာတိုက်ပုံးများ၊ ရေဒီယိုကွန်ယက်များစသည်..၊ ဒေတာဘေ့စ်များစုဆောင်းဖြန့်ဖြူးခြင်း၊ လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာသတင်းအချက်အလက်စင်တာများကိုစီမံခန့်ခွဲခြင်း၊ နှင့်စုဆောင်းဆန်းစစ်ခြင်းနှင့် မြေပုံ / ပထဝီဝင်ဆိုင်ရာသတင်းအချက်အလက်စနစ်များ၊ ReliefWeb နှင့်ဒေသတွင်းသတင်းအချက်အလက်ကွန်ယက်ကဲ့သို့သောသတင်းအချက်အလက်များကိုဖြန့်ဝေခြင်း တို့ဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2187]"><source><g id="537">Advocacy and donor relations</g>, including advocating on key issues to governments and local authorities, particularly in support of NGOs, and maintaining media and donor relations.</source>
-        <target state="needs-translation"><g id="537">လှုံ့ဆော်မှု နှင့် အလှူရှင် ဆက်ဆံရေး</g>, တွင်ပါဝင်သော အစိုးရများနှင့်ဒေသဆိုင်ရာအာဏာပိုင်များကိုအဓိကပြဿနာများနှင့် ပတ်သက်၍ ဆွေးနွေးခြင်း၊အထူးသဖြင့် အန်ဂျီအိုများ၏ပံ့ပိုးမှုနှင့် မီဒီယာနှင့်အလှူရှင်ဆက်ဆံရေး ကိုထိန်းသိမ်းရန်ဖြစ်သည်။</target>
+        <target state="translated"><g id="537">Advocacy and donor relations</g>, including advocating on key issues to governments and local authorities, particularly in support of NGOs, and maintaining media and donor relations.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[143]/text:span[0]"><source>Humanitarian Assistance in a Peacekeeping Operation</source>
         <target>ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှုလုပ်ငန်းစဉ်ရှိ လူသားချင်းစာနာမှု အထောက်အပံ့</target>
