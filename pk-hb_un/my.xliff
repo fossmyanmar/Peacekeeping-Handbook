@@ -57,7 +57,7 @@
         <target>DPKO-Handbook@un.org</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[1]"><source>ONTENTS</source>
-        <target state="translated">ONTENTS</target>
+        <target state="translated">CONTENTS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]" approved="yes"><source>Foreword</source>
         <target>နိဒါန်း</target>
