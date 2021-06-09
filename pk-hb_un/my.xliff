@@ -2,8 +2,8 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="peacekeeping-handbook_un_dec2003_KKY.odt" source-language="en" datatype="plaintext" target-language="my">
     <body>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]" approved="yes"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
-        <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းအကောင်းဆုံးအလေ့ကျင့်ဌာန ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်း </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]" approved="no"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
+        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုဌာန </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="yes"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
         <target state="final">ကုလသမ္မဂဘက်စုံငြိမ်းချမ်းရေးလုပ်ဆောင်ခြင်း လုပ်ငန်းစဥ်လက်စွဲတွင်</target>
@@ -389,8 +389,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>functions that are normally the responsibility of a government.</source>
         <target>functions that are normally the responsibility of a government.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]" approved="yes"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
-        <target>New York, NY 10017 USA Fax: 1-917-367-5365</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]" approved="no"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
+        <target>နယူးယောက်၊ NY ၁၀၀၁၇ USA ဖက်စ်: ၁-၉၁၇-၃၆၇-၅၃၆၅</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[0]" approved="yes"><source>C</source>
         <target>C</target>
