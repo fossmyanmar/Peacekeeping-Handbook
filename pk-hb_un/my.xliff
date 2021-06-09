@@ -2,11 +2,11 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
   <file original="peacekeeping-handbook_un_dec2003_KKY.odt" source-language="en" datatype="plaintext" target-language="my">
     <body>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]" approved="no"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
-        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုဌာန </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]" approved="yes"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
+        <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုဌာန </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="no"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target state="translated">ကုလသမဂ္ဂဘက်စုံငြိမ်းချမ်းရေးလုပ်ဆောင်ခြင်း လုပ်ငန်းစဥ်လက်စွဲတွင်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="yes"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
+        <target state="final">ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးလုပ်ငန်းစဥ် လက်စွဲတွင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -21,7 +21,7 @@
         <target state="final">လုပ်ငန်းစဥ်များ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]" approved="yes"><source>Copyright © United Nations 2003</source>
-        <target state="final">မူပိုင် © ကုလသမ္မဂ ၂၀၀၃</target>
+        <target state="final">မူပိုင် © ကုလသမဂ္ဂ ၂၀၀၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[1]"><source>to </source>
         <target>to </target>
@@ -32,14 +32,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]" approved="yes"><source>December</source>
         <target>ဒီဇင်ဘာ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]" approved="no"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]" approved="yes"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
         <target>ဗြိတိန် နှင့် ဂျာမနီ အစိုးရတို့၏ အကူအညီဖြင့် ဤထုတ်ဝေမှုကိုဆောင်ရွက်နိုင်ခဲ့သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[68]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]" approved="yes"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
-        <target state="final">ဤလက်စွဲစာအုပ်အတွက် လိုအပ်သောအချက်အလက်များနှင့်စီစစ်ပေးခဲ့ကြသော ဌာနအစုံမှ ကုလသမ္မဂ မိသားစု၀င်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ဆောင်ရေးဌာနမှ အထူးကျေးဇူးတင်ရှိပါသည်။</target>
+        <target state="final">ဤလက်စွဲစာအုပ်အတွက် လိုအပ်သောအချက်အလက်များနှင့်စီစစ်ပေးခဲ့ကြသော ဌာနအစုံမှ ကုလသမဂ္ဂ မိသားစု၀င်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ဆောင်ရေးဌာနမှ အထူးကျေးဇူးတင်ရှိပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[2]"><source>wishes.</source>
         <target>wishes.</target>
@@ -381,7 +381,7 @@
         <target>and </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/text:span[0]" approved="yes"><source>Department of Peacekeeping Operations Rm. S-3640, United Nations</source>
-        <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန Rm. S-3640, ကုလသမ္မဂ</target>
+        <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန Rm. S-3640, ကုလသမဂ္ဂ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[1]"><source>the </source>
         <target>the </target>
@@ -1076,8 +1076,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Advance the peace process through the creation of timely and relevant information products;</source>
         <target>Advance the peace process through the creation of timely and relevant information products;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[283]"><source>peacekeeping mission. Member States providing these essential elements are reimbursed from the mission budget at agreed-upon rates. Contributing personnel to peacekeeping is not obligatory and a troop-contributing country (TCC) retains the right to withdraw its personnel from an operation. Many countries also voluntarily make available, on a non- reimbursable basis, additional resources to support UN peacekeeping efforts, in the form of transportation, supplies, personnel and financial contributions, above and beyond their assessed share of peacekeeping costs.</source>
-        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုမစ်ရှင်။ မရှိမဖြစ်လိုအပ်သောအရာများထောက်ပံ့ပေးနေသည့် အဖွဲ့ဝင်နိုင်ငံများကို လုပ်ငန်း ရသုံးငွေစာရင်းမှ သဘောတူထားသည့် နှုန်းထားများဖြင့် ငွေပြန်လည်ထုတ်ပေးပါမည်။ ၀န်ထမ်းများအား ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းသို့ ပါဝင်ဆောင်ရွက်စေရန်မှာ မဖြစ်မနေလုပ်ဆောင်ရမည့် တာဝန်မဟုတ်ပါ။ တပ်များပံ့ပိုးပေးသောနိုင်ငံ (TCC) သည်၎င်း၏ ၀န်ထမ်းများအား စစ်ဆင်ရေးမှရုပ်သိမ်းခွင့်ရှိသည်။ နိုင်ငံအများစုသည် ကုလသမ္မဂ ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှု လုပ်ငန်းစဉ်များကို ကူညီထောက်ပံ့ရန် ပြန်လည် ငွေထုတ်ပေးမည်မဟုတ်သော ပို့ဆောင်ဆက်သွယ်ရေး၊ လိုအပ်သော သုံးကုန်ပစ္စည်းများ၊ ဝန်ထမ်းအင်အား နှင့် ငွေကြေးထောက်ပံ့မှု စသော အရင်းအမြစ်များကို စေတနာအလျှောက် ထောက်ပံ့ပေးကြပါသည်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[283]" approved="yes"><source>peacekeeping mission. Member States providing these essential elements are reimbursed from the mission budget at agreed-upon rates. Contributing personnel to peacekeeping is not obligatory and a troop-contributing country (TCC) retains the right to withdraw its personnel from an operation. Many countries also voluntarily make available, on a non- reimbursable basis, additional resources to support UN peacekeeping efforts, in the form of transportation, supplies, personnel and financial contributions, above and beyond their assessed share of peacekeeping costs.</source>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုမစ်ရှင်။ မရှိမဖြစ်လိုအပ်သောအရာများထောက်ပံ့ပေးနေသည့် အဖွဲ့ဝင်နိုင်ငံများကို လုပ်ငန်း ရသုံးငွေစာရင်းမှ သဘောတူထားသည့် နှုန်းထားများဖြင့် ငွေပြန်လည်ထုတ်ပေးပါမည်။ ၀န်ထမ်းများအား ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းသို့ ပါဝင်ဆောင်ရွက်စေရန်မှာ မဖြစ်မနေလုပ်ဆောင်ရမည့် တာဝန်မဟုတ်ပါ။ တပ်များပံ့ပိုးပေးသောနိုင်ငံ (TCC) သည်၎င်း၏ ၀န်ထမ်းများအား စစ်ဆင်ရေးမှရုပ်သိမ်းခွင့်ရှိသည်။ နိုင်ငံအများစုသည် ကုလသမဂ္ဂ ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှု လုပ်ငန်းစဉ်များကို ကူညီထောက်ပံ့ရန် ပြန်လည် ငွေထုတ်ပေးမည်မဟုတ်သော ပို့ဆောင်ဆက်သွယ်ရေး၊ လိုအပ်သော သုံးကုန်ပစ္စည်းများ၊ ဝန်ထမ်းအင်အား နှင့် ငွေကြေးထောက်ပံ့မှု စသော အရင်းအမြစ်များကို စေတနာအလျှောက် ထောက်ပံ့ပေးကြပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[0]"><source>Defend and protect the peacekeeping operation from unjustified criticism and misinformation;</source>
         <target>Defend and protect the peacekeeping operation from unjustified criticism and misinformation;</target>
