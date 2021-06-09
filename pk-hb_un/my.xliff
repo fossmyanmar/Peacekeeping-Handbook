@@ -824,8 +824,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:span[0]" approved="yes"><source>INTRODUCTION</source>
         <target>မိတ်ဆက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:span[0]" approved="yes"><source>The Need for Peacekeeping</source>
-        <target>ငြိမ်းချမ်းရေးထိမ်းသိမ်းခြင်းလိုအပ်ချက်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:span[0]" approved="no"><source>The Need for Peacekeeping</source>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလိုအပ်ချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[211]"><source>The United Nations (UN) was established on 24 October 1945 in the aftermath of two World Wars and was dedicated, in the enduring words of the UN Charter, to saving “succeeding generations from the scourge of war.” Since its creation, the UN has been called upon to prevent disputes from escalating into war, to persuade opposing parties to use the conference table rather than the force of arms and to help restore peace when conflict breaks out. Over the decades, the UN has helped to contain or end numerous conflicts, in many cases through the deployment of peacekeeping operations.</source>
         <target>The United Nations (UN) was established on 24 October 1945 in the aftermath of two World Wars and was dedicated, in the enduring words of the UN Charter, to saving “succeeding generations from the scourge of war.” Since its creation, the UN has been called upon to prevent disputes from escalating into war, to persuade opposing parties to use the conference table rather than the force of arms and to help restore peace when conflict breaks out. Over the decades, the UN has helped to contain or end numerous conflicts, in many cases through the deployment of peacekeeping operations.</target>
@@ -879,7 +879,7 @@
         <target>a range of political and civil society actors;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[0]"><source>Supporting the delivery of humanitarian assistance;</source>
-        <target>Supporting the delivery of humanitarian assistance;</target>
+        <target>လူသားချင်းစာနာထောက်ထားမှုမျှဝေခြင်းအား ထောက်ပံ့ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assisting with the disarmament, demobilization and reintegration (DDR) </source>
         <target>Assisting with the disarmament, demobilization and reintegration (DDR) </target>
