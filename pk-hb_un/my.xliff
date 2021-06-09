@@ -5,8 +5,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]" approved="no"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
         <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုဌာန </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="yes"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target state="final">ကုလသမ္မဂဘက်စုံငြိမ်းချမ်းရေးလုပ်ဆောင်ခြင်း လုပ်ငန်းစဥ်လက်စွဲတွင်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="no"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
+        <target state="translated">ကုလသမဂ္ဂဘက်စုံငြိမ်းချမ်းရေးလုပ်ဆောင်ခြင်း လုပ်ငန်းစဥ်လက်စွဲတွင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -27,7 +27,7 @@
         <target>to </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[2]" approved="yes"><source>United Nations</source>
-        <target>ကုလသမ္မဂ</target>
+        <target>ကုလသမဂ္ဂ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]" approved="yes"><source>December</source>
         <target>ဒီဇင်ဘာ</target>
@@ -71,8 +71,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]" approved="yes"><source>ix</source>
         <target>ix</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]"><source>1</source>
-        <target>1</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]" approved="yes"><source>1</source>
+        <target>၁</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="0">I</g>:</source>
         <target><g id="0">I</g>:</target>
