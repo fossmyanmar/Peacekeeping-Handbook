@@ -1877,23 +1877,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[87]/text:list-item[0]/text:p[0]/text:span[2]"><source>UNMAS;</source>
         <target>UNMAS;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[88]/text:list-item[0]/text:p[0]/text:span[0]"><source>Country-specific trust funds, generally managed by UNDP; and</source>
-        <target>Country-specific trust funds, generally managed by UNDP; and</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[88]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Country-specific trust funds, generally managed by UNDP; and</source>
+        <target>ယေဘူရအားဖြင့်UNDPမှစီမံခန့်ခွဲသောနိုင်ငံအတွက်သီးခြားရန်ပုံငွေနှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[89]/text:list-item[0]/text:p[0]/text:span[0]"><source>Adopt-a-Minefield programme of the UN Association of the U.S. and the </source>
-        <target>Adopt-a-Minefield programme of the UN Association of the U.S. and the </target>
+        <target>အမေရိကန်ပြည်ထောင်စု၏ကုလသမ္ဂအဖွဲ့အစည်းမှမိုင်းကွင်းအစီအစဥ်နှင့် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[89]/text:list-item[0]/text:p[0]/text:span[1]"><source>Better </source>
-        <target>Better </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[89]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>Better </source>
+        <target>ကောင်းမွန်သော </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[89]/text:list-item[0]/text:p[0]/text:span[2]"><source>World Fund.</source>
-        <target>World Fund.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[89]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>World Fund.</source>
+        <target>ကမ္ဘာ့ရန်ပုံငွေအဖွဲ့.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1157]"><source>Under the overall coordination of UNMAS, the departments and agencies of the UN system work to keep the donor community informed through the annual publication of <g id="358">Portfolio of Mine-Related Projects</g>. The portfolio includes brief descriptions and budget requirements for all UN mine action programmes and projects (see <g id="359">www.mineaction.org</g>).</source>
         <target>Under the overall coordination of UNMAS, the departments and agencies of the UN system work to keep the donor community informed through the annual publication of <g id="358">Portfolio of Mine-Related Projects</g>. The portfolio includes brief descriptions and budget requirements for all UN mine action programmes and projects (see <g id="359">www.mineaction.org</g>).</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Voluntary Trust Fund for Assistance in Mine Action</source>
-        <target>Voluntary Trust Fund for Assistance in Mine Action</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:p[1]/text:span[0]" approved="yes"><source>Voluntary Trust Fund for Assistance in Mine Action</source>
+        <target>မိုင်းရှင်းလင်းရေးလုပ်ငန်းတွင်ကူညီသည့်စေတနာ့ဝန်ထမ်းအတွက်ရန်ပုံငွေ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1163]"><source>The coordination of mine-related activities is critical for effectively addressing the problem in affected areas, and the UN Policy on Mine Action and Effective Coordination defines the roles and responsibilities of the actors within the UN system. To avoid duplication of efforts and to ensure effective coordination, all mine action activities are organised in consultation with UNMAS and with the UN Resident and Humanitarian Coordinators in the field. UNMAS also ensures that all like-minded partners outside the UN system, including NGOs, the ICRC and other components of the Red Cross and Red Crescent Movement, are fully involved.</source>
         <target>The coordination of mine-related activities is critical for effectively addressing the problem in affected areas, and the UN Policy on Mine Action and Effective Coordination defines the roles and responsibilities of the actors within the UN system. To avoid duplication of efforts and to ensure effective coordination, all mine action activities are organised in consultation with UNMAS and with the UN Resident and Humanitarian Coordinators in the field. UNMAS also ensures that all like-minded partners outside the UN system, including NGOs, the ICRC and other components of the Red Cross and Red Crescent Movement, are fully involved.</target>
