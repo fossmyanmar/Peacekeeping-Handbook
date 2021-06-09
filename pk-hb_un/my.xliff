@@ -6,7 +6,7 @@
         <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန၏ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလက်စွဲတော်အဖွဲ့ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on United Nations Multidimensional Peacekeeping Operations</target>
+        <target state="needs-translation">Handbook on United Nations Multidimensional Peacekeeping Operations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -18,7 +18,7 @@
         <target>Cooperation and Coordination with Key Partners</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[1]"><source>Operations </source>
-        <target state="translated">Operations </target>
+        <target state="needs-translation">Operations </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]"><source>Copyright © United Nations 2003</source>
         <target state="translated">မူပိုင် © ကုလသမ္မဂ ၂၀၀၃</target>
