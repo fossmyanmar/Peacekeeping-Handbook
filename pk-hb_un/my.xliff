@@ -5271,10 +5271,10 @@
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[156]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစ်လက်စွဲ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[157]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[157]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်လက်စွဲ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[158]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
@@ -6147,19 +6147,19 @@
         <target>The Centre’s programme manager reports to the DSRSG on mine action issues that concern the peacekeeping operation in the temporary security zone and to the UN Resident Coordinator on issues that relate to the longer term development of national mine action institutions.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:p[3]/text:span[0]"><source>VTF is managed by UNMAS and is primarily used to finance:</source>
-        <target>VTF is managed by UNMAS and is primarily used to finance:</target>
+        <target>UNMASကစီမံသောVTFနှင့်အဓိကငွေကြေးသုံးစွဲရန်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Overall coordination of UN mine</source>
-        <target>Overall coordination of UN mine</target>
+        <target>ကုလသမဂ္ဂသတ္ထုတွင်း၏ယေဘူယျညှိနှိုင်းချက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>action;</source>
-        <target>action;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>action;</source>
+        <target>ဆောင်ရွက်ချက် /လုပ်ဆောင်ချက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Missions to assess the scope of the landmine threat and established</source>
-        <target>Missions to assess the scope of the landmine threat and established</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Missions to assess the scope of the landmine threat and established</source>
+        <target>မြေမြှုပ်မိုင်းအန္တရာယ်၏နယ်ပယ်ကိုအကဲဖြတ်ခြင်းနှင့်ပြန်လည်ထူထောင်ခြင်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]"><source>programmes;</source>
-        <target>programmes;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>programmes;</source>
+        <target>အစီစဥ်များ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Initiation of new mine action activities and programmes when and where required;</source>
         <target>Initiation of new mine action activities and programmes when and where required;</target>
