@@ -408,7 +408,7 @@
         <target>and </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[2]"><source>training of civilian police;</source>
-        <target>training of civilian police;</target>
+        <target>အရပ်သား ရဲများ၏ သင်တန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assisting with post-conflict recovery and rehabilitation; and</source>
         <target>Assisting with post-conflict recovery and rehabilitation; and</target>
@@ -417,7 +417,7 @@
         <target>towards </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[2]"><source>independence.</source>
-        <target>independence.</target>
+        <target>လွတ်လပ်ရေး။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[233]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
         <target>on </target>
