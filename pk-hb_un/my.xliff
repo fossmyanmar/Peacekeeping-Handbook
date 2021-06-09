@@ -837,7 +837,7 @@
         <target>person;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[956]/text:span[0]"><source>Land forces, which are the most commonly contributed forces for UN peacekeeping operations, are grouped by size as follows:</source>
-        <target>Land forces, which are the most commonly contributed forces for UN peacekeeping operations, are grouped by size as follows:</target>
+        <target>ကုလ၏ ငြိမ်းချမ်းရေးထိမ်းသိန်းမှုလုပ်ငန်းစဉ်များတွင် အများဆုံးပါဝင်လေ့ရှိသည့် မြေပြင်အင်အားများကို အောက်ပါအတိုင်းအုပ်စုဖွဲ့နိုင်သည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[215]"><source>Peacekeeping can help bridge the gap between the cessation of hostilities and a durable peace, but only if the parties to a conflict have the political will needed to reach the goal. Initially developed as a means of dealing with inter-State conflict, peacekeeping has increasingly been used in intra-State conflicts and civil wars, which are often characterized by multiple armed factions with differing political objectives and fractured lines of command.</source>
         <target state="translated">Peacekeeping can help bridge the gap between the cessation of hostilities and a durable peace, but only if the parties to a conflict have the political will needed to reach the goal. Initially developed as a means of dealing with inter-State conflict, peacekeeping has increasingly been used in intra-State conflicts and civil wars, which are often characterized by multiple armed factions with differing political objectives and fractured lines of command.</target>
@@ -1623,7 +1623,7 @@
         <target>In March 1995, to do justice to the complex peacekeeping tasks in the former Yugoslavia, UNPROFOR was renamed and restructured into three separate but inter-linked peacekeeping operations: one in Croatia, the second in Bosnia and Herzegovina and the third in the former Yugoslav Republic of Macedonia. The last was called the United Nations Preventive Deployment Force (UNPREDEP) with essentially the same mandate and tasks that UNPROFOR had in the republic. The UNPREDEP Force Commander established mutually beneficial contacts with the military authorities of Albania and the FRY to push for a more tolerant reaction to border crossings, thus significantly reducing tensions. In conjunction with its major tasks of monitoring and reporting on the situation along the borders, the military component of UNPREDEP cooperated with civilian agencies and offered </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[916]/text:span[2]"><source>community services and humanitarian assistance to the local population.</source>
-        <target>community services and humanitarian assistance to the local population.</target>
+        <target>ဒေသတွင်းရှိလူများကို ပြည်သူ့ဝန်ဆောင်မှုများနှင့် လူသားချင်းစာနာမှုအကူအညီများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[919]"><source><g id="307">Preventive deployment. </g>While all peacekeeping operations are preventive in nature—a major objective in deploying a peacekeeping operation is to prevent conflict from</source>
         <target><g id="307">Preventive deployment. </g>While all peacekeeping operations are preventive in nature—a major objective in deploying a peacekeeping operation is to prevent conflict from</target>
@@ -5949,16 +5949,16 @@
         <target>Although the conflict had not spread to the republic, the international community was concerned that without such an international military presence, the republic would be engulfed in the same inter-ethnic conflict that was ravaging Croatia and Bosnia and Herzegovina.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[916]/text:span[1]"><source>ad hoc </source>
-        <target>ad hoc </target>
+        <target>လိုအပ်သလို </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[926]"><source><g id="311">Enforcement of sanctions. </g>The enforcement of sanctions authorized by the Security Council, particularly arms and <g id="312">materiel </g>embargoes, may be tasked to a military component of a peacekeeping operation.</source>
         <target><g id="311">Enforcement of sanctions. </g>The enforcement of sanctions authorized by the Security Council, particularly arms and <g id="312">materiel </g>embargoes, may be tasked to a military component of a peacekeeping operation.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[928]/text:span[0]"><source>Security sector reform and training. </source>
-        <target>Security sector reform and training. </target>
+        <target>လုံခြုံရေးကဏ္ဍ ပြန်လည်ဖွဲ့စည်းခြင်းနှင့် သင်တန်းပေးခြင်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[934]"><source>Within the UN system, managing humanitarian assistance is normally the task of the humanitarian coordinator in that particular mission area.</source>
-        <target>Within the UN system, managing humanitarian assistance is normally the task of the humanitarian coordinator in that particular mission area.</target>
+        <target>ကုလ စနစ်အတွင်းတွင် လူသားချင်းစာနာမှု အထောက်အပံ့များ ကိုစီမံခံ့ခွဲခြင်းသည် သက်ဆိုင်ရာ လူသားချင်းစာနာမှုပူးပေါင်းဆောင်ရွက်ရေးအရာရှိ၏ လုပ်ငန်းဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[938]"><source><g id="316">Protection of civilians. </g>In specific circumstances, the mandate of a peacekeeping operation may include the need to protect vulnerable civilian populations from imminent attack. The military component may be asked to provide such protection in its area of deployment only if it has the capacity to do so.<g id="317"><g id="318">8</g></g></source>
         <target><g id="316">Protection of civilians. </g>In specific circumstances, the mandate of a peacekeeping operation may include the need to protect vulnerable civilian populations from imminent attack. The military component may be asked to provide such protection in its area of deployment only if it has the capacity to do so.<g id="317"><g id="318">8</g></g></target>
@@ -5985,7 +5985,7 @@
         <target>9</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[981]/text:span[2]"><source>Austria, Canada, Denmark, Netherlands, Norway, Poland and Sweden were founding members, with Argentina, Italy and Romania joining later and Finland, Portugal, Slovenia and Spain having signed various documents related to membership in the group.</source>
-        <target>Austria, Canada, Denmark, Netherlands, Norway, Poland and Sweden were founding members, with Argentina, Italy and Romania joining later and Finland, Portugal, Slovenia and Spain having signed various documents related to membership in the group.</target>
+        <target>သြစတြီးယား၊ ကနေဒါ၊ ဒိန်းမတ်၊ နယ်သာလန်၊ နော်ဝေး၊ ပိုလန် နှင့် ဆွီဒင်တို့သည် တည်ထောင်သည့်နိုင်ငံများဖြစ်ကြသည်။ အဖွဲ့ကို အာဂျင်တီးနား၊ အီတလီနှင့် ရိုမေးနီးယားတို့က ပူးပေါင်းခဲ့ကြပြီး အသင်းဝင်နှင့်ပတ်သက်သည့် စာရွက်စာတမ်းအမျိုးမျိုးကို ဖင်လန်၊ ပေါ်တူဂီ၊ ဆလိုဗေးနီးယား နှင့် စပိန် နိုင်ငံတို့ကလက်မှတ်ရေးထိုးခဲ့ကြသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[991]"><source>Command of all military units, including logistics units, rests with the mission’s force commander and the military chain of command. The integrated support structure, however, provides the ability to carry out integrated and coordinated planning which allows all mission support elements to work together to achieve overall mission priorities.</source>
         <target>Command of all military units, including logistics units, rests with the mission’s force commander and the military chain of command. The integrated support structure, however, provides the ability to carry out integrated and coordinated planning which allows all mission support elements to work together to achieve overall mission priorities.</target>
