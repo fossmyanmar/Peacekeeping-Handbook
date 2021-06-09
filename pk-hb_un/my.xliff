@@ -6,7 +6,7 @@
         <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန၏ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလက်စွဲတော်အဖွဲ့ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target state="needs-translation">Handbook on United Nations Multidimensional Peacekeeping Operations</target>
+        <target state="needs-translation">ကုလသမ္မဂဘက်စုံငြိမ်းချမ်းရေးလုပ်ဆောင်ခြင်းလက်စွဲတွင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -381,7 +381,7 @@
         <target>and </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/text:span[0]"><source>Department of Peacekeeping Operations Rm. S-3640, United Nations</source>
-        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန Rm. S-3640, United Nations</target>
+        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန Rm. S-3640, ကုလသမ္မဂ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[1]"><source>the </source>
         <target>the </target>
@@ -471,7 +471,7 @@
         <target state="needs-translation">၀န်ထမ်းရဲ့လုံခြုံရေးနှင့်တကိုယ်ရည်ကာကွယ်မှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[1]/text:p[0]"><source>Refugees and Internally Displaced Persons</source>
-        <target>Refugees and Internally Displaced Persons</target>
+        <target state="needs-translation">ပြည်တွင်းနှင့်ပြင်ပမှ ခိုလှုံခွင့်ရဒုက္ခသည်များ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[2]/text:p[0]"><source>169</source>
         <target>169</target>
@@ -480,7 +480,7 @@
         <target><g id="14">XV</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[1]/text:p[0]"><source>The World Bank in Post-Conflict Reconstruction</source>
-        <target>The World Bank in Post-Conflict Reconstruction</target>
+        <target state="needs-translation">ပဋိပက္ခအပြီးပြန်လည်တည်ဆောက်ခြင်းမှ ကမ္ဘာ့ဘဏ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[2]/text:p[0]"><source>183</source>
         <target>183</target>
