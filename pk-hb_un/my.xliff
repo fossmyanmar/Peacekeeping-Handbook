@@ -21,13 +21,13 @@
         <target state="translated">Operations </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]"><source>Copyright © United Nations 2003</source>
-        <target state="translated">Copyright © United Nations 2003</target>
+        <target state="translated">မူပိုင် © ကုလသမ္မဂ ၂၀၀၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[1]"><source>to </source>
         <target>to </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[2]"><source>United Nations</source>
-        <target>United Nations</target>
+        <target>ကုလသမ္မဂ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]"><source>December</source>
         <target>ဒီဇင်ဘာ</target>
@@ -39,7 +39,7 @@
         <target>and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
-        <target state="needs-translation">ဤလက်စွဲစာအုပ်အတွက် လိုအပ်သောအချက်အလက်များနှင့်စီစစ်ပေးခဲ့ကြသော ဌာနအစုံမှUNမိသားစု၀င်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာနမှ အထူးကျေးဇူးတင်ရှိပါသည်။</target>
+        <target state="translated">ဤလက်စွဲစာအုပ်အတွက် လိုအပ်သောအချက်အလက်များနှင့်စီစစ်ပေးခဲ့ကြသော ဌာနအစုံမှ ကုလသမ္မဂ မိသားစု၀င်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ဆောင်ရေးဌာနမှ အထူးကျေးဇူးတင်ရှိပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[2]"><source>wishes.</source>
         <target>wishes.</target>
