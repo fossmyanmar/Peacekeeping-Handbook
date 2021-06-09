@@ -56,8 +56,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:a[0]/text:span[0]" approved="yes"><source>DPKO-Handbook@un.org</source>
         <target>DPKO-Handbook@un.org</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[1]"><source>ONTENTS</source>
-        <target state="translated">CONTENTS</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[1]" approved="yes"><source>ONTENTS</source>
+        <target state="final">CONTENTS</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]" approved="yes"><source>Foreword</source>
         <target>နိဒါန်း</target>
@@ -83,226 +83,226 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="1">II</g>:</source>
         <target><g id="1">II</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[2]/text:p[0]"><source>23</source>
-        <target>23</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[2]/text:p[0]" approved="yes"><source>23</source>
+        <target>၂၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]" approved="yes"><source>Civil Affairs</source>
         <target>ပြည်တွင်းအရေးများ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[2]/text:p[0]"><source>35</source>
-        <target>35</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[2]/text:p[0]" approved="yes"><source>35</source>
+        <target>၃၅</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[1]/text:p[0]"><source>Public Information</source>
-        <target>Public Information</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[1]/text:p[0]" approved="yes"><source>Public Information</source>
+        <target>ပြည်သူ့ သတင်းအချက်အလက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[0]/text:p[0]"><source><g id="4">V</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="4">V</g>:</source>
         <target><g id="4">V</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[1]/text:p[0]"><source>Military</source>
-        <target state="translated">စစ်တပ်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[1]/text:p[0]" approved="yes"><source>Military</source>
+        <target state="final">စစ်တပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[2]/text:p[0]"><source>55</source>
-        <target>55</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[2]/text:p[0]" approved="yes"><source>55</source>
+        <target>၅၅</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[0]/text:p[0]"><source><g id="5">VI</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="5">VI</g>:</source>
         <target><g id="5">VI</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[1]/text:p[0]" approved="yes"><source>Mine Action Assistance</source>
         <target state="final">မိုင်းလုပ်ဆောင်ချက်အထောက်အကူပြု</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[2]/text:p[0]"><source>71</source>
-        <target>71</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[2]/text:p[0]" approved="yes"><source>71</source>
+        <target>၇၁</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[0]/text:p[0]"><source><g id="6">VII</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="6">VII</g>:</source>
         <target><g id="6">VII</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[1]/text:p[0]"><source>Police, Judiciary and Corrections Aspects of Rule of Law</source>
-        <target>Police, Judiciary and Corrections Aspects of Rule of Law</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[1]/text:p[0]" approved="yes"><source>Police, Judiciary and Corrections Aspects of Rule of Law</source>
+        <target>ရဲ၊ တရားရေးနှင့် ဥပဒေစိုးမိုးရေးအတွက်ပြင်ဆင်ချက်များ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[1]/text:p[0]"><source>Human Rights</source>
-        <target state="translated">လူ့အခွင့်အရေး</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[1]/text:p[0]" approved="yes"><source>Human Rights</source>
+        <target state="final">လူ့အခွင့်အရေး</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[2]/text:p[0]"><source>113</source>
-        <target>113</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[2]/text:p[0]" approved="yes"><source>113</source>
+        <target>၁၁၃</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[2]/text:p[0]"><source>125</source>
-        <target>125</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[2]/text:p[0]" approved="yes"><source>125</source>
+        <target>၁၂၅</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[2]/text:p[0]"><source>135</source>
-        <target>135</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[2]/text:p[0]" approved="yes"><source>135</source>
+        <target>၁၃၅</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[14]/table:table-cell[0]/text:p[0]"><source><g id="11">XII</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[14]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="11">XII</g>:</source>
         <target><g id="11">XII</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[14]/table:table-cell[1]/text:p[0]" approved="yes"><source>Electoral Assistance</source>
         <target state="final">ရွေးကောက်ပွဲအထောက်အကူ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[14]/table:table-cell[2]/text:p[0]"><source>147</source>
-        <target>147</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[14]/table:table-cell[2]/text:p[0]" approved="yes"><source>147</source>
+        <target>၁၄၇</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[0]/text:p[0]"><source><g id="12">XIII</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="12">XIII</g>:</source>
         <target><g id="12">XIII</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[1]/text:p[0]" approved="yes"><source>Humanitarian Assistance</source>
         <target state="final">လူသားချင်းစာနာထောက်ထားမှုအထောက်အပံ့</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[2]/text:p[0]"><source>159</source>
-        <target>159</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[2]/text:p[0]" approved="yes"><source>159</source>
+        <target>၁၅၉</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[0]/text:p[0]"><source><g id="13">XIV</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="13">XIV</g>:</source>
         <target><g id="13">XIV</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[0]/text:p[0]"><source><g id="15">XVI</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="15">XVI</g>:</source>
         <target><g id="15">XVI</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:span[0]"><source>Foreword</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:span[0]" approved="yes"><source>Foreword</source>
         <target>နိဒါန်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]"><source>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</source>
-        <target>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]" approved="yes"><source>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</source>
+        <target>ယခုကဏ္ဏအတွက် တာ၀န်ပေးအပ်ခြင်းခံရသည့်အရာအတွက် အကောင်းဆုံးအားထုတ်ကြိုးပမ်းနိုင်ရန် ငြိမ်းချမ်းရေးကာကွယ်ရေးလုပ်ငန်းစဥ်ဌာနမှ အမှုထမ်းအားလုံးကဆန္ဒပြုပါသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]"><source>Jean-Marie Guéhenno</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]" approved="yes"><source>Jean-Marie Guéhenno</source>
         <target>Jean-Marie Guéhenno</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]"><source>November 2003</source>
-        <target>November 2003</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]" approved="yes"><source>November 2003</source>
+        <target>နို၀င်ဘာ ၂၀၀၃</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]"><source>ACRONYMS</source>
-        <target state="translated">ACRONYMS</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]" approved="yes"><source>ACRONYMS</source>
+        <target state="final">၀ေါဟာရ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]"><source>Bank</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]" approved="yes"><source>Bank</source>
         <target>Bank</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target state="translated">APM<g id="19"/>anti-personnel landmines</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]" approved="yes"><source>APM<g id="19"/>anti-personnel landmines</source>
+        <target state="final">APM<g id="19"/>anti-personnel landmines</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"><source>ATM<g id="21"/>anti-tank mine</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]" approved="yes"><source>ATM<g id="21"/>anti-tank mine</source>
         <target>ATM<g id="21"/>anti-tank mine</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]" approved="yes"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
         <target>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="yes"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
         <target>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]"><source>CMIC<g id="33"/>civil-military coordination cell</source>
-        <target state="translated">CMIC<g id="33"/>civil-military coordination cell</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]" approved="yes"><source>CMIC<g id="33"/>civil-military coordination cell</source>
+        <target state="final">CMIC<g id="33"/>civil-military coordination cell</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]" approved="yes"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
         <target>CPR<g id="35"/>conflict prevention and reconstruction</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]"><source>CRC<g id="36"/>Convention on the Rights of the Child</source>
-        <target state="translated">CRC<g id="36"/>Convention on the Rights of the Child</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]" approved="yes"><source>CRC<g id="36"/>Convention on the Rights of the Child</source>
+        <target state="final">CRC<g id="36"/>Convention on the Rights of the Child</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]"><source>DDA<g id="37"/>Department for Disarmament Affairs</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]" approved="yes"><source>DDA<g id="37"/>Department for Disarmament Affairs</source>
         <target>DDA<g id="37"/>Department for Disarmament Affairs</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]"><source>DDR<g id="38"/>disarmament, demobilization and reintegration</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]" approved="yes"><source>DDR<g id="38"/>disarmament, demobilization and reintegration</source>
         <target>DDR<g id="38"/>disarmament, demobilization and reintegration</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]"><source>DPI<g id="42"/>Department of Public Information</source>
-        <target state="translated">DPI<g id="42"/>Department of Public Information</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]" approved="yes"><source>DPI<g id="42"/>Department of Public Information</source>
+        <target state="final">DPI<g id="42"/>Department of Public Information</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]"><source>DRC<g id="44"/>Democratic Republic of the Congo</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]" approved="yes"><source>DRC<g id="44"/>Democratic Republic of the Congo</source>
         <target>DRC<g id="44"/>Democratic Republic of the Congo</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[118]"><source>ECOSOC<g id="47"/>Economic and Social Council</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[118]" approved="yes"><source>ECOSOC<g id="47"/>Economic and Social Council</source>
         <target>ECOSOC<g id="47"/>Economic and Social Council</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]"><source>ECPS<g id="48"/>Executive Committee on Peace and Security</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]" approved="yes"><source>ECPS<g id="48"/>Executive Committee on Peace and Security</source>
         <target>ECPS<g id="48"/>Executive Committee on Peace and Security</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]"><source>ECHA<g id="49"/>Executive Committee on Humanitarian Affairs</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]" approved="yes"><source>ECHA<g id="49"/>Executive Committee on Humanitarian Affairs</source>
         <target>ECHA<g id="49"/>Executive Committee on Humanitarian Affairs</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"><source>EOD<g id="51"/>explosive ordnance disposal</source>
-        <target state="translated">EOD<g id="51"/>explosive ordnance disposal</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]" approved="yes"><source>EOD<g id="51"/>explosive ordnance disposal</source>
+        <target state="final">EOD<g id="51"/>explosive ordnance disposal</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]"><source>EU<g id="53"/>European Union</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]" approved="yes"><source>EU<g id="53"/>European Union</source>
         <target>EU<g id="53"/>European Union</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]"><source>FRY<g id="55"/>Federal Republic of Yugoslavia</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]" approved="yes"><source>FRY<g id="55"/>Federal Republic of Yugoslavia</source>
         <target>FRY<g id="55"/>Federal Republic of Yugoslavia</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]"><source>HIPC<g id="60"/>highly indebted poor country</source>
-        <target state="translated">HIPC<g id="60"/>highly indebted poor country</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]" approved="yes"><source>HIPC<g id="60"/>highly indebted poor country</source>
+        <target state="final">HIPC<g id="60"/>highly indebted poor country</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]" approved="yes"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
         <target>IBRD<g id="64"/>International Bank for Reconstruction and Development</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]"><source>ICBL<g id="65"/>International Campaign to Ban Landmines</source>
-        <target state="translated">ICBL<g id="65"/>International Campaign to Ban Landmines</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]" approved="yes"><source>ICBL<g id="65"/>International Campaign to Ban Landmines</source>
+        <target state="final">ICBL<g id="65"/>International Campaign to Ban Landmines</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]"><source>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</source>
-        <target state="translated">ICCPR<g id="66"/>International Covenant on Civil and Political Rights</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]" approved="yes"><source>ICCPR<g id="66"/>International Covenant on Civil and Political Rights</source>
+        <target state="final">ICCPR<g id="66"/>International Covenant on Civil and Political Rights</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]"><source>ICRC<g id="70"/>International Committee of the Red Cross</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]" approved="yes"><source>ICRC<g id="70"/>International Committee of the Red Cross</source>
         <target>ICRC<g id="70"/>International Committee of the Red Cross</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[233]/text:list-item[0]/text:p[0]/text:span[2]"><source>polling day.</source>
         <target>polling day.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[137]"><source>IDP<g id="74"/>internally displaced person</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[137]" approved="yes"><source>IDP<g id="74"/>internally displaced person</source>
         <target>IDP<g id="74"/>internally displaced person</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]"><source>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]" approved="yes"><source>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</source>
         <target>IFRC<g id="76"/>International Federation of Red Cross and Red Crescent Societies IMAS<g id="77"/>International Mine Action Standards</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]"><source>IMF<g id="78"/>International Monetary Fund</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]" approved="yes"><source>IMF<g id="78"/>International Monetary Fund</source>
         <target>IMF<g id="78"/>International Monetary Fund</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]"><source>IOM<g id="82"/>International Organization for Migration</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]" approved="yes"><source>IOM<g id="82"/>International Organization for Migration</source>
         <target>IOM<g id="82"/>International Organization for Migration</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]"><source>JAM<g id="84"/>joint assessment mission</source>
-        <target state="translated">JAM<g id="84"/>joint assessment mission</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]" approved="yes"><source>JAM<g id="84"/>joint assessment mission</source>
+        <target state="final">JAM<g id="84"/>joint assessment mission</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]"><source>JLOC<g id="86"/>joint logistics operations centre</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]" approved="yes"><source>JLOC<g id="86"/>joint logistics operations centre</source>
         <target>JLOC<g id="86"/>joint logistics operations centre</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]"><source>LIS<g id="89"/>landmine impact survey</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]" approved="yes"><source>LIS<g id="89"/>landmine impact survey</source>
         <target>LIS<g id="89"/>landmine impact survey</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[150]"><source>MACC<g id="90"/>mine action coordination centre</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[150]" approved="yes"><source>MACC<g id="90"/>mine action coordination centre</source>
         <target>MACC<g id="90"/>mine action coordination centre</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[151]"><source>MAG<g id="91"/>Mines Advisory Group</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[151]" approved="yes"><source>MAG<g id="91"/>Mines Advisory Group</source>
         <target>MAG<g id="91"/>Mines Advisory Group</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[152]"><source>MIGA<g id="92"/>Multilateral Investment Guarantee Agency</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[152]" approved="yes"><source>MIGA<g id="92"/>Multilateral Investment Guarantee Agency</source>
         <target>MIGA<g id="92"/>Multilateral Investment Guarantee Agency</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[154]"><source>MSF<g id="97"/>Médecins Sans Frontières</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[154]" approved="yes"><source>MSF<g id="97"/>Médecins Sans Frontières</source>
         <target>MSF<g id="97"/>Médecins Sans Frontières</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[157]"><source>NGO<g id="100"/>non-governmental organization</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[157]" approved="yes"><source>NGO<g id="100"/>non-governmental organization</source>
         <target>NGO<g id="100"/>non-governmental organization</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[158]"><source>NPA<g id="101"/>Norwegian Peoples Aid</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[158]" approved="yes"><source>NPA<g id="101"/>Norwegian Peoples Aid</source>
         <target>NPA<g id="101"/>Norwegian Peoples Aid</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[162]"><source>OED<g id="105"/>Operations Evaluation Department</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[162]" approved="yes"><source>OED<g id="105"/>Operations Evaluation Department</source>
         <target>OED<g id="105"/>Operations Evaluation Department</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[164]"><source>OLA<g id="109"/>Office of Legal Affairs</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[164]" approved="yes"><source>OLA<g id="109"/>Office of Legal Affairs</source>
         <target>OLA<g id="109"/>Office of Legal Affairs</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[165]"><source>OMS<g id="110"/>Office of Mission Support</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[165]" approved="yes"><source>OMS<g id="110"/>Office of Mission Support</source>
         <target>OMS<g id="110"/>Office of Mission Support</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[166]"><source>ONUC<g id="111"/>United Nations Operations in the Congo</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[166]" approved="yes"><source>ONUC<g id="111"/>United Nations Operations in the Congo</source>
         <target>ONUC<g id="111"/>United Nations Operations in the Congo</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[167]"><source>OSCE<g id="112"/>Organization for Security and Co-operation in Europe</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[167]" approved="yes"><source>OSCE<g id="112"/>Organization for Security and Co-operation in Europe</source>
         <target>OSCE<g id="112"/>Organization for Security and Co-operation in Europe</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[168]"><source>PAD<g id="113"/>project appraisal document</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[168]" approved="yes"><source>PAD<g id="113"/>project appraisal document</source>
         <target>PAD<g id="113"/>project appraisal document</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[170]"><source>PRSP<g id="115"/>poverty reduction strategy paper</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[170]" approved="yes"><source>PRSP<g id="115"/>poverty reduction strategy paper</source>
         <target>PRSP<g id="115"/>poverty reduction strategy paper</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[171]"><source>RC<g id="116"/>resident coordinator</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[171]" approved="yes"><source>RC<g id="116"/>resident coordinator</source>
         <target>RC<g id="116"/>resident coordinator</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[1]"><source>Stand-by High Readiness</source>
@@ -431,37 +431,37 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="2">III</g>:</source>
         <target><g id="2">III</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[0]/text:p[0]"><source><g id="3">IV</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="3">IV</g>:</source>
         <target><g id="3">IV</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[2]/text:p[0]"><source>45</source>
-        <target>45</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[2]/text:p[0]" approved="yes"><source>45</source>
+        <target>၄၅</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[237]"><source>Secretary-General (SRSG) provides, in addition to his or her other responsibilities, overall coordination for the UN funds and programmes working in the mission area.</source>
         <target>Secretary-General (SRSG) provides, in addition to his or her other responsibilities, overall coordination for the UN funds and programmes working in the mission area.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[2]/text:p[0]"><source>83</source>
-        <target>83</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[2]/text:p[0]" approved="yes"><source>83</source>
+        <target>၈၃</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[0]/text:p[0]"><source><g id="7">VIII</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="7">VIII</g>:</source>
         <target><g id="7">VIII</g>:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[2]/text:p[0]"><source>101</source>
-        <target>101</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[2]/text:p[0]" approved="yes"><source>101</source>
+        <target>၁၀၁</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[0]/text:p[0]"><source><g id="8">IX</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="8">IX</g>:</source>
         <target><g id="8">IX</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[1]/text:p[0]" approved="yes"><source>Gender Mainstreaming</source>
         <target state="final">လိင်ကွဲပြားမှုအခြေပြု</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[0]/text:p[0]"><source><g id="9">X</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="9">X</g>:</source>
         <target><g id="9">X</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[1]/text:p[0]" approved="yes"><source>Administration and Support</source>
         <target state="final">စီမံရေးနှင့်အထောက်အပံ့</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[0]/text:p[0]"><source><g id="10">XI</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="10">XI</g>:</source>
         <target><g id="10">XI</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1110]/text:span[0]"><source>Food and Agricultural Organization (FAO). </source>
@@ -473,23 +473,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[1]/text:p[0]" approved="yes"><source>Refugees and Internally Displaced Persons</source>
         <target state="final">ပြည်တွင်းနှင့်ပြင်ပမှ ခိုလှုံခွင့်ရဒုက္ခသည်များ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[2]/text:p[0]"><source>169</source>
-        <target>169</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[2]/text:p[0]" approved="yes"><source>169</source>
+        <target>၁၆၉</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[0]/text:p[0]"><source><g id="14">XV</g>:</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[0]/text:p[0]" approved="yes"><source><g id="14">XV</g>:</source>
         <target><g id="14">XV</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[1]/text:p[0]" approved="yes"><source>The World Bank in Post-Conflict Reconstruction</source>
         <target state="final">ပဋိပက္ခကမ္ဘာ့ဘဏ်၏ ပဋိပက္ခအပြီးပြန်လည်တည်ဆောက်ခြင်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[2]/text:p[0]"><source>183</source>
-        <target>183</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[2]/text:p[0]" approved="yes"><source>183</source>
+        <target>၁၈၃</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[1]/text:p[0]"><source>Recovery, Development and Sustainable Peace</source>
-        <target>Recovery, Development and Sustainable Peace</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[1]/text:p[0]" approved="yes"><source>Recovery, Development and Sustainable Peace</source>
+        <target>ပြန်လှည်ကုစားမှု၊ ဖွံ့ဖြိုးတိုးတက်မှုနှင့် ကာလရှည်ငြိမ်းချမ်းရေး</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[2]/text:p[0]"><source>199</source>
-        <target>199</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[18]/table:table-cell[2]/text:p[0]" approved="yes"><source>199</source>
+        <target>၁၉၉</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[69]/text:list-item[0]/text:p[0]/text:span[0]"><source>Logistic and service support forces, including communications, medical support, air, land and maritime lift and transportation</source>
         <target>Logistic and service support forces, including communications, medical support, air, land and maritime lift and transportation</target>
@@ -503,8 +503,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>equality;</source>
         <target>equality;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]"><source>As peacekeeping has evolved, particularly since the late 1980s, a growing number of United Nations peacekeeping operations have become multidimensional in nature, composed of a range of components, including military, civilian police, political <g id="16">affairs, </g>rule of law, human rights, humanitarian, reconstruction, public information and gender. There are also a number of areas, such as mission support and security and safety of personnel, that remain essential to peacekeeping regardless of a particular mission’s mandate.</source>
-        <target>As peacekeeping has evolved, particularly since the late 1980s, a growing number of United Nations peacekeeping operations have become multidimensional in nature, composed of a range of components, including military, civilian police, political <g id="16">affairs, </g>rule of law, human rights, humanitarian, reconstruction, public information and gender. There are also a number of areas, such as mission support and security and safety of personnel, that remain essential to peacekeeping regardless of a particular mission’s mandate.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]" approved="yes"><source>As peacekeeping has evolved, particularly since the late 1980s, a growing number of United Nations peacekeeping operations have become multidimensional in nature, composed of a range of components, including military, civilian police, political <g id="16">affairs, </g>rule of law, human rights, humanitarian, reconstruction, public information and gender. There are also a number of areas, such as mission support and security and safety of personnel, that remain essential to peacekeeping regardless of a particular mission’s mandate.</source>
+        <target>၁၉၈၀ခုနစ် နှောင်းပိုင်း ငြိမ်းချမ်းရေးကာကွယ်ခြင်းအစီအစဥ်စတင်ခဲ့ချိန်မှစ၍ ကုလသမ္မဂ ငြိမ်းချမ်းရေးကာကွယ်ရေး ဆောင်ရွက်ချက်များသည် စစ်တပ်၊ ပြည်သူ့ရဲ၊ နိုင်ငံရေး<g id="16">ကိစ္စရပ်များ</g>ဥပဒေစိုးမိုးရေး၊ လူ့အခွင့်အရေး၊ လူသားခြင်းစာနာထောက်ထားမှု၊ ပြန်လည်တည်ဆောက်ခြင်း၊ သတင်းထုတ်ပြန်ချက် နှင့် လိင်စိတ်ခံစားမှုအခြေပြု စသည့် ကဏ္ဏများဖြင့် ရှု့ဒေါင့်များစွာတိုးမြင့်ဆောင်ရွက်လာခဲ့ပါသည်။ နောက်တွင် အမှုထမ်းများ၏ မီရှင်ဆောင်ရွက်နိုင်ရန်အကူအညီ၊ လုံခြုံရေးနှင့် အန္တရာယ်ကင်း ရှင်းရေးစသဖြင့် နောက်ထပ်အခန်းကဏ္ဏများသည်လည်း ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးအတွက် မီရှင်အရလုပ်ပိုင်ခွင့် ကိုစဥ်းစားရန်မလိုအပ်ဘဲဆောင်ရွက်နိုင်ရန်မှာလိုအပ်ချက်ဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[118]/text:list-item[0]/text:p[0]/text:span[2]"><source>punishment, not for punishment;</source>
         <target>punishment, not for punishment;</target>
@@ -626,130 +626,130 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[413]"><source>The Secretary-General may also appoint the SRSG as the Designated Official, which is an integral element of UN security management. In that capacity, the SRSG takes on responsibility for the security and protection of staff of the UN funds, programmes and specialized agencies as well as their eligible dependants. The SRSG, as Designated Official, reports directly to the United Nations Security Coordinator (UNSECOORD) at Headquarters in this regard, and chairs the UN Security Management Team in the mission area. In all cases, peacekeeping operations should coordinate closely with all other UN entities in security management matters.</source>
         <target>The Secretary-General may also appoint the SRSG as the Designated Official, which is an integral element of UN security management. In that capacity, the SRSG takes on responsibility for the security and protection of staff of the UN funds, programmes and specialized agencies as well as their eligible dependants. The SRSG, as Designated Official, reports directly to the United Nations Security Coordinator (UNSECOORD) at Headquarters in this regard, and chairs the UN Security Management Team in the mission area. In all cases, peacekeeping operations should coordinate closely with all other UN entities in security management matters.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]"><source>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</source>
-        <target>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]" approved="yes"><source>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</source>
+        <target>ယခုလက်စွဲစာအုပ်ကို စီဒီချပ် ဖြင့်လည်းရရှိနိုင်မည်ဖြစ်ပြီး၊ ရှု့ဒေါင်းပေါင်းစုံက ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များ၏ မတူညီသည့်အစိတ်အပိုင်းများကို မိတ်ဆက်ပေးရန်ရည်ရွယ်သည်။ ဗျူဟာ (သို့) လုပ်ထုံးလုပ်နည်းလမ်းညွန်ချက်သဘော ရည်ရွယ်ထားခြင်းမဟုတ်ပါ။လက်တွေ့မြေပြင်ဆင်းသက်မည့် ကုလသမ္မဂအမှူထမ်းအသစ် (သို့) ရှု့ဒေါင့်စုံငြိမ်းချမ်းရေးကာကွယ်ခြင်းလုပ်ငန်းစဥ် တစ်ခုကိုပထမအကြိမ်တာ၀န်ပေးခြင်းခံရသူအား အစိတ်ပိုင်းတစ်ခု စီ၏လုပ်ငန်းတာ၀န် ယေဘုယျခြုံငုံသဘောပေါက်နိုင်ရန်နှင့် ၄င်းတို့မည်သို့စုစည်းပုံဖော်နိုင်ကြောင်းကိုနားလည်သဘောပေါက်စေရန်ရည်ရွယ်ပါသည်။တရားမျှတမှုအတွက် ကျယ်ပြန့်သည့် ကျွန်ုပ်တို့လုပ်ငန်းစဥ်များပါ၀င်ဆောင်ရွက်ရသည့် အခါတွင် ယခုလက်စွဲစာအုပ်ကို အတိုဆုံးနှင့် လက်တွေ့အကျဆုံးခြုံငုံဖော်ပြနိုင်ရန် ကြိုးပမ်းထားထုတ်ထားပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]" approved="yes"><source>We hope to update the electronic version of the Handbook periodically and look forward to receiving your comments and questions.</source>
         <target state="final">ကျွန်ုပ်တို့က ဤလက်စွဲစာအုပ်၏ အီလက်ထရွန်းနစ်ဗားရှင်းကို ပုံမှန်ပြင်ဆင်သွားရန်မျှော်လင့်ထားပြီး၊ သုံးသပ်ချက်နှင့် မေးခွန်းများကိုလက်ခံရရှိရန်လည်း မျှော်လင့်မိပါသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]"><source>Under-Secretary-General for Peacekeeping Operations</source>
-        <target>Under-Secretary-General for Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]" approved="yes"><source>Under-Secretary-General for Peacekeeping Operations</source>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်း လုပ်ငန်းစဥ်များ အတွက်အတွင်းရေးမှုးချုပ်လက်အောက်တွင်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]"><source>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]" approved="yes"><source>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</source>
         <target>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]"><source>ADB<g id="18"/>Asian Development</source>
-        <target state="translated">ADB<g id="18"/>Asian Development</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]" approved="yes"><source>ADB<g id="18"/>Asian Development</source>
+        <target state="final">ADB<g id="18"/>Asian Development</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
-        <target state="translated">APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]" approved="yes"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
+        <target state="final">APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]"><source>CAO<g id="22"/>chief administrative officer</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]" approved="yes"><source>CAO<g id="22"/>chief administrative officer</source>
         <target>CAO<g id="22"/>chief administrative officer</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]"><source>CAP<g id="23"/>consolidated appeals process</source>
-        <target state="translated">CAP<g id="23"/>consolidated appeals process</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]" approved="yes"><source>CAP<g id="23"/>consolidated appeals process</source>
+        <target state="final">CAP<g id="23"/>consolidated appeals process</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"><source>CAS<g id="24"/>country assistance strategy</source>
-        <target state="translated">CAS<g id="24"/>country assistance strategy</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]" approved="yes"><source>CAS<g id="24"/>country assistance strategy</source>
+        <target state="final">CAS<g id="24"/>country assistance strategy</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]"><source>CCA<g id="27"/>common country assessment</source>
-        <target state="translated">CCA<g id="27"/>common country assessment</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]" approved="yes"><source>CCA<g id="27"/>common country assessment</source>
+        <target state="final">CCA<g id="27"/>common country assessment</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]" approved="yes"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
         <target>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]"><source>CG<g id="32"/>consultative group</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]" approved="yes"><source>CG<g id="32"/>consultative group</source>
         <target>CG<g id="32"/>consultative group</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]"><source>CPIA<g id="34"/>country policy and institutional assessment</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]" approved="yes"><source>CPIA<g id="34"/>country policy and institutional assessment</source>
         <target>CPIA<g id="34"/>country policy and institutional assessment</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]"><source>DM<g id="39"/>Department of Management</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]" approved="yes"><source>DM<g id="39"/>Department of Management</source>
         <target>DM<g id="39"/>Department of Management</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]"><source>DOA<g id="40"/>director of administration</source>
-        <target state="translated">DOA<g id="40"/>director of administration</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]" approved="yes"><source>DOA<g id="40"/>director of administration</source>
+        <target state="final">DOA<g id="40"/>director of administration</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]"><source>DPA<g id="41"/>Department of Political Affairs</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]" approved="yes"><source>DPA<g id="41"/>Department of Political Affairs</source>
         <target>DPA<g id="41"/>Department of Political Affairs</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]"><source>DPKO<g id="43"/>Department of Peacekeeping Operations</source>
         <target state="translated">DPKO<g id="43"/>Department of Peacekeeping Operations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]"><source>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]" approved="yes"><source>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</source>
         <target>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]"><source>EMB<g id="50"/>electoral management body</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]" approved="yes"><source>EMB<g id="50"/>electoral management body</source>
         <target>EMB<g id="50"/>electoral management body</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]"><source>ERC<g id="52"/>Emergency Relief Coordinator</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]" approved="yes"><source>ERC<g id="52"/>Emergency Relief Coordinator</source>
         <target>ERC<g id="52"/>Emergency Relief Coordinator</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]"><source>FAO<g id="54"/>Food and Agricultural Organization</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]" approved="yes"><source>FAO<g id="54"/>Food and Agricultural Organization</source>
         <target>FAO<g id="54"/>Food and Agricultural Organization</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]"><source>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]" approved="yes"><source>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</source>
         <target>GICHD<g id="56"/>Geneva International Centre for Humanitarian <g id="57">Demining </g>HC<g id="58"/>humanitarian coordinator</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]"><source>HI<g id="59"/>Handicap International</source>
-        <target state="translated">HI<g id="59"/>Handicap International</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]" approved="yes"><source>HI<g id="59"/>Handicap International</source>
+        <target state="final">HI<g id="59"/>Handicap International</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
-        <target state="translated">IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]" approved="yes"><source>IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</source>
+        <target state="final">IACG-MA<g id="61"/>Inter-Agency Coordination Group on Mine <g id="62">Action </g>IASC<g id="63"/>Inter-Agency Standing Committee</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]"><source>ICESCR<g id="67"/>International Covenant on Economic, Social and Cultural <g id="68">Rights </g>ICR<g id="69"/>implementation completion report</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]" approved="yes"><source>ICESCR<g id="67"/>International Covenant on Economic, Social and Cultural <g id="68">Rights </g>ICR<g id="69"/>implementation completion report</source>
         <target>ICESCR<g id="67"/>International Covenant on Economic, Social and Cultural <g id="68">Rights </g>ICR<g id="69"/>implementation completion report</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]"><source>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]" approved="yes"><source>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</source>
         <target>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]"><source>IFC<g id="75"/>International Finance Corporation</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]" approved="yes"><source>IFC<g id="75"/>International Finance Corporation</source>
         <target>IFC<g id="75"/>International Finance Corporation</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]"><source>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]" approved="yes"><source>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</source>
         <target>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]"><source>IPTF<g id="83"/>International Police Task Force</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]" approved="yes"><source>IPTF<g id="83"/>International Police Task Force</source>
         <target>IPTF<g id="83"/>International Police Task Force</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]"><source>JMAC<g id="85"/>joint mission analysis cell</source>
-        <target state="translated">JMAC<g id="85"/>joint mission analysis cell</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]" approved="yes"><source>JMAC<g id="85"/>joint mission analysis cell</source>
+        <target state="final">JMAC<g id="85"/>joint mission analysis cell</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]"><source>JOC<g id="87"/>joint operations centre</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]" approved="yes"><source>JOC<g id="87"/>joint operations centre</source>
         <target>JOC<g id="87"/>joint operations centre</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]"><source>KFOR<g id="88"/>Kosovo Force</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]" approved="yes"><source>KFOR<g id="88"/>Kosovo Force</source>
         <target>KFOR<g id="88"/>Kosovo Force</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[153]"><source>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[153]" approved="yes"><source>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</source>
         <target>MINURSO<g id="93"/>United Nations Mission for the Referendum in Western Sahara MONUC<g id="94"/>United Nations Mission in the Democratic Republic of the <g id="95">Congo </g>MoU<g id="96"/>memorandum of understanding</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[155]"><source>NAM<g id="98"/>needs assessment mission</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[155]" approved="yes"><source>NAM<g id="98"/>needs assessment mission</source>
         <target>NAM<g id="98"/>needs assessment mission</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[156]"><source>NATO<g id="99"/>North Atlantic Treaty Organization</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[156]" approved="yes"><source>NATO<g id="99"/>North Atlantic Treaty Organization</source>
         <target>NATO<g id="99"/>North Atlantic Treaty Organization</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[159]"><source>NSGT<g id="102"/>non-self-governing territory</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[159]" approved="yes"><source>NSGT<g id="102"/>non-self-governing territory</source>
         <target>NSGT<g id="102"/>non-self-governing territory</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[160]"><source>OAS<g id="103"/>Organization of American States</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[160]" approved="yes"><source>OAS<g id="103"/>Organization of American States</source>
         <target>OAS<g id="103"/>Organization of American States</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[161]"><source>OCHA<g id="104"/>Office for the Coordination of Humanitarian Affairs</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[161]" approved="yes"><source>OCHA<g id="104"/>Office for the Coordination of Humanitarian Affairs</source>
         <target>OCHA<g id="104"/>Office for the Coordination of Humanitarian Affairs</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[163]"><source>OHCHR<g id="106"/>Office of the High Commissioner for Human <g id="107">Rights </g>OIOS<g id="108"/>Office of Internal Oversight Services</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[163]" approved="yes"><source>OHCHR<g id="106"/>Office of the High Commissioner for Human <g id="107">Rights </g>OIOS<g id="108"/>Office of Internal Oversight Services</source>
         <target>OHCHR<g id="106"/>Office of the High Commissioner for Human <g id="107">Rights </g>OIOS<g id="108"/>Office of Internal Oversight Services</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[169]"><source>PCF<g id="114"/>post-conflict fund</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[169]" approved="yes"><source>PCF<g id="114"/>post-conflict fund</source>
         <target>PCF<g id="114"/>post-conflict fund</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[172]"><source>ROE<g id="117"/>rules of engagement</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[172]" approved="yes"><source>ROE<g id="117"/>rules of engagement</source>
         <target>ROE<g id="117"/>rules of engagement</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[173]"><source>SAC<g id="118"/>Survey Action Centre</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[173]" approved="yes"><source>SAC<g id="118"/>Survey Action Centre</source>
         <target>SAC<g id="118"/>Survey Action Centre</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[174]"><source>SDS<g id="119"/>strategic deployment stocks</source>
@@ -2663,8 +2663,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1546]/text:span[1]"><source>Equal rights, responsibilities and opportunities for women and men and girls and boys. Equality does not mean that women and men will become the same, but that women’s and men’s rights, responsibilities and opportunities will not depend on whether they were born male or female. Gender equality implies that the interests, needs and priorities of both women and men are given equal consideration.</source>
         <target>Equal rights, responsibilities and opportunities for women and men and girls and boys. Equality does not mean that women and men will become the same, but that women’s and men’s rights, responsibilities and opportunities will not depend on whether they were born male or female. Gender equality implies that the interests, needs and priorities of both women and men are given equal consideration.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1550]/text:span[0]"><source>Gender mainstreaming: </source>
-        <target>Gender mainstreaming: </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1550]/text:span[0]" approved="yes"><source>Gender mainstreaming: </source>
+        <target>လိင်ကွဲပြားမှုအခြေပြုသော: </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[355]"><source>In complex missions, some partners such as UN agencies, funds and programmes or regional organizations may be integrated into the structure of the operation. This creates special coordination requirements because they staff and fund their work separately but operate under the umbrella of the mission. These components will still have a special relationship with their own headquarters, which in turn have long-standing relations with the Secretariat on issues beyond the mission.</source>
         <target>In complex missions, some partners such as UN agencies, funds and programmes or regional organizations may be integrated into the structure of the operation. This creates special coordination requirements because they staff and fund their work separately but operate under the umbrella of the mission. These components will still have a special relationship with their own headquarters, which in turn have long-standing relations with the Secretariat on issues beyond the mission.</target>
