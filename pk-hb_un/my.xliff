@@ -32,8 +32,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]" approved="yes"><source>December</source>
         <target>ဒီဇင်ဘာ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]" approved="yes"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
-        <target>ဗြိတိန် နှင့် ဂျာမနီ အစိုးကတို့၏ အကူအညီဖြင့် ဤထုတ်ဝေမှုကိုဆောင်ရွက်နိုင်ခဲ့သည်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]" approved="no"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
+        <target>ဗြိတိန် နှင့် ဂျာမနီ အစိုးရတို့၏ အကူအညီဖြင့် ဤထုတ်ဝေမှုကိုဆောင်ရွက်နိုင်ခဲ့သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[68]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
