@@ -20,16 +20,16 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[1]" approved="yes"><source>Operations </source>
         <target state="final">လုပ်ငန်းစဥ်များ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]"><source>Copyright © United Nations 2003</source>
-        <target state="translated">မူပိုင် © ကုလသမ္မဂ ၂၀၀၃</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:span[0]" approved="yes"><source>Copyright © United Nations 2003</source>
+        <target state="final">မူပိုင် © ကုလသမ္မဂ ၂၀၀၃</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[1]"><source>to </source>
         <target>to </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[2]"><source>United Nations</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[2]" approved="yes"><source>United Nations</source>
         <target>ကုလသမ္မဂ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]"><source>December</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]" approved="yes"><source>December</source>
         <target>ဒီဇင်ဘာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]" approved="yes"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
@@ -38,8 +38,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[68]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
-        <target state="translated">ဤလက်စွဲစာအုပ်အတွက် လိုအပ်သောအချက်အလက်များနှင့်စီစစ်ပေးခဲ့ကြသော ဌာနအစုံမှ ကုလသမ္မဂ မိသားစု၀င်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ဆောင်ရေးဌာနမှ အထူးကျေးဇူးတင်ရှိပါသည်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]" approved="yes"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
+        <target state="final">ဤလက်စွဲစာအုပ်အတွက် လိုအပ်သောအချက်အလက်များနှင့်စီစစ်ပေးခဲ့ကြသော ဌာနအစုံမှ ကုလသမ္မဂ မိသားစု၀င်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ဆောင်ရေးဌာနမှ အထူးကျေးဇူးတင်ရှိပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[2]"><source>wishes.</source>
         <target>wishes.</target>
@@ -48,7 +48,7 @@
         <target>Accountable policing </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/text:span[0]" approved="yes"><source>Any comments or questions concerning this publication may be addressed to: Peacekeeping Best Practices Unit</source>
-        <target state="final">ဤစာအုပ်ထုတ်၀ေမှုအတွက် မေးခွန်းနှင့်မှတ်ချက်များကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါတယ်။</target>
+        <target state="final">ဤစာအုပ်ထုတ်၀ေမှုအတွက် မေးခွန်းနှင့်မှတ်ချက်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့ သို့ လိပ်မူနိုင်ပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]" approved="yes"><source>E-mail: </source>
         <target>E-mail: </target>
@@ -374,8 +374,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
         <target>on </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
-        <target state="translated">This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]" approved="yes"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
+        <target state="final">ယခုထုတ်၀ေမှုသည် မူပိုင်ခွင့်ဆိုင်ရာ ဘုံသဘောတူညီချက် အပိုင် ၂ နှင့်ဆက်ဆိုင်လျက်ရှိပါသည်။ သို့ရာတွင် အဖွဲ့၀င်နိုင်ငံများ၏ အစိုးရအာဏာပိုင်များက ပုံနှိပ်ထုတ်၀ေခြင်းကို ၄င်းတို့ သင်ကြားရေးအဖွဲ့အစည်းများအတွက် လွတ်လပ်စွာပြုလုပ်နိုင်ပါသည်။ သို့သော် ယခုထုတ်၀ေမှု၏ မည်သည့်အစိတ်အပိုင်းကိုမဆို ရောင်းချရန်(သို့) အများပြားပုံနှိပ်ထုတ်၀ေခြင်း တို့ကို ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်း အကောင်းဆုံးအလေ့ကျင့်ဌာနစိတ်/ငြိမ်းချမ်းရေးထိမ်းသိမ်းခြင်းလုပ်ငန်းစဥ်များဌာန၏ စာဖြင့်ရေးသားသည့်သဘောတူညီချက် မရှိဘဲဆောင်ရွက်ရန်အခွင့်မရှိပါ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[180]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
         <target>and </target>
