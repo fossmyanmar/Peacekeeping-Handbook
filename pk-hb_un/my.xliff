@@ -5,8 +5,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]" approved="yes"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
         <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုဌာန </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="no"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target state="translated">ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ် လက်စွဲတွင်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="yes"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
+        <target state="final">ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ် လက်စွဲတွင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -305,49 +305,49 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[171]" approved="yes"><source>RC<g id="116"/>resident coordinator</source>
         <target>RC<g id="116"/>resident coordinator</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[1]"><source>Stand-by High Readiness</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[1]" approved="yes"><source>Stand-by High Readiness</source>
         <target>Stand-by High Readiness</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[3]"><source>Brigade</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[3]" approved="yes"><source>Brigade</source>
         <target>Brigade</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[177]"><source>SOFA<g id="122"/>status-of-forces agreement</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[177]" approved="yes"><source>SOFA<g id="122"/>status-of-forces agreement</source>
         <target>SOFA<g id="122"/>status-of-forces agreement</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[180]"><source>SFOR<g id="125"/>Stabilization Force</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[180]" approved="yes"><source>SFOR<g id="125"/>Stabilization Force</source>
         <target>SFOR<g id="125"/>Stabilization Force</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[181]"><source>TCC<g id="126"/>troop-contributing country</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[181]" approved="yes"><source>TCC<g id="126"/>troop-contributing country</source>
         <target>TCC<g id="126"/>troop-contributing country</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[187]"><source>UNDP<g id="136"/>United Nations Development Programme</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[187]" approved="yes"><source>UNDP<g id="136"/>United Nations Development Programme</source>
         <target>UNDP<g id="136"/>United Nations Development Programme</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[188]"><source>UNEF<g id="137"/>United Nations Emergency Force</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[188]" approved="yes"><source>UNEF<g id="137"/>United Nations Emergency Force</source>
         <target>UNEF<g id="137"/>United Nations Emergency Force</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[189]"><source>UNESCO<g id="138"/>United Nations Educational, Scientific and Cultural <g id="139">Organization </g>UNFICYP<g id="140"/>United Nations Peacekeeping Force in Cyprus</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[189]" approved="yes"><source>UNESCO<g id="138"/>United Nations Educational, Scientific and Cultural <g id="139">Organization </g>UNFICYP<g id="140"/>United Nations Peacekeeping Force in Cyprus</source>
         <target>UNESCO<g id="138"/>United Nations Educational, Scientific and Cultural <g id="139">Organization </g>UNFICYP<g id="140"/>United Nations Peacekeeping Force in Cyprus</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[192]"><source>UNMEE<g id="149"/>United Nations Mission in Ethiopia and Eritrea UNMIBH<g id="150"/>United Nations Mission in Bosnia and<g id="151"> </g>Herzegovina</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[192]" approved="yes"><source>UNMEE<g id="149"/>United Nations Mission in Ethiopia and Eritrea UNMIBH<g id="150"/>United Nations Mission in Bosnia and<g id="151"> </g>Herzegovina</source>
         <target>UNMEE<g id="149"/>United Nations Mission in Ethiopia and Eritrea UNMIBH<g id="150"/>United Nations Mission in Bosnia and<g id="151"> </g>Herzegovina</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[197]"><source>UNTAC<g id="166"/>United Nations Transitional Authority in Cambodia UNTAG<g id="167"/>United Nations Transition Assistance Group</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[197]" approved="yes"><source>UNTAC<g id="166"/>United Nations Transitional Authority in Cambodia UNTAG<g id="167"/>United Nations Transition Assistance Group</source>
         <target>UNTAC<g id="166"/>United Nations Transitional Authority in Cambodia UNTAG<g id="167"/>United Nations Transition Assistance Group</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[198]"><source>UNTAES<g id="168"/>United Nations Transitional Authority in Eastern Slavonia, <g id="169">Baranja </g>and Western Sirmium</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[198]" approved="yes"><source>UNTAES<g id="168"/>United Nations Transitional Authority in Eastern Slavonia, <g id="169">Baranja </g>and Western Sirmium</source>
         <target>UNTAES<g id="168"/>United Nations Transitional Authority in Eastern Slavonia, <g id="169">Baranja </g>and Western Sirmium</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[200]"><source>UNV<g id="173"/>United Nations Volunteers</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[200]" approved="yes"><source>UNV<g id="173"/>United Nations Volunteers</source>
         <target>UNV<g id="173"/>United Nations Volunteers</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[201]"><source>USG<g id="174"/>Under-Secretary-General</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[201]" approved="yes"><source>USG<g id="174"/>Under-Secretary-General</source>
         <target>USG<g id="174"/>Under-Secretary-General</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[203]"><source>UXO<g id="176"/>unexploded ordnance</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[203]" approved="yes"><source>UXO<g id="176"/>unexploded ordnance</source>
         <target>UXO<g id="176"/>unexploded ordnance</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[205]"><source>WFP<g id="178"/>World Food Programme</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[205]" approved="yes"><source>WFP<g id="178"/>World Food Programme</source>
         <target>WFP<g id="178"/>World Food Programme</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[122]/text:list-item[0]/text:p[0]/text:span[0]"><source>Inspection or oversight of the correctional system.</source>
@@ -674,8 +674,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]" approved="yes"><source>DPA<g id="41"/>Department of Political Affairs</source>
         <target>DPA<g id="41"/>Department of Political Affairs</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]"><source>DPKO<g id="43"/>Department of Peacekeeping Operations</source>
-        <target state="translated">DPKO<g id="43"/>Department of Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]" approved="yes"><source>DPKO<g id="43"/>Department of Peacekeeping Operations</source>
+        <target state="final">DPKO<g id="43"/>Department of Peacekeeping Operations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]" approved="yes"><source>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</source>
         <target>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</target>
@@ -752,43 +752,43 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[173]" approved="yes"><source>SAC<g id="118"/>Survey Action Centre</source>
         <target>SAC<g id="118"/>Survey Action Centre</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[174]"><source>SDS<g id="119"/>strategic deployment stocks</source>
-        <target state="translated">SDS<g id="119"/>strategic deployment stocks</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[174]" approved="yes"><source>SDS<g id="119"/>strategic deployment stocks</source>
+        <target state="final">SDS<g id="119"/>strategic deployment stocks</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[0]"><source>SHIRBRIG<g id="120"/></source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]/text:span[0]" approved="yes"><source>SHIRBRIG<g id="120"/></source>
         <target>SHIRBRIG<g id="120"/></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[176]"><source>SMT<g id="121"/>security management team</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[176]" approved="yes"><source>SMT<g id="121"/>security management team</source>
         <target>SMT<g id="121"/>security management team</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[178]"><source>SOMA<g id="123"/>status-of-mission agreement</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[178]" approved="yes"><source>SOMA<g id="123"/>status-of-mission agreement</source>
         <target>SOMA<g id="123"/>status-of-mission agreement</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[179]"><source>SRSG<g id="124"/>Special Representative of the Secretary-General</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[179]" approved="yes"><source>SRSG<g id="124"/>Special Representative of the Secretary-General</source>
         <target>SRSG<g id="124"/>Special Representative of the Secretary-General</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[182]"><source>TFET<g id="127"/>Trust Fund for East Timor</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[182]" approved="yes"><source>TFET<g id="127"/>Trust Fund for East Timor</source>
         <target>TFET<g id="127"/>Trust Fund for East Timor</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[183]"><source>TSS<g id="128"/>transitional support strategy</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[183]" approved="yes"><source>TSS<g id="128"/>transitional support strategy</source>
         <target>TSS<g id="128"/>transitional support strategy</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[184]"><source>UN<g id="129"/>United Nations</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[184]" approved="yes"><source>UN<g id="129"/>United Nations</source>
         <target>UN<g id="129"/>United Nations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[185]"><source>UNAMA<g id="130"/>United Nations Assistance Mission in Afghanistan UNAMET<g id="131"/>United Nations Mission in East Timor</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[185]" approved="yes"><source>UNAMA<g id="130"/>United Nations Assistance Mission in Afghanistan UNAMET<g id="131"/>United Nations Mission in East Timor</source>
         <target>UNAMA<g id="130"/>United Nations Assistance Mission in Afghanistan UNAMET<g id="131"/>United Nations Mission in East Timor</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[186]"><source>UNAMSIL<g id="132"/>United Nations Mission in Sierra Leone UNAVEM<g id="133"/>United Nations Angola Verification <g id="134">Mission </g>UNDAF<g id="135"/>United Nations Development Framework</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[186]" approved="yes"><source>UNAMSIL<g id="132"/>United Nations Mission in Sierra Leone UNAVEM<g id="133"/>United Nations Angola Verification <g id="134">Mission </g>UNDAF<g id="135"/>United Nations Development Framework</source>
         <target>UNAMSIL<g id="132"/>United Nations Mission in Sierra Leone UNAVEM<g id="133"/>United Nations Angola Verification <g id="134">Mission </g>UNDAF<g id="135"/>United Nations Development Framework</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[119]/text:list-item[0]/text:p[0]/text:span[0]"><source>Respect for basic rights;</source>
         <target>Respect for basic rights;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[190]"><source>UNHCR<g id="141"/>United Nations High Commissioner for <g id="142">Refugees </g>UNICEF<g id="143"/>United Nations Children’s Fund</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[190]" approved="yes"><source>UNHCR<g id="141"/>United Nations High Commissioner for <g id="142">Refugees </g>UNICEF<g id="143"/>United Nations Children’s Fund</source>
         <target>UNHCR<g id="141"/>United Nations High Commissioner for <g id="142">Refugees </g>UNICEF<g id="143"/>United Nations Children’s Fund</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[191]"><source>UNIFEM<g id="144"/>United Nations Development Fund for Women UNIFIL<g id="145"/>United Nations Interim Force in Lebanon UNIKOM<g id="146"/>United Nations Iraq-Kuwait Observation <g id="147">Mission </g>UNMAS<g id="148"/>United Nations Mine Action Service</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[191]" approved="yes"><source>UNIFEM<g id="144"/>United Nations Development Fund for Women UNIFIL<g id="145"/>United Nations Interim Force in Lebanon UNIKOM<g id="146"/>United Nations Iraq-Kuwait Observation <g id="147">Mission </g>UNMAS<g id="148"/>United Nations Mine Action Service</source>
         <target>UNIFEM<g id="144"/>United Nations Development Fund for Women UNIFIL<g id="145"/>United Nations Interim Force in Lebanon UNIKOM<g id="146"/>United Nations Iraq-Kuwait Observation <g id="147">Mission </g>UNMAS<g id="148"/>United Nations Mine Action Service</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[120]/text:list-item[0]/text:p[0]/text:span[0]"><source>Due process in disciplinary matters;</source>
@@ -797,35 +797,35 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[121]/text:list-item[0]/text:p[0]/text:span[0]"><source>Access to a grievance system; and</source>
         <target>Access to a grievance system; and</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[193]"><source>UNMIK<g id="152"/>United Nations Interim Administration Mission in <g id="153">Kosovo </g>UNMISET<g id="154"/>United Nations Mission of Support in East Timor</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[193]" approved="yes"><source>UNMIK<g id="152"/>United Nations Interim Administration Mission in <g id="153">Kosovo </g>UNMISET<g id="154"/>United Nations Mission of Support in East Timor</source>
         <target>UNMIK<g id="152"/>United Nations Interim Administration Mission in <g id="153">Kosovo </g>UNMISET<g id="154"/>United Nations Mission of Support in East Timor</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[194]"><source>UNMOGIP<g id="155"/>United Nations Military Observer Group in India and <g id="156">Pakistan </g>UNOPS<g id="157"/>United Nations Office for Projects Services</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[194]" approved="yes"><source>UNMOGIP<g id="155"/>United Nations Military Observer Group in India and <g id="156">Pakistan </g>UNOPS<g id="157"/>United Nations Office for Projects Services</source>
         <target>UNMOGIP<g id="155"/>United Nations Military Observer Group in India and <g id="156">Pakistan </g>UNOPS<g id="157"/>United Nations Office for Projects Services</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[195]"><source>UNOSOM<g id="158"/>United Nations Operation in Somalia UNPOS<g id="159"/>United Nations Political Office for Somalia UNPREDEP<g id="160"/>United Nations Preventive Deployment <g id="161">Force </g>UNPROFOR<g id="162"/>United Nations Protection Force</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[195]" approved="yes"><source>UNOSOM<g id="158"/>United Nations Operation in Somalia UNPOS<g id="159"/>United Nations Political Office for Somalia UNPREDEP<g id="160"/>United Nations Preventive Deployment <g id="161">Force </g>UNPROFOR<g id="162"/>United Nations Protection Force</source>
         <target>UNOSOM<g id="158"/>United Nations Operation in Somalia UNPOS<g id="159"/>United Nations Political Office for Somalia UNPREDEP<g id="160"/>United Nations Preventive Deployment <g id="161">Force </g>UNPROFOR<g id="162"/>United Nations Protection Force</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[196]"><source>UNSAS<g id="163"/>United Nations Stand-by Arrangements <g id="164">System </g>UNSECOORD<g id="165"/>United Nations Security Coordinator</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[196]" approved="yes"><source>UNSAS<g id="163"/>United Nations Stand-by Arrangements <g id="164">System </g>UNSECOORD<g id="165"/>United Nations Security Coordinator</source>
         <target>UNSAS<g id="163"/>United Nations Stand-by Arrangements <g id="164">System </g>UNSECOORD<g id="165"/>United Nations Security Coordinator</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[199]"><source>UNTAET<g id="170"/>United Nations Transitional Administration in East <g id="171">Timor </g>UNTSO<g id="172"/>United Nations Truce Supervision Organization</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[199]" approved="yes"><source>UNTAET<g id="170"/>United Nations Transitional Administration in East <g id="171">Timor </g>UNTSO<g id="172"/>United Nations Truce Supervision Organization</source>
         <target>UNTAET<g id="170"/>United Nations Transitional Administration in East <g id="171">Timor </g>UNTSO<g id="172"/>United Nations Truce Supervision Organization</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[202]"><source>UNWRA<g id="175"/>United Nations Relief and Works Agency for Palestine Refugees in the Near East</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[202]" approved="yes"><source>UNWRA<g id="175"/>United Nations Relief and Works Agency for Palestine Refugees in the Near East</source>
         <target>UNWRA<g id="175"/>United Nations Relief and Works Agency for Palestine Refugees in the Near East</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[204]"><source>VTF<g id="177"/>Voluntary Trust Fund for Assistance in Mine Action</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[204]" approved="yes"><source>VTF<g id="177"/>Voluntary Trust Fund for Assistance in Mine Action</source>
         <target>VTF<g id="177"/>Voluntary Trust Fund for Assistance in Mine Action</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[206]"><source>WHO<g id="179"/>World Health Organization</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[206]" approved="yes"><source>WHO<g id="179"/>World Health Organization</source>
         <target>WHO<g id="179"/>World Health Organization</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:span[0]"><source>INTRODUCTION</source>
-        <target>INTRODUCTION</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:span[0]" approved="yes"><source>INTRODUCTION</source>
+        <target>မိတ်ဆက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:span[0]"><source>The Need for Peacekeeping</source>
-        <target>The Need for Peacekeeping</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:span[0]" approved="yes"><source>The Need for Peacekeeping</source>
+        <target>ငြိမ်းချမ်းရေးထိမ်းသိမ်းခြင်းလိုအပ်ချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[211]"><source>The United Nations (UN) was established on 24 October 1945 in the aftermath of two World Wars and was dedicated, in the enduring words of the UN Charter, to saving “succeeding generations from the scourge of war.” Since its creation, the UN has been called upon to prevent disputes from escalating into war, to persuade opposing parties to use the conference table rather than the force of arms and to help restore peace when conflict breaks out. Over the decades, the UN has helped to contain or end numerous conflicts, in many cases through the deployment of peacekeeping operations.</source>
         <target>The United Nations (UN) was established on 24 October 1945 in the aftermath of two World Wars and was dedicated, in the enduring words of the UN Charter, to saving “succeeding generations from the scourge of war.” Since its creation, the UN has been called upon to prevent disputes from escalating into war, to persuade opposing parties to use the conference table rather than the force of arms and to help restore peace when conflict breaks out. Over the decades, the UN has helped to contain or end numerous conflicts, in many cases through the deployment of peacekeeping operations.</target>
@@ -1890,7 +1890,7 @@
         <target>ကမ္ဘာ့ရန်ပုံငွေအဖွဲ့.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1157]"><source>Under the overall coordination of UNMAS, the departments and agencies of the UN system work to keep the donor community informed through the annual publication of <g id="358">Portfolio of Mine-Related Projects</g>. The portfolio includes brief descriptions and budget requirements for all UN mine action programmes and projects (see <g id="359">www.mineaction.org</g>).</source>
-        <target>Under the overall coordination of UNMAS, the departments and agencies of the UN system work to keep the donor community informed through the annual publication of <g id="358">Portfolio of Mine-Related Projects</g>. The portfolio includes brief descriptions and budget requirements for all UN mine action programmes and projects (see <g id="359">www.mineaction.org</g>).</target>
+        <target>UNMAS ၏အခြေနေအရပ်ရပ်အရ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1158]/draw:custom-shape[0]/text:p[1]/text:span[0]" approved="yes"><source>Voluntary Trust Fund for Assistance in Mine Action</source>
         <target>မိုင်းရှင်းလင်းရေးလုပ်ငန်းတွင်ကူညီသည့်စေတနာ့ဝန်ထမ်းအတွက်ရန်ပုံငွေ</target>
