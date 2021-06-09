@@ -375,7 +375,7 @@
         <target>on </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]" approved="yes"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
-        <target state="final">ယခုထုတ်၀ေမှုသည် မူပိုင်ခွင့်ဆိုင်ရာ ဘုံသဘောတူညီချက် အပိုင် ၂ နှင့်ဆက်ဆိုင်လျက်ရှိပါသည်။ သို့ရာတွင် အဖွဲ့၀င်နိုင်ငံများ၏ အစိုးရအာဏာပိုင်များက ပုံနှိပ်ထုတ်၀ေခြင်းကို ၄င်းတို့ သင်ကြားရေးအဖွဲ့အစည်းများအတွက် လွတ်လပ်စွာပြုလုပ်နိုင်ပါသည်။ သို့သော် ယခုထုတ်၀ေမှု၏ မည်သည့်အစိတ်အပိုင်းကိုမဆို ရောင်းချရန်(သို့) အများပြားပုံနှိပ်ထုတ်၀ေခြင်း တို့ကို ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်း အကောင်းဆုံးအလေ့ကျင့်ဌာနစိတ်/ငြိမ်းချမ်းရေးထိမ်းသိမ်းခြင်းလုပ်ငန်းစဥ်များဌာန၏ စာဖြင့်ရေးသားသည့်သဘောတူညီချက် မရှိဘဲဆောင်ရွက်ရန်အခွင့်မရှိပါ။</target>
+        <target state="final">ယခုထုတ်၀ေမှုသည် မူပိုင်ခွင့်ဆိုင်ရာ ဘုံသဘောတူညီချက် အပိုင် ၂ နှင့်ဆက်ဆိုင်လျက်ရှိပါသည်။ သို့ရာတွင် အဖွဲ့၀င်နိုင်ငံများ၏ အစိုးရအာဏာပိုင်များက ပုံနှိပ်ထုတ်၀ေခြင်းကို ၄င်းတို့ သင်ကြားရေးအဖွဲ့အစည်းများအတွက် လွတ်လပ်စွာပြုလုပ်နိုင်ပါသည်။ သို့သော် ယခုထုတ်၀ေမှု၏ မည်သည့်အစိတ်အပိုင်းကိုမဆို ရောင်းချရန်(သို့) အများပြားပုံနှိပ်ထုတ်၀ေခြင်း တို့ကို ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်း အကောင်းဆုံးအလေ့ကျင့်ဌာနစိတ်/ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များဌာန၏ စာဖြင့်ရေးသားသည့်သဘောတူညီချက် မရှိဘဲဆောင်ရွက်ရန်အခွင့်မရှိပါ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[180]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
         <target>and </target>
@@ -389,7 +389,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>functions that are normally the responsibility of a government.</source>
         <target>functions that are normally the responsibility of a government.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]" approved="no"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]" approved="yes"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
         <target>နယူးယောက်၊ NY ၁၀၀၁၇ USA ဖက်စ်: ၁-၉၁၇-၃၆၇-၅၃၆၅</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[0]" approved="yes"><source>C</source>
@@ -480,7 +480,7 @@
         <target><g id="14">XV</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[1]/text:p[0]" approved="yes"><source>The World Bank in Post-Conflict Reconstruction</source>
-        <target state="final">ကမ္ဘာ့ဘဏ်၏ ပဠိပက္ခအပြီးပြန်လည်တည်ဆောက်ခြင်း</target>
+        <target state="final">ပဋိပက္ခကမ္ဘာ့ဘဏ်၏ ပဋိပက္ခအပြီးပြန်လည်တည်ဆောက်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[17]/table:table-cell[2]/text:p[0]"><source>183</source>
         <target>183</target>
