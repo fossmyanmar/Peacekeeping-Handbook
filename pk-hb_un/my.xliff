@@ -3,7 +3,7 @@
   <file original="peacekeeping-handbook_un_dec2003_KKY.odt" source-language="en" datatype="plaintext" target-language="my">
     <body>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[27]/text:span[0]"><source>Peacekeeping Best Practices Unit Department of Peacekeeping </source>
-        <target state="translated">Peacekeeping Best Practices Unit Department of Peacekeeping </target>
+        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန၏ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလက်စွဲတော်အဖွဲ့ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
         <target>Handbook on United Nations Multidimensional Peacekeeping Operations</target>
@@ -30,7 +30,7 @@
         <target>United Nations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[28]/text:span[0]"><source>December</source>
-        <target>December</target>
+        <target>ဒီဇင်ဘာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:span[0]" approved="yes"><source>This publication has been made possible by the generous support of the Governments of the United Kingdom and Germany.</source>
         <target>ဗြိတိန် နှင့် ဂျာမနီ အစိုးကတို့၏ အကူအညီဖြင့် ဤထုတ်ဝေမှုကိုဆောင်ရွက်နိုင်ခဲ့သည်။</target>
@@ -39,7 +39,7 @@
         <target>and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:span[0]"><source>The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</source>
-        <target state="translated">The Department of Peacekeeping Operations would like to thank each part of the United Nations family that provided material for and reviewed chapters of the Handbook.</target>
+        <target state="needs-translation">ဤလက်စွဲစာအုပ်အတွက် လိုအပ်သောအချက်အလက်များနှင့်စီစစ်ပေးခဲ့ကြသော ဌာနအစုံမှUNမိသားစု၀င်များကို ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာနမှ အထူးကျေးဇူးတင်ရှိပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[2]"><source>wishes.</source>
         <target>wishes.</target>
@@ -99,7 +99,7 @@
         <target><g id="4">V</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[1]/text:p[0]"><source>Military</source>
-        <target state="translated">Military</target>
+        <target state="translated">စစ်တပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[2]/text:p[0]"><source>55</source>
         <target>55</target>
@@ -108,7 +108,7 @@
         <target><g id="5">VI</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[1]/text:p[0]"><source>Mine Action Assistance</source>
-        <target state="translated">Mine Action Assistance</target>
+        <target state="needs-translation">မိုင်းအရေးလှုပ်ရှားမှုအထောက်အကူပြု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[2]/text:p[0]"><source>71</source>
         <target>71</target>
@@ -120,7 +120,7 @@
         <target>Police, Judiciary and Corrections Aspects of Rule of Law</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[10]/table:table-cell[1]/text:p[0]"><source>Human Rights</source>
-        <target state="translated">Human Rights</target>
+        <target state="translated">လူ့အခွင့်အရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[2]/text:p[0]"><source>113</source>
         <target>113</target>
@@ -135,7 +135,7 @@
         <target><g id="11">XII</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[14]/table:table-cell[1]/text:p[0]"><source>Electoral Assistance</source>
-        <target>Electoral Assistance</target>
+        <target state="needs-translation">ရွေးကောက်ပွဲအထောက်အကူ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[14]/table:table-cell[2]/text:p[0]"><source>147</source>
         <target>147</target>
@@ -144,7 +144,7 @@
         <target><g id="12">XIII</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[1]/text:p[0]"><source>Humanitarian Assistance</source>
-        <target state="translated">Humanitarian Assistance</target>
+        <target state="needs-translation">လူသားချင်းစာနာထောက်ထားမှုအထောက်အပံ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[15]/table:table-cell[2]/text:p[0]"><source>159</source>
         <target>159</target>
@@ -156,7 +156,7 @@
         <target><g id="15">XVI</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:span[0]"><source>Foreword</source>
-        <target>Foreword</target>
+        <target>နိဒါန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]"><source>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</source>
         <target>All of us in the Department of Peacekeeping Operations wish you the very best as you embark on your new assignment in the field.</target>
@@ -381,7 +381,7 @@
         <target>and </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/text:span[0]"><source>Department of Peacekeeping Operations Rm. S-3640, United Nations</source>
-        <target state="translated">Department of Peacekeeping Operations Rm. S-3640, United Nations</target>
+        <target state="needs-translation">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန Rm. S-3640, United Nations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[1]"><source>the </source>
         <target>the </target>
@@ -453,13 +453,13 @@
         <target><g id="8">IX</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[11]/table:table-cell[1]/text:p[0]"><source>Gender Mainstreaming</source>
-        <target state="translated">Gender Mainstreaming</target>
+        <target state="needs-translation">လိင်မခွဲခြားဆက်ဆံရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[0]/text:p[0]"><source><g id="9">X</g>:</source>
         <target><g id="9">X</g>:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[12]/table:table-cell[1]/text:p[0]"><source>Administration and Support</source>
-        <target state="translated">Administration and Support</target>
+        <target state="needs-translation">စီမံရေးနဲ့အထောက်အပံ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[0]/text:p[0]"><source><g id="10">XI</g>:</source>
         <target><g id="10">XI</g>:</target>
@@ -468,7 +468,7 @@
         <target>Food and Agricultural Organization (FAO). </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[1]/text:p[0]"><source>Security and Safety of Staff</source>
-        <target>Security and Safety of Staff</target>
+        <target state="needs-translation">၀န်ထမ်းရဲ့လုံခြုံရေးနှင့်တကိုယ်ရည်ကာကွယ်မှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[1]/text:p[0]"><source>Refugees and Internally Displaced Persons</source>
         <target>Refugees and Internally Displaced Persons</target>
