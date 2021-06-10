@@ -411,13 +411,13 @@
         <target>အရပ်ဘက်ရဲသင်တန်း;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assisting with post-conflict recovery and rehabilitation; and</source>
-        <target>Assisting with post-conflict recovery and rehabilitation; and</target>
+        <target>ပဋိပက္ခအလွန် ပြန်လည်ထူထောင်ခြင်းအား ကူညီခြင်း; နှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[1]"><source>towards </source>
-        <target>towards </target>
+        <target>ဆီသို့ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[2]"><source>independence.</source>
-        <target>independence.</target>
+        <target>လွတ်လပ်မှု၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[233]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
         <target>on </target>
@@ -513,7 +513,7 @@
         <target>marking;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[0]"><source>Contribution of troops and other resources</source>
-        <target>Contribution of troops and other resources</target>
+        <target>စစ်သားနှင့် အခြားအရင်းအမြစ်များအတွက် ထောက်ပံ့ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[1]"><source>. </source>
         <target>. </target>
@@ -522,10 +522,10 @@
         <target>. </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[2]"><source>The Secretary-General reports regularly to the Security Council concerning the activities of the operation.</source>
-        <target>The Secretary-General reports regularly to the Security Council concerning the activities of the operation.</target>
+        <target>လုပ်ငန်းစဉ်များနှင့်သက်ဆိုင်သော အစီရင်ခံစာများအား ကုလသမဂ္ဂအတွင်းရေးမှူးချုပ်မှ ကုလသမဂ္ဂလုံခြုံရေးကောင်စီသို့ ပုံမှန်အစီရင်ခံပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[0]"><source>Reviews by the Security Council</source>
-        <target>Reviews by the Security Council</target>
+        <target>ကုလသမဂ္ဂလုံခြုံရေးကောင်စီမှ ပြန်လည်သုံးသပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:span[0]"><source>Deployment</source>
         <target state="translated">Deployment</target>
@@ -540,7 +540,7 @@
         <target>Promote all aspects of the work of the peacekeeping operation to the national and international</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[1]"><source>with </source>
-        <target>with </target>
+        <target>နှင့်အတူ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[2]"><source>Member States;</source>
         <target>Member States;</target>
@@ -558,10 +558,10 @@
         <target>Using the authority of the Secretary-General to commit needed funds before </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[2]"><source>peacekeeping operation has actually been authorized.</source>
-        <target state="translated">peacekeeping operation has actually been authorized.</target>
+        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်အား အမှန်တကယ်လုပ်ပိုင်ခွင့် လွှဲအပ်ပြီးဖြစ်ပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:span[0]"><source>Financing Peacekeeping Operations</source>
-        <target state="translated">Financing Peacekeeping Operations</target>
+        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်အား ငွေကြေးထောက်ပံ့ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[110]/text:span[0]"><source>Mission Support in Field Missions</source>
         <target>Mission Support in Field Missions</target>
@@ -585,7 +585,7 @@
         <target>and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]/text:span[2]"><source>means.</source>
-        <target>means.</target>
+        <target>ဆိုလိုရင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2173]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Coordinating Humanitarian Assistance</source>
         <target>Coordinating Humanitarian Assistance</target>
@@ -594,16 +594,16 @@
         <target>non-refoulement </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[1]"><source>in </source>
-        <target>in </target>
+        <target>တွင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[2]"><source>helping them resolve their conflict.</source>
-        <target state="translated">helping them resolve their conflict.</target>
+        <target state="translated">၎င်းတို့၏ ပဋိပက္ခအား ၎င်းတို့ကိုယ်တိုင် ဖြေရှင်းရန် ကူညီပေးခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[1]"><source>involve </source>
-        <target state="translated">involve </target>
+        <target state="translated">ပါဝင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:span[1]"><source>conflict </source>
-        <target state="translated">conflict </target>
+        <target state="translated">ပဋိပက္ခ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[2]"><source>objective of an operation and provide it with a clear mandate.</source>
         <target>objective of an operation and provide it with a clear mandate.</target>
@@ -885,7 +885,7 @@
         <target>လက်နက်ဖျက်သိမ်းခြင်း၊ တပ်ဖျက်သိမ်းခြင်းနှင့်ပြန်လည်ပေါင်းစည်းခြင်းနှင့်အတူကူညီခြင်း(DDR) </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[2]"><source>former combatants;</source>
-        <target>former combatants;</target>
+        <target>ယခင်တိုက်ပွဲဝင်စစ်သည်များ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[0]"><source>Strengthening the rule of law, including assistance with judicial reform </source>
         <target>တရားစီရင်ရေးပြုပြင်ပြောင်းလဲမှုတွင်အကူအညီအပါအဝင်တရားဥပဒေစိုးမိုးရေးကိုအားဖြည့်ခြင်း </target>
@@ -924,7 +924,7 @@
         <target>Peacekeeping missions are not the UN’s only presence in conflict zones. Field staff of UN entities, among them the Office of the United Nations High Commissioner for Refugees (UNHCR), the World Food Programme (WFP), the United Nations Children's Fund (UNICEF), the Office for the Coordination of Humanitarian Affairs (OCHA), the United Nations Development Programme (UNDP), and the Office of the United Nations High Commissioner for Human Rights (OHCHR), often work closely with peacekeepers. In addition, peacekeepers have been called upon to support the activities of non- governmental and other organizations engaged in providing humanitarian assistance to victims of conflicts. In many mission areas, a Special Representative of the</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:span[0]"><source>Role of the Department of Peacekeeping Operations</source>
-        <target>Role of the Department of Peacekeeping Operations</target>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်များဌာန၏ အခန်းကဏ္ဍ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[647]"><source>understand the interests of the parties, relationships between them and respective negotiating positions. There may also be multiple or competing local authorities and structures, or perhaps none at all. Civil affairs officers may be called upon to fill an administrative void or provide a neutral and impartial administrative presence.</source>
         <target>understand the interests of the parties, relationships between them and respective negotiating positions. There may also be multiple or competing local authorities and structures, or perhaps none at all. Civil affairs officers may be called upon to fill an administrative void or provide a neutral and impartial administrative presence.</target>
@@ -936,7 +936,7 @@
         <target>The Department of Peacekeeping Operations (DPKO), which was established as a separate department of the UN Secretariat in 1992, is responsible for planning, managing, deploying, supporting and, on behalf of the Secretary-General, providing executive direction to all UN peacekeeping operations. It also performs similar functions in support of peace and security operations that are predominantly civilian, such as the United Nations Assistance Mission in Afghanistan (UNAMA). DPKO works very closely with the Department of Political Affairs (DPA), which is the focal point in the UN system for conflict prevention, peacemaking and peacebuilding.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:span[0]"><source>Establishing Peacekeeping Operations</source>
-        <target>Establishing Peacekeeping Operations</target>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်များ တည်ထောင်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[103]/text:span[0]"><source>Gender Mainstreaming and Peacekeeping</source>
         <target>Gender Mainstreaming and Peacekeeping</target>
@@ -1053,10 +1053,10 @@
         <target>Maintaining strategic deployment stocks (SDS) at the UN logistics base </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[1]"><source>in </source>
-        <target>in </target>
+        <target>တွင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]/text:span[1]"><source>in </source>
-        <target>in </target>
+        <target>တွင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[1]"><source>a </source>
         <target>a </target>
@@ -1089,7 +1089,7 @@
         <target>The <g id="198">Brahimi Report </g>contained 57 explicit recommendations to the Secretary-General, the Security Council, the General Assembly and Member States in general. The report focused attention on strategic, political and basic operational matters. Many peacekeeping reforms have been instituted as a result of the dialogue that ensued following the report’s issuance and continued implementation of its recommendations remains a very high priority for DPKO and the Secretariat in general.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[290]"><source>The main recommendations of the report can be summarized as follows:</source>
-        <target state="translated">The main recommendations of the report can be summarized as follows:</target>
+        <target state="translated">အစီရင်ခံစာ၏ အဓိကအကြံပြုချက်များအား အောက်ပါအတိုင်း အတိုချုပ်နိုင်ပါသည်:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>staff;</source>
         <target>staff;</target>
@@ -1140,7 +1140,7 @@
         <target>The Security Council must ensure that the mandate is achievable. This includes authorizing the deployment of an appropriate number of troops to implement a mission’s mandate and the provision by Member States of adequately trained </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[1]/text:p[0]/text:span[1]"><source>and </source>
-        <target>and </target>
+        <target>နှင့် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1363]"><source>Many of these basic standards are incorporated into various international and regional legal instruments and provide basic protections for detainees.</source>
         <target>Many of these basic standards are incorporated into various international and regional legal instruments and provide basic protections for detainees.</target>
