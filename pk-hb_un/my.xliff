@@ -216,7 +216,7 @@
         <target>ECHA<g id="49"/>လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာ အလုပ်အမှုဆောင်ကော်မတီ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]" approved="no"><source>EOD<g id="51"/>explosive ordnance disposal</source>
-        <target state="needs-translation">EOD<g id="51"/>ဗုံးဆံရှင်းလင်းရေး</target>
+        <target state="needs-translation">EOD<g id="51"/>ဗုံးဆံရှင်းလင်းရေး၏အတိုကောက်စကားလုံး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]" approved="yes"><source>EU<g id="53"/>European Union</source>
         <target>EU<g id="53"/>ဥရောပသမဂ္ဂ</target>
