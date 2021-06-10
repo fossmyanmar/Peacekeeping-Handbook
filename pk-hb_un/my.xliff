@@ -542,8 +542,6 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>Brindisi, Italy;</source>
         <target>ဘရင်ဒီဆီနီ၊ အီတလီ၊</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]/text:span[2]"><source>advance and can be rapidly deployed to start up missions; and</source>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>peacekeeping operation has actually been authorized.</source>
         <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်အား အမှန်တကယ်လုပ်ပိုင်ခွင့် လွှဲအပ်ပြီးဖြစ်ပါသည်။</target>
       </trans-unit>
@@ -931,8 +929,6 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[157]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[244]"><source>There is no set sequence of events leading to the establishment of a peacekeeping operation, but in most cases, some combination of the following events occurs:</source>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[247]"><source>Often, one or more of the parties will insist, as a precondition for signing the peace agreement, on a UN role in verifying compliance with or helping to implement the agreement. As such, peace agreements often define the contours of any future UN operation, and the UN can provide, during the negotiations phase, valuable advice as to the kind of mandate that the UN would be able to implement—based on its capacity, expertise and previous experience—should the Security Council agree to authorize such a mandate. Early and ongoing consultation with the Security Council and other Member States, thus, is essential to ascertain if they are prepared to support the course of action envisaged for the UN and provide the resources required to do the job.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[187]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>resolution;</source>
@@ -941,15 +937,11 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1018]"><source>preparedness, rapid deployment and logistical support. Work remains to be done to improve equipment interoperability and compatibility among different national contingents and the standardization of operating procedures. Troop preparedness and self-sustainment also require continued attention.</source>
         <target>preparedness, rapid deployment and logistical support. Work remains to be done to improve equipment interoperability and compatibility among different national contingents and the standardization of operating procedures. Troop preparedness and self-sustainment also require continued attention.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[250]"><source><g id="186">Report of the Secretary-General</g><g id="187">. </g>The Secretary-General makes recommendations to the Security Council, taking into account the findings and recommendations of the technical assessment mission, on the options for establishing a peacekeeping operation, including its size and resources.</source>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Mine clearance, including survey, mapping and</source>
         <target>Mine clearance, including survey, mapping and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[696]/draw:custom-shape[0]/text:p[5]/text:span[0]"><source>Civil affairs officers carried out functions in all parts of the departments. With the transfer of a number of responsibilities directly to the democratically elected representatives, the organization changed and the administration was divided into "transferred" ministries and "reserved" (to the mission) bodies. Civil affairs officers continue to perform governmental functions in both structures.</source>
         <target>Civil affairs officers carried out functions in all parts of the departments. With the transfer of a number of responsibilities directly to the democratically elected representatives, the organization changed and the administration was divided into "transferred" ministries and "reserved" (to the mission) bodies. Civil affairs officers continue to perform governmental functions in both structures.</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[254]"><source><g id="190">Appointment of senior official</g><g id="191">. </g>The Secretary-General appoints a senior official, who may have already been serving as part of a UN good offices capacity, to head the operation.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[2]"><source>Member States are asked to contribute military troops and civilian police, if required, as well as supplies, equipment, transportation and logistical support.</source>
       </trans-unit>
@@ -961,8 +953,6 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Victim</source>
         <target>Victim</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[268]"><source>Civilian staff serving in peacekeeping operations include personnel drawn from within the UN system (including the United Nations Volunteers), loaned by Member States, or recruited internationally or locally to fill specific jobs.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Destruction of stockpiled APMs;</source>
         <target>Destruction of stockpiled APMs;</target>
@@ -988,8 +978,6 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>understood;</source>
         <target>understood;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[272]"><source>The lead time required to deploy a mission varies and depends on a number of factors, particularly the will of Member States to contribute troops to a particular operation and the timely availability of financial and other resources. In 1973, for example, elements of the second United Nations Emergency Force (UNEF II) were deployed in the Middle East within 24 hours. For missions with highly complex mandates or difficult logistics, however, or where peacekeepers face significant security risks, it may take several weeks to assemble and deploy the necessary elements. DPKO is using a number of mechanisms to build its capacity to deploy missions rapidly by:</source>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Establishing United Nations Stand-by Arrangements System (UNSAS) </source>
         <target>ကုလသမဂ္ဂ အရံသင့်အစီအစဥ်စနစ်တည်ဆောက်ခြင်း (UNSAS) </target>
       </trans-unit>
@@ -1011,8 +999,6 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Implement a communications strategy that actively supports the peacekeeping operation’s</source>
         <target>Implement a communications strategy that actively supports the peacekeeping operation’s</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[282]"><source>In response to a request from the Secretary-General, Member States may volunteer soldiers, military observers, civilian police, equipment, supplies or other support for a</source>
-      </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Advance the peace process through the creation of timely and relevant information products;</source>
         <target>Advance the peace process through the creation of timely and relevant information products;</target>
       </trans-unit>
@@ -1021,8 +1007,6 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[0]"><source>Defend and protect the peacekeeping operation from unjustified criticism and misinformation;</source>
         <target>Defend and protect the peacekeeping operation from unjustified criticism and misinformation;</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[288]"><source>The <g id="198">Brahimi Report </g>contained 57 explicit recommendations to the Secretary-General, the Security Council, the General Assembly and Member States in general. The report focused attention on strategic, political and basic operational matters. Many peacekeeping reforms have been instituted as a result of the dialogue that ensued following the report’s issuance and continued implementation of its recommendations remains a very high priority for DPKO and the Secretariat in general.</source>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[290]" approved="yes"><source>The main recommendations of the report can be summarized as follows:</source>
         <target state="final">အစီရင်ခံစာ၏ အဓိကအကြံပြုချက်များအား အောက်ပါအတိုင်း အတိုချုပ်နိုင်ပါသည်:</target>
