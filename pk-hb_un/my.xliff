@@ -167,8 +167,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]" approved="yes"><source>November 2003</source>
         <target>နို၀င်ဘာ ၂၀၀၃</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]" approved="no"><source>ACRONYMS</source>
-        <target state="translated">အတိုကောက်စကားလုံး</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:span[0]" approved="yes"><source>ACRONYMS</source>
+        <target state="final">အတိုကောက်စကားလုံး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]" approved="yes"><source>Bank</source>
         <target>ဘဏ်</target>
@@ -179,10 +179,10 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]" approved="yes"><source>ATM<g id="21"/>anti-tank mine</source>
         <target>ATM<g id="21"/>တင့်ကားဖျက်မိုင်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]" approved="no"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]" approved="yes"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
         <target>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="no"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="yes"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
         <target>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]" approved="yes"><source>CMIC<g id="33"/>civil-military coordination cell</source>
@@ -224,8 +224,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]" approved="yes"><source>FRY<g id="55"/>Federal Republic of Yugoslavia</source>
         <target>FRY<g id="55"/>ယူဂိုဆလားဗီးယားဖက်ဒရယ်သမ္မတနိုင်ငံ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]" approved="no"><source>HIPC<g id="60"/>highly indebted poor country</source>
-        <target state="translated">HIPC<g id="60"/>ကြွေးမြီအမြောက်အမြားတင်နေသော ဆင်းရဲသည့်နိုင်ငံ</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]" approved="yes"><source>HIPC<g id="60"/>highly indebted poor country</source>
+        <target state="final">HIPC<g id="60"/>highly indebted poor country</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]" approved="yes"><source>IBRD<g id="64"/>International Bank for Reconstruction and Development</source>
         <target>IBRD<g id="64"/>အပြည်ပြည်ဆိုင်ရာပြန်လည်တည်ဆောက်ရေးနှင့်ဖွံ့ဖြိုးရေးဘဏ်</target>
@@ -251,7 +251,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]" approved="yes"><source>IMF<g id="78"/>International Monetary Fund</source>
         <target>IMF<g id="78"/>နိုင်ငံတကာငွေကြေးရန်ပုံငွေအဖွဲ့</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]" approved="no"><source>IOM<g id="82"/>International Organization for Migration</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]" approved="yes"><source>IOM<g id="82"/>International Organization for Migration</source>
         <target>IOM<g id="82"/>ရွှေ့ပြောင်းနေထိုင်မှုဆိုင်ရာနိုင်ငံတကာအဖွဲ့အစည်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]" approved="yes"><source>JAM<g id="84"/>joint assessment mission</source>
@@ -326,7 +326,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[188]" approved="yes"><source>UNEF<g id="137"/>United Nations Emergency Force</source>
         <target>UNEF<g id="137"/>ကုလသမဂ္ဂအရေးပေါ်တပ်ဖွဲ့</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[189]" approved="no"><source>UNESCO<g id="138"/>United Nations Educational, Scientific and Cultural <g id="139">Organization </g>UNFICYP<g id="140"/>United Nations Peacekeeping Force in Cyprus</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[189]" approved="yes"><source>UNESCO<g id="138"/>United Nations Educational, Scientific and Cultural <g id="139">Organization </g>UNFICYP<g id="140"/>United Nations Peacekeeping Force in Cyprus</source>
         <target>UNESCO<g id="138"/>ကုလသမဂ္ဂ ပညာရေး၊ သိပ္ပံ နှင့် ယဉ်ကျေးမှု <g id="139">အဖွဲ့ </g>UNFICYP<g id="140"/> United Nations Peacekeeping Force in Cyprus</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[192]" approved="yes"><source>UNMEE<g id="149"/>United Nations Mission in Ethiopia and Eritrea UNMIBH<g id="150"/>United Nations Mission in Bosnia and<g id="151"> </g>Herzegovina</source>
@@ -359,20 +359,20 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[2]"><source>disarm, demobilize and reintegrate combatants.</source>
         <target>disarm, demobilize and reintegrate combatants.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]" approved="no"><source>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</source>
-        <target>ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များအတွက်၎င်းတို့၏လုပ်ဆောင်မှုများ‌အပေါ်မူတည်သည်(ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်များ)ဟုလည်း ခေါ်ဆိုနိုင်သည်:</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]" approved="yes"><source>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</source>
+        <target>ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များအတွက်၎င်းတို့၏လုပ်ဆောင်မှုများ‌အပေါ်မူတည်သည်(ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်များ)ဟုလည်း ခေါ်ဆိုနိုင်သည် -</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[92]/text:span[0]"><source>The Legal Framework</source>
         <target>The Legal Framework</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]/text:span[0]"><source>Provide a secure environment encouraging a return to normal civilian life;</source>
-        <target>သာမန်အရပ်သားဘဝကိုပြန်လည်ရောက်ရှိစေရန်လုံခြုံသောပတ်ဝန်းကျင်တစ်ခုပေးရန်;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]/text:span[0]" approved="yes"><source>Provide a secure environment encouraging a return to normal civilian life;</source>
+        <target>သာမန်အရပ်သားဘဝကိုပြန်လည်ရောက်ရှိစေရန်လုံခြုံသောပတ်ဝန်းကျင်တစ်ခုပေးရန်၊</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Lead states or territories through a transition to stable government based </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Lead states or territories through a transition to stable government based </source>
         <target>တည်ငြိမ်သောအစိုးရကိုအခြေခံ၍ဦးဆောင်သောပြည်နယ်များနှင့်နယ်မြေများသို့အသွင်ကူးပြောင်းခြင်း </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
-        <target state="translated">နေထိုင်ခြင်း,ချက်ခြင်း </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>on </source>
+        <target state="final">တွင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]" approved="yes"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
         <target state="final">ယခုပုံနှိပ်ထုတ်၀ေခြင်းသည် နိုင်ငံတကာမူပိုင်ခွင့် သဘောတူညီချက် လုပ်ထုံး ၂ အရအကျုံး၀င်ပါသည်။ မည်သို့ပင်ဆိုစေကာမူ၊ အဖွဲ့၀င်နိုင်ငံများ၏ အစိုးရအာဏာပိုင်များက ၄င်းတို့၏ သင်ကြားရေးအဖွဲ့အစည်းများ တွင်အသုံးပြုနိုင်ရန်အတွက် လက်စွဲစာအုပ်၏မည်သည့်အစိတ်အပိုင်းကိုမဆို လွတ်လပ်စွာပုံနှိပ်ကူးယူအသုံးပြုနိုင်ပါသည်။ သို့ရာတွင် ယခုလက်စွဲစာအုပ်၏ မည်သည့်အစိတ်အပိုင်းကိုမျှ ရောင်း၀ယ်ခြင်း(သို့) အများအပြားပုံနှိပ်ထုတ်၀ေခြင်းအတွက် ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်ဌာန၊ ငြိမ်းချမ်းရေးထိမ်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့ထံ စာဖြင့်ခွင့်ပြုချက် တောင်းခံခြင်းမရှိဘဲ ပြန်ထည်ထုတ်၀ေခြင်းပြုလုပ်ရန်အခွင့်မရှိပါ။</target>
@@ -383,11 +383,11 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/text:span[0]" approved="yes"><source>Department of Peacekeeping Operations Rm. S-3640, United Nations</source>
         <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးလုပ်ဆောင်မှုဌာန Rm. S-3640, ကုလသမဂ္ဂ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[1]"><source>the </source>
-        <target>the </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>the </source>
+        <target>ဒီ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>functions that are normally the responsibility of a government.</source>
-        <target>ပုံမှန်အားဖြင့်အစိုးရ၏တာဝန်ဖြစ်ကြောင်း</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>functions that are normally the responsibility of a government.</source>
+        <target>လုပ်ဆောင်ခွင့်များသည် ပုံမှန်အားဖြင့်အစိုးရ၏တာဝန်ဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]" approved="yes"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
         <target>နယူးယောက်၊ NY ၁၀၀၁၇ USA ဖက်စ်: ၁-၉၁၇-၃၆၇-၅၃၆၅</target>
@@ -410,14 +410,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>training of civilian police;</source>
         <target>အရပ်ဘက်ရဲသင်တန်း;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assisting with post-conflict recovery and rehabilitation; and</source>
-        <target>ပဋိပက္ခအလွန် ပြန်လည်ထူထောင်ခြင်းအား ကူညီခြင်း; နှင့်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Assisting with post-conflict recovery and rehabilitation; and</source>
+        <target>ပဋိပက္ခအလွန် ပြန်လည်ထူထောင်ခြင်းအား ကူညီခြင်း၊ နှင့်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[1]"><source>towards </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>towards </source>
         <target>ဆီသို့ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[2]"><source>independence.</source>
-        <target>လွတ်လပ်မှု၊</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>independence.</source>
+        <target>လွတ်လပ်မှု။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[233]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
         <target>on </target>
@@ -438,7 +438,6 @@
         <target>၄၅</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[237]"><source>Secretary-General (SRSG) provides, in addition to his or her other responsibilities, overall coordination for the UN funds and programmes working in the mission area.</source>
-        <target>Secretary-General (SRSG) provides, in addition to his or her other responsibilities, overall coordination for the UN funds and programmes working in the mission area.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[2]/text:p[0]" approved="yes"><source>83</source>
         <target>၈၃</target>
@@ -503,8 +502,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>equality;</source>
         <target>equality;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]" approved="no"><source>As peacekeeping has evolved, particularly since the late 1980s, a growing number of United Nations peacekeeping operations have become multidimensional in nature, composed of a range of components, including military, civilian police, political <g id="16">affairs, </g>rule of law, human rights, humanitarian, reconstruction, public information and gender. There are also a number of areas, such as mission support and security and safety of personnel, that remain essential to peacekeeping regardless of a particular mission’s mandate.</source>
-        <target state="translated">အထူးသဖြင့်(၁၉၈၀)နှောင်းပိုင်းနှစ်များမှစ၍ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုတိုးတက်လာသည်နှင့်အမျှ ကုလသမဂ္ဂ၏ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများသည် ရှုထောင့်ပေါင်းစုံမှပါဝင်မှုတိုးပွားလာခဲ့သည်။ စစ်တပ်အပါအဝင် အရပ်ဘက်ရဲတပ်ဖွဲ့၊ နိုင်ငံ<g id="16">ရေးရာ၊ </g>တရားဥပဒေစိုးမိုးရေး၊ လူ့အခွင့်အရေး၊ လူသားချင်းစာနာမှု၊ ပြန်လည်ထောင်ရေးလုပ်ငန်းစဉ်၊ အများပြည်သူဆိုင်ရာသတင်းအချက်အလက် နှင့် ကျားမရေးရာ စသည့်များစွာသောရှုထောင့်ပေါင်းစုံမှ ပါဝင်လာကြသည်။ မစ်ရှင်အထောက်အပံ့နှင့် အများပြည်သူဘေးကင်းလုံခြုံမှု ကဲ့သို့သော နယ်ပယ်များထိပါ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုကို မရှိမဖြစ်လိုအပ်သည့် မစ်ရှင်တစ်ခုအဖြစ် လုပ်ဆောင်မည်ဖြစ်သည်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]" approved="yes"><source>As peacekeeping has evolved, particularly since the late 1980s, a growing number of United Nations peacekeeping operations have become multidimensional in nature, composed of a range of components, including military, civilian police, political <g id="16">affairs, </g>rule of law, human rights, humanitarian, reconstruction, public information and gender. There are also a number of areas, such as mission support and security and safety of personnel, that remain essential to peacekeeping regardless of a particular mission’s mandate.</source>
+        <target state="final">အထူးသဖြင့်(၁၉၈၀)နှောင်းပိုင်းနှစ်များမှစ၍ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုတိုးတက်လာသည်နှင့်အမျှ ကုလသမဂ္ဂ၏ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများသည် ရှုထောင့်ပေါင်းစုံမှပါဝင်မှုတိုးပွားလာခဲ့သည်။ စစ်တပ်အပါအဝင် အရပ်ဘက်ရဲတပ်ဖွဲ့၊ နိုင်ငံ<g id="16">ရေးရာ၊ </g>တရားဥပဒေစိုးမိုးရေး၊ လူ့အခွင့်အရေး၊ လူသားချင်းစာနာမှု၊ ပြန်လည်ထောင်ရေးလုပ်ငန်းစဉ်၊ အများပြည်သူဆိုင်ရာသတင်းအချက်အလက် နှင့် ကျားမရေးရာ စသည့်များစွာသောရှုထောင့်ပေါင်းစုံမှ ပါဝင်လာကြသည်။ မစ်ရှင်အထောက်အပံ့နှင့် အများပြည်သူဘေးကင်းလုံခြုံမှု ကဲ့သို့သော နယ်ပယ်များထိပါ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုကို မရှိမဖြစ်လိုအပ်သည့် မစ်ရှင်တစ်ခုအဖြစ် လုပ်ဆောင်မည်ဖြစ်သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[118]/text:list-item[0]/text:p[0]/text:span[2]"><source>punishment, not for punishment;</source>
         <target>punishment, not for punishment;</target>
@@ -512,23 +511,22 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]"><source>marking;</source>
         <target>marking;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[0]"><source>Contribution of troops and other resources</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[0]" approved="yes"><source>Contribution of troops and other resources</source>
         <target>စစ်သားနှင့် အခြားအရင်းအမြစ်များအတွက် ထောက်ပံ့ခြင်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[1]"><source>. </source>
-        <target>. </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[1]" approved="yes"><source>. </source>
+        <target>။ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[1]"><source>. </source>
-        <target>. </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[1]" approved="yes"><source>. </source>
+        <target>။ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[2]"><source>The Secretary-General reports regularly to the Security Council concerning the activities of the operation.</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[2]" approved="yes"><source>The Secretary-General reports regularly to the Security Council concerning the activities of the operation.</source>
         <target>လုပ်ငန်းစဉ်များနှင့်သက်ဆိုင်သော အစီရင်ခံစာများအား ကုလသမဂ္ဂအတွင်းရေးမှူးချုပ်မှ ကုလသမဂ္ဂလုံခြုံရေးကောင်စီသို့ ပုံမှန်အစီရင်ခံပါသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[0]"><source>Reviews by the Security Council</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[0]" approved="yes"><source>Reviews by the Security Council</source>
         <target>ကုလသမဂ္ဂလုံခြုံရေးကောင်စီမှ ပြန်လည်သုံးသပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:span[0]"><source>Deployment</source>
-        <target state="translated">Deployment</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[2]"><source>assistance;</source>
         <target>assistance;</target>
@@ -539,29 +537,26 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Promote all aspects of the work of the peacekeeping operation to the national and international</source>
         <target>Promote all aspects of the work of the peacekeeping operation to the national and international</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[1]"><source>with </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>with </source>
         <target>နှင့်အတူ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[2]"><source>Member States;</source>
-        <target>Member States;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>Member States;</source>
+        <target>အဖွဲ့၀င်နိုင်ငံများ၊</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[2]"><source>Brindisi, Italy;</source>
-        <target>Brindisi, Italy;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>Brindisi, Italy;</source>
+        <target>ဘရင်ဒီဆီနီ၊ အီတလီ၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]/text:span[0]"><source>Maintaining a rapid-deployment roster for civilian personnel who are trained </source>
-        <target>Maintaining a rapid-deployment roster for civilian personnel who are trained </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]/text:span[2]"><source>advance and can be rapidly deployed to start up missions; and</source>
-        <target>advance and can be rapidly deployed to start up missions; and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[0]"><source>Using the authority of the Secretary-General to commit needed funds before </source>
-        <target>Using the authority of the Secretary-General to commit needed funds before </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[2]"><source>peacekeeping operation has actually been authorized.</source>
-        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်အား အမှန်တကယ်လုပ်ပိုင်ခွင့် လွှဲအပ်ပြီးဖြစ်ပါသည်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>peacekeeping operation has actually been authorized.</source>
+        <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်အား အမှန်တကယ်လုပ်ပိုင်ခွင့် လွှဲအပ်ပြီးဖြစ်ပါသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:span[0]"><source>Financing Peacekeeping Operations</source>
-        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်အား ငွေကြေးထောက်ပံ့ခြင်း</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:span[0]" approved="yes"><source>Financing Peacekeeping Operations</source>
+        <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်အား ငွေကြေးထောက်ပံ့ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[110]/text:span[0]"><source>Mission Support in Field Missions</source>
         <target>Mission Support in Field Missions</target>
@@ -570,7 +565,6 @@
         <target>objectives;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[280]"><source>all-time high of US$3 billion in 1994/1995 to a low of US$1 billion in 1998/1999.</source>
-        <target>all-time high of US$3 billion in 1994/1995 to a low of US$1 billion in 1998/1999.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[0]"><source>Advocacy to stigmatize the use of landmines and support a total ban on</source>
         <target>Advocacy to stigmatize the use of landmines and support a total ban on</target>
@@ -578,13 +572,13 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>APMs.</source>
         <target>APMs.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:span[0]"><source>The Brahimi Report</source>
-        <target state="translated">The Brahimi Report</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:span[0]" approved="yes"><source>The Brahimi Report</source>
+        <target state="final">ဘီနာမီအစီရင်ခံစာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]/text:span[2]"><source>means.</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>means.</source>
         <target>ဆိုလိုရင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2173]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Coordinating Humanitarian Assistance</source>
@@ -593,14 +587,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2279]/text:span[1]"><source>non-refoulement </source>
         <target>non-refoulement </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[1]"><source>in </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>in </source>
         <target>တွင် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[2]"><source>helping them resolve their conflict.</source>
-        <target state="translated">၎င်းတို့၏ ပဋိပက္ခအား ၎င်းတို့ကိုယ်တိုင် ဖြေရှင်းရန် ကူညီပေးခြင်း</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>helping them resolve their conflict.</source>
+        <target state="final">၎င်းတို့၏ ပဋိပက္ခအား ၎င်းတို့ကိုယ်တိုင် ဖြေရှင်းရန် ကူညီပေးခြင်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[1]"><source>involve </source>
-        <target state="translated">ပါဝင် </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>involve </source>
+        <target state="final">ပါဝင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:span[1]"><source>conflict </source>
         <target state="translated">ပဋိပက္ခ </target>
@@ -626,7 +620,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[413]"><source>The Secretary-General may also appoint the SRSG as the Designated Official, which is an integral element of UN security management. In that capacity, the SRSG takes on responsibility for the security and protection of staff of the UN funds, programmes and specialized agencies as well as their eligible dependants. The SRSG, as Designated Official, reports directly to the United Nations Security Coordinator (UNSECOORD) at Headquarters in this regard, and chairs the UN Security Management Team in the mission area. In all cases, peacekeeping operations should coordinate closely with all other UN entities in security management matters.</source>
         <target>The Secretary-General may also appoint the SRSG as the Designated Official, which is an integral element of UN security management. In that capacity, the SRSG takes on responsibility for the security and protection of staff of the UN funds, programmes and specialized agencies as well as their eligible dependants. The SRSG, as Designated Official, reports directly to the United Nations Security Coordinator (UNSECOORD) at Headquarters in this regard, and chairs the UN Security Management Team in the mission area. In all cases, peacekeeping operations should coordinate closely with all other UN entities in security management matters.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]" approved="no"><source>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]" approved="yes"><source>This Handbook, which is also available on CD-ROM, is intended to serve as an introduction to the different components of multidimensional peacekeeping operations. It is not intended to provide strategic or policy guidance. Rather, it is intended to provide field personnel who are new to the United Nations, or who are being deployed to one of our multidimensional peacekeeping operations for the first time, with general background on the responsibilities of each component of our operations and how these fit together to form the whole. We have tried to make the Handbook as brief and practical as possible, while doing justice to the broad areas of work in which many of our operations are engaged.</source>
         <target>ယခုလက်စွဲစာအုပ်ကို စီဒီချပ် ဖြင့်လည်းရရှိနိုင်မည်ဖြစ်ပြီး၊ ရှုထောင့်ပေါင်းစုံက ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များ၏ မတူညီသည့်အစိတ်အပိုင်းများကို မိတ်ဆက်ပေးရန်ရည်ရွယ်သည်။ ဗျူဟာ (သို့) လုပ်ထုံးလုပ်နည်းလမ်းညွှန်ချက်သဘော ရည်ရွယ်ထားခြင်းမဟုတ်ပါ။ လက်တွေ့မြေပြင်ဆင်းသက်မည့် ကုလသမဂ္ဂ အမှူထမ်းအသစ် (သို့) ရှုထောင့်ပေါင်းစုံ ငြိမ်းချမ်းရေးကာကွယ်ခြင်းလုပ်ငန်းစဥ်တစ်ခုကို ပထမအကြိမ်တာ၀န်ပေးခြင်းခံရသူအား အစိတ်ပိုင်းတစ်ခုစီ၏လုပ်ငန်းတာ၀န် ယေဘုယျခြုံငုံသဘောပေါက်နိုင်ရန်နှင့် ၄င်းတို့မည်သို့စုစည်းပုံဖော်နိုင်ကြောင်းကို နားလည်သဘောပေါက်စေရန် ရည်ရွယ်ပါသည်။တရားမျှတမှုအတွက် ကျယ်ပြန့်သည့် ကျွန်ုပ်တို့လုပ်ငန်းစဥ်များပါ၀င်ဆောင်ရွက်ရသည့် အခါတွင် ယခုလက်စွဲစာအုပ်ကို အတိုဆုံးနှင့် လက်တွေ့အကျဆုံးခြုံငုံဖော်ပြနိုင်ရန် ကြိုးပမ်းထားထုတ်ထားပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]" approved="yes"><source>We hope to update the electronic version of the Handbook periodically and look forward to receiving your comments and questions.</source>
@@ -656,7 +650,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]" approved="yes"><source>CCA<g id="27"/>common country assessment</source>
         <target state="final">CCA<g id="27"/>ဘုံတိုင်းပြည်အကဲဖြတ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]" approved="no"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]" approved="yes"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
         <target>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]" approved="yes"><source>CG<g id="32"/>consultative group</source>
@@ -704,7 +698,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]" approved="yes"><source>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</source>
         <target>ICSID<g id="71"/>International Centre for Settlement of Investment <g id="72">Disputes </g>IDA<g id="73"/>International Development Association</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]" approved="no"><source>IFC<g id="75"/>International Finance Corporation</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]" approved="yes"><source>IFC<g id="75"/>International Finance Corporation</source>
         <target>IFC<g id="75"/> နိုင်ငံတကာဘဏ္ဍာရေးကော်ပိုရေးရှင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]" approved="yes"><source>IMSMA<g id="79"/>Information Management System for Mine <g id="80">Action </g>IMTF<g id="81"/>integrated mission task force</source>
@@ -716,7 +710,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]" approved="yes"><source>JMAC<g id="85"/>joint mission analysis cell</source>
         <target state="final">JMAC<g id="85"/>joint mission analysis cell</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]" approved="no"><source>JOC<g id="87"/>joint operations centre</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]" approved="yes"><source>JOC<g id="87"/>joint operations centre</source>
         <target>JOC<g id="87"/>ပူးတွဲလုပ်ငန်းစဥ်ဌာန</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]" approved="yes"><source>KFOR<g id="88"/>Kosovo Force</source>
@@ -818,7 +812,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[204]" approved="yes"><source>VTF<g id="177"/>Voluntary Trust Fund for Assistance in Mine Action</source>
         <target>VTF<g id="177"/>Voluntary Trust Fund for Assistance in Mine Action</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[206]" approved="no"><source>WHO<g id="179"/>World Health Organization</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[206]" approved="yes"><source>WHO<g id="179"/>World Health Organization</source>
         <target>WHO<g id="179"/>ကမ္ဘာ့ကျန်းမာရေးအဖွဲ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:span[0]" approved="yes"><source>INTRODUCTION</source>
@@ -839,23 +833,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[956]/text:span[0]"><source>Land forces, which are the most commonly contributed forces for UN peacekeeping operations, are grouped by size as follows:</source>
         <target>Land forces, which are the most commonly contributed forces for UN peacekeeping operations, are grouped by size as follows:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[215]"><source>Peacekeeping can help bridge the gap between the cessation of hostilities and a durable peace, but only if the parties to a conflict have the political will needed to reach the goal. Initially developed as a means of dealing with inter-State conflict, peacekeeping has increasingly been used in intra-State conflicts and civil wars, which are often characterized by multiple armed factions with differing political objectives and fractured lines of command.</source>
-        <target state="translated">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုသည် ရန်လိုမုန်းတီးမှုများရပ်တန့်ရေးနှင့် ငြိမ်းချမ်းရေးရေရှည်တည်တံ့ခိုင်မြဲရေးအကြား ကွာဟချက်ကိုပေါင်းကူးပေးနိုင်သည်။ သို့ရာတွင် ပန်းတိုင်ရောက်နိုင်ရန် ပဋိပက္ခတွင်ပါဝင်သော ပါတီဝင်အုပ်စုများအနေဖြင့် နိုင်ငံရေးသဘောထားလိုလားချက်ရှိရန်လိုအပ်ပါသည်။ ဦးစွာပထမ ပြည်တွင်းပဋိပက္ခများကြားညှိုနှိုင်းခြင်းမှ အစပြု၍ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု(လုပ်ငန်းစဥ်)သည် ပြည်တွင်းပဋိပက္ခနှင့် မတူကွဲပြားသောနိုင်ငံရေးရည်မှန်းချက်များဖြင့် ကိုယ်ပိုင်အုပ်ချုပ်ရေးအတွက် လက်နက်ကိုင်အုပ်စုများကြား ဖြစ်ပွားနေသည့် ပြည်တွင်းစစ်များတွင်ပိုမိုအသုံးပြုလာကြသည်။</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[215]" approved="yes"><source>Peacekeeping can help bridge the gap between the cessation of hostilities and a durable peace, but only if the parties to a conflict have the political will needed to reach the goal. Initially developed as a means of dealing with inter-State conflict, peacekeeping has increasingly been used in intra-State conflicts and civil wars, which are often characterized by multiple armed factions with differing political objectives and fractured lines of command.</source>
+        <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုသည် ရန်လိုမုန်းတီးမှုများရပ်တန့်ရေးနှင့် ငြိမ်းချမ်းရေးရေရှည်တည်တံ့ခိုင်မြဲရေးအကြား ကွာဟချက်ကိုပေါင်းကူးပေးနိုင်သည်။ သို့ရာတွင် ပန်းတိုင်ရောက်နိုင်ရန် ပဋိပက္ခတွင်ပါဝင်သော ပါတီဝင်အုပ်စုများအနေဖြင့် နိုင်ငံရေးသဘောထားလိုလားချက်ရှိရန်လိုအပ်ပါသည်။ ဦးစွာပထမ ပြည်တွင်းပဋိပက္ခများကြားညှိုနှိုင်းခြင်းမှ အစပြု၍ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု(လုပ်ငန်းစဥ်)သည် ပြည်တွင်းပဋိပက္ခနှင့် မတူကွဲပြားသောနိုင်ငံရေးရည်မှန်းချက်များဖြင့် ကိုယ်ပိုင်အုပ်ချုပ်ရေးအတွက် လက်နက်ကိုင်အုပ်စုများကြား ဖြစ်ပွားနေသည့် ပြည်တွင်းစစ်များတွင်ပိုမိုအသုံးပြုလာကြသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[415]"><source><g id="216">Head of Mission. </g>As Head of Mission, the SRSG is responsible for managing the mission and its results, including the security and safety of personnel, discipline and morale and the effective management of resources. The SRSG provides direction and guidance to each component and ensures that activities are undertaken in an integrated manner. The SRSG initiates the development of a mandate implementation plan in close consultation with the senior management team of the mission.</source>
         <target><g id="216">Head of Mission. </g>As Head of Mission, the SRSG is responsible for managing the mission and its results, including the security and safety of personnel, discipline and morale and the effective management of resources. The SRSG provides direction and guidance to each component and ensures that activities are undertaken in an integrated manner. The SRSG initiates the development of a mandate implementation plan in close consultation with the senior management team of the mission.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[217]"><source>These realities have, particularly since the late 1980s, led to an evolution in the structure of peacekeeping missions. A large number of peacekeeping operations are still based on the “traditional” model of a military operation deployed in support of a political activity. These operations involve military tasks such as monitoring ceasefires and patrolling buffer zones between hostile parties and are carried out by UN peacekeepers who may or may not be armed and who are widely known as "blue helmets" or "blue berets" because of their distinctive headgear. Although past military observer missions have also included non-military tasks, a growing number of UN peacekeeping operations have become multidimensional, composed of a range of components including military, civilian police, political, civil affairs, rule of law, human rights, humanitarian, reconstruction, public information and gender. Some of these operations do not have a military component but carry out their mandates alongside a regional or multinational peacekeeping force.</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[217]" approved="yes"><source>These realities have, particularly since the late 1980s, led to an evolution in the structure of peacekeeping missions. A large number of peacekeeping operations are still based on the “traditional” model of a military operation deployed in support of a political activity. These operations involve military tasks such as monitoring ceasefires and patrolling buffer zones between hostile parties and are carried out by UN peacekeepers who may or may not be armed and who are widely known as "blue helmets" or "blue berets" because of their distinctive headgear. Although past military observer missions have also included non-military tasks, a growing number of UN peacekeeping operations have become multidimensional, composed of a range of components including military, civilian police, political, civil affairs, rule of law, human rights, humanitarian, reconstruction, public information and gender. Some of these operations do not have a military component but carry out their mandates alongside a regional or multinational peacekeeping force.</source>
         <target>ဤဖြစ်ရပ်မှန်များသည်အထူးသဖြင့် ၁၉၈၀ နှောင်းပိုင်းနှစ်များ မှစ၍ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးမစ်ရှင်များ၏ဖွဲ့စည်းတည်ဆောက်ပုံကိုပြောင်းလဲစေခဲ့သည်။ များသောအားဖြင့်ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများသည်နိုင်ငံရေးလှုပ်ရှားမှုအားအထောက်အပံ့ပေးသည့်စစ်ဆင်ရေး၏“ ရိုးရာ” ပုံစံကိုအခြေခံထားဆဲဖြစ်သည်။ ဤစစ်ဆင်ရေးများတွင်အပစ်အခတ်ရပ်စဲရေးစောင့်ကြည့်ခြင်းနှင့်ရန်လိုသောပါတီများအကြားကြားခံနယ်မြေများကိုကင်းလှည့်ခြင်းကဲ့သို့သောစစ်ရေးဆိုင်ရာတာ၀န်များပါ ၀င်သည်။ ကုလသမဂ္ဂငြိမ်းချမ်းမှုထိန်းသိမ်းရေးတပ်ဖွဲ့များကလက်နက်ကိုင်နိုင်သည်။ ။ ယခင်စစ်ရေးလေ့လာသူများတွင်စစ်ရေးနှင့်မသက်ဆိုင်သောလုပ်ငန်းတာဝန်များပါ ၀င်သော်လည်းကုလသမဂ္ဂ၏ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများသည်စစ်တပ်၊ အရပ်ဖက်ရဲတပ်ဖွဲ့၊ ပြည်တွင်းရေးများ၊ အရပ်ဘက်ရေးရာ၊ တရားဥပဒေစိုးမိုးရေး၊ လူ့အခွင့်အရေး၊ ပြန်လည်တည်ဆောက်ရေး, အများပြည်သူဆိုင်ရာသတင်းအချက်အလက်နှင့်ကျားမ။ အချို့သောစစ်ဆင်ရေးများတွင်စစ်ရေးအရပါ ၀င်မှုမရှိသော်လည်းဒေသတွင်းသို့မဟုတ်နိုင်ငံစုံငြိမ်းချမ်းရေးထိန်းသိမ်းရေးတပ်ဖွဲ့များနှင့်အတူ၎င်းတို့၏လုပ်ပိုင်ခွင့်များကိုကျင့်သုံးသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Assist in implementing a comprehensive peace agreement;</source>
         <target>ပြည့်စုံသောငြိမ်းချမ်းရေးသဘောတူညီချက်ရရှိအောင်‌အကောင်အထည်ဖော်ဆောင်ရွက်ခြင်း;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Monitor a ceasefire or cessation of hostilities to allow space for political negotiations and a peaceful settlement of disputes;</source>
-        <target>အပစ်ခတ်ရပ်စဲရေးနှင့်ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်အတွက်လေ့လာစောင့်ကြည့်ရန်နှင့်အငြင်းပွားမှု့များအတွက်ငြိမ်းချမ်းစွာအဖြေရှာရန်;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Monitor a ceasefire or cessation of hostilities to allow space for political negotiations and a peaceful settlement of disputes;</source>
+        <target>အပစ်ခတ်ရပ်စဲရေးနှင့်ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်အတွက်လေ့လာစောင့်ကြည့်ရန်နှင့်အငြင်းပွားမှု့များအတွက်ငြိမ်းချမ်းစွာအဖြေရှာရန်၊</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Prevent the outbreak or spillover of conflict across borders;</source>
-        <target>နယ်စပ်ဖြတ်တစ်လျှောက်တွင်ပဋိပက္ခဖြစ်ပွားခြင်းမှကာကွယ်ခြင်း;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Prevent the outbreak or spillover of conflict across borders;</source>
+        <target>နယ်စပ်ဖြတ်တစ်လျှောက်တွင်ပဋိပက္ခဖြစ်ပွားခြင်းမှကာကွယ်ခြင်း၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>democratic principles, good governance and economic development; and</source>
         <target>ဒီမိုကရေစီအခြေခံမူများ၊ ကောင်းမွန်သောအုပ်ချုပ်မှုနှင့်စီးပွားရေးဖွံ့ဖြိုးတိုးတက်မှု၊ နှင့်</target>
@@ -866,17 +860,17 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1487]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Human Rights Activities in Sierra Leone</source>
         <target>Human Rights Activities in Sierra Leone</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[226]"><source>While military personnel remain vital to most operations, civilians have taken on a growing number of responsibilities, which can include:</source>
-        <target>While military personnel remain vital to most operations, civilians have taken on a growing number of responsibilities, which can include:</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[226]" approved="yes"><source>While military personnel remain vital to most operations, civilians have taken on a growing number of responsibilities, which can include:</source>
+        <target>စစ်တပ်အမှုထမ်းများသည် လုပ်ငန်းစဥ်အများစုတွင် အရေးပါဆုံးဖြစ်သည့်အားလျော်စွာ၊ ပြည်သူများကလည်း တိုးများလာသည့် တာ၀န်များကိုယူဆောင်လာကြသည်၊ ၄င်းတွင်ပါ၀င်သည်တို့မှာ -</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[0]"><source>Helping former opponents implement complex peace agreements by liaising </source>
-        <target>Helping former opponents implement complex peace agreements by liaising </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Helping former opponents implement complex peace agreements by liaising </source>
+        <target>ယခင်အတိုက်ခံကို ရှုပ်ထွေးသည့်ငြိမ်းချမ်းရေးသဘောတူညီချက်များတည်ဆောင်ရန်အတွက် အကူအညီကို ဆက်သွယ်ခြင်း၊ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>with </source>
         <target>နှင့်အတူ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[2]"><source>a range of political and civil society actors;</source>
-        <target>နိုင်ငံရေးနှင့်အရပ်ဖက်အဖွဲ့အစည်းများ၏လုပ်ဆောင်ချက်များ;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>a range of political and civil society actors;</source>
+        <target>နိုင်ငံရေးနှင့် လူမှုအကျိုးပြုအဖွဲ့အစည်းများ အသီတန်းနှင့်၄င်း၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Supporting the delivery of humanitarian assistance;</source>
         <target>လူသားချင်းစာနာမှု အထောက်အပံ့အကူအညီများပေးအပ်ခြင်း;</target>
@@ -884,17 +878,17 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Assisting with the disarmament, demobilization and reintegration (DDR) </source>
         <target>လက်နက်ဖျက်သိမ်းခြင်း၊ တပ်ဖျက်သိမ်းခြင်းနှင့်ပြန်လည်ပေါင်းစည်းခြင်းနှင့်အတူကူညီခြင်း(DDR) </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[2]"><source>former combatants;</source>
-        <target>ယခင်တိုက်ပွဲဝင်စစ်သည်များ;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>former combatants;</source>
+        <target>ယခင်ပြိုင်ဖက်များ၊</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[0]"><source>Strengthening the rule of law, including assistance with judicial reform </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Strengthening the rule of law, including assistance with judicial reform </source>
         <target>တရားစီရင်ရေးပြုပြင်ပြောင်းလဲမှုတွင်အကူအညီအပါအဝင်တရားဥပဒေစိုးမိုးရေးကိုအားဖြည့်ခြင်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Promoting respect for human rights and investigating alleged violations;</source>
         <target>လူ့အခွင့်အရေးလေးစားမှုကိုမြှင့်တင်ရန်နှင့်ချိုးဖောက်မှုများအားစုံစမ်းစစ်ဆေးရန်;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[0]"><source>Setting up a transitional administration of a territory as it moves </source>
-        <target>Setting up a transitional administration of a territory as it moves </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Setting up a transitional administration of a territory as it moves </source>
+        <target>၄င်း၏ရွှေ့ပြောင်းသည့် အခြေအနေကိုလိုက်၍ အုပ်ချုပ်ရေးအပြောင်းအလဲတစ်ခုတည်ဆောက်ခြင်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1559]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>(2000)</source>
         <target>(2000)</target>
@@ -921,9 +915,8 @@
         <target>Consultants/individual contractors;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[236]"><source>Peacekeeping missions are not the UN’s only presence in conflict zones. Field staff of UN entities, among them the Office of the United Nations High Commissioner for Refugees (UNHCR), the World Food Programme (WFP), the United Nations Children's Fund (UNICEF), the Office for the Coordination of Humanitarian Affairs (OCHA), the United Nations Development Programme (UNDP), and the Office of the United Nations High Commissioner for Human Rights (OHCHR), often work closely with peacekeepers. In addition, peacekeepers have been called upon to support the activities of non- governmental and other organizations engaged in providing humanitarian assistance to victims of conflicts. In many mission areas, a Special Representative of the</source>
-        <target>Peacekeeping missions are not the UN’s only presence in conflict zones. Field staff of UN entities, among them the Office of the United Nations High Commissioner for Refugees (UNHCR), the World Food Programme (WFP), the United Nations Children's Fund (UNICEF), the Office for the Coordination of Humanitarian Affairs (OCHA), the United Nations Development Programme (UNDP), and the Office of the United Nations High Commissioner for Human Rights (OHCHR), often work closely with peacekeepers. In addition, peacekeepers have been called upon to support the activities of non- governmental and other organizations engaged in providing humanitarian assistance to victims of conflicts. In many mission areas, a Special Representative of the</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:span[0]"><source>Role of the Department of Peacekeeping Operations</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:span[0]" approved="yes"><source>Role of the Department of Peacekeeping Operations</source>
         <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်များဌာန၏ အခန်းကဏ္ဍ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[647]"><source>understand the interests of the parties, relationships between them and respective negotiating positions. There may also be multiple or competing local authorities and structures, or perhaps none at all. Civil affairs officers may be called upon to fill an administrative void or provide a neutral and impartial administrative presence.</source>
@@ -933,9 +926,8 @@
         <target><g id="341">World Food Programme (WFP). </g>WFP is involved in providing food assistance and logistic support services to UN humanitarian operations related to mine action.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[239]"><source>The Department of Peacekeeping Operations (DPKO), which was established as a separate department of the UN Secretariat in 1992, is responsible for planning, managing, deploying, supporting and, on behalf of the Secretary-General, providing executive direction to all UN peacekeeping operations. It also performs similar functions in support of peace and security operations that are predominantly civilian, such as the United Nations Assistance Mission in Afghanistan (UNAMA). DPKO works very closely with the Department of Political Affairs (DPA), which is the focal point in the UN system for conflict prevention, peacemaking and peacebuilding.</source>
-        <target>The Department of Peacekeeping Operations (DPKO), which was established as a separate department of the UN Secretariat in 1992, is responsible for planning, managing, deploying, supporting and, on behalf of the Secretary-General, providing executive direction to all UN peacekeeping operations. It also performs similar functions in support of peace and security operations that are predominantly civilian, such as the United Nations Assistance Mission in Afghanistan (UNAMA). DPKO works very closely with the Department of Political Affairs (DPA), which is the focal point in the UN system for conflict prevention, peacemaking and peacebuilding.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:span[0]"><source>Establishing Peacekeeping Operations</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:span[0]" approved="yes"><source>Establishing Peacekeeping Operations</source>
         <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်များ တည်ထောင်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[103]/text:span[0]"><source>Gender Mainstreaming and Peacekeeping</source>
@@ -954,16 +946,12 @@
         <target>and</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[242]"><source>Peacekeeping operations are established by the Security Council, which is, under the UN Charter, the organ with “primary responsibility for international peace and security”. In each case, a new mission must be designed and its components assembled to meet the requirements of that particular situation. Since the UN has no army or police force, this requires that the Organization generate troops and civilian police from Member States and recruit international and national civilian staff, as required by the mission’s mandate.</source>
-        <target>Peacekeeping operations are established by the Security Council, which is, under the UN Charter, the organ with “primary responsibility for international peace and security”. In each case, a new mission must be designed and its components assembled to meet the requirements of that particular situation. Since the UN has no army or police force, this requires that the Organization generate troops and civilian police from Member States and recruit international and national civilian staff, as required by the mission’s mandate.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[244]"><source>There is no set sequence of events leading to the establishment of a peacekeeping operation, but in most cases, some combination of the following events occurs:</source>
-        <target>There is no set sequence of events leading to the establishment of a peacekeeping operation, but in most cases, some combination of the following events occurs:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[246]"><source><g id="180">Consultations/peace agreements</g><g id="181">. </g>As a particular conflict develops or worsens, or as the hostile parties approach agreement on a negotiated settlement, ongoing consultations <g id="182">take </g>place among Member States, the Secretariat, the parties on the ground, states in the region concerned and countries that are potential contributors of troops, police and other resources, regarding the possible need for a UN presence and the shape it might take. It <g id="183">is </g>particularly critical that the parties concerned provide consent for UN involvement.</source>
-        <target><g id="180">Consultations/peace agreements</g><g id="181">. </g>As a particular conflict develops or worsens, or as the hostile parties approach agreement on a negotiated settlement, ongoing consultations <g id="182">take </g>place among Member States, the Secretariat, the parties on the ground, states in the region concerned and countries that are potential contributors of troops, police and other resources, regarding the possible need for a UN presence and the shape it might take. It <g id="183">is </g>particularly critical that the parties concerned provide consent for UN involvement.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[247]"><source>Often, one or more of the parties will insist, as a precondition for signing the peace agreement, on a UN role in verifying compliance with or helping to implement the agreement. As such, peace agreements often define the contours of any future UN operation, and the UN can provide, during the negotiations phase, valuable advice as to the kind of mandate that the UN would be able to implement—based on its capacity, expertise and previous experience—should the Security Council agree to authorize such a mandate. Early and ongoing consultation with the Security Council and other Member States, thus, is essential to ascertain if they are prepared to support the course of action envisaged for the UN and provide the resources required to do the job.</source>
-        <target>Often, one or more of the parties will insist, as a precondition for signing the peace agreement, on a UN role in verifying compliance with or helping to implement the agreement. As such, peace agreements often define the contours of any future UN operation, and the UN can provide, during the negotiations phase, valuable advice as to the kind of mandate that the UN would be able to implement—based on its capacity, expertise and previous experience—should the Security Council agree to authorize such a mandate. Early and ongoing consultation with the Security Council and other Member States, thus, is essential to ascertain if they are prepared to support the course of action envisaged for the UN and provide the resources required to do the job.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[187]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>resolution;</source>
         <target>resolution;</target>
@@ -972,10 +960,8 @@
         <target>preparedness, rapid deployment and logistical support. Work remains to be done to improve equipment interoperability and compatibility among different national contingents and the standardization of operating procedures. Troop preparedness and self-sustainment also require continued attention.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[249]"><source><g id="184">Technical assessment mission</g><g id="185">. </g>As soon as security conditions permit, an integrated technical assessment mission involving the relevant UN departments, funds and programmes travels to the country or territory where the mission is to be established to assess the overall security, political, humanitarian, human rights and military situation on the ground and the implications for a UN operation.</source>
-        <target><g id="184">Technical assessment mission</g><g id="185">. </g>As soon as security conditions permit, an integrated technical assessment mission involving the relevant UN departments, funds and programmes travels to the country or territory where the mission is to be established to assess the overall security, political, humanitarian, human rights and military situation on the ground and the implications for a UN operation.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[250]"><source><g id="186">Report of the Secretary-General</g><g id="187">. </g>The Secretary-General makes recommendations to the Security Council, taking into account the findings and recommendations of the technical assessment mission, on the options for establishing a peacekeeping operation, including its size and resources.</source>
-        <target><g id="186">Report of the Secretary-General</g><g id="187">. </g>The Secretary-General makes recommendations to the Security Council, taking into account the findings and recommendations of the technical assessment mission, on the options for establishing a peacekeeping operation, including its size and resources.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Mine clearance, including survey, mapping and</source>
         <target>Mine clearance, including survey, mapping and</target>
@@ -984,37 +970,29 @@
         <target>Civil affairs officers carried out functions in all parts of the departments. With the transfer of a number of responsibilities directly to the democratically elected representatives, the organization changed and the administration was divided into "transferred" ministries and "reserved" (to the mission) bodies. Civil affairs officers continue to perform governmental functions in both structures.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[252]"><source><g id="188">Security Council resolution</g><g id="189">. </g>The Security Council passes a resolution authorizing the operation’s deployment, and determining its size and mandate. (Such decisions require at least nine out of 15 votes in favour and are subject to a veto by any of the Council's five permanent members -- China, France, the Russian Federation, the United Kingdom and the United States). The budget and resources of the mission are then subject to General Assembly approval.</source>
-        <target><g id="188">Security Council resolution</g><g id="189">. </g>The Security Council passes a resolution authorizing the operation’s deployment, and determining its size and mandate. (Such decisions require at least nine out of 15 votes in favour and are subject to a veto by any of the Council's five permanent members -- China, France, the Russian Federation, the United Kingdom and the United States). The budget and resources of the mission are then subject to General Assembly approval.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[254]"><source><g id="190">Appointment of senior official</g><g id="191">. </g>The Secretary-General appoints a senior official, who may have already been serving as part of a UN good offices capacity, to head the operation.</source>
-        <target><g id="190">Appointment of senior official</g><g id="191">. </g>The Secretary-General appoints a senior official, who may have already been serving as part of a UN good offices capacity, to head the operation.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[256]"><source><g id="192">Planning</g><g id="193">. </g>In the meantime, planning for political, military, operational and support (i.e., logistics and administration) aspects of the peacekeeping operation is ongoing, with the SRSG (or other senior official) and DPKO in the lead. The planning phase usually involves the establishment of a Headquarters-based joint working group or integrated mission task force (IMTF), with participation of all relevant UN departments, funds and programmes.</source>
-        <target><g id="192">Planning</g><g id="193">. </g>In the meantime, planning for political, military, operational and support (i.e., logistics and administration) aspects of the peacekeeping operation is ongoing, with the SRSG (or other senior official) and DPKO in the lead. The planning phase usually involves the establishment of a Headquarters-based joint working group or integrated mission task force (IMTF), with participation of all relevant UN departments, funds and programmes.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]/text:span[2]"><source>Member States are asked to contribute military troops and civilian police, if required, as well as supplies, equipment, transportation and logistical support.</source>
-        <target>Member States are asked to contribute military troops and civilian police, if required, as well as supplies, equipment, transportation and logistical support.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[260]"><source><g id="194">Deployment</g><g id="195">. </g>Deployment proceeds as quickly as possible, taking into account the security and political conditions on the ground, often starting with an advance team to establish mission headquarters and leading to a gradual build-up to encompass all components and regions, as required by the mandate.</source>
-        <target><g id="194">Deployment</g><g id="195">. </g>Deployment proceeds as quickly as possible, taking into account the security and political conditions on the ground, often starting with an advance team to establish mission headquarters and leading to a gradual build-up to encompass all components and regions, as required by the mandate.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[0]"><source>Reporting by the Secretary-General</source>
-        <target>Reporting by the Secretary-General</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/text:span[0]" approved="yes"><source>Reporting by the Secretary-General</source>
+        <target>အတွင်းရေးမှူးချုပ်ထံမှအစီရင်ခံစာ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[1]"><source>. </source>
-        <target>. </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[1]" approved="yes"><source>. </source>
+        <target>။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[2]"><source>The Security Council renews and adjusts the mission’s mandate, as required, until the mission is completed or closed.</source>
-        <target>The Security Council renews and adjusts the mission’s mandate, as required, until the mission is completed or closed.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Victim</source>
         <target>Victim</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[267]"><source>To date, hundreds of thousands of personnel, the vast majority of them soldiers, have served in 56 UN peacekeeping operations. Military and civilian police personnel in peacekeeping operations remain members of their own national establishments but serve under the operational control of the UN and are expected to conduct themselves exclusively in accordance with the international character of their mission. They wear their national uniforms, but also wear blue berets or helmets and the UN insignia.</source>
-        <target>To date, hundreds of thousands of personnel, the vast majority of them soldiers, have served in 56 UN peacekeeping operations. Military and civilian police personnel in peacekeeping operations remain members of their own national establishments but serve under the operational control of the UN and are expected to conduct themselves exclusively in accordance with the international character of their mission. They wear their national uniforms, but also wear blue berets or helmets and the UN insignia.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[268]"><source>Civilian staff serving in peacekeeping operations include personnel drawn from within the UN system (including the United Nations Volunteers), loaned by Member States, or recruited internationally or locally to fill specific jobs.</source>
-        <target>Civilian staff serving in peacekeeping operations include personnel drawn from within the UN system (including the United Nations Volunteers), loaned by Member States, or recruited internationally or locally to fill specific jobs.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Destruction of stockpiled APMs;</source>
         <target>Destruction of stockpiled APMs;</target>
@@ -1041,25 +1019,23 @@
         <target>understood;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[270]"><source>International civilian personnel with specialized areas of expertise are indispensable to the successful implementation of peacekeeping mandates. At the same time, the UN places great priority on the development of local capacities. The “light footprint” approach—a term that was coined during the planning of UNAMA—advocates that UN activities should be limited to those that are appropriate to the local needs and context, and that international staff should be limited to the minimum required, with an effort to ensure local capacity-building, so that nationals can take over from the UN as soon as possible.</source>
-        <target>International civilian personnel with specialized areas of expertise are indispensable to the successful implementation of peacekeeping mandates. At the same time, the UN places great priority on the development of local capacities. The “light footprint” approach—a term that was coined during the planning of UNAMA—advocates that UN activities should be limited to those that are appropriate to the local needs and context, and that international staff should be limited to the minimum required, with an effort to ensure local capacity-building, so that nationals can take over from the UN as soon as possible.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[272]"><source>The lead time required to deploy a mission varies and depends on a number of factors, particularly the will of Member States to contribute troops to a particular operation and the timely availability of financial and other resources. In 1973, for example, elements of the second United Nations Emergency Force (UNEF II) were deployed in the Middle East within 24 hours. For missions with highly complex mandates or difficult logistics, however, or where peacekeepers face significant security risks, it may take several weeks to assemble and deploy the necessary elements. DPKO is using a number of mechanisms to build its capacity to deploy missions rapidly by:</source>
-        <target>The lead time required to deploy a mission varies and depends on a number of factors, particularly the will of Member States to contribute troops to a particular operation and the timely availability of financial and other resources. In 1973, for example, elements of the second United Nations Emergency Force (UNEF II) were deployed in the Middle East within 24 hours. For missions with highly complex mandates or difficult logistics, however, or where peacekeepers face significant security risks, it may take several weeks to assemble and deploy the necessary elements. DPKO is using a number of mechanisms to build its capacity to deploy missions rapidly by:</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[0]"><source>Establishing United Nations Stand-by Arrangements System (UNSAS) </source>
-        <target>Establishing United Nations Stand-by Arrangements System (UNSAS) </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Establishing United Nations Stand-by Arrangements System (UNSAS) </source>
+        <target>ကုလသမဂ္ဂ အရံသင့်အစီအစဥ်စနစ်တည်ဆောက်ခြင်း (UNSAS) </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[0]"><source>Maintaining strategic deployment stocks (SDS) at the UN logistics base </source>
-        <target>Maintaining strategic deployment stocks (SDS) at the UN logistics base </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Maintaining strategic deployment stocks (SDS) at the UN logistics base </source>
+        <target>UN ထောက်ပို့အခြေစိုက်စခန်းတွင် ဗျူဟာကျ ဖြန့်ကျပ်ရေးကုန်ကြမ်းများသိုလှောင်ခြင်း (SDS) </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[1]"><source>in </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>in </source>
         <target>တွင် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]/text:span[1]"><source>in </source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>in </source>
         <target>တွင် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[1]"><source>a </source>
-        <target>a </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>a </source>
+        <target>တစ်ခု </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]"><source>community;</source>
         <target>community;</target>
@@ -1068,10 +1044,8 @@
         <target>Implement a communications strategy that actively supports the peacekeeping operation’s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[279]"><source>All Member States share the costs of UN peacekeeping operations. The General Assembly apportions these expenses based on a special scale of assessments applicable <g id="196">to </g>peacekeeping. This scale takes into account the relative economic wealth of Member States but the five permanent members of the Security Council are required to pay a larger share because of their special responsibility for the maintenance of international peace and security. Over the past decade, the cost of peacekeeping has ranged from an</source>
-        <target>All Member States share the costs of UN peacekeeping operations. The General Assembly apportions these expenses based on a special scale of assessments applicable <g id="196">to </g>peacekeeping. This scale takes into account the relative economic wealth of Member States but the five permanent members of the Security Council are required to pay a larger share because of their special responsibility for the maintenance of international peace and security. Over the past decade, the cost of peacekeeping has ranged from an</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[282]"><source>In response to a request from the Secretary-General, Member States may volunteer soldiers, military observers, civilian police, equipment, supplies or other support for a</source>
-        <target>In response to a request from the Secretary-General, Member States may volunteer soldiers, military observers, civilian police, equipment, supplies or other support for a</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Advance the peace process through the creation of timely and relevant information products;</source>
         <target>Advance the peace process through the creation of timely and relevant information products;</target>
@@ -1083,19 +1057,16 @@
         <target>Defend and protect the peacekeeping operation from unjustified criticism and misinformation;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[286]"><source>In August 2000, the Secretary-General published an externally commissioned report on enhancing the effectiveness of UN peace operations. The panel, chaired by Lakhdar Brahimi, former Foreign Minister of Algeria, issued its report (commonly referred to as the <g id="197">Brahimi Report</g>) in August 2000.</source>
-        <target>In August 2000, the Secretary-General published an externally commissioned report on enhancing the effectiveness of UN peace operations. The panel, chaired by Lakhdar Brahimi, former Foreign Minister of Algeria, issued its report (commonly referred to as the <g id="197">Brahimi Report</g>) in August 2000.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[288]"><source>The <g id="198">Brahimi Report </g>contained 57 explicit recommendations to the Secretary-General, the Security Council, the General Assembly and Member States in general. The report focused attention on strategic, political and basic operational matters. Many peacekeeping reforms have been instituted as a result of the dialogue that ensued following the report’s issuance and continued implementation of its recommendations remains a very high priority for DPKO and the Secretariat in general.</source>
-        <target>The <g id="198">Brahimi Report </g>contained 57 explicit recommendations to the Secretary-General, the Security Council, the General Assembly and Member States in general. The report focused attention on strategic, political and basic operational matters. Many peacekeeping reforms have been instituted as a result of the dialogue that ensued following the report’s issuance and continued implementation of its recommendations remains a very high priority for DPKO and the Secretariat in general.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[290]"><source>The main recommendations of the report can be summarized as follows:</source>
-        <target state="translated">အစီရင်ခံစာ၏ အဓိကအကြံပြုချက်များအား အောက်ပါအတိုင်း အတိုချုပ်နိုင်ပါသည်:</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[290]" approved="yes"><source>The main recommendations of the report can be summarized as follows:</source>
+        <target state="final">အစီရင်ခံစာ၏ အဓိကအကြံပြုချက်များအား အောက်ပါအတိုင်း အတိုချုပ်နိုင်ပါသည်:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>staff;</source>
         <target>staff;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]/text:span[0]"><source>The international community must ensure that peacekeeping is an appropriate option, given the nature of the conflict.</source>
-        <target>The international community must ensure that peacekeeping is an appropriate option, given the nature of the conflict.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1112]"><source><g id="342">World Bank. </g>The World Bank views mine contamination as a development problem with long-term consequences that requires long-term solutions.</source>
         <target><g id="342">World Bank. </g>The World Bank views mine contamination as a development problem with long-term consequences that requires long-term solutions.</target>
@@ -1104,13 +1075,11 @@
         <target>Rapid</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]/text:span[0]"><source>There must be a peace to keep. The parties to a conflict must be willing to cease fighting and pursue their objectives through political and other non-violent</source>
-        <target>There must be a peace to keep. The parties to a conflict must be willing to cease fighting and pursue their objectives through political and other non-violent</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2279]/text:span[2]"><source>occur when:</source>
         <target>occur when:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[0]"><source>All key parties to a conflict must agree to the UN’s involvement and its role </source>
-        <target state="translated">All key parties to a conflict must agree to the UN’s involvement and its role </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[0]"><source>United Nations Volunteers</source>
         <target>United Nations Volunteers</target>
@@ -1119,10 +1088,9 @@
         <target>(UNV);</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[0]"><source>The peacekeeping operation must be part of a more comprehensive strategy to help resolve a conflict. This often includes political, economic, developmental, institution-building, humanitarian and human rights elements, which must </source>
-        <target>The peacekeeping operation must be part of a more comprehensive strategy to help resolve a conflict. This often includes political, economic, developmental, institution-building, humanitarian and human rights elements, which must </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[2]"><source>other parts of the UN system—both UN bodies and Member States—and other international organizations.</source>
-        <target>other parts of the UN system—both UN bodies and Member States—and other international organizations.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>other parts of the UN system—both UN bodies and Member States—and other international organizations.</source>
+        <target>အခြားကုလစနစ်အစိတ်ပိုင်းများ - ကုလ အတွင်းဖွဲ့များနှင့် အဖွဲ့၀င်နိုင်ငံများ - နှင့်အခြားနိုင်ငံတကာအဖွဲ့အစည်းများ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:span[0]"><source>The comprehensive strategy must take into account the regional dimension to ensure that gains made in addressing the problems that contributed to a </source>
         <target>The comprehensive strategy must take into account the regional dimension to ensure that gains made in addressing the problems that contributed to a </target>
