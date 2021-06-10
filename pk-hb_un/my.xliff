@@ -359,8 +359,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[2]"><source>disarm, demobilize and reintegrate combatants.</source>
         <target>disarm, demobilize and reintegrate combatants.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]" approved="yes"><source>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</source>
-        <target>ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များအတွက်၎င်းတို့၏လုပ်ဆောင်မှုများ‌အပေါ်မူတည်သည်(ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်များ)ဟုလဲခေါ််ဆိုနိုင်သည်:</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]" approved="no"><source>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</source>
+        <target>ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များအတွက်၎င်းတို့၏လုပ်ဆောင်မှုများ‌အပေါ်မူတည်သည်(ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်များ)ဟုလည်း ခေါ်ဆိုနိုင်သည်:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[92]/text:span[0]"><source>The Legal Framework</source>
         <target>The Legal Framework</target>
