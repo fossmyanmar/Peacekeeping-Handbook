@@ -50,11 +50,11 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/text:span[0]" approved="yes"><source>Any comments or questions concerning this publication may be addressed to: Peacekeeping Best Practices Unit</source>
         <target state="final">ဤထုတ်ဝေမှုနှင့် ပတ်သက်သောမှတ်ချက်များ သို့မဟုတ် မေးခွန်းများကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]" approved="no"><source>E-mail: </source>
-        <target state="translated">အီးမေးလ်: </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]" approved="yes"><source>E-mail: </source>
+        <target state="final">အီးမေးလ်: </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:a[0]/text:span[0]" approved="no"><source>DPKO-Handbook@un.org</source>
-        <target state="needs-translation">DPKO-Handbook@un.org</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:a[0]/text:span[0]" approved="yes"><source>DPKO-Handbook@un.org</source>
+        <target state="final">DPKO-Handbook@un.org</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[1]" approved="yes"><source>ONTENTS</source>
         <target state="final">CONTENTS</target>
@@ -185,23 +185,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="no"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
         <target>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]" approved="no"><source>CMIC<g id="33"/>civil-military coordination cell</source>
-        <target state="translated">CMIC<g id="33"/>civil-military coordination cell</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]" approved="yes"><source>CMIC<g id="33"/>civil-military coordination cell</source>
+        <target state="final">CMIC<g id="33"/>အရပ်ဖက်စစ်ရေးညှိနှိုင်းရေးအဖွဲ့အစည်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]" approved="no"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
-        <target>CPR<g id="35"/>conflict prevention and reconstruction</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]" approved="yes"><source>CPR<g id="35"/>conflict prevention and reconstruction</source>
+        <target>CPR<g id="35"/>ပဋိပက္ခကာကွယ်တားဆီးရေးနှင့်ပြန်လည်တည်ဆောက်ရေး</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]" approved="no"><source>CRC<g id="36"/>Convention on the Rights of the Child</source>
-        <target state="translated">CRC<g id="36"/>Convention on the Rights of the Child</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]" approved="yes"><source>CRC<g id="36"/>Convention on the Rights of the Child</source>
+        <target state="final">CRC<g id="36"/>ကလေးသူငယ်ဆိုင်ရာအခွင့်အရေးသဘောတူညီချက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]" approved="no"><source>DDA<g id="37"/>Department for Disarmament Affairs</source>
-        <target>DDA<g id="37"/>Department for Disarmament Affairs</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]" approved="yes"><source>DDA<g id="37"/>Department for Disarmament Affairs</source>
+        <target>DDA<g id="37"/>လက်နက်ဖျက်သိမ်းရေးဌာန</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]" approved="yes"><source>DDR<g id="38"/>disarmament, demobilization and reintegration</source>
         <target>DDR<g id="38"/>disarmament, demobilization and reintegration</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]" approved="no"><source>DPI<g id="42"/>Department of Public Information</source>
-        <target state="translated">DPI<g id="42"/>Department of Public Information</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]" approved="yes"><source>DPI<g id="42"/>Department of Public Information</source>
+        <target state="final">DPI<g id="42"/>အများပြည်သူဆိုင်ရာသတင်းအချက်အလက်ဌာန</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]" approved="yes"><source>DRC<g id="44"/>Democratic Republic of the Congo</source>
         <target>DRC<g id="44"/>Democratic Republic of the Congo</target>
@@ -215,8 +215,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]" approved="yes"><source>ECHA<g id="49"/>Executive Committee on Humanitarian Affairs</source>
         <target>ECHA<g id="49"/>လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာ အလုပ်အမှုဆောင်ကော်မတီ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]" approved="no"><source>EOD<g id="51"/>explosive ordnance disposal</source>
-        <target state="needs-translation">EOD<g id="51"/>ဗုံးဆံရှင်းလင်းရေး၏အတိုကောက်စကားလုံး</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]" approved="yes"><source>EOD<g id="51"/>explosive ordnance disposal</source>
+        <target state="final">EOD<g id="51"/>ပေါက်ကွဲစေတတ်သောလက်နက်များစွန့်ပစ်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]" approved="yes"><source>EU<g id="53"/>European Union</source>
         <target>EU<g id="53"/>ဥရောပသမဂ္ဂ</target>
@@ -359,23 +359,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[2]"><source>disarm, demobilize and reintegrate combatants.</source>
         <target>disarm, demobilize and reintegrate combatants.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]"><source>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</source>
-        <target>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]" approved="yes"><source>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</source>
+        <target>ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များအတွက်၎င်းတို့၏လုပ်ဆောင်မှုများ‌အပေါ်မူတည်သည်(ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်များ)ဟုလဲခေါ််ဆိုနိုင်သည်:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[92]/text:span[0]"><source>The Legal Framework</source>
         <target>The Legal Framework</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]/text:span[0]"><source>Provide a secure environment encouraging a return to normal civilian life;</source>
-        <target>Provide a secure environment encouraging a return to normal civilian life;</target>
+        <target>သာမန်အရပ်သားဘဝကိုပြန်လည်ရောက်ရှိစေရန်လုံခြုံသောပတ်ဝန်းကျင်တစ်ခုပေးရန်;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Lead states or territories through a transition to stable government based </source>
-        <target>Lead states or territories through a transition to stable government based </target>
+        <target>တည်ငြိမ်သောအစိုးရကိုအခြေခံ၍ဦးဆောင်သောပြည်နယ်များနှင့်နယ်မြေများသို့အသွင်ကူးပြောင်းခြင်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
-        <target>on </target>
+        <target state="needs-translation">နေထိုင်ခြင်း,ချက်ခြင်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]" approved="no"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
-        <target state="translated">This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</target>
+        <target state="translated">ဤစာအုပ်သည် Universal မူပိုင်ခွင့်ဆိုင်ရာသဘောတူစာချုပ်၏ပရိုတိုကော (၂) အရမူပိုင်ခွင့်ရှိသည်။ မည်သို့ပင်ဆိုစေကာမူ၊ အသင်း ၀င်နိုင်ငံများ၏အစိုးရအာဏာပိုင်များသည်ဤစာစောင်၏မည်သည့်အစိတ်အပိုင်းကိုမဆို၎င်းတို့၏သင်တန်းကျောင်းများအတွင်းသီးသန့်အသုံးပြုရန်အတွက်ကူးယူနိုင်သည်။ သို့ရာတွင်၊ ဤပုံနှိပ်ထုတ်ဝေမှု၏မည်သည့်အပိုင်းကိုမျှငြိမ်းချမ်းရေးအတွက်ထိန်းသိမ်းခြင်းအကောင်းဆုံးအလေ့အကျင့်ယူနစ် / ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုစစ်ဆင်ရေးဌာန၏ခွင့်ပြုချက်ဖြင့်ရေးသားထားသောခွင့်ပြုချက်မရပဲရောင်းချခြင်းသို့မဟုတ်အစုလိုက်အပြုံလိုက်ထုတ်ဝေခြင်းများမပြုလုပ်ရပါ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[180]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
         <target>and </target>
@@ -387,28 +387,28 @@
         <target>the </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[2]"><source>functions that are normally the responsibility of a government.</source>
-        <target>functions that are normally the responsibility of a government.</target>
+        <target>ပုံမှန်အားဖြင့်အစိုးရ၏တာဝန်ဖြစ်ကြောင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:span[0]" approved="yes"><source>New York, NY 10017 USA Fax: 1-917-367-5365</source>
         <target>နယူးယောက်၊ NY ၁၀၀၁၇ USA ဖက်စ်: ၁-၉၁၇-၃၆၇-၅၃၆၅</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[0]" approved="no"><source>C</source>
-        <target state="needs-translation">C</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:span[0]" approved="yes"><source>C</source>
+        <target state="final">C</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]" approved="yes"><source>Introduction</source>
         <target>မိတ်ဆက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[1]"><source>of </source>
-        <target>of </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>of </source>
+        <target>၏ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]/text:span[0]"><source>Supervising and conducting elections;</source>
-        <target>Supervising and conducting elections;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Supervising and conducting elections;</source>
+        <target>ရွေးကောက်ပွဲများကိုကြီးကြပ်ကွပ်ကဲခြင်း;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
-        <target>and </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>and </source>
+        <target>နှင့် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[2]"><source>training of civilian police;</source>
-        <target>training of civilian police;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>training of civilian police;</source>
+        <target>အရပ်ဘက်ရဲသင်တန်း;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assisting with post-conflict recovery and rehabilitation; and</source>
         <target>Assisting with post-conflict recovery and rehabilitation; and</target>
@@ -470,8 +470,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[13]/table:table-cell[1]/text:p[0]" approved="yes"><source>Security and Safety of Staff</source>
         <target state="final">၀န်ထမ်းလုံခြုံရေးနှင့် အကာအကွယ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[1]/text:p[0]" approved="no"><source>Refugees and Internally Displaced Persons</source>
-        <target state="needs-translation">ဒုက္ခသည်များနှင့်ပြည်တွင်းရွှေ့ပြောင်းဒုက္ခသည်များ</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[1]/text:p[0]" approved="yes"><source>Refugees and Internally Displaced Persons</source>
+        <target state="final">ဒုက္ခသည်များနှင့်ပြည်တွင်းရွှေ့ပြောင်းဒုက္ခသည်များ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[16]/table:table-cell[2]/text:p[0]" approved="yes"><source>169</source>
         <target>၁၆၉</target>
@@ -632,8 +632,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]" approved="yes"><source>We hope to update the electronic version of the Handbook periodically and look forward to receiving your comments and questions.</source>
         <target state="final">ကျွန်ုပ်တို့က ဤလက်စွဲစာအုပ်၏ အီလက်ထရွန်းနစ်ဗားရှင်းကို ပုံမှန်ပြင်ဆင်သွားရန်မျှော်လင့်ထားပြီး၊ သုံးသပ်ချက်နှင့် မေးခွန်းများကိုလက်ခံရရှိရန်လည်း မျှော်လင့်မိပါသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]" approved="no"><source>Under-Secretary-General for Peacekeeping Operations</source>
-        <target state="translated">ငြိမ်းချမ်းမှုထိန်းသိမ်းရေးလုပ်ငန်းစဥ်များအတွက် အတွင်းရေးမှုးချုပ်လက်အောက်တွင်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]" approved="yes"><source>Under-Secretary-General for Peacekeeping Operations</source>
+        <target state="final">အတွင်းရေးမှုးချုပ်လက်အောက်တွင်ရှိသောငြိမ်းချမ်းမှုထိန်းသိမ်းရေးလုပ်ငန်းစဥ်များအတွက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]" approved="yes"><source>ACABQ<g id="17"/>Advisory Committee on Administrative and Budgetary Questions</source>
         <target>ACABQ<g id="17"/>အုပ်ချုပ်ရေးနှင့်ဘတ်ဂျက်ဆိုင်ရာမေးခွန်းများအတွက် အကြံပေးကော်မတီ</target>
@@ -659,14 +659,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]" approved="no"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
         <target>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]" approved="no"><source>CG<g id="32"/>consultative group</source>
-        <target>CG<g id="32"/>consultative group</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]" approved="yes"><source>CG<g id="32"/>consultative group</source>
+        <target>CG<g id="32"/>အတိုင်ပင်ခံအဖွဲ့</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]" approved="no"><source>CPIA<g id="34"/>country policy and institutional assessment</source>
-        <target>CPIA<g id="34"/>country policy and institutional assessment</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]" approved="yes"><source>CPIA<g id="34"/>country policy and institutional assessment</source>
+        <target>CPIA<g id="34"/>တိုင်း‌ပြည်ရေးရာမူဝါဒနှင့်အဖွဲ့အစည်းဆိုင်ရာအကဲဖြတ်မှတ်တမ်း</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]" approved="no"><source>DM<g id="39"/>Department of Management</source>
-        <target>DM<g id="39"/>Department of Management</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]" approved="yes"><source>DM<g id="39"/>Department of Management</source>
+        <target>DM<g id="39"/>စီမံခန့်ခွဲမှုဌာန</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]" approved="yes"><source>DOA<g id="40"/>director of administration</source>
         <target state="final">DOA<g id="40"/>director of administration</target>
@@ -674,8 +674,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]" approved="yes"><source>DPA<g id="41"/>Department of Political Affairs</source>
         <target>DPA<g id="41"/>Department of Political Affairs</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]" approved="no"><source>DPKO<g id="43"/>Department of Peacekeeping Operations</source>
-        <target state="translated">DPKO<g id="43"/>Department of Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]" approved="yes"><source>DPKO<g id="43"/>Department of Peacekeeping Operations</source>
+        <target state="final">DPKO<g id="43"/>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်စဥ်ဌာန</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]" approved="yes"><source>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</source>
         <target>DSRSG<g id="45"/>Deputy Special Representative of the Secretary-General EAD<g id="46"/>Electoral Assistance Division</target>
@@ -824,8 +824,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:span[0]" approved="yes"><source>INTRODUCTION</source>
         <target>မိတ်ဆက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:span[0]" approved="no"><source>The Need for Peacekeeping</source>
-        <target>The Need for Peacekeeping</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:span[0]" approved="yes"><source>The Need for Peacekeeping</source>
+        <target>ငြိမ်း‌ချမ်းရေးထိန်းသိမ်းမှုအတွက်လိုအပ်ချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[211]" approved="yes"><source>The United Nations (UN) was established on 24 October 1945 in the aftermath of two World Wars and was dedicated, in the enduring words of the UN Charter, to saving “succeeding generations from the scourge of war.” Since its creation, the UN has been called upon to prevent disputes from escalating into war, to persuade opposing parties to use the conference table rather than the force of arms and to help restore peace when conflict breaks out. Over the decades, the UN has helped to contain or end numerous conflicts, in many cases through the deployment of peacekeeping operations.</source>
         <target>ကမ္ဘာ့စစ်ပွဲနှစ်ခုပြီးနောက်၁၉၄၅၊အောက်တိုဘာ၂၄ရက်နေ့တွင်ကုလသမဂ္ဂကိုတည်ထောင်ခဲ့ပြီးကုလသမဂ္ဂပဋိညာဉ်စာတမ်း၏တည်မြဲသောစကားများဖြင့်“နောင်မျိုးဆက်များအားစစ်ပွဲများ၏ဘေးဆိုးမှလွတ်မြောက်ရန်”ရည်ရွယ်ခဲ့သည်။ဖွဲ့စည်းပြီးကတည်းကကုလသမဂ္ဂသည်အငြင်းပွားမှုများမှစစ်သို့ဦးတည်မသွားစေရန်အတွက်ဆီးရန်၊အတိုက်အခံအင်အားစုများအားလက်နက်ကိုင်ခြင်းထက်ဆွေးနွေးညှိနှိုင်းခြင်းနည်းကိုအသုံးပြုရန်နှင့်ပဋိပက္ခများဖြစ်ပွားသည့်အခါငြိမ်းချမ်းရေးကိုပြန်လည်တည်ဆောက်ရန်တိုက်တွန်းခဲ့သည်။ဆယ်စုနှစ်များစွာအတွင်းကုလသမဂ္ဂသည်ငြိမ်းချမ်းရေးလုပ်ငန်းစဉ်များဖြန့်ကျက်ခြင်းအားဖြင့်ပဋိပက္ခများစွာကိုထိန်းချုပ်ရန်သို့မဟုတ်အဆုံးသတ်ရန်ကူညီခဲ့သည်။</target>
@@ -846,22 +846,22 @@
         <target><g id="216">Head of Mission. </g>As Head of Mission, the SRSG is responsible for managing the mission and its results, including the security and safety of personnel, discipline and morale and the effective management of resources. The SRSG provides direction and guidance to each component and ensures that activities are undertaken in an integrated manner. The SRSG initiates the development of a mandate implementation plan in close consultation with the senior management team of the mission.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[217]"><source>These realities have, particularly since the late 1980s, led to an evolution in the structure of peacekeeping missions. A large number of peacekeeping operations are still based on the “traditional” model of a military operation deployed in support of a political activity. These operations involve military tasks such as monitoring ceasefires and patrolling buffer zones between hostile parties and are carried out by UN peacekeepers who may or may not be armed and who are widely known as "blue helmets" or "blue berets" because of their distinctive headgear. Although past military observer missions have also included non-military tasks, a growing number of UN peacekeeping operations have become multidimensional, composed of a range of components including military, civilian police, political, civil affairs, rule of law, human rights, humanitarian, reconstruction, public information and gender. Some of these operations do not have a military component but carry out their mandates alongside a regional or multinational peacekeeping force.</source>
-        <target>These realities have, particularly since the late 1980s, led to an evolution in the structure of peacekeeping missions. A large number of peacekeeping operations are still based on the “traditional” model of a military operation deployed in support of a political activity. These operations involve military tasks such as monitoring ceasefires and patrolling buffer zones between hostile parties and are carried out by UN peacekeepers who may or may not be armed and who are widely known as "blue helmets" or "blue berets" because of their distinctive headgear. Although past military observer missions have also included non-military tasks, a growing number of UN peacekeeping operations have become multidimensional, composed of a range of components including military, civilian police, political, civil affairs, rule of law, human rights, humanitarian, reconstruction, public information and gender. Some of these operations do not have a military component but carry out their mandates alongside a regional or multinational peacekeeping force.</target>
+        <target>ဤဖြစ်ရပ်မှန်များသည်အထူးသဖြင့် ၁၉၈၀ နှောင်းပိုင်းနှစ်များ မှစ၍ ငြိမ်းချမ်းရေးထိန်းသိမ်းရေးမစ်ရှင်များ၏ဖွဲ့စည်းတည်ဆောက်ပုံကိုပြောင်းလဲစေခဲ့သည်။ များသောအားဖြင့်ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများသည်နိုင်ငံရေးလှုပ်ရှားမှုအားအထောက်အပံ့ပေးသည့်စစ်ဆင်ရေး၏“ ရိုးရာ” ပုံစံကိုအခြေခံထားဆဲဖြစ်သည်။ ဤစစ်ဆင်ရေးများတွင်အပစ်အခတ်ရပ်စဲရေးစောင့်ကြည့်ခြင်းနှင့်ရန်လိုသောပါတီများအကြားကြားခံနယ်မြေများကိုကင်းလှည့်ခြင်းကဲ့သို့သောစစ်ရေးဆိုင်ရာတာ၀န်များပါ ၀င်သည်။ ကုလသမဂ္ဂငြိမ်းချမ်းမှုထိန်းသိမ်းရေးတပ်ဖွဲ့များကလက်နက်ကိုင်နိုင်သည်။ ။ ယခင်စစ်ရေးလေ့လာသူများတွင်စစ်ရေးနှင့်မသက်ဆိုင်သောလုပ်ငန်းတာဝန်များပါ ၀င်သော်လည်းကုလသမဂ္ဂ၏ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများသည်စစ်တပ်၊ အရပ်ဖက်ရဲတပ်ဖွဲ့၊ ပြည်တွင်းရေးများ၊ အရပ်ဘက်ရေးရာ၊ တရားဥပဒေစိုးမိုးရေး၊ လူ့အခွင့်အရေး၊ ပြန်လည်တည်ဆောက်ရေး, အများပြည်သူဆိုင်ရာသတင်းအချက်အလက်နှင့်ကျားမ။ အချို့သောစစ်ဆင်ရေးများတွင်စစ်ရေးအရပါ ၀င်မှုမရှိသော်လည်းဒေသတွင်းသို့မဟုတ်နိုင်ငံစုံငြိမ်းချမ်းရေးထိန်းသိမ်းရေးတပ်ဖွဲ့များနှင့်အတူ၎င်းတို့၏လုပ်ပိုင်ခွင့်များကိုကျင့်သုံးသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assist in implementing a comprehensive peace agreement;</source>
-        <target>Assist in implementing a comprehensive peace agreement;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Assist in implementing a comprehensive peace agreement;</source>
+        <target>ပြည့်စုံသောငြိမ်းချမ်းရေးသဘောတူညီချက်ရရှိအောင်‌အကောင်အထည်ဖော်ဆောင်ရွက်ခြင်း;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Monitor a ceasefire or cessation of hostilities to allow space for political negotiations and a peaceful settlement of disputes;</source>
-        <target>Monitor a ceasefire or cessation of hostilities to allow space for political negotiations and a peaceful settlement of disputes;</target>
+        <target>အပစ်ခတ်ရပ်စဲရေးနှင့်ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်အတွက်လေ့လာစောင့်ကြည့်ရန်နှင့်အငြင်းပွားမှု့များအတွက်ငြိမ်းချမ်းစွာအဖြေရှာရန်;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Prevent the outbreak or spillover of conflict across borders;</source>
-        <target>Prevent the outbreak or spillover of conflict across borders;</target>
+        <target>နယ်စပ်ဖြတ်တစ်လျှောက်တွင်ပဋိပက္ခဖြစ်ပွားခြင်းမှကာကွယ်ခြင်း;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>democratic principles, good governance and economic development; and</source>
-        <target>democratic principles, good governance and economic development; and</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>democratic principles, good governance and economic development; and</source>
+        <target>ဒီမိုကရေစီအခြေခံမူများ၊ ကောင်းမွန်သောအုပ်ချုပ်မှုနှင့်စီးပွားရေးဖွံ့ဖြိုးတိုးတက်မှု၊ နှင့်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[0]"><source>Administer a territory for a transitional period, thereby carrying out all </source>
-        <target>Administer a territory for a transitional period, thereby carrying out all </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Administer a territory for a transitional period, thereby carrying out all </source>
+        <target>နယ်မြေတစ်ခုကိုအသွင်ကူးပြောင်းရေးကာလအတွက်စီမံခန့်ခွဲပါ,အားလုံးပါဝင်လာအောင်ဆောင်ရွက်ပါ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1487]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Human Rights Activities in Sierra Leone</source>
         <target>Human Rights Activities in Sierra Leone</target>
@@ -872,26 +872,26 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[0]"><source>Helping former opponents implement complex peace agreements by liaising </source>
         <target>Helping former opponents implement complex peace agreements by liaising </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[1]"><source>with </source>
-        <target>with </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>with </source>
+        <target>နှင့်အတူ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[2]"><source>a range of political and civil society actors;</source>
-        <target>a range of political and civil society actors;</target>
+        <target>နိုင်ငံရေးနှင့်အရပ်ဖက်အဖွဲ့အစည်းများ၏လုပ်ဆောင်ချက်များ;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[0]"><source>Supporting the delivery of humanitarian assistance;</source>
-        <target>Supporting the delivery of humanitarian assistance;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Supporting the delivery of humanitarian assistance;</source>
+        <target>လူသားချင်းစာနာမှု အထောက်အပံ့အကူအညီများပေးအပ်ခြင်း;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assisting with the disarmament, demobilization and reintegration (DDR) </source>
-        <target>Assisting with the disarmament, demobilization and reintegration (DDR) </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Assisting with the disarmament, demobilization and reintegration (DDR) </source>
+        <target>လက်နက်ဖျက်သိမ်းခြင်း၊ တပ်ဖျက်သိမ်းခြင်းနှင့်ပြန်လည်ပေါင်းစည်းခြင်းနှင့်အတူကူညီခြင်း(DDR) </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:span[2]"><source>former combatants;</source>
         <target>former combatants;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[0]"><source>Strengthening the rule of law, including assistance with judicial reform </source>
-        <target>Strengthening the rule of law, including assistance with judicial reform </target>
+        <target>တရားစီရင်ရေးပြုပြင်ပြောင်းလဲမှုတွင်အကူအညီအပါအဝင်တရားဥပဒေစိုးမိုးရေးကိုအားဖြည့်ခြင်း </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]/text:span[0]"><source>Promoting respect for human rights and investigating alleged violations;</source>
-        <target>Promoting respect for human rights and investigating alleged violations;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Promoting respect for human rights and investigating alleged violations;</source>
+        <target>လူ့အခွင့်အရေးလေးစားမှုကိုမြှင့်တင်ရန်နှင့်ချိုးဖောက်မှုများအားစုံစမ်းစစ်ဆေးရန်;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]/text:span[0]"><source>Setting up a transitional administration of a territory as it moves </source>
         <target>Setting up a transitional administration of a territory as it moves </target>
