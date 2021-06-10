@@ -48,7 +48,7 @@
         <target>Accountable policing </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/text:span[0]" approved="yes"><source>Any comments or questions concerning this publication may be addressed to: Peacekeeping Best Practices Unit</source>
-        <target state="final">ဤထုတ်ဝေမှုနှင့် ပတ်သက်သောမှတ်ချက်များ သို့မဟုတ် မေးခွန်းများကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါသည်သည်။</target>
+        <target state="final">ဤထုတ်ဝေမှုနှင့် ပတ်သက်သောမှတ်ချက်များ သို့မဟုတ် မေးခွန်းများကို Peacekeeping Best Practices Unit သို့ လိပ်မူနိုင်ပါသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/text:span[0]" approved="no"><source>E-mail: </source>
         <target state="needs-translation">E-mail: </target>
