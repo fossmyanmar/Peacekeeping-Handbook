@@ -372,7 +372,7 @@
         <target>တည်ငြိမ်သောအစိုးရကိုအခြေခံ၍ဦးဆောင်သောပြည်နယ်များနှင့်နယ်မြေများသို့အသွင်ကူးပြောင်းခြင်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
-        <target state="needs-translation">နေထိုင်ခြင်း,ချက်ခြင်း </target>
+        <target state="translated">နေထိုင်ခြင်း,ချက်ခြင်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]" approved="no"><source>This publication enjoys copyright under Protocol 2 of the Universal Copyright Convention. Nevertheless, governmental authorities of Member States may freely photocopy any part of this publication for exclusive use within their training institutes. However, no portion of this publication may be reproduced for sale or mass publication without the express consent, in writing, of the Peacekeeping Best Practices Unit/Department of Peacekeeping Operations.</source>
         <target state="translated">ဤစာအုပ်သည် Universal မူပိုင်ခွင့်ဆိုင်ရာသဘောတူစာချုပ်၏ပရိုတိုကော (၂) အရမူပိုင်ခွင့်ရှိသည်။ မည်သို့ပင်ဆိုစေကာမူ၊ အသင်း ၀င်နိုင်ငံများ၏အစိုးရအာဏာပိုင်များသည်ဤစာစောင်၏မည်သည့်အစိတ်အပိုင်းကိုမဆို၎င်းတို့၏သင်တန်းကျောင်းများအတွင်းသီးသန့်အသုံးပြုရန်အတွက်ကူးယူနိုင်သည်။ သို့ရာတွင်၊ ဤပုံနှိပ်ထုတ်ဝေမှု၏မည်သည့်အပိုင်းကိုမျှငြိမ်းချမ်းရေးအတွက်ထိန်းသိမ်းခြင်းအကောင်းဆုံးအလေ့အကျင့်ယူနစ် / ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုစစ်ဆင်ရေးဌာန၏ခွင့်ပြုချက်ဖြင့်ရေးသားထားသောခွင့်ပြုချက်မရပဲရောင်းချခြင်းသို့မဟုတ်အစုလိုက်အပြုံလိုက်ထုတ်ဝေခြင်းများမပြုလုပ်ရပါ။</target>
@@ -1593,10 +1593,10 @@
         <target>United Nations Truce Supervision Organization</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[3]"><source>Ten Rules: Code of Personal Conduct for Blue Helmets </source>
-        <target>Ten Rules: Code of Personal Conduct for Blue Helmets </target>
+        <target>စည်းကမ်းချက်(၁၀)ချက်။အပြာရောင်သံခမောက်ဆောင်းသူများအတွက် ကိုယ်ရေးကိုယ်တာ ကျင့်ဝတ်စည်းကမ်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[4]"><source>and </source>
-        <target>and </target>
+        <target>နှင့် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[897]/text:span[0]"><source>The very first UN peacekeeping operation was established in the context of the Middle East conflict in 1948. Following the outbreak of hostilities in April 1948, the Security Council called for a ceasefire and established a Truce Commission for Palestine to supervise it. As the situation worsened, the Truce Commission, which consisted of consular representatives of Belgium, France and the U.S., asked the Council to send military observers to assist it in supervising the ceasefire.</source>
         <target>The very first UN peacekeeping operation was established in the context of the Middle East conflict in 1948. Following the outbreak of hostilities in April 1948, the Security Council called for a ceasefire and established a Truce Commission for Palestine to supervise it. As the situation worsened, the Truce Commission, which consisted of consular representatives of Belgium, France and the U.S., asked the Council to send military observers to assist it in supervising the ceasefire.</target>
@@ -1611,10 +1611,10 @@
         <target>territory.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[5]"><source>We are United Nations Peacekeepers </source>
-        <target>We are United Nations Peacekeepers </target>
+        <target>ကျွန်ုပ်တို့သည် ကုလသမဂ္ဂငြိမ်းချမ်းရေးထိန်းသိမ်းသူများ ဖြစ်သည်။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[6]"><source>for standards of conduct for uniformed personnel serving in UN field missions and </source>
-        <target>for standards of conduct for uniformed personnel serving in UN field missions and </target>
+        <target>ကုလသမဂ္ဂကွင်းဆင်းမစ်ရှင်များတွင် ယူနီဖောင်းဝတ် တာဝန်ထမ်းဆောင်သူများအတွက် စံချိန်စံနှုန်းများနှင့် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[914]/text:span[0]"><source>The military element of UNPROFOR deployed in the republic consisted of formed troops and unarmed military observers. Since the border with the FRY had not been definitively delineated, one of the first tasks UNPROFOR military had to undertake was to defuse tense situations arising from unauthorized border crossings and encounters between military patrols from both sides. In 1994, UNPROFOR negotiated a military administrative boundary between the two parties to manage the border-crossing incidents. UNPROFOR also monitored developments inside the country with a view to promoting reconciliation among various political and ethnic groups.</source>
         <target>The military element of UNPROFOR deployed in the republic consisted of formed troops and unarmed military observers. Since the border with the FRY had not been definitively delineated, one of the first tasks UNPROFOR military had to undertake was to defuse tense situations arising from unauthorized border crossings and encounters between military patrols from both sides. In 1994, UNPROFOR negotiated a military administrative boundary between the two parties to manage the border-crossing incidents. UNPROFOR also monitored developments inside the country with a view to promoting reconciliation among various political and ethnic groups.</target>
@@ -1632,7 +1632,7 @@
         <target>recurring—in certain instances, military forces can be deployed before conflict has even broken out to prevent it from occurring or spreading. Preventive deployments also serve as a confidence-building measure and may be purely military or have a combination of military and civilian elements.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[7]"><source>Status, Basic Rights and Duties of UN Staff Members </source>
-        <target>Status, Basic Rights and Duties of UN Staff Members </target>
+        <target>ကုလသမဂ္ဂဝန်ထမ်းများ၏အခြေအနေ၊ အခြေခံအခွင့်အရေးနှင့်တာ၀န်များ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[922]"><source><g id="308">Disarmament, demobilization and reintegration (DDR). </g>If a UN peacekeeping mandate includes the supervision of a DDR programme, the military component will normally be directly involved only in the disarmament phase and partially involved in <g id="309">the </g>demobilization phase. The reintegration task is a civilian function normally undertaken by the national authorities and assisted by the international community, including the peacekeeping operation. The three phases are inter-linked and interdependent, however. Reintegration of former combatants into a viable civilian life has important repercussions for the peace process and can often determine the extent to which even the disarmament and demobilization phases will be successful. Therefore, the DDR process needs to be properly planned as a continuous process and appropriately resourced from the outset.</source>
         <target><g id="308">Disarmament, demobilization and reintegration (DDR). </g>If a UN peacekeeping mandate includes the supervision of a DDR programme, the military component will normally be directly involved only in the disarmament phase and partially involved in <g id="309">the </g>demobilization phase. The reintegration task is a civilian function normally undertaken by the national authorities and assisted by the international community, including the peacekeeping operation. The three phases are inter-linked and interdependent, however. Reintegration of former combatants into a viable civilian life has important repercussions for the peace process and can often determine the extent to which even the disarmament and demobilization phases will be successful. Therefore, the DDR process needs to be properly planned as a continuous process and appropriately resourced from the outset.</target>
@@ -1641,7 +1641,7 @@
         <target><g id="310">Demining. </g>The military component will normally be responsible for mine and explosives clearance for the operational needs of the peacekeeping operation, such as movement and deployment of troops and other personnel, maintenance of supply lines to deployment sites and increased access to all parts of the mission area. The military will normally not undertake demining for strictly humanitarian purposes, such as reclaiming land for agriculture and the return of displaced persons, because these are seen as civilian activities requiring long-term and sustainable solutions implemented by national authorities.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[8]"><source>(ST/SGB/1998/19) for standards applicable to civilian staff.</source>
-        <target>(ST/SGB/1998/19) for standards applicable to civilian staff.</target>
+        <target>(ST/SGB/1998/19) အရပ်ဘက်ဝန်ထမ်းများ လျှောက်ထားရန်စံချိန်စံညွှန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[742]/text:span[0]"><source>Contributing to Free and Fair Elections in Cambodia</source>
         <target>Contributing to Free and Fair Elections in Cambodia</target>
