@@ -173,8 +173,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]" approved="yes"><source>Bank</source>
         <target>ဘဏ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]" approved="no"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target state="translated">APM<g id="19"/>လူသတ်မြေမြှပ်မိုင်းများ</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]" approved="yes"><source>APM<g id="19"/>anti-personnel landmines</source>
+        <target state="final">APM<g id="19"/>လူသတ်မြေမြှပ်မိုင်းများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]" approved="yes"><source>ATM<g id="21"/>anti-tank mine</source>
         <target>ATM<g id="21"/>တင့်ကားဖျက်မိုင်း</target>
@@ -182,7 +182,7 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]" approved="yes"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
         <target>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="no"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="yes"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
         <target>CERD<g id="30"/>လူမျိုးရေးခွဲခြားဆက်ဆံမှုပပျောက်ရေး<g id="31"/>အပြည်ပြည်ဆိုင်ရာသဘောတူညီချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]" approved="yes"><source>CMIC<g id="33"/>civil-military coordination cell</source>
@@ -623,8 +623,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]" approved="yes"><source>ADB<g id="18"/>Asian Development</source>
         <target state="final">ADB<g id="18"/> အာရှဖွံ့ဖြိုးတိုးတက်မှု</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]" approved="no"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
-        <target state="translated">APMBT<g id="20"/>လူသတ်မိုင်းတားဆီးပိတ်ပင်ရေးစာချုပ်</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]" approved="yes"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
+        <target state="final">APMBT<g id="20"/>လူသတ်မိုင်းတားဆီးပိတ်ပင်ရေးစာချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]" approved="yes"><source>CAO<g id="22"/>chief administrative officer</source>
         <target>CAO<g id="22"/>အုပ်ချုပ်ရေးအရာရှိချုပ်</target>
@@ -8268,7 +8268,6 @@
         <target><g id="194">Deployment</g><g id="195">. </g>Deployment proceeds as quickly as possible, taking into account the security and political conditions on the ground, often starting with an advance team to establish mission headquarters and leading to a gradual build-up to encompass all components and regions, as required by the mandate.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[236]"><source>Peacekeeping missions are not the UN’s only presence in conflict zones. Field staff of UN entities, among them the Office of the United Nations High Commissioner for Refugees (UNHCR), the World Food Programme (WFP), the United Nations Children's Fund (UNICEF), the Office for the Coordination of Humanitarian Affairs (OCHA), the United Nations Development Programme (UNDP), and the Office of the United Nations High Commissioner for Human Rights (OHCHR), often work closely with peacekeepers. In addition, peacekeepers have been called upon to support the activities of non- governmental and other organizations engaged in providing humanitarian assistance to victims of conflicts. In many mission areas, a Special Representative of the</source>
-        <target>Peacekeeping missions are not the UN’s only presence in conflict zones. Field staff of UN entities, among them the Office of the United Nations High Commissioner for Refugees (UNHCR), the World Food Programme (WFP), the United Nations Children's Fund (UNICEF), the Office for the Coordination of Humanitarian Affairs (OCHA), the United Nations Development Programme (UNDP), and the Office of the United Nations High Commissioner for Human Rights (OHCHR), often work closely with peacekeepers. In addition, peacekeepers have been called upon to support the activities of non- governmental and other organizations engaged in providing humanitarian assistance to victims of conflicts. In many mission areas, a Special Representative of the</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[242]"><source>Peacekeeping operations are established by the Security Council, which is, under the UN Charter, the organ with “primary responsibility for international peace and security”. In each case, a new mission must be designed and its components assembled to meet the requirements of that particular situation. Since the UN has no army or police force, this requires that the Organization generate troops and civilian police from Member States and recruit international and national civilian staff, as required by the mission’s mandate.</source>
         <target>Peacekeeping operations are established by the Security Council, which is, under the UN Charter, the organ with “primary responsibility for international peace and security”. In each case, a new mission must be designed and its components assembled to meet the requirements of that particular situation. Since the UN has no army or police force, this requires that the Organization generate troops and civilian police from Member States and recruit international and national civilian staff, as required by the mission’s mandate.</target>
