@@ -1416,7 +1416,7 @@
         <target>အခန်း ၁ : အထွေထွေအတွင်းရေးမှူးချုပ်၏ အထူးကိုယ်စားလှယ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:span[0]"><source>Introduction</source>
-        <target>နိဒါန်း</target>
+        <target>Introduction</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[0]"><source>4</source>
         <target>4</target>
@@ -1500,7 +1500,7 @@
         <target>စည်းကမ်းချက်(၁၀)ချက်။အပြာရောင်သံခမောက်ဆောင်းသူများအတွက် ကိုယ်ရေးကိုယ်တာ ကျင့်ဝတ်စည်းကမ်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[4]"><source>and </source>
-        <target>နှင့် </target>
+        <target>and </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[897]/text:span[0]"><source>The very first UN peacekeeping operation was established in the context of the Middle East conflict in 1948. Following the outbreak of hostilities in April 1948, the Security Council called for a ceasefire and established a Truce Commission for Palestine to supervise it. As the situation worsened, the Truce Commission, which consisted of consular representatives of Belgium, France and the U.S., asked the Council to send military observers to assist it in supervising the ceasefire.</source>
         <target>The very first UN peacekeeping operation was established in the context of the Middle East conflict in 1948. Following the outbreak of hostilities in April 1948, the Security Council called for a ceasefire and established a Truce Commission for Palestine to supervise it. As the situation worsened, the Truce Commission, which consisted of consular representatives of Belgium, France and the U.S., asked the Council to send military observers to assist it in supervising the ceasefire.</target>
@@ -1515,7 +1515,7 @@
         <target>territory.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[5]"><source>We are United Nations Peacekeepers </source>
-        <target>ကျွန်ုပ်တို့သည် ကုလသမဂ္ဂငြိမ်းချမ်းရေးထိန်းသိမ်းသူများ ဖြစ်သည်။ </target>
+        <target>We are United Nations Peacekeepers </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[6]"><source>for standards of conduct for uniformed personnel serving in UN field missions and </source>
         <target>ကုလသမဂ္ဂ ကွင်းဆင်းမစ်ရှင်များတွင် ယူနီဖောင်းဝတ် တာဝန်ထမ်းဆောင်သူများအတွက် စံချိန်စံနှုန်းများနှင့် </target>
