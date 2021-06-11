@@ -597,7 +597,7 @@
         <target>where </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]/text:span[1]"><source>is </source>
-        <target>ဖြစ်သည် </target>
+        <target>is </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2303]/text:span[0]"><source>Refugee law. </source>
         <target>Refugee law. </target>
@@ -8263,6 +8263,9 @@
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[260]"><source><g id="194">Deployment</g><g id="195">. </g>Deployment proceeds as quickly as possible, taking into account the security and political conditions on the ground, often starting with an advance team to establish mission headquarters and leading to a gradual build-up to encompass all components and regions, as required by the mandate.</source>
         <target><g id="194">နေရာချထားမှု</g><g id="195">. </g>နေရာချထားမှုလုံခြုံရေးနှင့်နိုင်ငံရေးအခြေအနေများကိုထည့်သွင်းစဉ်းစားကာလုပ်ငန်းစတင်မှုကိုမြန်မြန်ဆန်ဆန်စတင်လုပ်ဆောင်သည်။ မကြာခဏကြိုတင်ပြင်ဆင်ထားသည့်အဖွဲ့နှင့်မစ်ရှင်ဌာနချုပ်ကိုတည်ထောင်ရန်နှင့်လုပ်ထုံးလုပ်နည်းအရလိုအပ်ချက်များအရအစိတ်အပိုင်းများနှင့်ဒေသများကိုလွှမ်းခြုံနိုင်ရန်တဖြည်းဖြည်းတည်ဆောက်မှုကို ဦး တည်သည်။</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[239]"><source>The Department of Peacekeeping Operations (DPKO), which was established as a separate department of the UN Secretariat in 1992, is responsible for planning, managing, deploying, supporting and, on behalf of the Secretary-General, providing executive direction to all UN peacekeeping operations. It also performs similar functions in support of peace and security operations that are predominantly civilian, such as the United Nations Assistance Mission in Afghanistan (UNAMA). DPKO works very closely with the Department of Political Affairs (DPA), which is the focal point in the UN system for conflict prevention, peacemaking and peacebuilding.</source>
+        <target>The Department of Peacekeeping Operations (DPKO), which was established as a separate department of the UN Secretariat in 1992, is responsible for planning, managing, deploying, supporting and, on behalf of the Secretary-General, providing executive direction to all UN peacekeeping operations. It also performs similar functions in support of peace and security operations that are predominantly civilian, such as the United Nations Assistance Mission in Afghanistan (UNAMA). DPKO works very closely with the Department of Political Affairs (DPA), which is the focal point in the UN system for conflict prevention, peacemaking and peacebuilding.</target>
       </trans-unit>
     </body>
   </file>
