@@ -173,8 +173,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[2]" approved="yes"><source>Bank</source>
         <target>ဘဏ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]" approved="yes"><source>APM<g id="19"/>anti-personnel landmines</source>
-        <target state="final">APM<g id="19"/>anti-personnel landmines</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]" approved="no"><source>APM<g id="19"/>anti-personnel landmines</source>
+        <target state="translated">APM<g id="19"/>လူသတ်မြေမြှပ်မိုင်းများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]" approved="yes"><source>ATM<g id="21"/>anti-tank mine</source>
         <target>ATM<g id="21"/>တင့်ကားဖျက်မိုင်း</target>
@@ -182,8 +182,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]" approved="yes"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
         <target>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="yes"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
-        <target>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="no"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
+        <target>CERD<g id="30"/>လူမျိုးရေးခွဲခြားဆက်ဆံမှုပပျောက်ရေး<g id="31"/>အပြည်ပြည်ဆိုင်ရာသဘောတူညီချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]" approved="yes"><source>CMIC<g id="33"/>civil-military coordination cell</source>
         <target state="final">CMIC<g id="33"/>အရပ်ဖက်စစ်ရေးညှိနှိုင်းရေးအဖွဲ့အစည်း</target>
@@ -623,8 +623,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:span[0]" approved="yes"><source>ADB<g id="18"/>Asian Development</source>
         <target state="final">ADB<g id="18"/> အာရှဖွံ့ဖြိုးတိုးတက်မှု</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]" approved="yes"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
-        <target state="final">APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]" approved="no"><source>APMBT<g id="20"/>Antipersonnel Mine Ban Treaty</source>
+        <target state="translated">APMBT<g id="20"/>လူသတ်မိုင်းတားဆီးပိတ်ပင်ရေးစာချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]" approved="yes"><source>CAO<g id="22"/>chief administrative officer</source>
         <target>CAO<g id="22"/>အုပ်ချုပ်ရေးအရာရှိချုပ်</target>
@@ -4965,10 +4965,10 @@
         <target>Conclusion</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[32]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[33]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2738]"><source>UN country teams, led by the RC, provide a ready successor to many peacekeeping operations for activities that build sustainable peace in post-conflict situations. If properly planned, coordinated and managed, the exit strategy of a peacekeeping operation could very well constitute handing over key activities and programmes to the RC and UN country team for continued implementation. RCs can work to deepen and strengthen the short-term economic recovery that may have been established during a peacekeeping operation. With appropriate funding and political support, RCs can undertake and facilitate the long-term initiatives necessary to stabilize fragile political systems according to the principles of participation, accountability, good governance and rule of law.</source>
         <target>UN country teams, led by the RC, provide a ready successor to many peacekeeping operations for activities that build sustainable peace in post-conflict situations. If properly planned, coordinated and managed, the exit strategy of a peacekeeping operation could very well constitute handing over key activities and programmes to the RC and UN country team for continued implementation. RCs can work to deepen and strengthen the short-term economic recovery that may have been established during a peacekeeping operation. With appropriate funding and political support, RCs can undertake and facilitate the long-term initiatives necessary to stabilize fragile political systems according to the principles of participation, accountability, good governance and rule of law.</target>
@@ -5001,262 +5001,262 @@
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[28]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[34]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[35]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[36]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[40]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[41]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[42]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[43]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[44]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[45]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[46]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[47]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[56]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[57]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[58]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[59]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[60]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[61]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[67]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[78]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[80]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[81]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[82]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[87]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[94]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[95]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[96]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[97]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[98]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[99]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[100]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[101]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[102]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[106]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[107]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[108]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[116]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[117]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[122]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[123]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[124]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[128]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[129]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[130]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[131]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[132]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[133]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[142]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[143]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[144]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[145]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[146]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[150]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[151]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[152]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[153]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[154]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[155]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[156]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[157]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>ကုလသမဂ္ဂဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်လက်စွဲ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[158]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[159]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[160]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[161]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[162]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[163]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[166]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[168]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[169]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[170]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[171]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[172]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[173]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[182]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[183]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[184]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[185]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[186]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[187]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[188]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[190]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[191]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[192]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[193]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[194]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[195]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[0]"><source>Economically: police are accountable for the way they use resources allocated to them.</source>
         <target>Economically: police are accountable for the way they use resources allocated to them.</target>
@@ -7800,7 +7800,7 @@
         <target>Such institutions and processes constitute the central element of a lasting national capacity for conflict prevention. In a post-conflict environment, such institutions do not emerge from a limited negotiation between the primary protagonists alone, but require the development of substantive consensus among multiple stakeholders over a period of time.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[29]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[320]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>for </source>
         <target>for </target>
@@ -7848,7 +7848,7 @@
         <target>For more information on the HC, see Chapter XIII on Humanitarian Assistance.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[30]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2716]"><source>In the field, the RC can play a number of useful roles in support of the overall peacebuilding strategy determined by the SRSG, the host government and the international community. The RC can support the peace process by coordinating fundraising for common priorities through donor conferences and roundtables. For example, working in collaboration with the World Bank, the UN country team can provide substantive support to the process of organizing multi-donor conferences aimed at raising funds for peace processes and for implementation of the priorities established <g id="628">at </g>these conferences, as was the case with the Tokyo conference for Afghanistan in 2001 and the Oslo conference for Sri Lanka in 2002. In Sierra Leone and Angola, UN country teams have also played significant roles in shaping donor priorities for the post-conflict recovery period.</source>
         <target>In the field, the RC can play a number of useful roles in support of the overall peacebuilding strategy determined by the SRSG, the host government and the international community. The RC can support the peace process by coordinating fundraising for common priorities through donor conferences and roundtables. For example, working in collaboration with the World Bank, the UN country team can provide substantive support to the process of organizing multi-donor conferences aimed at raising funds for peace processes and for implementation of the priorities established <g id="628">at </g>these conferences, as was the case with the Tokyo conference for Afghanistan in 2001 and the Oslo conference for Sri Lanka in 2002. In Sierra Leone and Angola, UN country teams have also played significant roles in shaping donor priorities for the post-conflict recovery period.</target>
@@ -7857,325 +7857,325 @@
         <target>UN country teams play important roles in the development of consolidated, inter-agency UN appeals to donors, known as transitional appeals, which are specifically targeted at alleviating a humanitarian crisis or bringing about a transition from emergency relief to longer-term recovery. In the formulation of transitional appeals, the substantive input of the UN country team is vital to ensuring that short-term recovery priorities, such as funds for the reintegration of former combatants and displaced persons, are balanced with early support for long-term processes and institutions necessary for democratic governance.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[31]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[17]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[18]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[19]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[20]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[21]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[22]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[23]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[24]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[25]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[26]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[27]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[37]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[38]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[39]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[48]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[49]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[50]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[51]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[52]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[53]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[54]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[55]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[62]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[63]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[64]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[65]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[66]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[68]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[69]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[70]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[71]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[72]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[73]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[74]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[75]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[76]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[77]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[79]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[83]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[84]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[85]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[86]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[88]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[89]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[90]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[91]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[92]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[93]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[103]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[104]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[105]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[109]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[110]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[111]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[112]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[113]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[114]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[115]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[118]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[119]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[120]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[121]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[125]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[126]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[127]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[134]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[135]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[136]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[137]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[138]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[139]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[140]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[141]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[147]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[148]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[149]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[164]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[165]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[167]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[174]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[175]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[176]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[177]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[178]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[179]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[180]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[181]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[189]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[196]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[197]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[198]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[199]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[200]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[201]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[202]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[203]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[204]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[205]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[206]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[207]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[208]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[209]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[210]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[211]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[212]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[213]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[237]"><source>Secretary-General (SRSG) provides, in addition to his or her other responsibilities, overall coordination for the UN funds and programmes working in the mission area.</source>
         <target>Secretary-General (SRSG) provides, in addition to his or her other responsibilities, overall coordination for the UN funds and programmes working in the mission area.</target>
