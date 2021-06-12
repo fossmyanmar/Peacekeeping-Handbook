@@ -1515,7 +1515,7 @@
         <target>territory.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[5]"><source>We are United Nations Peacekeepers </source>
-        <target>ကျွန်ုပ်တို့သည် ကုလသမဂ္ဂငြိမ်းချမ်းရေးထိန်းသိမ်းသူများ ဖြစ်ကြသည်။ </target>
+        <target>We are United Nations Peacekeepers </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[6]"><source>for standards of conduct for uniformed personnel serving in UN field missions and </source>
         <target>for standards of conduct for uniformed personnel serving in UN field missions and </target>
