@@ -2370,7 +2370,7 @@
         <target>Other key partners include:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]/text:span[0]"><source>Countries contributing personnel;</source>
-        <target>အမှုထမ်းများအား ထောက်ပံ့သော နိုင်ငံများ ;</target>
+        <target>Countries contributing personnel;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]/text:span[0]"><source>Other Member States;</source>
         <target>အခြားအဖွဲ့ဝင်နိုင်ငံများ ;</target>
