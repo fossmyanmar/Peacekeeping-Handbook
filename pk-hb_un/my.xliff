@@ -597,7 +597,7 @@
         <target>where </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]/text:span[1]"><source>is </source>
-        <target>ဖြစ်သည် </target>
+        <target>is </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2303]/text:span[0]"><source>Refugee law. </source>
         <target>Refugee law. </target>
