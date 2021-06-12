@@ -1416,7 +1416,7 @@
         <target>အခန်း ၁၊ အထွေထွေအတွင်းရေးမှူးချုပ်၏ အထူးကိုယ်စားလှယ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:span[0]"><source>Introduction</source>
-        <target>နိဒါန်း</target>
+        <target>Introduction</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[0]"><source>4</source>
         <target>4</target>
