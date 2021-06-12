@@ -2373,7 +2373,7 @@
         <target>Countries contributing personnel;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]/text:span[0]"><source>Other Member States;</source>
-        <target>အခြားအဖွဲ့ဝင်နိုင်ငံများ ;</target>
+        <target>Other Member States;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]/text:span[0]"><source>UN agencies, funds and programmes;</source>
         <target>UN agencies, funds and programmes;</target>
