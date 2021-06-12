@@ -585,10 +585,10 @@
         <target state="final">ပါဝင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:span[1]"><source>conflict </source>
-        <target state="translated">conflict </target>
+        <target state="translated">ပဋိပက္ခ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[2]"><source>objective of an operation and provide it with a clear mandate.</source>
-        <target>objective of an operation and provide it with a clear mandate.</target>
+        <target>လုပ်ငန်းစဉ်၏ ရည်ရွယ်ချက်နှင့် ၎င်းအား အခွင့်အာဏာနှင့်အတူ ဖြည့်ဆည်းသည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[1]/text:p[0]/text:span[2]"><source>equipped troops.</source>
         <target state="translated">equipped troops.</target>
@@ -597,7 +597,7 @@
         <target>where </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]/text:span[1]"><source>is </source>
-        <target>is </target>
+        <target>ဖြစ်သည် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2303]/text:span[0]"><source>Refugee law. </source>
         <target>Refugee law. </target>
@@ -1032,10 +1032,10 @@
         <target>The comprehensive strategy must take into account the regional dimension to ensure that gains made in addressing the problems that contributed to a </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:span[2]"><source>are not undermined by problems in neighbouring countries.</source>
-        <target>are not undermined by problems in neighbouring countries.</target>
+        <target>အိမ်နီးချင်းနိုင်ငံများ၏ အခက်အခဲများဖြင့် မပြိုလဲနိုင်ပါ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[0]"><source>The Security Council, particularly its five permanent members, must agree on </source>
-        <target>The Security Council, particularly its five permanent members, must agree on </target>
+        <target>ကုလသမဂ္ဂလုံခြုံရေးကောင်စီ အထူးသဖြင့် အမြဲတမ်းအဖွဲ့ဝင် ၅ နိုင်ငံမှ သဘောတူရမည် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[1]"><source>the </source>
         <target>the </target>
@@ -1044,7 +1044,7 @@
         <target>The Security Council must ensure that the mandate is achievable. This includes authorizing the deployment of an appropriate number of troops to implement a mission’s mandate and the provision by Member States of adequately trained </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[1]/text:p[0]/text:span[1]"><source>and </source>
-        <target>and </target>
+        <target>နှင့် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1363]"><source>Many of these basic standards are incorporated into various international and regional legal instruments and provide basic protections for detainees.</source>
         <target>Many of these basic standards are incorporated into various international and regional legal instruments and provide basic protections for detainees.</target>
@@ -1056,13 +1056,13 @@
         <target>The credibility and ability of a mission to implement its mandate is often determined at the outset, so the rapid deployment of personnel and material </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]/text:span[2]"><source>essential.</source>
-        <target state="translated">essential.</target>
+        <target state="translated">လိုအပ်သော</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]/text:span[0]"><source>Member States must be prepared to work together and commit to peacekeeping and peacebuilding efforts long enough to secure the conditions for their consolidation in a country recovering from war. Peace is not made overnight, particularly in countries or societies that have experienced conflict and suffering for long periods.</source>
         <target>Member States must be prepared to work together and commit to peacekeeping and peacebuilding efforts long enough to secure the conditions for their consolidation in a country recovering from war. Peace is not made overnight, particularly in countries or societies that have experienced conflict and suffering for long periods.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[0]/text:p[0]/text:span[0]"><source>UN international civilian personnel at all levels, both at Headquarters and in </source>
-        <target>UN international civilian personnel at all levels, both at Headquarters and in </target>
+        <target>ကုလသမဂ္ဂ လယ်ဗယ်တိုင်းတွင်ရှိသော နိုင်ငံတကာအရပ်သားဝန်ထမ်းများ၊ ရုံးချုပ်နှင့် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1731]/draw:custom-shape[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
         <target>and</target>
@@ -1074,7 +1074,7 @@
         <target>field, must perform their functions with professionalism, competence and integrity. Great attention must therefore be given to selecting the most qualified staff, from the mission leadership to staff working on the front lines.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:span[0]"><source>Conclusion</source>
-        <target>Conclusion</target>
+        <target>နိဂုံးချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[736]/draw:custom-shape[0]/text:list[5]/text:list-item[0]/text:p[0]/text:span[0]"><source>Counter propaganda, false information and hate messages that are harmful to the objectives of the UN and the peace</source>
         <target>Counter propaganda, false information and hate messages that are harmful to the objectives of the UN and the peace</target>
@@ -1413,10 +1413,10 @@
         <target>Types of Military Personnel</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:span[0]"><source>CHAPTER I: THE SPECIAL REPRESENTATIVE OF THE SECRETARY-GENERAL</source>
-        <target>CHAPTER I: THE SPECIAL REPRESENTATIVE OF THE SECRETARY-GENERAL</target>
+        <target>အခန်း ၁၊ အထွေထွေအတွင်းရေးမှူးချုပ်၏ အထူးကိုယ်စားလှယ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:span[0]"><source>Introduction</source>
-        <target>Introduction</target>
+        <target>နိဒါန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[0]"><source>4</source>
         <target>4</target>
@@ -1515,7 +1515,7 @@
         <target>territory.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[5]"><source>We are United Nations Peacekeepers </source>
-        <target>We are United Nations Peacekeepers </target>
+        <target>ကျွန်ုပ်တို့သည် ကုလသမဂ္ဂငြိမ်းချမ်းရေးထိန်းသိမ်းသူများ ဖြစ်ကြသည်။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[6]"><source>for standards of conduct for uniformed personnel serving in UN field missions and </source>
         <target>for standards of conduct for uniformed personnel serving in UN field missions and </target>
@@ -1968,7 +1968,7 @@
         <target>The SRSG's relationship with Headquarters can determine success or failure. To gain and maintain the necessary influence on the ground, the SRSG must have a clear reporting line to the highest-level decision makers in the Secretariat, including the Secretary- General. The parties to the conflict and Member States will be aware of the SRSG’s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[318]/text:span[0]"><source>1</source>
-        <target>1</target>
+        <target>၁</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1241]"><source>Community-based policing is an increasingly important element of policing in post- conflict environments and is closely linked to public education. The community policing approach enhances the confidence of the local community in the police and fosters cooperative relationships. It provides reassurances to vulnerable groups, returning refugees and internally displaced persons (IDPs), owing to the visible presence of police officers working with local populations in and among the community. Addressing common community and policing concerns through, and with, the community can help to ensure that improvements in law and order are better understood and accepted by the population. As such, community policing is a key approach for civilian police in peacekeeping missions. Many host countries of peacekeeping operations have certain entrenched local policing practices. These can be adapted to include modern community policing practices. The local communities must be encouraged to address their own social problems. Civilian police can act as a catalyst for the participation of the local communities in finding solutions to their security and justice problems.</source>
         <target>Community-based policing is an increasingly important element of policing in post- conflict environments and is closely linked to public education. The community policing approach enhances the confidence of the local community in the police and fosters cooperative relationships. It provides reassurances to vulnerable groups, returning refugees and internally displaced persons (IDPs), owing to the visible presence of police officers working with local populations in and among the community. Addressing common community and policing concerns through, and with, the community can help to ensure that improvements in law and order are better understood and accepted by the population. As such, community policing is a key approach for civilian police in peacekeeping missions. Many host countries of peacekeeping operations have certain entrenched local policing practices. These can be adapted to include modern community policing practices. The local communities must be encouraged to address their own social problems. Civilian police can act as a catalyst for the participation of the local communities in finding solutions to their security and justice problems.</target>
@@ -2148,7 +2148,7 @@
         <target>The responsibilities of the SRSG necessitate a structured and focused dialogue between Headquarters and the mission based on mutual trust, transparency and complete candour. Headquarters and the mission work to resolve most differences through open communication and continuous contact. A two-way comprehensive flow of information between the mission and Headquarters ensures that both sides stay abreast of developments and possible problems. In addition to frequent correspondence, Headquarters and the mission foster their relationship through daily informal exchanges at all levels, mutual visits and exchange of personnel. Appropriate informal contacts are encouraged, but decisions and actions should be conveyed through official communications.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:span[0]"><source>Relations with Partners</source>
-        <target>Relations with Partners</target>
+        <target>မိတ်ဖက်နိုင်ငံများနှင့် ဆက်ဆံရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1341]"><source>In some instances, peacekeeping missions have been mandated to train local authorities in corrections issues, including the treatment of prisoners, as was the case in Cambodia, Haiti, Bosnia and Herzegovina and Rwanda. More recently, peacekeeping operations have been mandated to provide direct assistance and support for corrections systems, particularly when the UN civilian police component has had powers of arrest or detention. The missions in Kosovo and Timor-Leste were tasked with the establishment and operation of complete correctional systems, which included not only the management and administration of correction facilities, but also the development of human, institutional and legislative capacity. UNAMA has had a high-level advisory role in relation to corrections, providing advice and support to the Afghan authorities. It should be noted that the corrections system may include not only prisons and other penitentiary institutions, such as furlough and halfway houses and detention centres, but also correctional measures other than incarceration, including parole and probation programmes, work and educational release and community service.</source>
         <target>In some instances, peacekeeping missions have been mandated to train local authorities in corrections issues, including the treatment of prisoners, as was the case in Cambodia, Haiti, Bosnia and Herzegovina and Rwanda. More recently, peacekeeping operations have been mandated to provide direct assistance and support for corrections systems, particularly when the UN civilian police component has had powers of arrest or detention. The missions in Kosovo and Timor-Leste were tasked with the establishment and operation of complete correctional systems, which included not only the management and administration of correction facilities, but also the development of human, institutional and legislative capacity. UNAMA has had a high-level advisory role in relation to corrections, providing advice and support to the Afghan authorities. It should be noted that the corrections system may include not only prisons and other penitentiary institutions, such as furlough and halfway houses and detention centres, but also correctional measures other than incarceration, including parole and probation programmes, work and educational release and community service.</target>
@@ -2370,13 +2370,13 @@
         <target>Other key partners include:</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]/text:span[0]"><source>Countries contributing personnel;</source>
-        <target>Countries contributing personnel;</target>
+        <target>အမှုထမ်းများအား ထောက်ပံ့သော နိုင်ငံများ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]/text:span[0]"><source>Other Member States;</source>
-        <target>Other Member States;</target>
+        <target>အခြားအဖွဲ့ဝင်နိုင်ငံများ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]/text:span[0]"><source>UN agencies, funds and programmes;</source>
-        <target>UN agencies, funds and programmes;</target>
+        <target>ကုလသမဂ္ဂအေဂျင်စီ၊ ရန်ပုံငွေများနှင့် အစီအစဉ်များ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1441]/draw:custom-shape[0]/text:p[5]/text:span[3]"><source>Manual on Human Rights Monitoring: An Introduction for Human Rights Field Officers </source>
         <target>Manual on Human Rights Monitoring: An Introduction for Human Rights Field Officers </target>
@@ -2391,10 +2391,10 @@
         <target>In some situations, human rights officers may also investigate or provide support to international commissions of inquiry relating to past violations. Human rights monitors in</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[0]/text:p[0]/text:span[0]"><source>Donors;</source>
-        <target>Donors;</target>
+        <target>အလှူရှင်များ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[0]/text:p[0]/text:span[0]"><source>Regional military or police forces;</source>
-        <target>Regional military or police forces;</target>
+        <target>ဒေသတွင်းစစ်တပ်နှင့် ရဲတပ်ဖွဲ့ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[0]/text:p[0]/text:span[0]"><source>Regional and sub-regional organizations;</source>
         <target>Regional and sub-regional organizations;</target>
@@ -2418,10 +2418,10 @@
         <target>an upsurge in human rights violations and whether certain types of violations are more prevalent than others.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[0]/text:p[0]/text:span[0]"><source>Non-governmental organizations (NGOs); and</source>
-        <target>Non-governmental organizations (NGOs); and</target>
+        <target>အစိုးရမဟုတ်သော အဖွဲ့အစည်းများ (NGOs); နှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[35]/text:list-item[0]/text:p[0]/text:span[0]"><source>International media.</source>
-        <target>International media.</target>
+        <target>နိုင်ငံတကာသတင်းမီဒီယာ၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1458]"><source>The SRSG or component heads may need advice on human rights and humanitarian law issues. In particular, during a negotiation of agreements, the SRSG or the political affairs component may request guidance on human rights aspects of political agreements. For example, peace accords may contain an amnesty for crimes committed by both sides during the course of a conflict, as was the case with the 1999 Lomé Agreement to end the conflict in Sierra Leone. The UN, however, cannot endorse any amnesty that extends to war crimes or crimes against humanity. Therefore, if the UN were to be a guarantor of such an agreement, a careful disclaimer to this effect would have to be incorporated.</source>
         <target>The SRSG or component heads may need advice on human rights and humanitarian law issues. In particular, during a negotiation of agreements, the SRSG or the political affairs component may request guidance on human rights aspects of political agreements. For example, peace accords may contain an amnesty for crimes committed by both sides during the course of a conflict, as was the case with the 1999 Lomé Agreement to end the conflict in Sierra Leone. The UN, however, cannot endorse any amnesty that extends to war crimes or crimes against humanity. Therefore, if the UN were to be a guarantor of such an agreement, a careful disclaimer to this effect would have to be incorporated.</target>
@@ -2844,7 +2844,7 @@
         <target>The chief administrative officer (CAO) heads the support component of field missions.<g id="413">1</g><g id="414"> The CAO is responsible for managing the mission’s human, financial and material resources and serves as the senior adviser to the Head of Mission on administrative and logistic issues. The number of staff serving under a CAO will vary with the size of the mission and the workload. In larger missions, specialists in all the administrative functional areas of finance, personnel, procurement and asset management as well as the technical and logistic functions of supply, communications and information technology, engineering and transport may work under the CAO. In small missions, the support component may be limited to an administrative officer and some specialized staff performing those tasks.</g></target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[362]/text:span[4]"><source>.</source>
-        <target>.</target>
+        <target>။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[433]"><source>The division of responsibilities and command relationships between the SRSG, force commander and/or police commissioner, in cases when the military and police components are under the UN, have been carefully delineated in the respective official directives and their effective implementation is critical to the success of the <g id="220">peacekeeping </g>operation. The SRSG exercises operational authority over the military component, and the force commander has primary responsibility for its operational organization and efficient functioning. The same applies to the police commissioner.</source>
         <target>The division of responsibilities and command relationships between the SRSG, force commander and/or police commissioner, in cases when the military and police components are under the UN, have been carefully delineated in the respective official directives and their effective implementation is critical to the success of the <g id="220">peacekeeping </g>operation. The SRSG exercises operational authority over the military component, and the force commander has primary responsibility for its operational organization and efficient functioning. The same applies to the police commissioner.</target>
@@ -3171,7 +3171,7 @@
         <target>In the field, the security system in peacekeeping operations is closely associated with the mechanisms established by UNSECOORD under the provisions of the <g id="436">Field Security Handbook</g>. The system is based on the appointment by the Secretary-General of a designated official, who is responsible for the security and protection of UN personnel at every duty station. The designated official establishes and chairs a security management team (SMT) composed of all heads of UN agencies, the field security officer, medical staff, and other personnel, as appropriate, to conduct collective security assessments and develop coordinated contingency plans.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:span[0]"><source>Responsibilities of the SRSG</source>
-        <target>Responsibilities of the SRSG</target>
+        <target>အတွင်းရေးမှူးချုပ်အထူးကိုယ်စားလှယ်၏ တာဝန်များ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[368]"><source>The SRSG's responsibilities can be divided into several broad areas:</source>
         <target>The SRSG's responsibilities can be divided into several broad areas:</target>
@@ -3654,7 +3654,7 @@
         <target>Electoral assistance in a multidimensional peacekeeping mission is extremely challenging and the strict operational timelines and political complexity of elections test mission staff’s abilities and resources. Electoral assistance can play a critical role in helping a fledgling, popularly elected democracy get off to a strong start and significantly improve a country’s prospects for peace and prosperity. Not surprisingly, many UN personnel have cited elections as one of their most satisfying field experiences.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[137]/text:span[0]"><source>CHAPTER XIII: HUMANITARIAN ASSISTANCE</source>
-        <target>CHAPTER XIII: HUMANITARIAN ASSISTANCE</target>
+        <target>အခန်း ၁၃: လူသားချင်းစာနာထောက်ထားမှုအထောက်အပံ့</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[138]/text:span[0]"><source>Humanitarian Assistance and Peacekeeping Operations</source>
         <target>Humanitarian Assistance and Peacekeeping Operations</target>
@@ -6993,7 +6993,7 @@
         <target>DPKO has instituted safety stand down days, which are conducted regularly in field missions, to raise awareness of safety issues. Missions have been provided guidelines for the conduct of the stand down day, including advice on the appropriate focus for the day, activities to be conducted and post-activity reporting requirements. To allow for an appropriate focus on safety, it is recommended that only emergency or essential activities be undertaken on safety stand down days to allow mission personnel to concentrate on safety issues and not be distracted by other activities.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[127]/text:span[0]"><source>Conclusion</source>
-        <target>Conclusion</target>
+        <target>နိဂုံးချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1959]"><source>As an inherently sovereign process and one of the highest expressions of political self- determination, the electoral process is measured against internationally accepted standards of practices and principles. Although elections are ultimately judged by the citizenry of the country, States often request and even require the presence of external actors to overcome the electorate’s distrust for the process or to contribute to the international acceptance and recognition of the regime. In such cases, the UN is</source>
         <target>As an inherently sovereign process and one of the highest expressions of political self- determination, the electoral process is measured against internationally accepted standards of practices and principles. Although elections are ultimately judged by the citizenry of the country, States often request and even require the presence of external actors to overcome the electorate’s distrust for the process or to contribute to the international acceptance and recognition of the regime. In such cases, the UN is</target>
@@ -7008,7 +7008,7 @@
         <target>United Nations and Decolonization</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1962]/text:span[4]"><source>, Department of Public Information (DPI) publication DPI/2237, December 2001.</source>
-        <target>, Department of Public Information (DPI) publication DPI/2237, December 2001.</target>
+        <target>၊ အများပြည်သူဆိုင်ရာသတင်းအချက်အလက်ဌာန (DPI) ပုံနှိပ်ထုတ်ဝေခြင်း DPI/၂၂၃၇၊ ဒီဇင်ဘာ ၂၀၀၁၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1963]"><source>perceived as an impartial actor that can ensure that elections are carried out in a free and fair manner.</source>
         <target>perceived as an impartial actor that can ensure that elections are carried out in a free and fair manner.</target>
@@ -7176,7 +7176,7 @@
         <target><g id="516">Technical assistance. </g>This is the most common type of UN involvement in electoral matters. Based on the specific requirements of the country in question, activities can <g id="517">include </g>providing analyses, advice, equipment or training to governmental institutions. <g id="518">Assistance </g>may be provided in any area of electoral administration, including in a peacekeeping <g id="519">context </g>such as in Haiti.</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[136]/text:span[0]"><source>Conclusion</source>
-        <target>Conclusion</target>
+        <target>နိဂုံးချုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[235]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Impartiality. </source>
         <target>Impartiality. </target>
@@ -8217,13 +8217,13 @@
         <target>In response to a request from the Secretary-General, Member States may volunteer soldiers, military observers, civilian police, equipment, supplies or other support for a</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]/text:span[0]"><source>The peacekeeping operation must be part of a more comprehensive strategy to help resolve a conflict. This often includes political, economic, developmental, institution-building, humanitarian and human rights elements, which must </source>
-        <target>The peacekeeping operation must be part of a more comprehensive strategy to help resolve a conflict. This often includes political, economic, developmental, institution-building, humanitarian and human rights elements, which must </target>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်သည် ပဋိပက္ခအားကူညီဖြေရှင်းရန် ပိုမိုပြည့်စုံသော မဟာဗျူဟာ၏ ကဏ္ဍတစ်ခုဖြစ်ပါသည်။ ၎င်းလုပ်ငန်းစဉ်တွင် နိုင်ငံရေး၊ စီးပွားရေး၊ ဖွံ့ဖြိုးဆဲ အဖွဲ့အစည်းများ၊ လူသားချင်းစာနာထောက်ထားမှုနှင့် လူ့အခွင့်အရေးများ ပါဝင်ပါသည်။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:span[0]" approved="yes"><source>Deployment</source>
         <target>ဖြန့်ကျက်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:span[0]"><source>All key parties to a conflict must agree to the UN’s involvement and its role </source>
-        <target>All key parties to a conflict must agree to the UN’s involvement and its role </target>
+        <target>ပဋိပက္ခတွင် ပါဝင်သော အဖွဲ့ဝင်နိုင်ငံများအားလုံးမှ ကုလသမဂ္ဂပါဝင်ပတ်သက်မှုနှင့် ၎င်း၏ အခန်းကဏ္ဍအား သဘောတူလက်ခံရမည်ဖြစ်ပါသည်။ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[2]"><source>The Security Council renews and adjusts the mission’s mandate, as required, until the mission is completed or closed.</source>
         <target>The Security Council renews and adjusts the mission’s mandate, as required, until the mission is completed or closed.</target>
