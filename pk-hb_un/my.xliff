@@ -1413,7 +1413,7 @@
         <target>Types of Military Personnel</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:span[0]"><source>CHAPTER I: THE SPECIAL REPRESENTATIVE OF THE SECRETARY-GENERAL</source>
-        <target>အခန်း ၁၊ အထွေထွေအတွင်းရေးမှူးချုပ်၏ အထူးကိုယ်စားလှယ်</target>
+        <target>CHAPTER I: THE SPECIAL REPRESENTATIVE OF THE SECRETARY-GENERAL</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:span[0]"><source>Introduction</source>
         <target>Introduction</target>
