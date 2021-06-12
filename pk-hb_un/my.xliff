@@ -585,7 +585,7 @@
         <target state="final">ပါဝင် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:span[1]"><source>conflict </source>
-        <target state="translated">ပဋိပက္ခ </target>
+        <target state="translated">conflict </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[2]"><source>objective of an operation and provide it with a clear mandate.</source>
         <target>လုပ်ငန်းစဉ်၏ ရည်ရွယ်ချက်နှင့် ၎င်းအား အခွင့်အာဏာနှင့်အတူ ဖြည့်ဆည်းသည်။</target>
