@@ -1035,7 +1035,7 @@
         <target>အိမ်နီးချင်းနိုင်ငံများ၏ အခက်အခဲများဖြင့် မပြိုလဲနိုင်ပါ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[0]"><source>The Security Council, particularly its five permanent members, must agree on </source>
-        <target>ကုလသမဂ္ဂလုံခြုံရေးကောင်စီ အထူးသဖြင့် အမြဲတမ်းအဖွဲ့ဝင် ၅ နိုင်ငံမှ သဘောတူရမည် </target>
+        <target>The Security Council, particularly its five permanent members, must agree on </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:span[1]"><source>the </source>
         <target>the </target>
