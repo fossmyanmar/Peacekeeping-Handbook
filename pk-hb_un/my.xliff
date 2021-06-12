@@ -2394,7 +2394,7 @@
         <target>အလှူရှင်များ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[0]/text:p[0]/text:span[0]"><source>Regional military or police forces;</source>
-        <target>ဒေသတွင်းစစ်တပ်နှင့် ရဲတပ်ဖွဲ့ ;</target>
+        <target>Regional military or police forces;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[0]/text:p[0]/text:span[0]"><source>Regional and sub-regional organizations;</source>
         <target>Regional and sub-regional organizations;</target>
