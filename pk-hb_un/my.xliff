@@ -180,7 +180,7 @@
         <target>ATM<g id="21"/>တင့်ကားဖျက်မိုင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]" approved="no"><source>CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</source>
-        <target state="needs-translation">CAT<g id="25"/>ညှင်းပန်းနှိပ်စက်မှုနှင့်အခြားရက်စက်မှု၊ လူမဆန်မှု <g id="26">သို့မဟုတ် </g>ဆေးကုသခွင့် မပေးခြင်း သို့မဟုတ် အပြစ်ပေးခြင်း ဆန့်ကျင်ရေးသဘောတူစာချုပ်</target>
+        <target state="translated">CAT<g id="25"/>Convention against Torture and Other Cruel, Inhuman <g id="26">or </g>Degrading Treatment or Punishment</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="yes"><source>CERD<g id="30"/>International Convention on the Elimination of All Forms <g id="31">of </g>Racial Discrimination</source>
         <target>CERD<g id="30"/>လူမျိုးရေးခွဲခြားဆက်ဆံမှုပပျောက်ရေး<g id="31"/>အပြည်ပြည်ဆိုင်ရာသဘောတူညီချက်</target>
@@ -639,7 +639,7 @@
         <target state="final">CCA<g id="27"/>ဘုံတိုင်းပြည်အကဲဖြတ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]" approved="no"><source>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</source>
-        <target>CEDAW<g id="28"/>အမျိုးသမီးများအားခွဲခြားဆက်ဆံမှုပုံစံအားလုံးပပျောက်ရေးသဘောတူစာချုပ်<g id="29"/></target>
+        <target>CEDAW<g id="28"/>Convention on the Elimination of All Forms of<g id="29"> </g>Discrimination against Women</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]" approved="yes"><source>CG<g id="32"/>consultative group</source>
         <target>CG<g id="32"/>အတိုင်ပင်ခံအဖွဲ့</target>
