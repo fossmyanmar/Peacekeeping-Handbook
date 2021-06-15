@@ -362,8 +362,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]" approved="yes"><source>Depending on their mandate, multidimensional peacekeeping operations (also referred to as peace operations) may be required to:</source>
         <target>ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များအတွက်၎င်းတို့၏လုပ်ဆောင်မှုများ‌အပေါ်မူတည်သည်(ငြိမ်းချမ်းရေးလုပ်ငန်းစဥ်များ)ဟုလည်း ခေါ်ဆိုနိုင်သည် -</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[92]/text:span[0]"><source>The Legal Framework</source>
-        <target>The Legal Framework</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[92]/text:span[0]" approved="yes"><source>The Legal Framework</source>
+        <target>ဥပဒေမူဘောင်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]/text:span[0]" approved="yes"><source>Provide a secure environment encouraging a return to normal civilian life;</source>
         <target>သာမန်အရပ်သားဘဝကိုပြန်လည်ရောက်ရှိစေရန်လုံခြုံသောပတ်ဝန်းကျင်တစ်ခုပေးရန်၊</target>
@@ -2237,14 +2237,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[134]/text:list-item[0]/text:p[0]/text:span[0]"><source>Investigating and verifying past human rights violations;</source>
         <target>Investigating and verifying past human rights violations;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[135]/text:list-item[0]/text:p[0]/text:span[0]"><source>Promoting and protecting civil, cultural, economic, political and social rights;</source>
-        <target>Promoting and protecting civil, cultural, economic, political and social rights;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[135]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Promoting and protecting civil, cultural, economic, political and social rights;</source>
+        <target>ပြည်သူ၊ ယဉ်ကျေးမှု၊ စီးပွားရေး၊ နိုင်ငံရေးနှင့် လူမှုအခွင့်အရေးများ မြှင့်တင်ကာကွယ်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[136]/text:list-item[0]/text:p[0]/text:span[0]"><source>Conducting capacity-building initiatives with local governmental agencies </source>
         <target>Conducting capacity-building initiatives with local governmental agencies </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[136]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
-        <target>and </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[136]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>and </source>
+        <target>နှင့် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[136]/text:list-item[0]/text:p[0]/text:span[2]"><source>non-governmental organizations (NGOs), including national and local human rights institutions;</source>
         <target>non-governmental organizations (NGOs), including national and local human rights institutions;</target>
@@ -2261,20 +2261,20 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[138]/text:list-item[0]/text:p[0]/text:span[0]"><source>Collaborating with UN and international development and emergency </source>
         <target>Collaborating with UN and international development and emergency </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[138]/text:list-item[0]/text:p[0]/text:span[1]"><source>relief </source>
-        <target>relief </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[138]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>relief </source>
+        <target>ကယ်ဆယ်ရေးစခန်း </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[138]/text:list-item[0]/text:p[0]/text:span[2]"><source>organizations on human rights issues;</source>
-        <target>organizations on human rights issues;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[138]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>organizations on human rights issues;</source>
+        <target>လူ့အခွင့်အရေးဆိုင်ရာ အဖွဲ့အစည်းများ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[139]/text:list-item[0]/text:p[0]/text:span[0]"><source>Designing and conducting human rights training programmes for UN peacekeeping personnel and local and national institutions, such as the </source>
         <target>Designing and conducting human rights training programmes for UN peacekeeping personnel and local and national institutions, such as the </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[139]/text:list-item[0]/text:p[0]/text:span[1]"><source>military </source>
-        <target>military </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[139]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>military </source>
+        <target>စစ်တပ် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[139]/text:list-item[0]/text:p[0]/text:span[2]"><source>and police forces;</source>
-        <target>and police forces;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[139]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>and police forces;</source>
+        <target>နှင့် ရဲတပ်ဖွဲ့ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[140]/text:list-item[0]/text:p[0]/text:span[0]"><source>Providing advice and guidance on human rights to all peacekeeping components;</source>
         <target>Providing advice and guidance on human rights to all peacekeeping components;</target>
@@ -2324,23 +2324,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[147]/text:list-item[0]/text:p[0]/text:span[2]"><source>and its Optional Protocol;</source>
         <target>and its Optional Protocol;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:a[0]/text:span[0]"><source>2</source>
-        <target>2</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:a[0]/text:span[0]" approved="yes"><source>2</source>
+        <target>၂</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1433]/text:span[0]"><source>2</source>
-        <target>2</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1433]/text:span[0]" approved="yes"><source>2</source>
+        <target>၂</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1433]/text:span[2]"><source>These documents are available on OHCHR’s web site at </source>
-        <target>These documents are available on OHCHR’s web site at </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1433]/text:span[2]" approved="yes"><source>These documents are available on OHCHR’s web site at </source>
+        <target>ဤစာရွက်စာတမ်းများအား OHCHR'S Website တွင် ရရှိနိုင်ပါသည် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1433]/text:a[0]/text:span[0]"><source>www.ohchr.org</source>
         <target>www.ohchr.org</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1433]/text:span[3]"><source>.</source>
-        <target>.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1433]/text:span[3]" approved="yes"><source>.</source>
+        <target>။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[93]/text:span[0]"><source>Monitoring and Investigating</source>
-        <target>Monitoring and Investigating</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[93]/text:span[0]" approved="yes"><source>Monitoring and Investigating</source>
+        <target>စောင့်ကြည့်စစ်ဆေးခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[928]/text:span[1]"><source>The military component may be asked to provide advice on security sector reform and related issues.</source>
         <target>The military component may be asked to provide advice on security sector reform and related issues.</target>
@@ -2360,8 +2360,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1440]"><source>Human rights officers and others must always be aware of the potential dangers victims or witnesses face when they provide information to a peacekeeping operation. Because of the danger of reprisals, officers must take every possible precaution to ensure their work does not endanger the very people they are there to assist. Field officers must defer to sources in choosing the place and time of interviews and scrupulously honour all requests for confidentiality.</source>
         <target>Human rights officers and others must always be aware of the potential dangers victims or witnesses face when they provide information to a peacekeeping operation. Because of the danger of reprisals, officers must take every possible precaution to ensure their work does not endanger the very people they are there to assist. Field officers must defer to sources in choosing the place and time of interviews and scrupulously honour all requests for confidentiality.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1441]/draw:custom-shape[0]/text:p[5]/text:span[1]"><source>Professional Training Series No. 7: Training Manual on Human Rights Monitoring, </source>
-        <target>Professional Training Series No. 7: Training Manual on Human Rights Monitoring, </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1441]/draw:custom-shape[0]/text:p[5]/text:span[1]" approved="yes"><source>Professional Training Series No. 7: Training Manual on Human Rights Monitoring, </source>
+        <target>ကျွမ်းကျင်သင်တန်းအမှတ်စဉ် ၇ : လူ့အခွင့်အရေးစောင့်ကြည့်ခြင်းဆိုင်ရာ သင်တန်းလက်စွဲ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1441]/draw:custom-shape[0]/text:p[5]/text:span[2]"><source>which should be used by all field missions (www.ohchr.org). In addition, The Norwegian Institute of Human Rights has produced an excellent generic manual for fieldwork entitled </source>
         <target>which should be used by all field missions (www.ohchr.org). In addition, The Norwegian Institute of Human Rights has produced an excellent generic manual for fieldwork entitled </target>
@@ -6308,8 +6308,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[141]/text:list-item[0]/text:p[0]/text:span[1]"><source>most </source>
         <target>most </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[91]/text:span[0]"><source>Personnel and Training</source>
-        <target>Personnel and Training</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[91]/text:span[0]" approved="yes"><source>Personnel and Training</source>
+        <target>ဝန်ထမ်းများနှင့် သင်တန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1409]"><source>A common misconception holds that human rights officers must be lawyers. While many lawyers, judges and prosecutors work in human rights components, many other professions are also represented. With the proper training or experience, political scientists, doctors, nurses, journalists, anthropologists, professors, economists, engineers, teachers, public information experts, geographers, police and retired military personnel can all contribute to the diverse work of a typical human rights component.</source>
         <target>A common misconception holds that human rights officers must be lawyers. While many lawyers, judges and prosecutors work in human rights components, many other professions are also represented. With the proper training or experience, political scientists, doctors, nurses, journalists, anthropologists, professors, economists, engineers, teachers, public information experts, geographers, police and retired military personnel can all contribute to the diverse work of a typical human rights component.</target>
@@ -6317,20 +6317,20 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1411]"><source>Whatever their background or experience, human rights officers should receive pre- deployment and induction training. Human rights components in some missions have</source>
         <target>Whatever their background or experience, human rights officers should receive pre- deployment and induction training. Human rights components in some missions have</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:span[0]"><source>1</source>
-        <target>1</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:span[0]" approved="yes"><source>1</source>
+        <target>၁</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:span[2]"><source>Renewing the United Nations: A Programme for Reform: Report of the Secretary-General</source>
         <target>Renewing the United Nations: A Programme for Reform: Report of the Secretary-General</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:span[3]"><source>, 14 July 1997, A/51/950, available at </source>
-        <target>, 14 July 1997, A/51/950, available at </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:span[3]" approved="yes"><source>, 14 July 1997, A/51/950, available at </source>
+        <target>၊ ၁၄ ဇူလိုင် ၁၉၉၇၊ အေ/၅၁/၉၅၀၊ ရရှိနိုင်ပါသည် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:a[0]/text:span[0]"><source>www.un.org/reform/refdoc.htm</source>
         <target>www.un.org/reform/refdoc.htm</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:a[1]/text:span[0]"><source>.</source>
-        <target>.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1413]/text:a[1]/text:span[0]" approved="yes"><source>.</source>
+        <target>။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[143]/text:list-item[0]/text:p[0]/text:span[1]"><source>two </source>
         <target>two </target>
@@ -6341,23 +6341,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[144]/text:list-item[0]/text:p[0]/text:span[0]"><source>International Covenant on Economic, Social and Cultural Rights (ICESCR);</source>
         <target>International Covenant on Economic, Social and Cultural Rights (ICESCR);</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[145]/text:list-item[0]/text:p[0]/text:span[1]"><source>Racial </source>
-        <target>Racial </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[145]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>Racial </source>
+        <target>လူမျိုးရေး </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[145]/text:list-item[0]/text:p[0]/text:span[2]"><source>Discrimination (CERD);</source>
-        <target>Discrimination (CERD);</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[145]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>Discrimination (CERD);</source>
+        <target>ခွဲခြားဆက်ဆံခြင်း (CERD);</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[146]/text:list-item[0]/text:p[0]/text:span[0]"><source>Convention against Torture and Other Cruel, Inhuman or Degrading </source>
         <target>Convention against Torture and Other Cruel, Inhuman or Degrading </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[146]/text:list-item[0]/text:p[0]/text:span[1]"><source>Treatment </source>
-        <target>Treatment </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[146]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>Treatment </source>
+        <target>ပြုမူဆက်ဆံခြင်း </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[146]/text:list-item[0]/text:p[0]/text:span[2]"><source>or Punishment (CAT);</source>
-        <target>or Punishment (CAT);</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[146]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>or Punishment (CAT);</source>
+        <target>သို့မဟုတ် ပြစ်ဒဏ်ပေးခြင်း (CAT);</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[147]/text:list-item[0]/text:p[0]/text:span[0]"><source>Convention on the Elimination of Discrimination against Women </source>
-        <target>Convention on the Elimination of Discrimination against Women </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[147]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Convention on the Elimination of Discrimination against Women </source>
+        <target>အမျိုးသမီးများအား ခွဲခြားဆက်ဆံမှု ပပျောက်ရေးညီလာခံ </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[147]/text:list-item[0]/text:p[0]/text:span[1]"><source>(CEDAW) </source>
         <target>(CEDAW) </target>
@@ -6368,14 +6368,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[0]"><source>International Convention on the Protection of the Rights of All Migrant </source>
         <target>International Convention on the Protection of the Rights of All Migrant </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[1]"><source>Workers </source>
-        <target>Workers </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>Workers </source>
+        <target>အလုပ်သမားများ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[2]"><source>and Members of Their</source>
-        <target>and Members of Their</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>and Members of Their</source>
+        <target>နှင့် ၎င်းတို့၏အဖွဲ့ဝင်များ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[4]"><source>Families.</source>
-        <target>Families.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[149]/text:list-item[0]/text:p[0]/text:span[4]" approved="yes"><source>Families.</source>
+        <target>မိသားစုများ၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1441]/draw:custom-shape[0]/text:p[1]/text:span[0]"><source>Human Rights Reference Materials</source>
         <target>Human Rights Reference Materials</target>
@@ -6422,8 +6422,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1487]/draw:custom-shape[0]/text:p[5]/text:a[0]/text:span[0]"><source>www.phrusa.org</source>
         <target>www.phrusa.org</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1487]/draw:custom-shape[0]/text:p[5]/text:span[5]"><source>).</source>
-        <target>).</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1487]/draw:custom-shape[0]/text:p[5]/text:span[5]" approved="yes"><source>).</source>
+        <target>)။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1488]"><source>Human Rights Section worked with the Public Information Office to make airtime available on Radio UNAMSIL for local human rights activists and women leaders. Formats differed for these shows, but included round table discussions, call-in shows and debates.</source>
         <target>Human Rights Section worked with the Public Information Office to make airtime available on Radio UNAMSIL for local human rights activists and women leaders. Formats differed for these shows, but included round table discussions, call-in shows and debates.</target>
