@@ -1496,8 +1496,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[895]/text:span[0]"><source>United Nations Truce Supervision Organization</source>
         <target>United Nations Truce Supervision Organization</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[3]"><source>Ten Rules: Code of Personal Conduct for Blue Helmets </source>
-        <target>Ten Rules: Code of Personal Conduct for Blue Helmets </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[3]" approved="yes"><source>Ten Rules: Code of Personal Conduct for Blue Helmets </source>
+        <target>စည်းကမ်းချက်(၁၀)ချက်။အပြာရောင်သံခမောက်ဆောင်းသူများအတွက် ကိုယ်ရေးကိုယ်တာ ကျင့်ဝတ်စည်းကမ်း </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[4]" approved="yes"><source>and </source>
         <target>နှင့် </target>
@@ -1517,8 +1517,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[5]" approved="yes"><source>We are United Nations Peacekeepers </source>
         <target>ကျွန်ုပ်တို့သည် ကုလသမဂ္ဂငြိမ်းချမ်းရေးထိန်းသိမ်းသူများဖြစ်ကြသည် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[6]"><source>for standards of conduct for uniformed personnel serving in UN field missions and </source>
-        <target>for standards of conduct for uniformed personnel serving in UN field missions and </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[6]" approved="yes"><source>for standards of conduct for uniformed personnel serving in UN field missions and </source>
+        <target>ကုလသမဂ္ဂကွင်းဆင်းမစ်ရှင်များတွင် ယူနီဖောင်းဝတ် တာဝန်ထမ်းဆောင်သူများအတွက် စံချိန်စံနှုန်းများနှင့် </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[914]/text:span[0]"><source>The military element of UNPROFOR deployed in the republic consisted of formed troops and unarmed military observers. Since the border with the FRY had not been definitively delineated, one of the first tasks UNPROFOR military had to undertake was to defuse tense situations arising from unauthorized border crossings and encounters between military patrols from both sides. In 1994, UNPROFOR negotiated a military administrative boundary between the two parties to manage the border-crossing incidents. UNPROFOR also monitored developments inside the country with a view to promoting reconciliation among various political and ethnic groups.</source>
         <target>The military element of UNPROFOR deployed in the republic consisted of formed troops and unarmed military observers. Since the border with the FRY had not been definitively delineated, one of the first tasks UNPROFOR military had to undertake was to defuse tense situations arising from unauthorized border crossings and encounters between military patrols from both sides. In 1994, UNPROFOR negotiated a military administrative boundary between the two parties to manage the border-crossing incidents. UNPROFOR also monitored developments inside the country with a view to promoting reconciliation among various political and ethnic groups.</target>
@@ -1544,8 +1544,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[924]"><source><g id="310">Demining. </g>The military component will normally be responsible for mine and explosives clearance for the operational needs of the peacekeeping operation, such as movement and deployment of troops and other personnel, maintenance of supply lines to deployment sites and increased access to all parts of the mission area. The military will normally not undertake demining for strictly humanitarian purposes, such as reclaiming land for agriculture and the return of displaced persons, because these are seen as civilian activities requiring long-term and sustainable solutions implemented by national authorities.</source>
         <target><g id="310">Demining. </g>The military component will normally be responsible for mine and explosives clearance for the operational needs of the peacekeeping operation, such as movement and deployment of troops and other personnel, maintenance of supply lines to deployment sites and increased access to all parts of the mission area. The military will normally not undertake demining for strictly humanitarian purposes, such as reclaiming land for agriculture and the return of displaced persons, because these are seen as civilian activities requiring long-term and sustainable solutions implemented by national authorities.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[8]"><source>(ST/SGB/1998/19) for standards applicable to civilian staff.</source>
-        <target>(ST/SGB/1998/19) for standards applicable to civilian staff.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[428]/text:span[8]" approved="yes"><source>(ST/SGB/1998/19) for standards applicable to civilian staff.</source>
+        <target>(ST/SGB/1998/19)အရပ်ဘက်ဝန်ထမ်းများလျှောက်ထားရန်စံချိန်စံညွှန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[742]/text:span[0]" approved="yes"><source>Contributing to Free and Fair Elections in Cambodia</source>
         <target>ကမ္ဘောဒီးယာတွင် လွတ်လပ်၍မျှတသောရွေးကောက်ပွဲများဖြစ်စေရန် ထောက်ပံ့ခြင်း</target>
