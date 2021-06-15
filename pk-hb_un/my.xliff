@@ -524,8 +524,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[0]" approved="yes"><source>Reviews by the Security Council</source>
         <target>ကုလသမဂ္ဂလုံခြုံရေးကောင်စီမှ ပြန်လည်သုံးသပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[2]"><source>assistance;</source>
-        <target>assistance;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>assistance;</source>
+        <target>အထောက်အပံ့ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[34]/text:span[0]" approved="yes"><source>Transferring Responsibilities</source>
         <target>တာဝန်များလွှဲပြောင်းခြင်း</target>
@@ -764,8 +764,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[186]" approved="yes"><source>UNAMSIL<g id="132"/>United Nations Mission in Sierra Leone UNAVEM<g id="133"/>United Nations Angola Verification <g id="134">Mission </g>UNDAF<g id="135"/>United Nations Development Framework</source>
         <target>UNAMSIL<g id="132"/>United Nations Mission in Sierra Leone UNAVEM<g id="133"/>United Nations Angola Verification <g id="134">Mission </g>UNDAF<g id="135"/>United Nations Development Framework</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[119]/text:list-item[0]/text:p[0]/text:span[0]"><source>Respect for basic rights;</source>
-        <target>Respect for basic rights;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[119]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Respect for basic rights;</source>
+        <target>အခြေခံအခွင့်အရေးများအား အလေးထားမှု ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[190]" approved="yes"><source>UNHCR<g id="141"/>United Nations High Commissioner for <g id="142">Refugees </g>UNICEF<g id="143"/>United Nations Children’s Fund</source>
         <target>UNHCR<g id="141"/>United Nations High Commissioner for <g id="142">Refugees </g>UNICEF<g id="143"/>United Nations Children’s Fund</target>
@@ -815,8 +815,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[214]" approved="yes"><source>UN peacekeeping is based on the principle that an impartial presence on the ground can ease tensions between hostile parties and create space for political negotiations.</source>
         <target>ကုလသမဂ္ဂငြိမ်းချမ်းရေးထိန်းသိမ်းမှုသည်မြေပြင်ပေါ်တွင်ဘက်မလိုက်ဘဲရှိနေခြင်းဖြင့်ရန်လိုသောပါတီများအကြားတင်းမာမှုများကိုလျော့ပါးစေပြီးနိုင်ငံရေးစေ့စပ်ညှိနှိုင်းမှုများအတွက်နေရာဖန်တီးနိုင်သည့်နိယာမကိုအခြေခံသည်။</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[123]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>person;</source>
-        <target>person;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[123]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>person;</source>
+        <target>လူ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[956]/text:span[0]"><source>Land forces, which are the most commonly contributed forces for UN peacekeeping operations, are grouped by size as follows:</source>
         <target>Land forces, which are the most commonly contributed forces for UN peacekeeping operations, are grouped by size as follows:</target>
@@ -947,8 +947,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]/text:span[1]" approved="yes"><source>. </source>
         <target>။ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Victim</source>
-        <target>Victim</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Victim</source>
+        <target>ဒုက္ခသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[0]"><source>Destruction of stockpiled APMs;</source>
         <target>Destruction of stockpiled APMs;</target>
@@ -956,8 +956,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[696]/draw:custom-shape[0]/text:p[7]/text:span[0]"><source>In the field, five regional administrations, 30 municipal administrations and 24 local community offices were established. This structure has remained constant; degrees of responsibility and resources have varied depending on the phase of the mission.</source>
         <target>In the field, five regional administrations, 30 municipal administrations and 24 local community offices were established. This structure has remained constant; degrees of responsibility and resources have varied depending on the phase of the mission.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
-        <target>and</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>and</source>
+        <target>နှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[712]"><source>information should be among the first elements to be deployed in the mission area and should become operational as soon as possible.</source>
         <target>information should be among the first elements to be deployed in the mission area and should become operational as soon as possible.</target>
@@ -2012,8 +2012,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[95]/text:list-item[0]/text:p[0]/text:span[0]"><source>Protection of property and lives;</source>
         <target>Protection of property and lives;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[96]/text:list-item[0]/text:p[0]/text:span[0]"><source>Investigation of crime and criminality;</source>
-        <target>Investigation of crime and criminality;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[96]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Investigation of crime and criminality;</source>
+        <target>ပြစ်မှုနှင့် ပြစ်မှုမြောက်သောလုပ်ရပ်များအား စုံစမ်းစစ်ဆေးခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[66]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>(radio, </source>
         <target>(ရေဒီယို၊ </target>
@@ -2021,11 +2021,11 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[66]/text:list-item[0]/text:p[0]/text:span[2]"><source>television, print, theatre, dance and music performances, town criers, etc.).</source>
         <target>television, print, theatre, dance and music performances, town criers, etc.).</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[97]/text:list-item[0]/text:p[0]/text:span[0]"><source>Enforcement of law and order; and</source>
-        <target>Enforcement of law and order; and</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[97]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Enforcement of law and order; and</source>
+        <target>တရားဥပဒေစိုးမိုးရေးနှင့်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[98]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assistance and support to capacity-building for the local police.</source>
-        <target>Assistance and support to capacity-building for the local police.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[98]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Assistance and support to capacity-building for the local police.</source>
+        <target>နယ်မြေခံရဲများ၏ စွမ်းဆောင်ရည်တည်ဆောက်ခြင်းအား ကူညီထောက်ပံ့သည်။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1266]/text:span[0]"><source>In addition, UNMIK special police units carried out public order functions, such as crowd control and area security, while UN border police ensured compliance with immigration laws and other border regulations.</source>
         <target>In addition, UNMIK special police units carried out public order functions, such as crowd control and area security, while UN border police ensured compliance with immigration laws and other border regulations.</target>
@@ -2033,8 +2033,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1268]"><source>A civilian police component mandated with executive authority requires a large number of experienced personnel to carry out the full range of law enforcement tasks. In fulfilling executive responsibilities, civilian police are expected to evaluate and respond to the constantly changing situation in the mission area while working strictly within the parameters of the mandate.</source>
         <target>A civilian police component mandated with executive authority requires a large number of experienced personnel to carry out the full range of law enforcement tasks. In fulfilling executive responsibilities, civilian police are expected to evaluate and respond to the constantly changing situation in the mission area while working strictly within the parameters of the mandate.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[81]/text:span[0]"><source>Cooperation and Key Partnerships</source>
-        <target>Cooperation and Key Partnerships</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[81]/text:span[0]" approved="yes"><source>Cooperation and Key Partnerships</source>
+        <target>အဓိကမိတ်ဖက်များနှင့် ပူးပေါင်းဆောင်ရွက်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[321]"><source>The SRSG reports to the Under-Secretary-General for Peacekeeping Operations and through him or her keeps the relevant offices at Headquarters fully informed of developments in the field, including achievements, challenges and obstacles so that Headquarters can better provide substantive guidance and support. The Department of Peacekeeping Operations (DPKO) also undertakes or facilitates consultations with other offices and departments at Headquarters level, in particular the Department of Political Affairs (DPA).</source>
         <target>The SRSG reports to the Under-Secretary-General for Peacekeeping Operations and through him or her keeps the relevant offices at Headquarters fully informed of developments in the field, including achievements, challenges and obstacles so that Headquarters can better provide substantive guidance and support. The Department of Peacekeeping Operations (DPKO) also undertakes or facilitates consultations with other offices and departments at Headquarters level, in particular the Department of Political Affairs (DPA).</target>
@@ -2060,8 +2060,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1280]"><source><g id="372">Other police entities. </g>Coordination and cooperation is also essential with other entities, including bilateral partners, who may be able to provide support and training to local police. New operational and institution-building capabilities for police reform and training are emerging in other organizations, most notably in the OSCE and the European Union, which can be tapped. The UN can benefit by cooperating closely with these entities, who may be able to take over the institution-building role once the UN mission departs, as was the case in Bosnia and Herzegovina in 2003.</source>
         <target><g id="372">Other police entities. </g>Coordination and cooperation is also essential with other entities, including bilateral partners, who may be able to provide support and training to local police. New operational and institution-building capabilities for police reform and training are emerging in other organizations, most notably in the OSCE and the European Union, which can be tapped. The UN can benefit by cooperating closely with these entities, who may be able to take over the institution-building role once the UN mission departs, as was the case in Bosnia and Herzegovina in 2003.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[82]/text:span[0]"><source>Future Directions</source>
-        <target>Future Directions</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[82]/text:span[0]" approved="yes"><source>Future Directions</source>
+        <target>အနာဂတ်ရည်မှန်းချက်များ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1059]"><source><g id="326">Marking. </g>Minefield marking is used when a mined area is identified but clearance operations cannot immediately take place. Signs, markings or physical barriers are used to identify the boundaries of hazardous areas. Minefield marking is designed to warn</source>
         <target><g id="326">Marking. </g>Minefield marking is used when a mined area is identified but clearance operations cannot immediately take place. Signs, markings or physical barriers are used to identify the boundaries of hazardous areas. Minefield marking is designed to warn</target>
@@ -2081,8 +2081,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1298]"><source>of law and is the starting point for effective law enforcement and criminal justice. This requires the enactment of legislation that demonstrates the government’s commitment to internationally recognized minimum standards of justice and human rights. This can be achieved in several ways, including ratifying appropriate international treaties or covenants and incorporating them into national legislation or through the overhaul of existing legislation to ensure compliance with international norms and minimum standards for criminal justice. The law of the land must provide ordinary citizens with the means of legal redress if their rights have been violated.</source>
         <target>of law and is the starting point for effective law enforcement and criminal justice. This requires the enactment of legislation that demonstrates the government’s commitment to internationally recognized minimum standards of justice and human rights. This can be achieved in several ways, including ratifying appropriate international treaties or covenants and incorporating them into national legislation or through the overhaul of existing legislation to ensure compliance with international norms and minimum standards for criminal justice. The law of the land must provide ordinary citizens with the means of legal redress if their rights have been violated.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[84]/text:span[0]"><source>The Judiciary and UN Peacekeeping</source>
-        <target>The Judiciary and UN Peacekeeping</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[84]/text:span[0]" approved="yes"><source>The Judiciary and UN Peacekeeping</source>
+        <target>တရားစီရင်ရေးနှင့် ကုလသမဂ္ဂငြိမ်းချမ်းရေးထိန်းသိမ်းမှု</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1301]"><source>UN peacekeeping operations have only recently become directly involved in judicial assistance and support efforts. The peacekeeping operations in Kosovo, Timor-Leste and Afghanistan—all established since 1999—have been mandated to provide such assistance. In Kosovo, the Department of Justice remains under international control through UNMIK with minimal involvement of local actors.<g id="375"><g id="376">2</g></g><g id="377"> </g>In Timor-Leste, the office of judicial affairs of the United Nations Transitional Administration in East Timor (UNTAET) was established to assist in building a national judiciary and justice framework. International advisers continued to assist the East Timorese in the justice sector even after independence in May 2002. In Afghanistan, the mandate of the United Nations Assistance Mission in Afghanistan (UNAMA) is of an advisory nature: to support the new Afghan Government’s efforts to establish a credible governance capacity, including for the rule of law and administration of justice. UNAMA provides advisory support to the Government and its bilateral partners in the justice sector.</source>
         <target>UN peacekeeping operations have only recently become directly involved in judicial assistance and support efforts. The peacekeeping operations in Kosovo, Timor-Leste and Afghanistan—all established since 1999—have been mandated to provide such assistance. In Kosovo, the Department of Justice remains under international control through UNMIK with minimal involvement of local actors.<g id="375"><g id="376">2</g></g><g id="377"> </g>In Timor-Leste, the office of judicial affairs of the United Nations Transitional Administration in East Timor (UNTAET) was established to assist in building a national judiciary and justice framework. International advisers continued to assist the East Timorese in the justice sector even after independence in May 2002. In Afghanistan, the mandate of the United Nations Assistance Mission in Afghanistan (UNAMA) is of an advisory nature: to support the new Afghan Government’s efforts to establish a credible governance capacity, including for the rule of law and administration of justice. UNAMA provides advisory support to the Government and its bilateral partners in the justice sector.</target>
@@ -2102,8 +2102,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1306]"><source>In broad terms, judicial reform activities occur on three main levels: institutional, technical and legislative, and political. The institutional dimension addresses the management of court administration, including the rehabilitation of infrastructure, logistical and administrative support and the organization and operation of the courts. The technical and legislative dimension concentrates on reform of the applicable law and associated regulations. The political dimension focuses on ensuring judicial independence, including the appointment and disciplining of judges and prosecutors.</source>
         <target>In broad terms, judicial reform activities occur on three main levels: institutional, technical and legislative, and political. The institutional dimension addresses the management of court administration, including the rehabilitation of infrastructure, logistical and administrative support and the organization and operation of the courts. The technical and legislative dimension concentrates on reform of the applicable law and associated regulations. The political dimension focuses on ensuring judicial independence, including the appointment and disciplining of judges and prosecutors.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1309]/text:span[0]"><source>2</source>
-        <target>2</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1309]/text:span[0]" approved="yes"><source>2</source>
+        <target>၂</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1309]/text:span[2]"><source>This is mainly due to the unique legal and political status of Kosovo, the volatile security situation and organized crime activities.</source>
         <target>This is mainly due to the unique legal and political status of Kosovo, the volatile security situation and organized crime activities.</target>
@@ -2129,8 +2129,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1327]"><source>countries.<g id="379"><g id="380">3</g></g><g id="381"> While UN peacekeeping is a relatively new player in providing support to the judicial sector, several agencies in the international community have substantial existing capacity and experience in a range of these functions. The Office of the High Commissioner for Human Rights (OHCHR), and numerous human rights organizations, development funds and programmes, such as the United Nations Development Programme (UNDP), all perform a range of important technical advisory and institution- building roles to support judicial reform. They are also more likely to have the capacity to work at the grass-roots and civil society level and are thus indispensable partners in peacebuilding efforts. Bilaterally, governments are also often interested in directly funding or supporting courts and judicial systems as well as in building the capacity of prosecutorial and public defence institutions. Coordination and integration of assistance programmes in the justice sector is essential.</g></source>
         <target>countries.<g id="379"><g id="380">3</g></g><g id="381"> While UN peacekeeping is a relatively new player in providing support to the judicial sector, several agencies in the international community have substantial existing capacity and experience in a range of these functions. The Office of the High Commissioner for Human Rights (OHCHR), and numerous human rights organizations, development funds and programmes, such as the United Nations Development Programme (UNDP), all perform a range of important technical advisory and institution- building roles to support judicial reform. They are also more likely to have the capacity to work at the grass-roots and civil society level and are thus indispensable partners in peacebuilding efforts. Bilaterally, governments are also often interested in directly funding or supporting courts and judicial systems as well as in building the capacity of prosecutorial and public defence institutions. Coordination and integration of assistance programmes in the justice sector is essential.</g></target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[86]/text:span[0]"><source>Applicable Law</source>
-        <target>Applicable Law</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[86]/text:span[0]" approved="yes"><source>Applicable Law</source>
+        <target>သက်ဆိုင်သောဥပဒေ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1119]/text:span[2]"><source>Landmine Monitor Report</source>
         <target>Landmine Monitor Report</target>
@@ -2195,14 +2195,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[125]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Pre-trial detention shall be the exception rather than the</source>
         <target>Pre-trial detention shall be the exception rather than the</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[125]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>rule;</source>
-        <target>rule;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[125]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>rule;</source>
+        <target>စည်းမျဉ်း စည်းကမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[126]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>No detainee shall be subject to torture or to cruel or inhuman or degrading treatment or punishment or to any form of violence or</source>
         <target>No detainee shall be subject to torture or to cruel or inhuman or degrading treatment or punishment or to any form of violence or</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[126]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>threats;</source>
-        <target>threats;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[126]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>threats;</source>
+        <target>ခြိမ်းခြောက်မှုများ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[131]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Detainees shall be kept in humane facilities, designed to preserve health and shall be provided with adequate water, food, shelter, clothing, medical services, exercise and items of personal hygiene;</source>
         <target>Detainees shall be kept in humane facilities, designed to preserve health and shall be provided with adequate water, food, shelter, clothing, medical services, exercise and items of personal hygiene;</target>
@@ -2231,8 +2231,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1381]"><source>In the future, UN peacekeeping operations may have more advisory, capacity-building and training responsibilities relating to corrections. Responsibilities may include designing and conducting training packages, monitoring local personnel and supporting the development of institutional capacity, both operational and administrative, by providing technical advice. The service standards of UN personnel in these roles will also need to reflect international standards. The UN may also be asked to ensure that the corrections system in post-conflict situations is lawful and safe and operates in full compliance with international correctional standards. The corrections system should work alongside the local police, courts and other partners in the criminal justice system and should strengthen the rule of law, which is critical for building a sustainable peace.</source>
         <target>In the future, UN peacekeeping operations may have more advisory, capacity-building and training responsibilities relating to corrections. Responsibilities may include designing and conducting training packages, monitoring local personnel and supporting the development of institutional capacity, both operational and administrative, by providing technical advice. The service standards of UN personnel in these roles will also need to reflect international standards. The UN may also be asked to ensure that the corrections system in post-conflict situations is lawful and safe and operates in full compliance with international correctional standards. The corrections system should work alongside the local police, courts and other partners in the criminal justice system and should strengthen the rule of law, which is critical for building a sustainable peace.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[89]/text:span[0]"><source>CHAPTER VIII: HUMAN RIGHTS</source>
-        <target>CHAPTER VIII: HUMAN RIGHTS</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[89]/text:span[0]" approved="yes"><source>CHAPTER VIII: HUMAN RIGHTS</source>
+        <target>အခန်း ၈ : လူ့အခွင့်အရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[134]/text:list-item[0]/text:p[0]/text:span[0]"><source>Investigating and verifying past human rights violations;</source>
         <target>Investigating and verifying past human rights violations;</target>
@@ -3638,8 +3638,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[378]"><source>The main interlocutors for the SRSG in the political process are the parties to the conflict, which can include the host government, local administrative or governmental entities, armed regular and irregular forces, local militia groups and opposition groups. Focal points for contacts and relations with or among the parties may, of course, change in the course of the peace process due to evolving political and military realities. As appropriate, the SRSG takes the lead in solving any problem that may arise between the parties, as well as any that may arise between the UN and one or more of the parties. The SRSG retains flexibility within the confines of the mandate and must maintain impartiality and fairness toward all sides. At the same time, the SRSG must demonstrate resolve and firmness, as necessary, when balancing these sensitive relationships. The SRSG develops and maintains these relations through regular contact and information sharing.</source>
         <target>The main interlocutors for the SRSG in the political process are the parties to the conflict, which can include the host government, local administrative or governmental entities, armed regular and irregular forces, local militia groups and opposition groups. Focal points for contacts and relations with or among the parties may, of course, change in the course of the peace process due to evolving political and military realities. As appropriate, the SRSG takes the lead in solving any problem that may arise between the parties, as well as any that may arise between the UN and one or more of the parties. The SRSG retains flexibility within the confines of the mandate and must maintain impartiality and fairness toward all sides. At the same time, the SRSG must demonstrate resolve and firmness, as necessary, when balancing these sensitive relationships. The SRSG develops and maintains these relations through regular contact and information sharing.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1093]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Emergency Situations</source>
-        <target>Emergency Situations</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1093]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Emergency Situations</source>
+        <target>အရေးပေါ်အခြေအနေများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2111]"><source><g id="520">Coordination and support for international observers. </g>This approach is used when several countries, intergovernmental organizations or NGOs have been invited by a <g id="521">country </g>to send election observers. The aim of the process is to integrate and coordinate the observation efforts. Various mechanisms were adopted in South Africa, where the UN played the lead role in coordinating the work of the observer missions of the Commonwealth, the European Union (EU) and the Organization of African Unity <g id="522">(OAU). </g>Such coordination needs may also arise in a peacekeeping mission, as in Mozambique.</source>
         <target><g id="520">Coordination and support for international observers. </g>This approach is used when several countries, intergovernmental organizations or NGOs have been invited by a <g id="521">country </g>to send election observers. The aim of the process is to integrate and coordinate the observation efforts. Various mechanisms were adopted in South Africa, where the UN played the lead role in coordinating the work of the observer missions of the Commonwealth, the European Union (EU) and the Organization of African Unity <g id="522">(OAU). </g>Such coordination needs may also arise in a peacekeeping mission, as in Mozambique.</target>
@@ -4109,8 +4109,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[254]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>capacities of those involved in the process;</source>
         <target>capacities of those involved in the process;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[105]/text:list-item[0]/text:p[0]/text:span[0]"><source>Mentor and advise judges, prosecutors and lawyers;</source>
-        <target>Mentor and advise judges, prosecutors and lawyers;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[105]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Mentor and advise judges, prosecutors and lawyers;</source>
+        <target>တရားသူကြီးများ၊ အစိုးရရှေ့နေများနှင့် ဥပဒေအကျိုးဆောင်များအား လမ်းညွှန်အကြံပေးသည် ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[255]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Material and financial support to build institutions and structures; and</source>
         <target>Material and financial support to build institutions and structures; and</target>
@@ -5963,8 +5963,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1035]/text:span[3]"><source>The Development of Indigenous Mine Action Capacities</source>
         <target>The Development of Indigenous Mine Action Capacities</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1035]/text:span[4]"><source>, New York, 1997.</source>
-        <target>, New York, 1997.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1035]/text:span[4]" approved="yes"><source>, New York, 1997.</source>
+        <target>၊ နယူးယောက်၊ 1997။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1036]"><source>implemented to ensure 100 percent clearance and all activities are based on humanitarian principles and priorities.</source>
         <target>implemented to ensure 100 percent clearance and all activities are based on humanitarian principles and priorities.</target>
@@ -5975,8 +5975,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Mine risk</source>
         <target>Mine risk</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>education;</source>
-        <target>education;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1037]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>education;</source>
+        <target>ပညာရေး ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[80]/text:list-item[0]/text:p[0]/text:span[0]"><source>United Nations Missions in Ethiopia and Eritrea (UNMEE);</source>
         <target>United Nations Missions in Ethiopia and Eritrea (UNMEE);</target>
@@ -6170,8 +6170,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1324]"><source>Where peacekeeping mandates have included executive authority, as in UNMIK and UNTAET, missions have had the dual responsibility for the administration of justice and the re-establishment of the justice system. In these missions, international personnel have performed critical functions in the justice system, including working as judges and prosecutors, in order to expedite and assist with judicial proceedings, especially in sensitive and controversial cases and to ensure that these proceedings were conducted in an independent and impartial manner and in accordance with international standards.</source>
         <target>Where peacekeeping mandates have included executive authority, as in UNMIK and UNTAET, missions have had the dual responsibility for the administration of justice and the re-establishment of the justice system. In these missions, international personnel have performed critical functions in the justice system, including working as judges and prosecutors, in order to expedite and assist with judicial proceedings, especially in sensitive and controversial cases and to ensure that these proceedings were conducted in an independent and impartial manner and in accordance with international standards.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[83]/text:span[0]"><source>The Judiciary</source>
-        <target>The Judiciary</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[83]/text:span[0]" approved="yes"><source>The Judiciary</source>
+        <target>တရားစီရင်ရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1289]"><source>Until recently, rule of law efforts in peacekeeping operations consisted, almost entirely, of working with local police, while support for the judiciary was left mainly to human rights organizations, development agencies and bilateral actors. With the growing recognition that reforming police is not sustainable in the absence of effective administration of justice, support for the judiciary has become a part of a few, recent peacekeeping missions. Regardless of how effective, humane and responsive a police service is, it is likely to lose credibility and public cooperation if other elements of the justice system, such as the judiciary and the corrections system, are not functioning or dysfunctional.</source>
         <target>Until recently, rule of law efforts in peacekeeping operations consisted, almost entirely, of working with local police, while support for the judiciary was left mainly to human rights organizations, development agencies and bilateral actors. With the growing recognition that reforming police is not sustainable in the absence of effective administration of justice, support for the judiciary has become a part of a few, recent peacekeeping missions. Regardless of how effective, humane and responsive a police service is, it is likely to lose credibility and public cooperation if other elements of the justice system, such as the judiciary and the corrections system, are not functioning or dysfunctional.</target>
@@ -6191,8 +6191,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[118]/text:list-item[0]/text:p[0]/text:span[1]"><source>as </source>
         <target>as </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[85]/text:span[0]"><source>Support for the Judiciary</source>
-        <target>Support for the Judiciary</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[85]/text:span[0]" approved="yes"><source>Support for the Judiciary</source>
+        <target>တရားစီရင်ရေးအား ထောက်ပံ့သည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1313]"><source>In providing assistance to the judiciary, a peacekeeping mission may be called on <g id="378">to </g>perform the following roles:</source>
         <target>In providing assistance to the judiciary, a peacekeeping mission may be called on <g id="378">to </g>perform the following roles:</target>
@@ -6203,8 +6203,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[99]/text:list-item[0]/text:p[0]/text:span[1]"><source>on </source>
         <target>on </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[99]/text:list-item[0]/text:p[0]/text:span[2]"><source>judges, prosecutors and courts;</source>
-        <target>judges, prosecutors and courts;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[99]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>judges, prosecutors and courts;</source>
+        <target>တရားသူကြီးများ၊ အစိုးရရှေ့နေများနှင့် တရားရုံးများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[100]/text:list-item[0]/text:p[0]/text:span[0]"><source>Advise on the appointment and selection of judges, judicial tenure and judicial discipline;</source>
         <target>Advise on the appointment and selection of judges, judicial tenure and judicial discipline;</target>
@@ -6215,8 +6215,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1332]"><source>UN judicial advisers may also be responsible for reviewing and revising the existing penal code to ensure its conformity with appropriate minimum international standards. The authorities, the local legal community and the population may resist change if they view their existing laws as legitimate, well integrated into legal practice, fairly applied and in harmony with traditional values and customs. In such situations, judicial advisers, in collaboration with their local interlocutors, may be asked to formulate a process that would encourage the evolution of the post-conflict legal order in keeping with international norms and standards but in a culturally acceptable manner. The emergent legal code should be recognized and seen to be legitimate by the local population or it will not be sustainable and the local judiciary may not be able to enforce it.</source>
         <target>UN judicial advisers may also be responsible for reviewing and revising the existing penal code to ensure its conformity with appropriate minimum international standards. The authorities, the local legal community and the population may resist change if they view their existing laws as legitimate, well integrated into legal practice, fairly applied and in harmony with traditional values and customs. In such situations, judicial advisers, in collaboration with their local interlocutors, may be asked to formulate a process that would encourage the evolution of the post-conflict legal order in keeping with international norms and standards but in a culturally acceptable manner. The emergent legal code should be recognized and seen to be legitimate by the local population or it will not be sustainable and the local judiciary may not be able to enforce it.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[87]/text:span[0]"><source>War Crimes and Serious Human Rights Violations</source>
-        <target>War Crimes and Serious Human Rights Violations</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[87]/text:span[0]" approved="yes"><source>War Crimes and Serious Human Rights Violations</source>
+        <target>စစ်ရာဇဝတ်မှုများနှင့် လူ့အခွင့်အရေးအားပြင်းထန်စွာချိုးဖောက်ခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1337]/text:span[0]"><source>3</source>
         <target>3</target>
@@ -6257,29 +6257,29 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[127]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Detained persons shall be held only in officially recognized places of detention and their families and legal representatives are to receive full</source>
         <target>Detained persons shall be held only in officially recognized places of detention and their families and legal representatives are to receive full</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[127]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>information;</source>
-        <target>information;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[127]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>information;</source>
+        <target>သတင်းအချက်အလက် ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[128]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Decisions about duration and legality of detention are to be made by a judicial or equivalent</source>
         <target>Decisions about duration and legality of detention are to be made by a judicial or equivalent</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[128]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>authority;</source>
-        <target>authority;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[128]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>authority;</source>
+        <target>အခွင့်အာဏာ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[129]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Detainees shall have the right to be informed of the reason for detention and charges against</source>
         <target>Detainees shall have the right to be informed of the reason for detention and charges against</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[129]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>them;</source>
-        <target>them;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[129]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>them;</source>
+        <target>သူတို့ကို;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[130]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Detainees have the right to contact the outside world and to visits from</source>
-        <target>Detainees have the right to contact the outside world and to visits from</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[130]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Detainees have the right to contact the outside world and to visits from</source>
+        <target>ဖမ်းဆီးထိန်းသိမ်းခံရသူများသည် ပြင်ပကမ္ဘာနှင့် ကူးလူးဆက်သွယ်ရန် အခွင့်ရှိသည်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[130]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>family members and the right to communicate privately and in person with a legal representative;</source>
         <target>family members and the right to communicate privately and in person with a legal representative;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[131]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
-        <target>and</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[131]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>and</source>
+        <target>နှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[132]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Every detainee shall have the right to appear before a judicial authority and to have the legality of his or her detention</source>
         <target>Every detainee shall have the right to appear before a judicial authority and to have the legality of his or her detention</target>
@@ -6293,8 +6293,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[142]/text:list-item[0]/text:p[0]/text:span[0]"><source>Identifying and integrating a human rights perspective into programmes </source>
         <target>Identifying and integrating a human rights perspective into programmes </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[90]/text:span[0]"><source>The Role of Human Rights in Peacekeeping Operations</source>
-        <target>The Role of Human Rights in Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[90]/text:span[0]" approved="yes"><source>The Role of Human Rights in Peacekeeping Operations</source>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဉ်ရှိ လူ့အခွင့်အရေး၏ အခန်းကဏ္ဍများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1385]"><source>As large-scale human rights violations are both a root cause as well as an outcome of many modern conflicts, addressing human rights issues has become an integral part of most major United Nations (UN) peacekeeping operations. Depending on the mandate <g id="389">of </g>a peacekeeping operation, human rights work may include:</source>
         <target>As large-scale human rights violations are both a root cause as well as an outcome of many modern conflicts, addressing human rights issues has become an integral part of most major United Nations (UN) peacekeeping operations. Depending on the mandate <g id="389">of </g>a peacekeeping operation, human rights work may include:</target>
