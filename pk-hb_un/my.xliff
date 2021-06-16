@@ -6,7 +6,7 @@
         <target state="final">ငြိမ်းချမ်းရေးထိန်းသိမ်းမှု အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့၊ ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုဌာန </target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[13]/draw:g[0]/draw:frame[1]/draw:text-box[0]/text:p[4]/text:span[0]" approved="yes"><source>Handbook on United Nations Multidimensional Peacekeeping Operations</source>
-        <target state="final">ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ် လက်စွဲ</target>
+        <target state="final">ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[124]/text:span[0]"><source>Road Safety Committee</source>
         <target>Road Safety Committee</target>
@@ -926,8 +926,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1110]/text:span[1]"><source>FAO works in the recovery of the agricultural sector in countries affected by complex emergencies.</source>
         <target>FAO works in the recovery of the agricultural sector in countries affected by complex emergencies.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[157]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>and</source>
-        <target>and</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[157]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>and</source>
+        <target>နှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[187]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>resolution;</source>
         <target>resolution;</target>
@@ -1241,8 +1241,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[678]"><source>Joint administrative bodies were also established by UNMIK and UNTAET, bringing together local and international political leaders and experts to jointly administer areas <g id="249">in </g>certain sectors. As local actors take on more responsibility, civil affairs assumes a supporting and advising role. This can include capacity-building through training programmes or awareness, reconciliation and community education initiatives.</source>
         <target>Joint administrative bodies were also established by UNMIK and UNTAET, bringing together local and international political leaders and experts to jointly administer areas <g id="249">in </g>certain sectors. As local actors take on more responsibility, civil affairs assumes a supporting and advising role. This can include capacity-building through training programmes or awareness, reconciliation and community education initiatives.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]"><source>Ensure that the technical assistance team includes experts with explicit</source>
-        <target>Ensure that the technical assistance team includes experts with explicit</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Ensure that the technical assistance team includes experts with explicit</source>
+        <target>နည်းပညာအကူအညီပေးရေးအဖွဲ့တွင် ပညာရှင်များ၏ ပြည့်စုံစွာဖော်ပြထားခြင်းများ ပါဝင်ပါစေ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[680]"><source>Providing advice and assistance may also include supervising and monitoring the local administration, parties or host government to ensure compliance with the objectives of the mandate. Civil affairs officers may participate in the negotiation of agreements with local authorities to ensure adherence to the mandate. Civil affairs officers therefore formulate their advice and guidance in ways to promote the mandate, and may even directly intervene, particularly in interim administrations, to assert authority on behalf <g id="250">of </g>the SRSG. This can help civil affairs officers initiate programmes to benefit the local people in the area; such programmes must stay within the terms of the mandate.</source>
         <target>Providing advice and assistance may also include supervising and monitoring the local administration, parties or host government to ensure compliance with the objectives of the mandate. Civil affairs officers may participate in the negotiation of agreements with local authorities to ensure adherence to the mandate. Civil affairs officers therefore formulate their advice and guidance in ways to promote the mandate, and may even directly intervene, particularly in interim administrations, to assert authority on behalf <g id="250">of </g>the SRSG. This can help civil affairs officers initiate programmes to benefit the local people in the area; such programmes must stay within the terms of the mandate.</target>
@@ -1895,8 +1895,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[65]/text:list-item[0]/text:p[0]/text:span[0]"><source>Identify and develop key messages that support mission priorities; and</source>
         <target>Identify and develop key messages that support mission priorities; and</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]"><source>gender analysis</source>
-        <target>gender analysis</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>gender analysis</source>
+        <target>ကျားမ ခွဲခြမ်းစိတ်ဖြာခြင်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1209]"><source>Monitoring approaches and concepts have shifted increasingly towards a process of advising and working with local counterparts. This process of advising local police, which includes observation, advice, supervision and reporting on counterparts, continues to be a core civilian police role in multidimensional peacekeeping missions. The process is not an end in itself, but a means to detect problems, identify steps to address them and assess the effectiveness of existing measures for redress. When working with a local police service, civilian police may look at the effectiveness of the local police command structure; its ability to conduct internal investigations; its relations with judicial authorities; and, most importantly, its relations with the community it is responsible for serving and protecting.</source>
         <target>Monitoring approaches and concepts have shifted increasingly towards a process of advising and working with local counterparts. This process of advising local police, which includes observation, advice, supervision and reporting on counterparts, continues to be a core civilian police role in multidimensional peacekeeping missions. The process is not an end in itself, but a means to detect problems, identify steps to address them and assess the effectiveness of existing measures for redress. When working with a local police service, civilian police may look at the effectiveness of the local police command structure; its ability to conduct internal investigations; its relations with judicial authorities; and, most importantly, its relations with the community it is responsible for serving and protecting.</target>
@@ -2054,8 +2054,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1278]"><source>Within the peacekeeping mission, input and advice should be sought from the political affairs, civil affairs, human rights and humanitarian assistance components when designing reform programmes for local police. Personnel from these components may be able to provide valuable insights into organized crime, property disputes, corruption and the special concerns of children, adolescents, IDPs and returning refugees. Public information officers in a peacekeeping operation are also important partners as they can help the civilian police develop public information strategies and key messages for the public to raise awareness about human rights issues and the role of police in society.</source>
         <target>Within the peacekeeping mission, input and advice should be sought from the political affairs, civil affairs, human rights and humanitarian assistance components when designing reform programmes for local police. Personnel from these components may be able to provide valuable insights into organized crime, property disputes, corruption and the special concerns of children, adolescents, IDPs and returning refugees. Public information officers in a peacekeeping operation are also important partners as they can help the civilian police develop public information strategies and key messages for the public to raise awareness about human rights issues and the role of police in society.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[4]"><source>experience;</source>
-        <target>experience;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[1]/text:list-item[0]/text:p[0]/text:span[4]" approved="yes"><source>experience;</source>
+        <target>အတွေ့အကြုံ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1280]"><source><g id="372">Other police entities. </g>Coordination and cooperation is also essential with other entities, including bilateral partners, who may be able to provide support and training to local police. New operational and institution-building capabilities for police reform and training are emerging in other organizations, most notably in the OSCE and the European Union, which can be tapped. The UN can benefit by cooperating closely with these entities, who may be able to take over the institution-building role once the UN mission departs, as was the case in Bosnia and Herzegovina in 2003.</source>
         <target><g id="372">Other police entities. </g>Coordination and cooperation is also essential with other entities, including bilateral partners, who may be able to provide support and training to local police. New operational and institution-building capabilities for police reform and training are emerging in other organizations, most notably in the OSCE and the European Union, which can be tapped. The UN can benefit by cooperating closely with these entities, who may be able to take over the institution-building role once the UN mission departs, as was the case in Bosnia and Herzegovina in 2003.</target>
@@ -2660,8 +2660,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[158]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Include, in Secretary-General reports to the Security Council, progress on gender mainstreaming in peacekeeping missions and all other fronts relating to women</source>
         <target>Include, in Secretary-General reports to the Security Council, progress on gender mainstreaming in peacekeeping missions and all other fronts relating to women</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[158]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>and girls.</source>
-        <target>and girls.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[158]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>and girls.</source>
+        <target>နှင့် မိန်းကလေးများ၊</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[104]/text:span[0]"><source>Gender Mainstreaming in Peacekeeping Operations</source>
         <target>Gender Mainstreaming in Peacekeeping Operations</target>
@@ -2690,8 +2690,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Draw on national commitments to women’s rights and gender</source>
         <target>Draw on national commitments to women’s rights and gender</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]"><source>Ensure that the views of women as well as men are included in the</source>
-        <target>Ensure that the views of women as well as men are included in the</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Ensure that the views of women as well as men are included in the</source>
+        <target>အမျိုးသမီးများသာမက အမျိုးသားများ၏ သဘောထားအမြင်များလည်း ပါဝင်ပါစေ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[2]/text:list-item[0]/text:p[0]/text:span[2]"><source>consultation process;</source>
         <target>consultation process;</target>
@@ -2705,8 +2705,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1610]/draw:custom-shape[0]/text:list[3]/text:list-item[0]/text:p[0]/text:span[2]"><source>affairs.</source>
         <target>affairs.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[105]/text:span[0]"><source>Gender Perspectives in Peacekeeping Activities</source>
-        <target>Gender Perspectives in Peacekeeping Activities</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[105]/text:span[0]" approved="yes"><source>Gender Perspectives in Peacekeeping Activities</source>
+        <target>ငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းများ၌ ကျားမရေးရာ သဘောထားအမြင်များ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1121]/text:span[0]"><source>Geneva International Centre for Humanitarian Demining (GICHD). </source>
         <target>Geneva International Centre for Humanitarian Demining (GICHD). </target>
@@ -2720,17 +2720,17 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[159]/text:list-item[1]/text:p[0]/text:span[0]"><source>Protecting and delivering humanitarian assistance;</source>
         <target>Protecting and delivering humanitarian assistance;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[160]/text:list-item[0]/text:p[0]/text:span[0]"><source>Conducting political or ceasefire negotiations;</source>
-        <target>Conducting political or ceasefire negotiations;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[160]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Conducting political or ceasefire negotiations;</source>
+        <target>နိုင်ငံရေး သို့မဟုတ် အပစ်အခတ်ရပ်စဲရေး ညှိနှိုင်းခြင်းများအား ဆောင်ရွက်ခြင်း ;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[161]/text:list-item[0]/text:p[0]/text:span[0]"><source>Strengthening the rule of law;</source>
-        <target>Strengthening the rule of law;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[161]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Strengthening the rule of law;</source>
+        <target>တရားဥပဒေစိုးမိုးရေး အားကောင်းလာခြင်း ;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[162]/text:list-item[0]/text:p[0]/text:span[0]"><source>Training and restructuring local police forces;</source>
-        <target>Training and restructuring local police forces;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[162]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Training and restructuring local police forces;</source>
+        <target>ဒေသခံရဲတပ်ဖွဲ့များအား လေ့ကျင့်ပေးခြင်းနှင့် ပြန်လည်ဖွဲ့စည်းခြင်း ;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[163]/text:list-item[0]/text:p[0]/text:span[0]"><source>Monitoring human rights;</source>
-        <target>Monitoring human rights;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[163]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Monitoring human rights;</source>
+        <target>လူ့အခွင့်အရေးများအား စောင့်ကြည့်စစ်ဆေးခြင်း ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1672]"><source>The importance of gender perspectives can be reinforced in high-level meetings with political parties and consultative bodies as well as through mission information activities. Peacekeeping missions need to ensure that sufficient awareness and the capacity to identify and address gender perspectives are developed among all personnel, particularly senior managers. Concrete resources–such as guidelines, checklists, training programmes and standard operating procedures to help mainstream gender perspectives into the daily work of all mission components–can raise awareness and build capacity for gender mainstreaming.</source>
         <target>The importance of gender perspectives can be reinforced in high-level meetings with political parties and consultative bodies as well as through mission information activities. Peacekeeping missions need to ensure that sufficient awareness and the capacity to identify and address gender perspectives are developed among all personnel, particularly senior managers. Concrete resources–such as guidelines, checklists, training programmes and standard operating procedures to help mainstream gender perspectives into the daily work of all mission components–can raise awareness and build capacity for gender mainstreaming.</target>
@@ -4772,23 +4772,23 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[0]/text:p[0]"><source>PCF</source>
         <target>PCF</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[1]/text:p[0]"><source>Post-conflict fund</source>
-        <target>Post-conflict fund</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[1]/text:p[0]" approved="yes"><source>Post-conflict fund</source>
+        <target>ပဋိပက္ခအလွန် ရန်ပုံငွေ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[2]/text:p[0]"><source>Quick disbursing funds for assessments, pilot projects and capacity building.</source>
-        <target>Quick disbursing funds for assessments, pilot projects and capacity building.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[2]/text:p[0]" approved="yes"><source>Quick disbursing funds for assessments, pilot projects and capacity building.</source>
+        <target>အကဲဖြတ်မှုများ၊ ရှေ့ပြေးစီမံကိန်းများနှင့် စွမ်းရည်မြှင့်တင်မှုများအတွက် လျင်မြန်စွာငွေထုတ်ပေးဝေခြင်းရန်ပုံငွေ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2658]/text:span[0]"><source>Project Documents and Supporting Documentation</source>
         <target>Project Documents and Supporting Documentation</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[0]/text:p[0]"><source>Acronym</source>
-        <target>Acronym</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[0]/text:p[0]" approved="yes"><source>Acronym</source>
+        <target>အတိုကောက်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[1]/text:p[0]"><source>Full Name</source>
-        <target>Full Name</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[1]/text:p[0]" approved="yes"><source>Full Name</source>
+        <target>နာမည်အပြည့်အစုံ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[2]/text:p[0]"><source>Description</source>
-        <target>Description</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[2]/text:p[0]" approved="yes"><source>Description</source>
+        <target>ဖော်ပြချက်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[1]/table:table-cell[0]/text:p[0]"><source>LDP</source>
         <target>LDP</target>
@@ -4802,8 +4802,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[4]/table:table-cell[0]/text:p[0]"><source>MOP</source>
         <target>MOP</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[4]/table:table-cell[1]/text:p[0]"><source>Memorandum of the President</source>
-        <target>Memorandum of the President</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[4]/table:table-cell[1]/text:p[0]" approved="yes"><source>Memorandum of the President</source>
+        <target>နိုင်ငံတော်သမ္မတ၏ စာချွန်လွှာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[4]/table:table-cell[2]/text:p[0]"><source>Equivalent document for an adjustment program.</source>
         <target>Equivalent document for an adjustment program.</target>
@@ -4826,8 +4826,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[6]/table:table-cell[2]/text:p[0]"><source>Country-based analytical and advisory services commonly used in lending operations to inform policy dialogue, develop and implement country strategies, respond to country requests and needs and provide analysis for the development community.</source>
         <target>Country-based analytical and advisory services commonly used in lending operations to inform policy dialogue, develop and implement country strategies, respond to country requests and needs and provide analysis for the development community.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[164]/text:span[0]"><source>CHAPTER XVI: RECOVERY, DEVELOPMENT AND SUSTAINABLE PEACE</source>
-        <target>CHAPTER XVI: RECOVERY, DEVELOPMENT AND SUSTAINABLE PEACE</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[164]/text:span[0]" approved="yes"><source>CHAPTER XVI: RECOVERY, DEVELOPMENT AND SUSTAINABLE PEACE</source>
+        <target>အခန်း ၁၅ : ပြန်လည်ထူထောင်ရေး၊ ဖွံ့ဖြိုးတိုးတက်ရေးနှင့် စဉ်ဆက်မပြတ် ငြိမ်းချမ်းရေး</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2665]"><source>Since the early 1990s, United Nations (UN) peacekeeping operations have been <g id="618">deployed </g>in increasingly complex conflict and post-conflict environments that have required a more flexible and multidimensional response that goes well beyond establishing a secure environment. To the extent that democratic governance is increasingly identified as forming the basis for both lasting peace and sustainable development, the international response has included support for the development of institutions that:</source>
         <target>Since the early 1990s, United Nations (UN) peacekeeping operations have been <g id="618">deployed </g>in increasingly complex conflict and post-conflict environments that have required a more flexible and multidimensional response that goes well beyond establishing a secure environment. To the extent that democratic governance is increasingly identified as forming the basis for both lasting peace and sustainable development, the international response has included support for the development of institutions that:</target>
@@ -4835,20 +4835,20 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[314]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Provide representative and accountable government;</source>
         <target>Provide representative and accountable government;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[315]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Ensure respect for human rights, particularly those of ethnic minorities, </source>
-        <target>Ensure respect for human rights, particularly those of ethnic minorities, </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[315]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Ensure respect for human rights, particularly those of ethnic minorities, </source>
+        <target>အထူးသဖြင့် တိုင်းရင်းသားလူနည်းစုများ၏ လူ့အခွင့်အရေးများအား လေးစားပါ , </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[315]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>women </source>
-        <target>women </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[315]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>women </source>
+        <target>အမျိုးသမီးများ </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[315]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>and vulnerable groups;</source>
-        <target>and vulnerable groups;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[315]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>and vulnerable groups;</source>
+        <target>ထိခိုက်လွယ်သောအုပ်စုများနှင့် ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[316]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Provide for the peaceful settlement of potentially violent disputes; and</source>
         <target>Provide for the peaceful settlement of potentially violent disputes; and</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[317]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Implement strategies for national economic and social recovery.</source>
-        <target>Implement strategies for national economic and social recovery.</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[317]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Implement strategies for national economic and social recovery.</source>
+        <target>အမျိုးသားစီးပွားရေးနှင့် လူမှုရေးပြန်လည်ထူထောင်မှုများအတွက် မဟာဗျူဟာများအား အကောင်အထည်ဖော်ပါ။</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2673]"><source>In his 2001 report on the prevention of armed conflict, the Secretary-General points out that the primary responsibility for conflict prevention lies with national governments and civil society. The main role of the UN, hence, is to support national efforts for conflict prevention and to assist Member States in building their capacities for settling disputes before they lead to violent conflict.<g id="619"><g id="620">1</g></g><g id="621"> In this context, the </g><g id="622">2002 Human Development Report </g><g id="623">issued by the United Nations Development Programme (UNDP) establishes a strong linkage between democratic governance and the ability of governments and civil society to address disputes peacefully before they escalate to violent conflict.</g></source>
         <target>In his 2001 report on the prevention of armed conflict, the Secretary-General points out that the primary responsibility for conflict prevention lies with national governments and civil society. The main role of the UN, hence, is to support national efforts for conflict prevention and to assist Member States in building their capacities for settling disputes before they lead to violent conflict.<g id="619"><g id="620">1</g></g><g id="621"> In this context, the </g><g id="622">2002 Human Development Report </g><g id="623">issued by the United Nations Development Programme (UNDP) establishes a strong linkage between democratic governance and the ability of governments and civil society to address disputes peacefully before they escalate to violent conflict.</g></target>
@@ -4859,8 +4859,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2676]/text:span[0]"><source>1</source>
         <target>1</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2676]/text:span[2]"><source>Prevention of Armed Conflict: Report of the Secretary-General</source>
-        <target>Prevention of Armed Conflict: Report of the Secretary-General</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2676]/text:span[2]" approved="yes"><source>Prevention of Armed Conflict: Report of the Secretary-General</source>
+        <target>လက်နက်ကိုင်ပဋိပက္ခများအား ကာကွယ်တားဆီးခြင်း : အတွင်းရေးမှူးချုပ်၏ အစီရင်ခံစာ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2676]/text:span[3]"><source>, 7 June 2001 (A/55/985-S/2001/574 and A/55/985/Corr.1-S/2001/574/Corr.1).</source>
         <target>, 7 June 2001 (A/55/985-S/2001/574 and A/55/985/Corr.1-S/2001/574/Corr.1).</target>
@@ -4964,11 +4964,11 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[171]/text:span[0]"><source>Conclusion</source>
         <target>Conclusion</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[32]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[32]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[33]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[33]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2738]"><source>UN country teams, led by the RC, provide a ready successor to many peacekeeping operations for activities that build sustainable peace in post-conflict situations. If properly planned, coordinated and managed, the exit strategy of a peacekeeping operation could very well constitute handing over key activities and programmes to the RC and UN country team for continued implementation. RCs can work to deepen and strengthen the short-term economic recovery that may have been established during a peacekeeping operation. With appropriate funding and political support, RCs can undertake and facilitate the long-term initiatives necessary to stabilize fragile political systems according to the principles of participation, accountability, good governance and rule of law.</source>
         <target>UN country teams, led by the RC, provide a ready successor to many peacekeeping operations for activities that build sustainable peace in post-conflict situations. If properly planned, coordinated and managed, the exit strategy of a peacekeeping operation could very well constitute handing over key activities and programmes to the RC and UN country team for continued implementation. RCs can work to deepen and strengthen the short-term economic recovery that may have been established during a peacekeeping operation. With appropriate funding and political support, RCs can undertake and facilitate the long-term initiatives necessary to stabilize fragile political systems according to the principles of participation, accountability, good governance and rule of law.</target>
@@ -5003,29 +5003,29 @@
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[28]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[34]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[34]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[35]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[35]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[36]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[36]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[40]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[40]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[41]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[41]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[42]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[42]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[43]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[43]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[44]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[44]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[45]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
@@ -5225,38 +5225,38 @@
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[183]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[184]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[184]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[185]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[185]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[186]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[186]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[187]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[187]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[188]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[188]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[190]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[190]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[191]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[191]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[192]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[192]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[193]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[193]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[194]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[194]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[195]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[195]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1195]/draw:custom-shape[0]/text:list[9]/text:list-item[0]/text:p[0]/text:span[0]"><source>Economically: police are accountable for the way they use resources allocated to them.</source>
         <target>Economically: police are accountable for the way they use resources allocated to them.</target>
@@ -6560,20 +6560,20 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[154]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Adopt a gender perspective when negotiating and implementing peace</source>
         <target>Adopt a gender perspective when negotiating and implementing peace</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[154]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>agreements;</source>
-        <target>agreements;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[154]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>agreements;</source>
+        <target>သဘောတူညီချက်များ ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[155]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Call upon parties to armed conflict to take special measures to protect women and girls from gender-based violence, particularly rape and other forms of sexual</source>
         <target>Call upon parties to armed conflict to take special measures to protect women and girls from gender-based violence, particularly rape and other forms of sexual</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[155]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>abuse;</source>
-        <target>abuse;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[155]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>abuse;</source>
+        <target>အလွဲသုံးစားပြုလုပ်ခြင်း ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[156]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Consider the different needs of women and men ex-combatants as well as the needs of their dependants when planning for disarmament, demobilization and</source>
         <target>Consider the different needs of women and men ex-combatants as well as the needs of their dependants when planning for disarmament, demobilization and</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[156]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>reintegration;</source>
-        <target>reintegration;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[156]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>reintegration;</source>
+        <target>ပြန်လည်ပေါင်းစည်းရေး ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1601]"><source>It is crucial that peacekeeping operations look at the impact their policies and activities will have on women and men in the local culture and society. For example, vocational training or other incentives to encourage disarmament, demobilization and reintegration (DDR) of former combatants may not be relevant for women if they do not take into account women’s particular skills and responsibilities, for example, as possible single mothers.</source>
         <target>It is crucial that peacekeeping operations look at the impact their policies and activities will have on women and men in the local culture and society. For example, vocational training or other incentives to encourage disarmament, demobilization and reintegration (DDR) of former combatants may not be relevant for women if they do not take into account women’s particular skills and responsibilities, for example, as possible single mothers.</target>
@@ -7763,14 +7763,14 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]"><source>HIPC</source>
         <target>HIPC</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[1]"><source>initiative</source>
-        <target>initiative</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[1]" approved="yes"><source>initiative</source>
+        <target>ပဏာမခြေလှမ်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[2]/text:p[0]"><source>reform, creditors cancel all debt above a threshold that inhibits economic growth regardless of the amount.</source>
         <target>reform, creditors cancel all debt above a threshold that inhibits economic growth regardless of the amount.</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[0]/text:p[0]"><source>Trust funds</source>
-        <target>Trust funds</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[0]/text:p[0]" approved="yes"><source>Trust funds</source>
+        <target>ယုံကြည်စိတ်ချရသော ရန်ပုံငွေများ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[0]/text:p[0]"><source>IDF</source>
         <target>IDF</target>
@@ -7793,8 +7793,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[3]/table:table-cell[1]/text:p[0]"><source>Project appraisal document</source>
         <target>Project appraisal document</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[165]/text:span[0]"><source>Introduction</source>
-        <target>Introduction</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[165]/text:span[0]" approved="yes"><source>Introduction</source>
+        <target>နိဒါန်း</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2671]"><source>Such institutions and processes constitute the central element of a lasting national capacity for conflict prevention. In a post-conflict environment, such institutions do not emerge from a limited negotiation between the primary protagonists alone, but require the development of substantive consensus among multiple stakeholders over a period of time.</source>
         <target>Such institutions and processes constitute the central element of a lasting national capacity for conflict prevention. In a post-conflict environment, such institutions do not emerge from a limited negotiation between the primary protagonists alone, but require the development of substantive consensus among multiple stakeholders over a period of time.</target>
@@ -7802,14 +7802,14 @@
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[29]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[320]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>for </source>
-        <target>for </target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[320]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]" approved="yes"><source>for </source>
+        <target>အတွက် </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[320]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>their reintegration into civilian life;</source>
-        <target>their reintegration into civilian life;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[320]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>their reintegration into civilian life;</source>
+        <target>အရပ်ဘက်ဘဝသို့ ပြန်လည်ပေါင်းစည်းခြင်း ;</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[321]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Supporting and monitoring a national electoral process;</source>
-        <target>Supporting and monitoring a national electoral process;</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[321]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]" approved="yes"><source>Supporting and monitoring a national electoral process;</source>
+        <target>အမျိုးသားအဆင့် ရွေးကောက်ပွဲဖြစ်စဉ်အား ထောက်ပံ့ခြင်းနှင့် စောင့်ကြည့်ခြင်း ;</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[322]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Monitoring human rights in the short term and supporting a national truth </source>
         <target>Monitoring human rights in the short term and supporting a national truth </target>
@@ -7817,8 +7817,8 @@
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[322]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[1]"><source>and </source>
         <target>and </target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[322]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]"><source>reconciliation process; and</source>
-        <target>reconciliation process; and</target>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[322]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[2]" approved="yes"><source>reconciliation process; and</source>
+        <target>ပြန်လည်ရင်ကြားစေ့ရေးလုပ်ငန်းစဉ် ; နှင့်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[323]/text:list-item[0]/text:list[0]/text:list-item[0]/text:p[0]/text:span[0]"><source>Assisting in the establishment of institutions of good governance and rule of </source>
         <target>Assisting in the establishment of institutions of good governance and rule of </target>
@@ -7892,14 +7892,14 @@
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[27]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[37]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[37]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[38]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[38]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[39]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[39]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[48]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
@@ -8120,47 +8120,47 @@
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[181]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[189]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[189]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ် လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[196]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[197]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[198]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[199]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[200]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ၏ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များအတွက် လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[201]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[202]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[203]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[204]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[205]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[206]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[207]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[196]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[197]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[198]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[199]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[200]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[201]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[202]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[203]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[204]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[205]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[206]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[207]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
-      </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[208]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[208]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[209]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
@@ -8174,8 +8174,8 @@
       <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[212]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
         <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းမှုလုပ်ငန်းစဥ်အတွက် လက်စွဲစာအုပ်</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[213]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
-        <target>Handbook on UN Multidimensional Peacekeeping Operations</target>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[213]/style:header[0]/text:p[0]/draw:custom-shape[0]/text:p[0]/text:span[0]" approved="yes"><source>Handbook on UN Multidimensional Peacekeeping Operations</source>
+        <target>ကုလသမဂ္ဂ ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်များ လက်စွဲစာအုပ်</target>
       </trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[237]" approved="yes"><source>Secretary-General (SRSG) provides, in addition to his or her other responsibilities, overall coordination for the UN funds and programmes working in the mission area.</source>
         <target>အတွင်းရေးမှူးချုပ် (SRSG) သည် ၎င်း၏တာ၀န်များအပြင် ကုလသမဂ္ဂရန်ပုံငွေနှင့် မစ်ရှင်နယ်မြေအတွင်းလုပ်ဆောင်နေသောအစီအစဉ်များအတွက်ပါ အလုံးစုံညှိနှိုင်းဆောင်ရွက်ပေးသည်။</target>
